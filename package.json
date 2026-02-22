@@ -1,0 +1,14 @@
+{
+  "name": "dailystar-opinion-feed",
+  "version": "1.0.0",
+  "description": "RSS feed generator for The Daily Star Opinion section",
+  "main": "generate-rss.js",
+  "scripts": {
+    "start": "node generate-rss.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.0",
+    "cheerio": "^1.0.0-rc.12",
+    "rss": "^1.2.2"
+  }
+}
