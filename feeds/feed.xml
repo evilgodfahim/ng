@@ -4,9 +4,9 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Feb 2026 04:44:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Feb 2026 05:02:36 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 23 Feb 2026 04:44:34 GMT</pubDate>
+        <pubDate>Mon, 23 Feb 2026 05:02:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[The Risks of Replacing Human Subjects With NPCs]]></title>
@@ -1487,6 +1487,788 @@
             <dc:creator><![CDATA[Paul J Dunion Ed.D.]]></dc:creator>
             <pubDate>Sat, 21 Feb 2026 00:00:00 GMT</pubDate>
             <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-02/mathieu-gauzy-ItsEF1_h3KQ-unsplash.jpg?itok=299iEB8W" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[AI Can Help Solve the Reading Achievement Gap]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-08/Coral%20PS%20Hoh.png.jpg?itok=ofjeER8q" alt="Coral PS Hoh" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">AI Can Help Solve the Reading Achievement Gap</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">There is a persistent racial gap in reading achievement. But AI can help close it.</h2><p style="font-size:0.9em;color:#666;">Posted February 21, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">The reading achievement gap is actually an opportunity gap that AI can close.</li><li style="margin-bottom:6px;">Custom-built AI can ensure objectivity that learners value in evaluation and intervention.</li><li style="margin-bottom:6px;">Economical, scalable AI removes the dependency between expensive resources and student performance.</li><li style="margin-bottom:6px;">AI enables the individualization of general and special education.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-02/Aaliyah%20Williams.jpg?itok=Phrtnxuu" width="320" height="307" data-insert-type="image" alt="Aaliyah Williams, Hartwick College, was an early adopter of an AI intervention to clear her reading difficulty in fifth grade." title="Aaliyah Williams"></div>
+<div class="caption">Aaliyah Williams, Hartwick College, was an early adopter of an AI intervention to clear her reading difficulty in fifth grade.</div>
+<div class="insertArea--origin subtext">Source: Aaliyah Williams</div>
+</div>
+</div>
+</div>
+<p>During this Black History Month, let us attend for a moment to the reading achievement gap, as it affects all of us regardless of race. Here's why. Lack of literacy is linked to some of the biggest and costliest problems in society: spiralling special education spending, school dropouts, juvenile delinquency, incarceration, poverty, and mental health (NSBA, 2019; Vacca, 2008; Vacca, 2004; Nelson &amp; Gregg, 2012). We all pay for these problems, at the very least in taxes.</p>
+
+<h2>We Spend Over $120 Billion Yearly on Special Education</h2>
+<p>Reading difficulty, or dyslexia, is classified as a learning disability in special education. Taking up about a third of special ed, dyslexia is the biggest category. As a nation, we spend over $120 billion a year on special ed (NCLD, 2023). The bulk of it comes from our local school taxes.</p>
+
+<p>What is the yield on our yearly investment? Students with dyslexia still read below grade level. They<a href="https://www.psychologytoday.com/us/blog/unlocking-language/202411/the-high-cost-of-learning-disabilities-for-college-students"> drop out of high school</a> at more than twice the typical rate (NSBA, 2019). Only 5 percent of them go to college, compared to 60 percent of their typical peers (Anthony, 2021). This impacts lifetime earnings, as their peers with college degrees earn about $1 million more than high school diploma holders.</p>
+
+<h2>70 Percent of Students Are Not Reading-Proficient</h2>
+<p>But the literacy problem is not confined to the 20 percent who have dyslexia (Yale Center for Dyslexia, 2022). According to the Nation's Report Card, around 70 percent of students now fail to meet reading standards in some states, including New York and Georgia. While approximately 40 percent of white readers are proficient, less than 20 percent of Black readers are (NCES, 2025).</p>
+
+<h2>The Literacy Link: Juvenile Delinquency and Incarceration</h2>
+<p>In the field of criminal justice, poor literacy skills are recognized factors of crime (Vacca, 2008). The Department of Justice associates juvenile delinquency with low reading ability (Brunner, 1993). African American youths are overrepresented in this system. Half of prison inmates cannot read or write. The National Institute for Literacy reports that nearly half of adults with the lowest literacy skills live in poverty, most with no full- or part-time employment.</p>
+
+<p>The words of a 68-year-old inmate at the California Correctional Institution capture the human and societal cost of these systemic problems. David wrote to our firm when he heard a <a href="https://www.nbcnews.com/nightly-news/video/a-i-revolution-how-artificial-intelligence-is-helping-children-with-dyslexia-227631173993">news report </a>about Dysolve, our AI expert system that resolves dyslexia. He had been incarcerated for eight years.</p>
+<p>"Like many inmates here in prison, I didn't get my diploma from high school do [sic] to my learning disability of dyslexia...The one quote I have heard many times [at school] and can't stand hearing is 'Not trying hard enough.' Plus all of the other quotes [being labeled lazy, dumb, careless, immature] are really hard on a kid's self-esteem."</p>
+
+<p>When it comes to literacy, every aspect of a citizen's life is affected, from the academic, legal, and economic to the psycho-social.</p>
+<h2>AI Drives Transformational Change for Endemic Problems</h2>
+<p>But during this particular Black History Month, we can go beyond mere reminders of these endemic, systemic problems. We are at the beginning of an AI revolution that is transforming many fields all at once. The reading problem is not immune.</p>
+
+<p>In my previous post, "<a href="https://www.psychologytoday.com/us/blog/unlocking-language/202511/ai-beat-reading-interventions-in-clinical-trial">AI Beat Reading Interventions in Clinical Trial</a>," I mentioned that our expert system managed to break a long-standing barrier: clearing reading difficulty in students after third grade. With other interventions, reading research shows that older struggling readers will continue to struggle throughout school regardless (Elliott &amp; Grigorenko, 2014).</p>
+
+<p>The <a href="https://www.cresp.udel.edu/publication/dysolve-rct-results/">Dysolve clinical trial</a>, a randomized controlled trial, is noteworthy because participation was primarily from the group that has often been left out of screening, funding, and research. Approximately 80 percent of the trial's participants were minority from low-income communities. They were in grades 3 through 8, performing at the 10th percentile on average in state and school standardized reading assessments pre-intervention (May &amp; Van Horne, 2025).</p>
+
+
+
+  
+
+
+<h2>Implications of the First AI Educational Intervention Trial</h2>
+<p>That the trial produced a positive effect in this population has several implications:</p>
+<ul>
+<li><strong>The debate over poor vs. dyslexic readers becomes moot.</strong> This computer system is focused only on clearing language processing difficulties that hinder reading development, not on how they came to be. Previously, some quarters wanted to differentiate between reading difficulty caused by poor learning environments vs. genetics or neurology. A neuropsychological evaluation to get a diagnosis costs $5K to 10K per person. A dyslexia diagnosis thus becomes an economic, not a clinical, issue. To the AI system, however, the label does not matter.</li>
+<li><strong>AI-powered intervention is nonjudgmental.</strong> This synthetic expert cannot see the student. It cannot use the multitude of clues from physical appearance, demeanor, etc., to form impressions about this person that may bias evaluation results. For this reason, some struggling learners, especially older ones, prefer dealing with a computer program to human specialists.</li>
+<li><strong>AI severs the relationship between results and resources.</strong> Previously, low-income districts showed poorer results due to scarce resources for high-quality teachers, teacher training, and instructional materials. The point of well-designed AI is to solve the problem of scalability, cost, and outcomes. The Dysolve trial occurred during the COVID pandemic, when schools were scrambling to find any teacher, or any paraprofessional, to supervise classrooms—similar to what is still happening in struggling districts presently. The AI technology is designed to work even under these trying circumstances, yielding a positive impact in the trial.</li>
+</ul>
+
+<p>Challenging settings require an autonomous plug-and-play program. The supervising adult's role is simply to put the child in front of a computer or tablet and let the AI expert do its work. Dysolve AI presents interactive game activities tailored to that student's particular learning problems, continuously on demand. What underfunded districts cannot afford is paying $10K to train each teacher and $10K to 20K for each special ed pupil a year indefinitely due to ineffective methods. An efficacious AI solution is thus also an economic solution.</p>
+
+<h2>Individualization of Education Levels the Playing Field</h2>
+<p>This AI innovation is a precursor to the individualization of education. Each student gets an individualized program specific to their strengths and weaknesses. We are beginning to see its impact on struggling learners who are motivated to seize the opportunity. When they do, they are empowered to change their own developmental trajectory.</p>
+
+<p>Jesseme Lynch from North Carolina explained how his reading difficulty affected his self-esteem in third grade: "It kind of made me feel disappointed in myself because I couldn't read the words like everybody else." Three months later, his attitude changed along with academic improvement: "After Dysolve, I can tell what the words meant, and I could get good scores."</p>
+
+<p>Aaliyah Williams struggled to keep up with her classmates in learning and understanding subject matter in fifth grade: "I had a hard time comprehending books and had a significantly lower reading level than where I should have been." After the AI intervention, Aaliyah read on-grade. By her senior year of high school, she took a college-level English course and subsequently thrived in college.</p>
+
+<p>Cases such as Jesseme's and Aaliyah's remind us that the reading achievement gap is really an opportunity gap. When we are able to give these children the opportunity to excel, they often do.</p>
+<p>Now that's worth celebrating during this Black History Month. </p>
+<p>My next post will be about an 88-year-old civil rights activist with dyslexia who is using his own positive experience with the AI program to advocate for others. Stay tuned.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/unlocking-language/202602/ai-can-help-solve-the-reading-achievement-gap" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/unlocking-language/202602/ai-can-help-solve-the-reading-achievement-gap</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/unlocking-language/202602/ai-can-help-solve-the-reading-achievement-gap</guid>
+            <dc:creator><![CDATA[Coral PS Hoh Ph.D.]]></dc:creator>
+            <pubDate>Sat, 21 Feb 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-02/bigstock-Outdoor-Portrait-Of-A-Cute-You-45302887.jpg?itok=SiPhkyNv" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Misperceiving What's Attainable Aids Maladaptive Daydreaming]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-05/Leon-Garber.jpg?itok=SCVGgFWd" alt="Leon Garber LMHC" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Fantasies</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Misperceiving What's Attainable Aids Maladaptive Daydreaming</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Challenging your beliefs about your ideal life can help you live your real one.</h2><p style="font-size:0.9em;color:#666;">Posted February 21, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Maladaptive Daydreaming is supported by the conviction that one's fantasies are forthcoming.</li><li style="margin-bottom:6px;">The related fantasies leave out the discomforts of one's sought after existence.</li><li style="margin-bottom:6px;">Challenging the cognitive distortions of our hopes and dreams can help us make more meaningful choices.</li>
+            </ul>
+          </div>
+                    <p>People with obsessive-compulsive tendencies tend to struggle immensely with decision-making. Outsiders looking in wonder why common choices, like where to work or whom to marry, are so challenging for them. Worsening the problem is the proclivity toward maladaptive daydreaming, spending hours on end fantasizing about ideal scenarios. Often, these imagined scenarios don’t even entail the full scope of what would be expected were they to exist. A person who dreams of becoming a singer might only focus on the parts they like, like singing in a big arena, while leaving out the fatigue, the bad reviews, the deadlines, the anxiety of being on stage, and the physical symptoms that accompany it.</p>
+
+<p>For those with vivid imaginations and convictions about what’s possible, maladaptive daydreaming serves not only as a place of respite; it’s also a reminder of what’s to come. The fantasies are as powerful as they are because the individual engaged in them sincerely believes them to be harbingers, merely necessitating patience. It’s a misconception that people who engage in maladaptive daydreaming do so because they prefer fantasy to reality—in reality, they prefer it momentarily, and only if it represents what’s to come. The fantasies are fueled by a mix of naivety, grandiosity, low distress tolerance, resentment, greed, and wishful thinking. Sometimes, there’s little sense of how the world works; at others is the belief that one can and will be the exception to it.</p>
+
+<p>Treatment for maladaptive daydreaming is challenging due to the emotional pull and payoffs of it; one essentially tends to use it as their main mechanism of self-soothing. And, even worse, they just as often fail to account for future regrets because they believe they will, at some distant time and for hitherto unknown reasons, make their dreams come true. Our culture may easily support this form of escapism. Dating apps present myriad options, which make you feel like you can craft your love life with precision. So, when you encounter a problem, which obviously conflicts with fantasy, you’re able to give yourself permission to move on—your dream life feels like a swipe away. That also applies to one’s career, where hardships, including difficult conversations with management, can be avoided if you believe yourself to be the belle of the ball, under-appreciated and unseen.</p>
+
+<p>Looksmaxxing is another instance of this, where lonesome boys fantasize about a charmed life stemming from beauty. These individuals strongly believe that beauty equals clout, leading to the fulfillment of all of one’s desires, a world wherein one is never told no. The fantasies of maladaptive daydreaming are supported by several distorted thinking patterns. The looksmaxxer, for example, over-generalizes, believing that beauty’s outsized influence must imply a pleasure-filled and painless existence. And this can apply to all forms of maladaptive dreaming, where some life outcome is idealized. Here, we encounter naivety. The daydreamer engages in black and white thinking, dividing up the world between winners and losers, conceiving of their fantasy as a reward for attaining high status.</p>
+
+<p>And the perception of the winner’s circle is supported by mental filtering, the process of fixating on either the negative or positive aspects of some experience, in this case, the positive. So, returning to our example of the singer, mental filtering removes all of the discomforts of singing on stage, including the less-than-stellar circumstances of a musician’s career. Additionally, we have mind-reading, where the fantasy entails a vision of universal and untarnished love, even if only from several important individuals. Lastly, there’s fortune-telling, through which the daydreamer remains certain their patience will pay off. And all of this is supported by the kernels of truth in their beliefs. Beauty does increase your influence. You may be happier in a different job. Another romantic partner might be a better fit.</p>
+
+<p>The problem isn’t in wanting more; it’s with wanting everything. So, to address maladaptive daydreaming, one has to initially acknowledge the possibility that their perspectives of the world and their life might be as problematic as their circumstances. Is your perception of your life as distorted as your beliefs about your future? Through black and white thinking, we tend to sharply devalue what we have and what we’ve accomplished while overvaluing what we don’t. Therefore, it may help to view your life through a clear lens, challenging your distorted thoughts about it. Are you unlikable? Are you unfairly devaluing your romantic prospects, even doing so because you fear letting them down? Do you ever enjoy time spent with people who already like you, who don’t need you to perform?</p>
+
+<p>It may also help to read the biographies of people you admire. (I recommend <a href="https://www.instagram.com/reel/DVBOo7XAL55/">watching</a> Dani Evans discuss life after winning America’s Next Top Model.) Fame, beauty, brilliance, etc… hardly ever lead to ideal lives. There’s often a fundamental sense of disappointment, which can easily catalyze more fantasies. None of these attributes are bad in and of themselves, but it helps to be honest with yourself about what they can and can’t do for you. <br><br>The 90’s movie <em>Mr. Destiny</em> teaches us this lesson. Jim Belushi, after being granted his ideal life, realizes that he preferred what he already had, thanking the angel for showing him everything, “both the good and the bad.” In a pivotal scene, he’s shown painting a model, luxury car, which he tells his dream wife that he prefers over the real thing, which he has. Before the transformation, he spent his weekends, in part, painting model, luxury vehicles—the comfort of which was the foundation of sustained joy. Realizing the fantasy is always better than the reality, paradoxically, extinguishes the fantasy’s power; it’s only grand when it feels attainable. But all of this doesn’t mean that we shouldn’t strive; only that we shouldn’t lose ourselves in desire.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/perfectionism/202602/misperceiving-whats-attainable-aids-maladaptive-daydreaming" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/perfectionism/202602/misperceiving-whats-attainable-aids-maladaptive-daydreaming</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/perfectionism/202602/misperceiving-whats-attainable-aids-maladaptive-daydreaming</guid>
+            <dc:creator><![CDATA[Leon Garber LMHC]]></dc:creator>
+            <pubDate>Sat, 21 Feb 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-02/tylijura-girl-9991188_1920.jpg?itok=DTfIhfyu" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[How Would Your Life Change if You Didn’t Seek Approval?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/untitled_2_0.jpg?itok=sNYHTgsC" alt="Robert Taibbi L.C.S.W." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Fear</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">How Would Your Life Change if You Didn’t Seek Approval?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">It’s not about being insensitive to others, but building your own life.</h2><p style="font-size:0.9em;color:#666;">Posted February 21, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Building our lives around the approval of others keeps us from truly living our own.</li><li style="margin-bottom:6px;">It is the fear of others' reactions that holds us back. Breaking out is about approaching our anxiety.</li><li style="margin-bottom:6px;">The key is recognizing when our fear has taken over & challenging ourseives to step outside our comfort zone.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-02/businessman-2879470_1280.jpg?itok=R-CMInAG" width="320" height="212" data-insert-type="image" title="Goumbik/pixabay" alt="Goumbik/pixabay"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Goumbik/pixabay</div>
+</div>
+</div>
+</div>
+<p>Of course, there are narcissists who seek as much recognition and approval from others as they can, but that’s not usually who I see in my practice. Instead, it’s the more average Joe or Jane who struggles not because they crave power, but because they're afraid of conflict and upsetting others. They feel stressed and pulled by wanting acceptance and approval from too many masters. And they’re tired of shaping their lives around others—essentially living <em>their</em> lives to fulfill <em>others'</em> needs and expectations rather than their own. They know what they’re doing; they just don’t know how to stop. This is their Achilles’ heel.</p>
+
+<p>What keeps them from stopping is not only habit and autopilot but also fear of what might happen if they stop accommodating others. If you’re feeling the same, here are several questions to help you break free:</p>
+<h2>#1: How would your life change in a positive way if you stopped worrying about others’ approval?</h2>
+
+<p>Can you imagine being free from the anxiety of constantly wondering what others might think? What would you do differently than you're doing now? How would you feel in your everyday life?</p>
+<h2>#2: What do you fear?</h2>
+<p>Maybe you naturally assume the worst: that others will be disappointed, push back, criticize, or get angry. The confrontation you learned long ago to avoid will now come up again.</p>
+
+<p>Or, maybe something else—fear rejection and possible loss—that your connection to others is tethered by your willingness to accommodate; once you give that up, they will pull away, leaving you alone. Or, perhaps you worry that you could swing too far to the other side, changing who you are, replacing walking on eggshells with selfishness, becoming that narcissist who tosses empathy aside and only cares about themselves.</p>
+
+<p>Your fears and beliefs are what have kept you doing what you do. Once you’re aware of them, you can change them.</p>
+<h2>#3: What if the worst-case actually happens?</h2>
+<p>One way to manage anxiety is by learning to reduce it. However, sometimes the cause is real, and the best solution is to have a plan so you can mentally set it aside rather than constantly obsess over it.</p>
+
+<p>Okay, so what if the worst-case scenario happens? Maybe your supervisor gets angry because you complained about the new work schedule, or you get fired because you can’t adjust to it. Or, you confront your partner about their credit card spending or drinking, and not only do they explode, but you also get divorced. Or, maybe your best friend says, 'I don’t know what’s come over you,' and ends the relationship.</p>
+
+<h2>#4: Are you able to survive? Can you imagine what your next move might be?</h2>
+<p>This is the time to replace your emotional brain with your rational one. Yes, you have skills and could find another job. Divorce will be a tough transition for a couple of years; you’re a sensitive parent and must make sure your kids get the support and care they might need. Having learned the lessons of your marriage, maybe you’ll find someone new who’s a better fit. And if your best friend walks away, you’ll mourn the loss, but you know you're capable of forming new friendships.</p>
+
+
+<h2>Moving forward.</h2>
+<p>But what if I can’t, you say—find another job, relationship, or friend? This isn't about personality or circumstances but about learning skills. Again, here's a suggestion:</p>
+<h2>Practice approaching what you’ve been avoiding.</h2>
+<p>Fear controls you; it/s what fuels the “I can’t”. It's time to push back by learning to endure strong negative emotions; raising your tolerance involves taking small, manageable steps outside your comfort zone.</p>
+
+<p>So, when you get the wrong change at Starbucks or your partner leaves her clothes scattered around the bedroom again, and your instinct is to let it go, don’t. Go back and show the Starbucks worker your receipt. Say something to your partner about her scattered clothes, even if it takes you three days to get up the courage to do so. And if talking about it feels too challenging, write a note and leave it on the kitchen counter.</p>
+
+
+
+  
+
+
+<h2>Upgrade the script and skills.</h2>
+<p>Seeking approval is a habit learned long ago as a way to cope with others. As a child, you had limited options and did the best you could, but now it’s time to do what you couldn’t then. The challenge is to become less afraid by learning new skills, stepping outside your comfort zone, taking risks, and discovering that what you expect to happen often doesn’t. </p>
+
+<p dir="ltr"><em>To find a therapist near you, visit the </em><a href="https://www.psychologytoday.com/us/therapists"><em>Psychology Today Therapy Directory</em></a><em>.</em></p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/fixing-families/202602/how-would-your-life-change-if-you-didnt-seek-approval" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/fixing-families/202602/how-would-your-life-change-if-you-didnt-seek-approval</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/fixing-families/202602/how-would-your-life-change-if-you-didnt-seek-approval</guid>
+            <dc:creator><![CDATA[Robert Taibbi L.C.S.W.]]></dc:creator>
+            <pubDate>Sat, 21 Feb 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-02/businessman-2879470_1280.jpg?itok=HZuZS0Tr" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Reclaiming the Playful Self]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/Scott-Eberle.jpg?itok=LKAwfeht" alt="Scott G. Eberle Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Play</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Reclaiming the Playful Self</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Looking for autonomy and joy in serious play.</h2><p style="font-size:0.9em;color:#666;">Posted February 21, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">A quarter-life crisis can come early for Olympic hopefuls.</li><li style="margin-bottom:6px;">Alysa Liu, figure-skating prodigy, needed to find both joy and autonomy on her path to Olympic gold.</li><li style="margin-bottom:6px;">While competition can elbow out play, play can be reclaimed.</li>
+            </ul>
+          </div>
+                    <p>Here is a question that invites an obvious answer: Is play playful? Playfulness seems part and parcel of play.</p>
+<p>But hang on. Call to mind sedentary, intensely engrossed grandmasters welded to their checkered boards at a tournament. They go off their feed. They sweat buckets. They lose 10 pounds or more as they play their intricate, drawn-out mental game. Exhausted, stressed, win or lose, they withdraw after a match to a soak in warmed, bentonite clay, Slavic lullabies playing on the spa speakers.</p>
+
+<p>In the electronic games universe, some of the multiplayer contests are so demanding in their detail, so complex in their character relations and retaliations, and so entwined with fantasy physics that need mastering, that high-level players will lose themselves in the contests that come to seem more work-like than play-like. It’s a second job, some will say, ruefully.</p>
+
+<p>Or, traditionally, consider golf. Some adepts will become poised during a round, entering a deep, rewarding, flow-like state. The force is with them. Not seldom in fact, though, everyday duffers will cuss at an off-fairway lie or sputter as they hack away once trapped in sand. <em>Golf</em>…</p>
+<h2>Finding the Playfulness in Play</h2>
+
+<p>Even among those who make a living at play, professionals in high-stakes games, playfulness will sometimes poke through. The Buffalo Bills' number 17, quarterback Josh Allen, who is playing a serious and dangerous game, is so happy at the prospect of a goal line that he will jump over an opposing linebacker. He’s big. He’s fast. He’s gleeful.</p>
+
+<p>Or Muhammad Ali, who was a wiseacre even in the punishing ring— “Is that all you got, Chump?”—was even more dismissive of reporters’ tendentious, tedious questioning. After joining the Nation of Islam, a Black nationalist religious movement, he took heat from the mainstream. Smirking reporters would ask about the prospect of multiple wives, theoretically permissible. Counterpunching, Ali would say he wanted four: one to shine his shoes, one to rub oil on his muscles, one to peel him grapes, and “one named Peaches.”</p>
+
+<p>Or this episode: Casey Stengel, the longtime baseball manager famous for evasive, strategic gobbledygoop—“Stengelese”— replying bewilderingly to a senator’s question in a congressional antitrust hearing, asked, “How could you transfer a ball club when you do not have a highway? How could you transfer a ball club when the railroads would take you to a town and you got off, and then you had to wait and sit up five hours to go to another ball club?” Professional baseball, claiming its business was a natural monopoly for public benefit, had sought an exemption. Mickey Mantle, the Yankees slugger, followed Stengel on the stand. Senator Kefauver, the chair, asked him if he had any “observations with reference to the antitrust laws to baseball?” Mantle replied, “My views are about the same as Casey’s.”</p>
+
+<h2>Playfulness at Olympian Heights</h2>
+<p>This year’s Winter Olympic Games, dominated by the spirit of long dedication and sacrifice, grit in the teeth of nearby grievous injury, mastery of ice and snow and gravity-defying grace, have turned up an exception, a truly playful champion.</p>
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-02/Alysa_LIUAsatur_Yesayants_-_YantsImages_8309_(cropped)_0.jpg?itok=3D40wtRe" width="320" height="479" data-insert-type="image" alt="Gleeful gold-medalist Alysa Liu during the Women’s Single Skating Free Skating ceremony, Milan (February 2026)." title="Yants Images via Wikimedia/CC BY-SA 4.0"></div>
+<div class="caption">Gleeful gold-medalist Alysa Liu during the Women’s Single Skating Free Skating ceremony, Milan (February 2026).</div>
+<div class="insertArea--origin subtext">Source: Yants Images via Wikimedia/CC BY-SA 4.0</div>
+</div>
+</div>
+</div>
+<p>Alysa Liu, a figure skater of surpassing brilliance and joy, who took the gold medal in women’s singles figure skating at Cortina in 2026, was not always so apparently carefree.</p>
+<p>Her career began at age 5 and a half when she began training with a choreographer. At age 13, she became the youngest women’s national title-holder and followed with similar victories a year later. She could routinely land triple and quadruple jumps and Axels, not long beforehand thought impossible (or unthinkable) for either men or women in an era when figure skating was “ice dancing” and seemingly more suited to a ballroom than a rink.</p>
+
+<h2>Pursued by Spies and Pursuing Greatness</h2>
+<p>Urged on by her father, a political refugee from the People's Republic of China, Liu racked up an impressive string of victories at regional, national, international, and world competitions. Her promise attracted the attention of the Chinese government under provisions of its “right of blood” laws, which can consider the children of migrants Chinese citizens, despite their place of birth, in this case, the United States.</p>
+
+<p>Chinese spies targeted her father, Arthur Liu, for his human rights views, seeking leverage to recruit Alysa for their “naturalization project” that meant to intimidate foreign-born athletes of Chinese ancestry into representing China in the 2022 Beijing Olympics. Instead, she competed for the U.S. team and placed eighth in the women’s short program, an impressive Olympic debut.</p>
+
+
+
+  
+
+
+<p>But after 15 years of training regimen, Alysa Liu had had it. A team of coaches, parents, media consultants, costume designers, nutritionists, and sports psychologists had told her how to train, what to say, what to wear, what to eat, and how to feel. When they said jump, she asked how high.</p>
+<p>“Skating takes up your whole life, almost,” she wrote on Instagram. Competition had elbowed out the pleasure she might have taken in mastery. Goals fulfilled, bored, weary of micromanagement, feeling restless and worn out, her life had been “a blur,” she said.</p>
+
+<h2>A Hero’s Journey</h2>
+<p>Liu’s trajectory fits so perfectly the course of the classic hero’s journey—challenge, separation, rumination, and return—that it might have been scripted by screenwriters. In a quest to find an authentic, joyful self, she emerged from psychological exile transformed.</p>
+<p>Reshuffling her staff, distancing herself from her father’s coaching, determined to train her own way, crafting a new exuberant style, she took her career in hand.</p>
+
+<p>For its aspiring stars, the sport had cultivated the looks of princesses, dazzling but prim despite their athleticism, their gazes distant, preoccupied. The new Liu reappeared with a bit of grunge, hair striped playfully like a Disney meerkat, ponytail twirling, the outward sign of inward glee.</p>
+<p>When she took the ice in a stellar gold-medal comeback, making the unthinkable look easy, Liu was smiling.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/play-in-mind/202602/finding-the-playful-self-at-play" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/play-in-mind/202602/finding-the-playful-self-at-play</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/play-in-mind/202602/finding-the-playful-self-at-play</guid>
+            <dc:creator><![CDATA[Scott G. Eberle Ph.D.]]></dc:creator>
+            <pubDate>Sat, 21 Feb 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-02/Alysa_LIUAsatur_Yesayants_-_YantsImages_8309_%28cropped%29_0.jpg?itok=fd2sZRDB" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Imagining From Multiple Perspectives]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/Laura-Otis-SCALED.jpg?itok=VCPmgUBF" alt="Laura Otis Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Imagination</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Imagining From Multiple Perspectives</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Fiction-writers can cue your senses to share several viewpoints at once.</h2><p style="font-size:0.9em;color:#666;">Posted February 21, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Skilled fiction-writers can guide readers to imagine from multiple perspectives at once.</li><li style="margin-bottom:6px;">Combined visual and somatosensory cues can show simultaneously what one character sees and another feels.</li><li style="margin-bottom:6px;">Identifying with characters engages readers, but readers can imagine things protagonists can't perceive.</li><li style="margin-bottom:6px;">Fiction-reading can develop much-needed skills to imagine situations from multiple viewpoints.</li>
+            </ul>
+          </div>
+                    <p>Have you ever been called a pig? Insults can push us to imagine. When you were compared to a grunting animal, did you experimentally plant your mind in a pig’s body? Or did you maybe picture a snout emerging on the person trying to hurt you?</p>
+<p>Skilled fiction-writers can guide the imagination, cuing readers to use their senses so that they fantasize more richly than they could alone (Scarry 1999, 3-9). If it serves a storyteller’s artistic aims, a writer can prompt readers to imagine a scene from several perspectives at once. Creative writers can accomplish this goal by blending appeals to readers’ visual and somatosensory (bodily) senses.</p>
+
+<p>Madeline Miller’s novel <em>Circe</em> is all about point of view. In Greek mythology, Circe has a bad reputation—because readers know her from Homer’s <em>Odyssey</em> as a love-hungry witch who turns men to pigs. As an expert on ancient Greek culture, Miller uses literary craft to let Circe tell her own story.</p>
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-02/KallernaFinnishPigFarm31.07.2021WikimediaCommons.jpg?itok=nnYicX3n" width="320" height="240" data-insert-type="image" alt="A Finnish Pig Farm" title="kallerna, Pig Farm in Vampula, Finland, 31 July 2021, Wikimedia Commons, Creative Commons Attribution-Share Alike International License"></div>
+<div class="caption">A Finnish Pig Farm</div>
+<div class="insertArea--origin subtext">Source: kallerna, Pig Farm in Vampula, Finland, 31 July 2021, Wikimedia Commons, Creative Commons Attribution-Share Alike International License</div>
+</div>
+</div>
+</div>
+<p>Daughter of the sun god Helios and the ocean nymph Perse, Circe is scorned by her divine relatives, then exiled to an island for using her powers. She learns that she has a knack for transformation and can use herbs and incantations to “turn creatures to their truest selves” (Miller 63). On her island, she feeds a lost, hungry captain and his crew (not Odysseus and his men, who arrive later), but she uses her powers against them after the captain rapes her.</p>
+
+<p>From Circe’s perspective, Miller describes the rapist’s transformation, guiding readers to imagine what she hears and sees:</p>
+<p>"His rib cage cracked and began to bulge. I heard the sound of flesh rupturing wetly, the pops of breaking bone. His nose ballooned from his face, and his legs shriveled like a fly sucked by a spider. He fell to all fours. He screamed, and his men screamed with him. It went on for a long time" (Miller 196).</p>
+
+<p>As Miller conveys what Circe sees and hears, her evocative words encourage readers to imagine how these changes might feel in their own bodies. Human somatosensory modalities include proprioception (detection of bodily position and movement), interoception (detection of internal organs’ states), and pain and temperature detection as well as surface touch. Words like “bulge,” “rupturing,” “ballooned,” and “shriveled” seem crafted to engage readers’ visual <em>and</em> somatosensory systems, enabling them to imagine the suffering witch and her attacker at once.</p>
+
+<p>Psychological studies of reading indicate that feeling immersed in a story often depends on imagining characters’ sensations and actions. Moniek M. Kuijpers and David S. Miall asked readers to report their bodily feelings while reading stories and observed “a positive correlation between absorption and the experience of bodily feeling,” especially in the head, stomach, and chest (Kuijpers &amp; Miall 2011). In the human-to-pig conversion, Miller encourages gut-level imagining by targeting the chest, face, and legs. A recent interview study with fiction-readers has also shown that “self-character comparison is an important component in highly absorbed narrative experiences” (Kuzmičová &amp; Balint 2019, 430). But whose feelings do writers’ words help readers to share? Imagination evoked by literature can run far beyond the protagonist.</p>
+
+<p>Cognitive literary scholar (and fellow <em>PT</em> contributor) <a href="https://www.psychologytoday.com/us/contributors/emily-t-troscianko">Emily T. Troscianko</a> sees readers’ imagination as “a form of ongoing exploration” (Troscianko 2013, 185). In a story, language associated with <em>any</em> of the characters or narrator can set off this exploration (Troscianko 2014, 2). </p>
+<p>In an experiment, Troscianko asked readers to draw what they experienced internally while reading the opening of Franz Kafka’s novel, <em>The Castle</em>. The participants tended to “elaborate imaginatively to some extent beyond the text given,” since in the snowy darkness, the protagonist K can’t see the castle he’s approaching (Troscianko 2014, 109). The readers drew the castle anyway. Often, “relatable” protagonists imagine beyond their perceptions, which helps explain Troscianko’s finding. Perhaps, sensing K's imagination at work, the readers imagined along with him. Writing a good story involves crafting signs of an active, observant mind, one that imagines what it can’t know based on what its senses are saying.</p>
+
+<p>In this time of political division, the ability to imagine a situation from multiple perspectives has immense social value. Miller’s skill at creating complex situations and characters invites readers to sense how the abuse of power can alter many different lives. Homer never told his listeners that years before Odysseus reached Circe’s island, Circe “felt [a] man tremble” as he raped her, crushing her throat so that she couldn’t scream (Miller 195). Miller guides readers to imagine a witch sensing, relishing, and maybe already regretting her revenge in the moment of its enactment. Miller’s writing motivates readers to imagine feelings experienced by others based on what little they can perceive.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/rethinking-thought/202602/imagining-from-multiple-perspectives" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/rethinking-thought/202602/imagining-from-multiple-perspectives</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/rethinking-thought/202602/imagining-from-multiple-perspectives</guid>
+            <dc:creator><![CDATA[Laura C. Otis Ph.D.]]></dc:creator>
+            <pubDate>Sat, 21 Feb 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-02/KallernaFinnishPigFarm31.07.2021WikimediaCommons.jpg?itok=NMrxgwak" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Way to a Healthy Mind]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/de_vleeschauwer-final.png.jpg?itok=Tyo1pVfJ" alt="Patrick De Vleeschauwer Drs." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Wisdom</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Way to a Healthy Mind</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Seeing beyond the deep wound of our inner struggle.</h2><p style="font-size:0.9em;color:#666;">Posted February 21, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Our paradoxical psychology can be seen as the heartbeat of the human mind.</li><li style="margin-bottom:6px;">Humans are beings of tension who live between contractive and expansive forces.</li><li style="margin-bottom:6px;">Psychological maturity involves learning to see through, accept, manage, and embrace the tension within us.</li>
+            </ul>
+          </div>
+                    <p>Human psychology is characterized by a paradoxical structure: The same species that wages war, destabilizes ecosystems, and creates collective threats also develops moral systems, empathic abilities, cultural innovations, and an increasing desire for internal harmony. In my previous post, I explored the possibility to transcend our paradoxical nature through learning. This contribution focuses on learning to see through the nature of our vulnerability.</p>
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-02/0000000000%20PT%2047%20fallon-michael.jpg?itok=gHIjAV6L" width="320" height="213" data-insert-type="image" alt="Fundamentally vulnerable, we are carried into this world." title="Fallon Michael/Unsplash"></div>
+<div class="caption">Fundamentally vulnerable, we are carried into this world.</div>
+<div class="insertArea--origin subtext">Source: Fallon Michael/Unsplash</div>
+</div>
+</div>
+</div>
+<h2>The Nature of Our Vulnerability</h2>
+<p>The human species is remarkably duplicitous.</p>
+<p>On the one hand, humans are responsible for unprecedented destruction, including war, ecological depletion, technological overshoot, and systemic polarization. On the other hand, we have an exceptional ability to empathize, cooperate, transmit culture, and imagine morality.</p>
+
+<p>This tension lies at the core of our inner struggle. It is not a random anomaly but rather a fundamental aspect of our human condition. The question is not why we are paradoxical, but rather, how this paradoxical tendency functions psychologically and what developmental opportunities it creates.</p>
+<p>The paradoxical nature of our inner struggle is evident in the world news. We can no longer look away. While arms factories operate at full capacity, teams of highly trained healthcare professionals work tirelessly to repair the unprecedented physical and emotional damage caused by these factories.</p>
+
+<p>Is the prospect of achieving inner peace and tranquility while growing up safely—the foundation of becoming a healthy human with a healthy mind—under pressure? Despite having the best and fastest technology ever, are we more vulnerable as a species than ever before?</p>
+<h2>The Evolutionary and Neuropsychological Basis of Our Inner Struggle</h2>
+
+<p>From an evolutionary perspective, the human mind is the result of two unequal evolutionary processes. Our ancient neurobiological system, formed in contexts of scarcity and danger, optimizes rapid threat detection, territorial defense, and in-group/out-group differentiation. In contrast, our young cultural system is developing exponentially faster and enables symbolic thinking, moral reflection, empathic extension, and institutional cooperation.</p>
+
+<p>These two systems operate simultaneously, often in conflict with each other. A paradox arises when an evolutionarily ancient mind confronts a world that it created but cannot oversee.</p>
+<h2>The Paradox as Our Phenomenological Structure</h2>
+<p>From a phenomenological perspective, humans experience themselves as both vulnerable and full of potential. This dual experience gives rise to two fundamental existential movements. The first is contraction, which is an inward movement focused on protection, control, and security. The second movement is expansion, which is an outward movement focused on connection, meaning, and resonance.</p>
+
+<p>These movements are not opposites that mutually exclude each other. Rather, they form a dynamic field of tension that structures human experience. Rather than being opposites, fear and desire are complementary responses to the same existential openness.</p>
+<h2>Our Paradoxical Psychology</h2>
+<p>The human mind consists of three interactive processes.</p>
+
+<p>Our emotional processes form the primal layer. This layer is mostly automatic, defensive, and focused on survival. It produces rapid evaluations, images of enemies, territorial reflexes, and accumulation behavior. In modern contexts, this can lead to militarization, ecological exploitation, and polarization.</p>
+
+<p>The meaning process happening in our mind is the second layer, or the reflective layer. This layer enables empathy, moral reasoning, symbolic representation, and long-term planning. It is the foundation of culture, art, ethics, and our democratic institutions.</p>
+<p>The third layer is the integrative process between, or our capacity for wisdom. This layer is not innate, but rather a developmental possibility. It encompasses the ability to tolerate paradoxes, regulate emotions, embrace complexity, and act with maturity rather than reflexively.</p>
+
+
+
+  
+
+
+<p>The constant interaction between these three layers is the source of the paradoxical undertone.</p>
+<h2>The Wisdom of Paradoxical Maturity</h2>
+<p>Unlike perspectives that strive for internal consistency or harmonization, the paradox model posits that psychological maturity involves learning to accept these internal contradictions. This involves acknowledging fear without succumbing to it, following desire without naivety, integrating vulnerability and strength, and developing responsiveness rather than reactivity.</p>
+
+<p>Paradoxical maturity is a type of inner ecology, or a dynamic balance between contraction and expansion.</p>
+<h2>Implications for the Evolution of Our Culture and Society</h2>
+<p>The paradoxical undertones of human psychology have direct consequences for social dynamics. Societies that institutionalize contractive movements through politics of fear, militarization, or economic accumulation reinforce destructive tendencies.</p>
+
+<p>Conversely, societies that cultivate expansive movements through education, art, care, and ecological responsibility promote integration.</p>
+<p>The challenge of the 21st century is developing collective structures that support the integrative layer.</p>
+<h2>Conclusion</h2>
+<p>Human beings are not paradoxes that need to be resolved; rather, we are beings of tension who must learn to live with our dual heritage. The paradoxical nature of human psychology is the source of both our destructive tendencies and our capacity for meaning, empathy, and wisdom. Recognizing our inner tension is a necessary and transformative step toward individual and collective maturity—a crucial step in human evolution. This inner struggle is becoming a pivotal moment in our development as a species, and it will shape our future. Will the wound deepen, or will we learn from it?</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/fulfilling-our-highest-possibility/202602/the-way-to-a-healthy-mind" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/fulfilling-our-highest-possibility/202602/the-way-to-a-healthy-mind</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/fulfilling-our-highest-possibility/202602/the-way-to-a-healthy-mind</guid>
+            <dc:creator><![CDATA[Patrick De Vleeschauwer Drs.]]></dc:creator>
+            <pubDate>Sat, 21 Feb 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-02/0000000000%20PT%2047%20fallon-michael.jpg?itok=IrmNpL_0" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[How Stereotypes Inform the Way Gay Men See Themselves]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-02/Chris%20Tompkins%20%281%29.png.jpg?itok=yiWElR_3" alt="Chris Tompkins LMFT" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Bias</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">How Stereotypes Inform the Way Gay Men See Themselves</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">The media's single story about gay men is a harmful and limiting lens.</h2><p style="font-size:0.9em;color:#666;">Posted February 21, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Stereotypes about gay men being hypersexual create confirmation bias that reinforces limiting beliefs.</li><li style="margin-bottom:6px;">Confirmation bias is noticing only what supports your beliefs, and dismissing what doesn’t.</li><li style="margin-bottom:6px;">The media's single story about gay men becomes the lens through which we view our worth.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-02/vale-AxEqDPYxbq0-unsplash.jpg?itok=oSeR8t48" width="320" height="483" data-insert-type="image" title="Vale / Unsplash" alt="Vale / Unsplash"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Vale / Unsplash</div>
+</div>
+</div>
+</div>
+<p>This week, <em>Wired </em>published an article titled "Inside the Gay Tech Mafia," profiling the network of gay men in the tech industry. </p>
+<p>Beyond documenting professional influence, the piece emphasized stereotypes about gay men, including gossip, cattiness, and drama.</p>
+<p>The illustrations accompanying the piece depicted gay men as exaggerated stereotypes, including two limp wrists reaching out to give a handshake coming out of the zipper of their pants. As if the only way gay men greet one another is through our penises.</p>
+
+<p>The visual language reduced gay men to limiting stereotypes, which struck a nerve across social media. It demonstrated how even progressive publications default to a single narrative about who gay men are.</p>
+<p>Nigerian novelist Chimamanda Adichie gave one of my favorite talks, "The Danger of a Single Story," where she explores stereotypes and the consequences of using one narrative to define a group or person. She draws on her own experience as a woman from Nigeria attending college in the United States.</p>
+
+<p>She recalls visiting Guadalajara, Mexico, and suddenly noticing people all around her simply living—walking, shopping, and dining—and feeling a wave of shame. She realized she had bought into the single story about Mexico and the border without ever questioning it.</p>
+<p>Adichie says, "The single story creates stereotypes and the problem with stereotypes is not that they are untrue, but they are incomplete. They make one story become the only story."</p>
+
+<p>I draw the same parallels with the single story of gay men. For my entire life growing up, the messages I received—consciously, unconsciously, overtly, or covertly—told me gay men were hypersexual, promiscuous, incapable of monogamy, and obsessed with youth and physical perfection. If we look at the entire story of gay men, and not the single story, we'll see the diversity of our lives and relationships—some monogamous, some open, some focused on career, some on family, some on fitness, some on art, some on none of these things.</p>
+
+<p>We'll also be more willing to see how the pressure to conform to these stereotypes isn't a result of being gay. It's a result of internalizing a single story about who we're supposed to be based on a constant bombardment of stereotypical imagery in articles like the recent one in <em>Wired</em>.</p>
+<p>Adichie continues, "The consequence of the single story is that it robs people of dignity. It makes our recognition of our equal humanity difficult. It emphasizes how we are different rather than how we are similar."</p>
+
+<p>This week, I met with a client who is struggling to express his needs in a new relationship. His boyfriend wants an open relationship, but he doesn't. What struck me was how he framed the problem. He told me he felt something was wrong with <em>him</em> for not wanting an open relationship because "gay men are supposed to want sex all the time." He worried he was too conservative and not “gay enough.” He had internalized the single story so deeply that he couldn't see his desire for monogamy, or his personal values, as legitimate. Instead, he saw himself as the problem.</p>
+
+<p>When we believe something based on an experience or what we've learned, we tend to gather information to confirm the belief. Take, for example, my client who internalized the narrative that gay men only need open relationships. Through a process called <em>confirmation bias</em>—our tendency to seek out information that confirms what we already believe while ignoring evidence that challenges it—he will notice every couple on dating apps listing themselves as "open," every gay man at a party talking about hookups, or every article about polyamory in queer spaces. </p>
+
+<p>He'll even unconsciously gravitate toward dating someone who wants an open relationship, reinforcing his belief that that's what all gay men want—while completely disregarding gay couples in long-term monogamous relationships all around him.</p>
+<p>I see these stereotypes reinforced constantly. I've been writing for publications like <em>Elephant Journal, Psychology Today,</em> and <em>HuffPost,</em> and whenever I use a platform like Unsplash to source imagery for articles, the images and categories for "gay men" or "LGBTQ community" are limited or overtly stereotypical—either hypersexualized or drinking at a party, or images only at Pride festivals. Structural homophobia keeps outdated systems at play in the collective consciousness about entire groups of people, which contributes to how those people perceive and feel about themselves.</p>
+
+<p>Even major platforms dedicated to mental health and psychology can inadvertently perpetuate the single story—through limited imagery, inadequate categorization of LGBTQ-related topics, or patterns in what content gets amplified publicly. All subtle, yet pervasive ways structural homophobia and heteronormativity operate, perpetuating the single story of gay men.</p>
+
+
+
+  
+
+
+<p>The good news is that once we're aware of our confirmation bias and the single stories we've internalized, we become better equipped to challenge stereotypes. When my client started to recognize he wasn't the problem—that his values were just different from his boyfriend's—he could begin to advocate for what he actually wanted rather than conforming to what he thought gay men were supposed to want.</p>
+
+<p>Challenging the single story means recognizing when we're seeing ourselves through a distorted lens and asking whether the narrative we've accepted is actually true. Gay men are not a monolith, and our relationships, desires, and values are as diverse as we are. The single story robs us of nuance and reduces what it means to be human to tired stereotypes.</p>
+
+<p>We honor our full humanity by living according to our own values rather than conforming to narratives that were never ours to begin with.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/lgbtq-affirmative-psychology/202602/how-stereotypes-inform-the-way-gay-men-see-themselves" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/lgbtq-affirmative-psychology/202602/how-stereotypes-inform-the-way-gay-men-see-themselves</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/lgbtq-affirmative-psychology/202602/how-stereotypes-inform-the-way-gay-men-see-themselves</guid>
+            <dc:creator><![CDATA[Chris Tompkins LMFT]]></dc:creator>
+            <pubDate>Sat, 21 Feb 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-02/gregory-hayes-SCbycmUSAaE-unsplash.jpg?itok=SCZRo9YW" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why Kids Lie, and How to Respond]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-12/Cook.png.jpg?itok=6zFBKbhL" alt="Cook" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Parenting</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why Kids Lie, and How to Respond</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How to respond to a child's lies without losing their trust.</h2><p style="font-size:0.9em;color:#666;">Posted February 21, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Children don't lie to their parents to be defiant.</li><li style="margin-bottom:6px;">Lying behaviors, while normal, are frustrating.</li><li style="margin-bottom:6px;">Kids lie in attempts to getting out of trouble.</li>
+            </ul>
+          </div>
+                    <p>Few parenting moments frustrate us faster than catching our child in a lie. The chocolate-smeared face insisting, “I didn’t eat that brownie!” The fourth grader who promises homework is finished when that homework has not even started. The teenager who gives you a partial version of their weekend plans.</p>
+
+<p>It’s uncomfortable. It’s personal. And it can feel like a direct reflection of our parenting.</p>
+<p>Before we spiral, let’s level the playing field.</p>
+<p>Research suggests the average adult tells one to two lies per day. Most aren’t dramatic betrayals. They’re social smoothing: “I’m fine.” “Traffic was terrible.” “We’re busy that night.” We avoid conflict. We protect feelings. We save face. Much of it is automatic.</p>
+
+<p>That doesn’t make us immoral. It makes us human.</p>
+<p>And that is the lens we need when we examine our children’s dishonesty.</p>
+<h2>Kids Learn What They See</h2>
+<p>Children are wired for observational learning. If they repeatedly hear us tell small lies to get out of plans or avoid discomfort, they internalize a powerful lesson: Truth is flexible.</p>
+
+<p>Young children, especially, cannot operate from a “do as I say, not as I do” framework. They imitate what they observe. If we want honesty, we must model it—even when it’s inconvenient.</p>
+<p>The good news? Just as we teach hygiene, gratitude, and responsibility, we can intentionally teach integrity.</p>
+<p>But honesty looks different at every developmental stage.</p>
+
+<h2>Toddlers: It's Not Moral Deception</h2>
+<p>Toddlers cannot lie in the moral sense of the word. What adults perceive as dishonesty is usually wishful thinking, fantasy, or an immature understanding of cause and effect.</p>
+<p>A 2-year-old with frosting on their cheeks who says, “I didn’t eat it,” isn’t masterminding deception. They may wish they hadn’t eaten that cupcake, because they knew it would get them into trouble. At this age, kids may not connect their actions to the evidence.</p>
+
+<p>Toddlers are blunt truth-tellers. Try playing hide-and-seek with one—they will proudly reveal their location.</p>
+<p>What matters most at this stage is consistency. It’s important to focus on your behaviors as a parent. If you promise to play after dinner and repeatedly don’t follow through, your toddler won’t label it “lying,” but they will feel the mismatch. Trust is built when words and actions align.</p>
+
+<h2>Preschoolers: Lying as a Developmental Milestone</h2>
+<p>Between ages 3 and 5, lying can seem to appear out of nowhere. This behavior is actually a sign of cognitive growth. Preschoolers are beginning to understand that other people have different thoughts and beliefs. This “theory of mind” development allows them to experiment with shaping someone else’s perception.</p>
+
+
+<p>Many preschool lies are imaginative:</p>
+<ul>
+<li>“My stuffed animal told me to do it.”</li>
+<li>“There was a dinosaur in the backyard.”</li>
+</ul>
+<p>Others are self-protective:</p>
+<ul>
+<li>“I didn’t spill the milk. My little brother did it.”</li>
+</ul>
+<p>Finally, some lies are the result of a developing brain.</p>
+<ul>
+<li>If a child pushed their friend at 10:00 a.m. on the playground and their mom asked them to explain their behavior at 5:30 p.m., your child may not remember the behavior in question.</li>
+</ul>
+
+<p>They are also remarkably bad at lying. Which is a parenting power move.</p>
+<p>A playful response can diffuse tension. If your child claims their teacher brought a penguin to school, try leaning in with curiosity: “Really? What’s the penguin’s name?” Often, they’ll shift the story themselves.</p>
+<p>This stage is ideal for brief, real-world conversations about honesty. When something breaks, you might say: “Mistakes happen. What matters is telling the truth so we can fix it.”</p>
+
+
+
+  
+
+
+<p>Keep it simple. Keep it calm. Avoid fear-based tactics like, “If you don’t behave, the police will come.” Even if intended to control behavior, those messages can create anxiety and undermine trust.</p>
+<h2>School-Age Kids: Morality and Reputation</h2>
+<p>From roughly 6 to 12 years old, children understand that lying is wrong—not just because they’ll get caught, but because it damages trust.</p>
+
+<p>At this stage, common motivations for lying include:</p>
+<ul>
+<li>Avoiding punishment</li>
+<li>Gaining peer approval</li>
+<li>Protecting self-image</li>
+<li>Fitting in</li>
+</ul>
+<p>Children at this age are also deeply invested in fairness. They notice inconsistencies quickly. If you promise to return in five minutes and come back much later, credibility takes a hit.</p>
+
+<p>This is also when reputation starts to matter. A child may exaggerate accomplishments to impress friends or hide mistakes to preserve their image. Rather than shaming the lie, explore the need underneath it. “What made it hard to tell me the truth?” “Were you worried about how I’d respond?” Curiosity preserves connection.</p>
+
+<h2>Teenagers: Autonomy and Hypocrisy Detection</h2>
+<p>Adolescents can think abstractly and understand nuanced ethics. They recognize gray areas, including white lies. Lying during the teen years often centers on privacy, independence, or rebellion. Teens are acutely sensitive to hypocrisy. If you preach honesty but bend the truth in your own life, they will notice.</p>
+
+<p>At the same time, teenagers are forming their moral identity. They are deciding what kind of person they want to be. When parents model integrity—even in uncomfortable situations—teens absorb that. When dishonesty happens, approach it with steadiness rather than accusation. A confrontational tone invites defensiveness. A calm, direct approach invites dialogue. “I care more about honesty than perfection.” “Let’s talk about what happened.” Respect fuels responsibility.</p>
+
+<h2>Why Teenagers Lie</h2>
+<p>Teens lie for many of the same reasons adults do:</p>
+<ul>
+<li>To avoid consequences</li>
+<li>To gain approval</li>
+<li>To protect someone</li>
+<li>To test boundaries</li>
+<li>To reduce fear</li>
+</ul>
+<p>Sometimes, frequent lying signals something deeper: anxiety, perfectionism, or fear of harsh reactions. It is important to ask yourself:</p>
+<ul>
+<li>Does my child feel safe admitting mistakes?</li>
+<li>Do I respond with shame or with guidance?</li>
+<li>Am I expecting emotional regulation beyond their developmental capacity?</li>
+</ul>
+
+<p>Honesty flourishes in safe environments.</p>
+<h2>How to Raise Honest Kids</h2>
+<p><strong>1. Model honesty consistently.</strong><br>You need to be honest! Let your children see you decline invitations kindly without fabrication. Admit when you’ve made a mistake. Align your actions with your values.</p>
+<p><strong>2. Separate the behavior from the character.</strong><br>Saying “That was dishonest” is different from “You’re a liar.” Protect their identity while correcting their behavior.</p>
+
+<p><strong>3. Stay calm when truth emerges.</strong><br>If a child confesses and you explode, you unintentionally teach them to hide it next time. It’s OK to pause. Tell them, “I need a minute. We’ll talk about this soon." Then follow with: “Thank you for telling me. Let’s solve this.”</p>
+<p><strong>4. Use natural consequences when possible.</strong><br>If they didn’t study and the grade reflects that, allow the outcome to teach. Guide them toward problem-solving rather than piling on punishment.</p>
+
+<p><strong>5. Praise courage.</strong><br>When your child tells the truth—especially when it’s hard—name it. “That took bravery.” Reinforcement builds identity.</p>
+<p>Here’s the bottom line: Lying is part of being human. It is not a predictor of a doomed future. It is often a signal—of development, of fear, of social learning, of unmet needs.</p>
+
+<p>Your role isn’t to eliminate every fib. It’s to create a home where truth feels safer than deception. Where mistakes are survivable. Where integrity is modeled, not demanded.</p>
+<p>When your child believes, “I can tell my parent hard things,” you’ve built something far more powerful than compliance.</p>
+<p>You’re building character—one honest conversation at a time.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/parenting-redefined/202602/why-kids-lie-and-how-to-respond" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/parenting-redefined/202602/why-kids-lie-and-how-to-respond</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/parenting-redefined/202602/why-kids-lie-and-how-to-respond</guid>
+            <dc:creator><![CDATA[Kristen Cook, MD]]></dc:creator>
+            <pubDate>Sat, 21 Feb 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-02/pexels-timur-weber-9127715.jpg?itok=WTOM6dQn" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Quintessential Secrets of Psychotherapy: The Role of Acceptance]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/new-photo-.jpg?itok=-Vc-lmod" alt="Stephen A. Diamond Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Therapy</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Quintessential Secrets of Psychotherapy: The Role of Acceptance</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Acceptance lies at the core of successful psychotherapy.</h2><p style="font-size:0.9em;color:#666;">Posted February 21, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Psychotherapy has been practiced now for a little more than a century.</li><li style="margin-bottom:6px;">Psychotherapy is helpful for most people.</li><li style="margin-bottom:6px;">Psychotherapy is as much about acceptance as change.</li>
+            </ul>
+          </div>
+                    <p>Philosopher Friedrich Nietzsche proposed in his famous Stoic aphorism of <em>amor fati </em>(“love of one’s fate") that we should not only seek to accept but willingly embrace all that happens to us in life as necessary—the good, the bad, and the ugly. The concept of acceptance is particularly prominent in Eastern philosophy and religion, as well as in Christianity and other great religious systems. For instance, acceptance is central to so-called spiritual enlightenment, as illustrated repeatedly in timeless texts like the Old Testament's Book of Job,<em> </em>the<em> </em>Hindu Bhagavad Gita<em>, </em>the noble teachings of Siddhartha Gautama (Buddha), and the Tao Te Ching<em>.</em> But even practicing Buddhists, Hindus, Taoists, and other spiritual seekers can sometimes lose sight of the primacy of acceptance.<em> </em>Consider, for instance, this frustrated cry of one Buddhist devotee of meditation: "I've been meditating for thirty years—and I'm still angry!" In this case, the meditator evidently erroneously sought to <em>change, </em>eradicate, or transcend rather than <em>accept, experience, and constructively express, redirect, or channel </em>his angry feelings. (For more on dealing constructively or creatively with anger in psychotherapy, see my book <em>Anger, Madness, and the Daimonic</em> [SUNY Press, 1996].) </p>
+
+<p>Drawing directly from these ancient wisdom teachings of the East, clinical psychologist Marsha Linehan incorporates what she calls "radical acceptance" in her dialectical behavior therapy (DBT). The secret to such radical acceptance is the nonjudgmental, tolerant, courageous, compassionate embrace of, rather than resistance to, whatever we are experiencing right here and now, in the present moment, juxtaposed paradoxically with the acknowledgment and unequivocal acceptance of the essential necessity for changing one's self-defeating behavior and negative self-talk. Another popular form of cognitive-behavioral therapy, acceptance and commitment therapy, or ACT, places similar emphasis on accepting our negative cognitions and painful emotions rather than striving to change them, while simultaneously committing ourselves to acting in ways that will change our lives for the better.</p>
+
+<p>This clinical emphasis on the dialectical relationship between change and acceptance is, at least in part, what needs to happen in any truly effective psychotherapy. To begin with, certain things in life cannot ever be changed, and some others can be, albeit often only through sustained and heroic effort. This same recognition of reality is reflected in the famous serenity prayer from Alcoholics Anonymous: <em>"God grant me the serenity to accept the things I cannot change; the courage to change the things I can; and the wisdom to know the difference." </em>Also inherent in the, for many, helpful AA philosophy is the requirement to totally <em>accept </em>one's complete powerlessness over alcohol (or other addictive substances) as an absolutely indispensable prerequisite for change. As the Swiss psychiatrist C.G. Jung, one of the early supporters of the AA approach, stated: "We cannot change anything unless we accept it." </p>
+
+<p>There are profound implications for successful psychotherapy in these powerful words. The problem, <em>whatever it may be</em>, must first be fully and consciously acknowledged and accepted by the person <em>before </em>it can be changed. Without such acceptance, there can be no true change. This may sound easy, but it is not, for it necessitates acceptance of feelings, impulses, fantasies, tendencies, desires, and behaviors in ourselves that we find deeply unacceptable and may remain unconscious or unknown to us <em>because we do not want to admit them to ourselves.</em> These unacceptable and rejected aspects of ourselves must therefore first be confronted and made fully conscious <em>before</em> we can exercise our existential freedom to choose to accept them or not. This sometimes painful and arduous process of acceptance starts with acknowledging not only the subjective and objective existence of the problem itself, but <em>the necessity to consciously confront the problem head-on and make the total commitment to oneself to do this</em>. The big secret here is that sometimes it is only through acceptance that such transformative changes can eventually take place. <em>Change—</em>whether of one's behavior, beliefs, cognitions, presuppositions, self-perception, worldview, or ways of being in the world—<em>always starts with the willing acceptance of the unacceptable. </em></p>
+
+<p>At the same time, for the psychotherapy patient, as for all of us to some extent, certain behavioral or attitudinal changes must be made, as in the case of correcting or modifying one’s central myth or core schema of oneself and the world. This is the reason most people enter psychotherapy. They sense or recognize the necessity for change but have been unwilling or unable to implement that change in themselves, their situation, attitude, relationship, or behavior on their own. Sometimes, they have sincerely tried to change, often for years or decades, but to no avail. Seeking psychotherapy is a courageous and momentous decision. And it can be a deeply humbling one. This is just human nature. None of us likes admitting having a problem, let alone not being able to satisfactorily solve or resolve it ourselves. The ego strongly resists such an admission of perceived weakness. It is tantamount to a profound feeling of personal failure, powerlessness, vulnerability, weakness, ineptitude, impotence, and helplessness. Men, in particular, often have serious trouble asking for psychological (or other kinds of) assistance and are statistically less likely to seek psychotherapy than women, who are generally more receptive to psychotherapy, though this trend has been slowly shifting in recent decades. But those brave women and men who do take the intimidating and sometimes ego-deflating step to seek psychotherapy, voluntarily submitting or surrendering to it (tantamount to admitting to being powerless over the problem), take a decisive and heroic first step toward self-acceptance—and lasting therapeutic change. </p>
+
+<p>Fundamentally, what must change for most of us is our rigid <em>refusal to accept ourselves, others, and reality as we and they are right now.</em> This is a true paradox. And much easier said than done. When people initially seek psychotherapy, they sometimes do so hoping or expecting, consciously or unconsciously, to change themselves, others, or the world in ways that are simply not possible. For instance, some people harbor and suffer from distorted core beliefs, <em>self-schemata </em>as they are called in cognitive therapy, a long-held (commonly since early childhood) unconscious “guiding fiction” (Alfred Adler) or personal "myth" (Rollo May)<em> </em>of being basically broken, unlikable, unlovable, and unworthy of love or recognition as they are. What is sorely lacking in such deeply wounded individuals is the ability to unconditionally accept themselves, others, and the world <em>exactly as they are right now</em>, despite their obvious imperfection. This sort of acceptance should not be equated with denying the problematic nature of human existence, nor the neuroses or bad behavior of ourselves or others. Denial is a maladaptive and dangerous defense mechanism. Accepting actually means acknowledging, confronting, and addressing problems as directly and constructively as possible. Clearly, simply by choosing acceptance, such individuals have not suddenly and miraculously rid themselves or the world of their difficulties or problems. But they are no longer in denial of these difficulties, having taken the first crucial step toward constructively addressing them. As stated in the ancient Chinese text the Tao Te Ching, “A journey of a thousand miles begins with a single step.” Indeed, for the psychotherapy patient, <em>acceptance</em> of one's problems and taking <em>responsibility for constructively confronting and addressing them as best we can</em> is precisely the sort of psychological, philosophical, or spiritual reorientation required to achieve real and lasting change and to restore and sustain one’s soul, self, and sanity.</p>
+
+<p><em>This post is adapted from a chapter in my forthcoming book, </em>Secrets of Psychotherapy: Clinical Wisdom for a Crazy World.</p>
+
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/evil-deeds/202602/quintessential-secrets-of-psychotherapy-the-role-of-acceptance" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/evil-deeds/202602/quintessential-secrets-of-psychotherapy-the-role-of-acceptance</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/evil-deeds/202602/quintessential-secrets-of-psychotherapy-the-role-of-acceptance</guid>
+            <dc:creator><![CDATA[Stephen A. Diamond Ph.D.]]></dc:creator>
+            <pubDate>Sat, 21 Feb 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-02/pexels-shvets-production-7176033.jpg?itok=5gvbvNyi" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Could Glial Cells Be the Key to New Schizophrenia Treatments?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-08/Sarah%20An%20Myers.png.jpg?itok=7WIVFqFt" alt="Sarah An Myers" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Neuroscience</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Could Glial Cells Be the Key to New Schizophrenia Treatments?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Long-term research into cellular function in schizophrenia could offer new hope.</h2><p style="font-size:0.9em;color:#666;">Posted February 21, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Glial cells enhance the function of neurons in the brain.</li><li style="margin-bottom:6px;">Glial cells are reduced in people with schizophrenia, affecting overall brain function.</li><li style="margin-bottom:6px;">Therapies targeting glial cells in schizophrenia are promising but require more research.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-02/bioscience-image-library-by-fayette-reynolds-S07-mK6zNeY-unsplash.jpg?itok=JQ7_gy8g" width="320" height="180" data-insert-type="image" alt="Proliferation of adipocytes in adult parathyroid gland by phase contrast." title="Bioscience Image Library by Fayette Reynolds/Unsplash"></div>
+<div class="caption">Proliferation of adipocytes in adult parathyroid gland by phase contrast.</div>
+<div class="insertArea--origin subtext">Source: Bioscience Image Library by Fayette Reynolds/Unsplash</div>
+</div>
+</div>
+</div>
+<p dir="ltr">Anyone living with schizophrenia understands the true limitations of current treatment options. Antipsychotics remain the single leading treatment for the disorder, and they are riddled with undesirable side effects. Weight gain, tardive dyskinesia, and excessive drowsiness are a few. </p>
+<p dir="ltr">Much research is devoted to expanding the range of medication options, and few academics have pursued other avenues. However, there is a possibility that treatment for schizophrenia can be approached through cellular methods if long-term research validates early signs of hope. </p>
+
+<p dir="ltr">In the brain, many different cells and systems work together to promote function. For example, neurons, specialized cells that are central to brain structure, are important for transferring information to other cells.</p>
+<p dir="ltr">Other cells, such as glial cells, support the function of neurons. Neuroscience has often painted glial cells as the glue that holds neurons together, but glial cells can also be helpful in promoting neuronal health, enhancing neuronal immune response, among other neuronal-enhancing functions.</p>
+
+<h2>Glial Cells Are Different in People With Schizophrenia</h2>
+<p dir="ltr">The brains of people with schizophrenia are biologically different. Not only do they have alterations in their dopaminergic functions (a neurotransmitter related to reward, sleep regulation, and more), but evidence has shown that there are fewer glial cells in the brains of people with schizophrenia. </p>
+
+<p dir="ltr">Examinations of postmortem subjects have observed that glial cells are seen to have a significant reduction in presence in the prefrontal cortex (PFC), responsible for healthy cognitive skills. Without the different types of glial cells, neuronal health can decline, and we know this from the apparent cognitive impairments in those with schizophrenia. Thus, overall brain function can decline.</p>
+
+<p dir="ltr">Some subcategories of glial cells are responsible for different things. One subset, called <em>oligodendrocytes</em>, is responsible for ensuring that information is transmitted properly by providing a protective shield between parts of neurons. In patients with schizophrenia, this protective shield is significantly reduced, which indicates reduced network connectivity. Schizophrenia, as a disorder, is defined by this very trait—poor integration between cells and brain regions that are often found in these patients. </p>
+
+<p dir="ltr">Brain changes in patients with schizophrenia are thought to come from the disorder itself or medications. However, from animal studies, researchers have concluded that antipsychotics are not a likely factor in decreasing glial cells. Sometimes they can actually enhance their functioning. </p>
+<p dir="ltr">With this information, you may be wondering, what could help glial cells? Suggestions the researchers have are: increase exercise, antidepressants, natural products used on the body, and related tasks to enhance glial cell functioning and sustainability. </p>
+
+<p dir="ltr">There might be a long time before we see therapeutic chemical treatments that specifically target glial cells, but thankfully, there are other things we can do in the meantime. </p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/living-as-an-outlier/202602/could-glial-cells-be-the-key-to-new-schizophrenia-treatments" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/living-as-an-outlier/202602/could-glial-cells-be-the-key-to-new-schizophrenia-treatments</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/living-as-an-outlier/202602/could-glial-cells-be-the-key-to-new-schizophrenia-treatments</guid>
+            <dc:creator><![CDATA[Sarah An Myers]]></dc:creator>
+            <pubDate>Sat, 21 Feb 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-02/bioscience-image-library-by-fayette-reynolds-S07-mK6zNeY-unsplash.jpg?itok=p9bRswCj" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Do Pets Make Their Owners Happy? New Study Says They Do Not]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/e1_edited.jpg?itok=z6uf8KQT" alt="Sebastian Ocklenburg, Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Animal Behavior</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Do Pets Make Their Owners Happy? New Study Says They Do Not</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">A new study offers surprising insights on how pets affect well-being.</h2><p style="font-size:0.9em;color:#666;">Posted February 21, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Several studies suggest that owning a pet increases well-being</li><li style="margin-bottom:6px;">A study with Australian data analyzed the association of pet ownership and well-being in a sophisticated way</li><li style="margin-bottom:6px;">Owning a pet did not show any effects on life satisfaction, loneliness, mental health, or general health</li><li style="margin-bottom:6px;">Owning a pet can affect mental health both positively and negatively</li>
+            </ul>
+          </div>
+                    <p>Many pet owners would say that their pets are a great source of happiness for them and that they make them feel less lonely and generally better. Indeed, several psychological studies have shown the benefits of having a pet for both physical and mental health. However, pet owners can also face incredibly difficult situations that can have negative effects on their mental health. For example, it can be very frustrating if a dog is badly trained and aggressive and bites their owner or other people. Also, if a pet gets sick, the owner’s mental health may worsen since they worry so much. Last, but not least, sky-high vet bills can result in mental health challenges for some pet owners. So taken together, the relationship of owning a pet and psychological well-being may not be as easy as it seems at first glance. Thus, high-quality psychological studies are needed to explore this relationship further.</p>
+
+<h2>A new study on pet ownership, health, and well-being</h2>
+<p>A new study, published in the scientific journal <em>Applied Research Quality Life,</em> now investigated the effect of owning a pet on health and well-being from a new angle (<a href="https://link.springer.com/article/10.1007/s11482-026-10550-5">Ananyev, and co-workers, 2026</a>). In the study entitled “The Causal Effect of Pet Ownership on Health and Well-being”, the research team led by scientist Maxim Ananyev from the University of Melbourne, in Australia, analyzed data from the so-called HILDA survey (Household, Income and Labour Dynamics in Australia). This survey has three major advantages over many other studies which investigated the psychological effects of pet ownership.</p>
+
+<p>First, the study was longitudinal, and data were collected over many years. It started in 2001, and the data analyzed in the study were collected in 2018 and 2022. Thus, unlike in previous studies that only collected data at one time point, this study had two data points, making different statistical analyses possible than in other studies.</p>
+
+<p>Second, the scientists conducted statistical analyses that compared data from Victoria, an Australian state in which a policy change allowed renters to have pets (which resulted in more people getting pets compared to other states of Australia in which such a policy change did not happen). This allowed for a more causal research design than in previous studies.</p>
+
+<p>Third, in the study, a lot of different data points were collected, and the volunteers were specifically recruited to be tested about the effects of pet ownership. This study design may reduce biases. For example, if volunteers are recruited for a study with an announcement stating that scientists look for pet owners, mostly people who are happy with their pets, may apply, resulting in overly positive results.</p>
+
+<p>The scientists analyzed data from 495 pet owners who could have any sort of pet, such as a cat, dog, horse, bird, or fish. All pet owners had filled out questionnaires on life satisfaction, loneliness, mental health, and general health.</p>
+<h2>Results of the study: Owning a pet, on average, does not affect life satisfaction, loneliness, mental health, or general health.</h2>
+
+<p>The data from the pet owners from Victoria were compared to data from renters in other states who were not allowed to keep pets and non-renters in Victoria. Surprisingly, owning a pet did not show any positive or negative effects on life satisfaction, loneliness, mental health, or general health. This does, of course, not mean that some people can have great increases in well-being due to having a pet. It just shows that across many hundreds of people, the positive and the negative effects of owning a pet across people average each other out. While some people benefit greatly from their pets, others also suffer worse mental health due to problems with their pets. While the results of this study are at odds with previous works, the large sample size and high-quality design ensure that the results are robust. It is, thus, likely that some previous studies on pet ownership and wellbeing have been confounded by biased data.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/the-asymmetric-brain/202602/do-pets-make-their-owners-happy-new-study-says-they-do-not" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/the-asymmetric-brain/202602/do-pets-make-their-owners-happy-new-study-says-they-do-not</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-asymmetric-brain/202602/do-pets-make-their-owners-happy-new-study-says-they-do-not</guid>
+            <dc:creator><![CDATA[Sebastian Ocklenburg, Ph.D.]]></dc:creator>
+            <pubDate>Sat, 21 Feb 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-02/pexels-cottonbro-6869559.jpg?itok=nS6n_Sp6" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Best Way to Stop Liars in Their Tracks]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-01/Susan%20Krauss%20Whitbourne.png.jpg?itok=OoS9Jwh0" alt="Susan Krauss Whitbourne PhD, ABPP" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Deception</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Best Way to Stop Liars in Their Tracks</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Getting liars to be a little more honest may be easier than you realize.</h2><p style="font-size:0.9em;color:#666;">Posted February 21, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">People who tell the truth do so in the context of social relationships based on reciprocity and trust.</li><li style="margin-bottom:6px;">Perceiving that they’re not trusted could make deceivers more rather than less likely to deceive.</li><li style="margin-bottom:6px;">By giving people the space to admit to their failings you can encourage healthier communication.</li>
+            </ul>
+          </div>
+                    <p>People who lie can cause you all kinds of heartache. They trick, cheat, and manipulate you, possibly costing you money if not emotional pain. Why people engage in deception is one thing, but figuring out how to avoid their trap is quite another. To protect yourself, the avoiding part is probably more important than the understanding part.</p>
+
+<p>Erin started to get into a new relationship with Pat, someone she met in her work at a bank. She didn’t ever share official duties with Pat in the workplace, so there were no issues there. A few weeks after they started dating, though, Erin knew that Pat didn’t drive, but she was shocked and hurt to learn that Pat had an arrest record for driving under the influence. It may have been an error of “omission,” but to Erin, it definitely felt like an error of commission; i.e., a lie.</p>
+
+<h2>A Social Informational Processing Theory of Trust</h2>
+<p>According to Zhejiang Normal University’s Mengqi Xu and colleagues (2025), the social context is everything when it comes to processing the information we receive from others. Attitudes in particular stand out as influences on the way that people interpret what other people say. When it comes to deception, the main form of social information people use involves trust. You have to decide whether to trust what someone else tells you based on all the available cues at your disposal.</p>
+
+<p>Turning to the person who’s doing the communicating, and potentially engaging in deception, trust also comes into play. Pat had to decide whether to trust Erin before revealing the real reason for not owning or driving a car.</p>
+<p>A couple of other layers of processing also come into play. The first is based in social exchange theory. If you think the other person is telling the truth, you will be more likely to do so yourself. In the words of the authors, “trust reciprocation functions both as a form of compliance with social norms and as a strategy to protect and reinforce their moral self-concept.” Breaking this down, it means that people are more likely to be honest with people they perceive as honest with them. People also want to be honest so they can live with their conscience as ethical individuals.</p>
+
+<p>The second layer of processing is the quality of “need for cognitive closure (NFCC).” Some people really hate living with ambiguity, and they’ll rush to the first interpretation that pops into their head. This leads them to make snap decisions about whether to trust that another person is telling the truth. People low in NFCC don’t mind keeping an open mind to allow enough information to filter in so that they can make a proper judgment.</p>
+
+<h2>Trust and the Deceiver</h2>
+<p>The actual focus of the Xu et al. study was not on the recipient of deception, but on the perpetrator. In the first of two studies, participants (average age 21 years old) were given a chance to lie on a standard lab task in which they reported on the outcome of a virtual dice roll. In the high-trust condition, participants “overheard” (intentionally) two experimenters expressing the belief that their participants would be honest, and in the low-trust, the experimenters expressed uncertainty about whether the participants would honestly report their dice rolls. The findings supported the prediction that participants in the high-trust condition would, in fact, be more honest. Overall, high trust lowered the deception rate by 50%.</p>
+
+<p>The second study added NFCC into the mix. People low in this quality were more likely to be affected by the trust manipulation in reporting the dice roll results. As the authors concluded, “Trustees with low NFCC engage in more thorough processing of trust-related information through various channels including language, behavior, and facial expressions.” In other words, if they stop to process the social input they’re receiving, people will become even more honest when they think they are being trusted.</p>
+
+<h2>From Giver to Receiver</h2>
+<p>Now we know that people will be more honest when they think they’re being trusted, especially if they tend to pause and evaluate all the information at their disposal. How does this translate to Erin’s relationship with Pat?</p>
+<p>Let’s assume for the moment that Pat is not a bad person, and that Erin was right to think that they could have a good relationship. It’s also possible that Pat is indeed an inveterate liar, but the odds are that Erin would have sniffed something out sooner. After all, they’d worked together already, but beyond this, their place of employment pretty much demands total honesty.</p>
+
+<p>If Erin were to use the Zhejiang Normal U’s study to interpret the fix she’s in, she might come to realize that she’s been sending out low-trust cues to poor Pat all along. How many times did Erin complain about people faking their income on account applications or leaving out a less-than-stellar work history? This could make Pat more and more uncomfortable as the weeks went on. It became harder and harder to trust that Erin wouldn’t end things instantly should Pat’s background somehow come out.</p>
+
+
+
+  
+
+
+<p>Indeed, with a lower NFCC, Erin might have suspended judgment until learning more of the facts behind Pat’s unfortunate past. Maybe the charges go back 10 years, and Pat has been sober ever since. Maybe Pat’s decision not to get back behind the wheel of a car was based on deep-seated feelings of guilt and anxiety, feelings that Pat struggles with every day.</p>
+
+<p>Moving forward, were Erin to give Pat another chance, this blip in their ability to communicate openly could eventually result in stronger bonds being built between them. At the very least, Erin might learn from the experience to give people enough emotional space to be able to admit hard truths about themselves in an atmosphere of trust.</p>
+
+<p><strong>To sum up,</strong> the truth may not always come in a perfectly wrapped package. Being willing to keep an open mind while also showing you trust the other person may help make that package if not perfect, then more transparent.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/fulfillment-at-any-age/202602/the-best-way-to-stop-liars-in-their-track" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/fulfillment-at-any-age/202602/the-best-way-to-stop-liars-in-their-track</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/fulfillment-at-any-age/202602/the-best-way-to-stop-liars-in-their-track</guid>
+            <dc:creator><![CDATA[Susan Krauss Whitbourne PhD, ABPP]]></dc:creator>
+            <pubDate>Sat, 21 Feb 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-02/Deception%20tswedensky-lying-1562272_1280.jpg?itok=uSUMTF2Q" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Politics of Looking Away]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-01/Sahar-Torres.jpg?itok=NUbqfdXk" alt="Gail Sahar, Ph.D., and M. Gabriela Torres, Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Politics</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Politics of Looking Away</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Why the suffering of others fails to move us.</h2><p style="font-size:0.9em;color:#666;">Posted February 20, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Research indicates that violence can become normalized through constant exposure.</li><li style="margin-bottom:6px;">People who have been dehumanized are more likely to become acceptable targets of violence.</li><li style="margin-bottom:6px;">The more victims of violence are blamed for their own suffering, the less others are motivated to intervene.</li>
+            </ul>
+          </div>
+                    <p>Like us, you may feel paralyzed in the face of the relentless images of violence we see every day. Suffering children, military occupations, the devastated neighborhoods, the cries of parents mourning their dead—these scenes haunt us. Whether it is happening in Palestine or Minneapolis, we are witnesses to suffering, and that witnessing takes a heavy toll.</p>
+
+<p>Clearly, the devastating situations in the West Bank and Gaza and in Minneapolis differ on many grounds, not least of which is the absolute number of people killed and injured, and yet one can see psychological and systemic similarities between them. Though many Americans have participated in protests against both the genocide in Gaza and aggression by U.S. Immigration and Customs Enforcement (ICE) in Minneapolis and other cities, perhaps a more common response is to helplessly look on in horror.</p>
+
+<p>As scholars—one an anthropologist studying<a href="https://www.cambridge.org/core/books/abs/cambridge-handbook-of-social-problems/state-violence/CB1CD884DD53026BC4DD7C1F1FD70DD3"> state-sanctioned violence</a>, the other a political psychologist examining how<a href="https://link.springer.com/book/10.1007/978-3-031-20236-0"> blame shapes emotion</a>—we understand why we collectively fail to respond to such extreme suffering. Those who commit atrocities need one thing above all: others' paralysis. Research in our fields shows they don't just hope for it—they manufacture it.</p>
+
+<h2>Normalization of Violence Toward Expendable Populations</h2>
+<p>Anthropological research has shown how our instinct to look away but also gawk at violent acts is often manipulated by political actors to render us both complicit and helpless. Whether it is looking at<a href="https://www.degruyterbrill.com/document/doi/10.7560/706477-008/html?srsltid=AfmBOorbPx5OoJhPe4Dsah2XkrZvqXOS6aUc4NlmAAC_U3QCObs-LOr8"> "bloody deeds" in the Guatemalan genocide</a>, the ruins of Palestine, or Operation Metro Surge by ICE in Minnesota, anthropologists have traced the ways in which we come to accept violence as<a href="https://www.pennpress.org/9780812216219/a-different-kind-of-war-story/"> a "natural" fact</a>. In his study of Northern Ireland,<a href="https://press.uchicago.edu/ucp/books/book/chicago/F/bo3644948.html"> Allen Feldman showed</a> how politically produced death, particularly in the form of dead bodies, can strengthen the power of those who commit violence while shaping the behavior of onlookers. The more we see violence, the more it becomes normalized, and the more it engages us in<em> just </em>looking.</p>
+
+<p>A critical question for us is what makes us accept that certain lives are less worthy (or wholly unworthy) of safeguarding or that their deaths require no public outcry. Philosopher Achille Mbembe uses the concept of<a href="https://www.dukeupress.edu/necropolitics"> <em>necropolitics</em></a> to point to political situations where some lives are rendered expendable long before they are taken. Their deaths provoke no moral shock because they were already, in a sense,<em> </em>"dead" to us. Dead bodies, particularly when they pile up in large numbers, are no longer just bodies; they are political performance.</p>
+
+<p>More than two years into Israel's siege of Gaza, more than 70,000 Palestinians have been killed, including over 20,000 children. In spite of a ceasefire agreement, Palestinians are still being killed on a regular basis. We look away from civilians bombed or starved to death instead of being moved to oppose such acts. Worse, some find the deaths of Palestinian children a source of derision or even humor.</p>
+
+<p>In contrast, the 32 individuals who died or were killed in ICE custody in 2025, along with at least 6 so far this year, represent violence on a smaller scale and with different victims and actors. While protests in cities where ICE is operating have been commonplace, public outrage <a href="https://today.yougov.com/politics/articles/53939-more-americans-support-than-oppose-abolishing-ice-immigration-minneapolis-shooting-poll">significantly increased</a> after a second white American citizen was killed. <a href="https://www.upress.virginia.edu/title/5047/">This aligns with work by scholar Benjamin Gonzalez O'Brien</a>, which has shown how the criminalization of undocumented immigrants created a category of expendable individuals for some Americans, one that does not generally include white citizens.</p>
+
+<h2>The Social Psychology of Dehumanization</h2>
+<p>Several decades ago, prominent social psychologist Herbert Kelman identified the conditions that enable what he termed<a href="https://spssi.onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-4560.1973.tb00102.x"> "sanctioned massacres."</a> He defined such actions as "indiscriminate, ruthless, and often systematic mass violence, carried out by military or paramilitary personnel while engaged in officially sanctioned campaigns, and directed at defenseless and unresisting civilians, including old men, women, and children (p. 283)." Israel's actions in Gaza arguably match this definition, unless one accepts the Israeli government's position that<a href="https://www.nbcnews.com/tech/social-media/israel-posts-video-saying-are-no-innocent-civilians-gaza-rcna157111"> "there are no innocent Palestinians</a>."</p>
+
+<p>Importantly, Kelman maintained that dehumanization of the victims is a critical element of sanctioned massacres. When we cease to think of a particular category of people as human, we are free to attribute all blame to them. We can see a similar process of demonization play out in the U.S. today through the increased labeling of those who have been killed by ICE as “criminals,” “AWFUL,” “domestic terrorists,” or “assassins” without any accompanying evidence. The psychological impact of this framing is significant.</p>
+
+
+
+  
+
+
+<p>This process of dehumanization is not a theoretical construct but a lived reality. The more a group is targeted with violence and dispossession, the less human they appear to others. The worse they look from being brutalized, the less we feel compelled to stop the brutality. The combination of <a href="https://www.simonandschuster.com/books/American-Intolerance/Robert-E-Bartholomew/9781633884496">demonization</a> and brutalization is liable to provoke disgust rather than sympathy in observers. </p>
+
+<h2>Blameworthy Victims</h2>
+<p>In the necropolitical play of making dead bodies acceptable, redeploying blame is necessary.<a href="https://link.springer.com/book/10.1007/978-3-031-20236-0"> Social psychology tells us</a> that when people are blamed for their own suffering, we are less likely to sympathize with them and tend not to offer help. <a href="https://journals.sagepub.com/doi/abs/10.1177/1368430219841135">Studies show</a> that dehumanized individuals are often seen as more responsible for their own suffering. This cultural shift in perception makes it easier for political leaders and their supporters to justify the atrocities committed against them.</p>
+
+<p>When an act of aggression is portrayed as self-defense—as the deaths of Renee Good and Alex Pretti in Minnesota were—the public has historically been more likely to blame the target of aggression rather than the aggressor. When victims are blamed, it is easier for perpetrators justify their actions and for bystanders to remain passive.</p>
+
+<p>In the mechanics of colonial dehumanization, people are not killed for what they've done—they're killed for who they are. This is the heart of necropolitics: the use of state-sanctioned violence to erase a people not only physically, but also politically and morally</p>
+<p>This paralysis many of us feel, then, and our seeming inability to act in the face of mass death, should not be viewed as an accident but rather something that has been engineered through dehumanization, blame redistribution, and the normalization of violence. The atrocity depends on our remaining frozen, unable to move from witness to actor. </p>
+
+<p>To break this paralysis, we must look directly at the violence and name it for what it is. Only then can we refuse the passive role that perpetrators designed for us and reclaim the capacity to respond with our full humanity intact.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/power-culture-and-the-self/202602/the-politics-of-looking-away" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/power-culture-and-the-self/202602/the-politics-of-looking-away</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/power-culture-and-the-self/202602/the-politics-of-looking-away</guid>
+            <dc:creator><![CDATA[Gail Sahar, Ph.D., and M. Gabriela Torres, Ph.D.]]></dc:creator>
+            <pubDate>Fri, 20 Feb 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-02/pexels-cltsan-5343097%20%281%29.jpg?itok=ioRoKKNM" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
