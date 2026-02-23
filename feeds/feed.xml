@@ -4,242 +4,286 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Feb 2026 15:48:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Feb 2026 16:59:19 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 23 Feb 2026 15:48:17 GMT</pubDate>
+        <pubDate>Mon, 23 Feb 2026 16:59:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[How Your Mind Meets Retirement Determines Mood Gain or Pain]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-12/Loriann%20Oberlin.png.jpg?itok=z2gtNGqL" alt="Loriann Oberlin MS, LCPC" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Aging</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">How Your Mind Meets Retirement Determines Mood Gain or Pain</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">It's never too late to alter course and thrive in your second act.</h2><p style="font-size:0.9em;color:#666;">Posted February 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[A (Social) Class Apart: The Hidden Biases Shaping Psychiatry]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/Matthew-Smith.jpg?itok=MauYw0FF" alt="Matthew Smith Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Psychiatry</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">A (Social) Class Apart: The Hidden Biases Shaping Psychiatry</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Prejudices against the poor and marginalized have long influenced ideas about mental health.</h2><p style="font-size:0.9em;color:#666;">Posted February 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Certain age markers drive more visits to therapy, but consider your options carefully for the best help.</li><li style="margin-bottom:6px;">More than half of retirees take on other jobs to pay bills and get ahead. Passion-driven work is the best.</li><li style="margin-bottom:6px;">Loneliness, risks of depression, and alcohol misuse climb during the retirement years.</li>
+              <li style="margin-bottom:6px;">Social psychiatry studies have long been shaped by researchers' biases related to race and class.</li><li style="margin-bottom:6px;">Classic research tended to blame poor mental health on individual failures, rather than unjust social systems.</li><li style="margin-bottom:6px;">Though often unintentional, such biased approaches undermined preventive approaches to mental illness.</li><li style="margin-bottom:6px;">Even today, we have a tendency to blame individuals, rather than systems, for poor mental health outcomes.</li>
+            </ul>
+          </div>
+                    <p>In my<a href="https://www.psychologytoday.com/us/blog/a-short-history-of-mental-health/202511/the-relationship-between-social-class-and-mental"> last article</a>, I talked about the New Haven Study, a psychiatric epidemiology project that examined the relationship between class and mental health in New Haven, Connecticut, during the 1950s. It demonstrated that people on the lower rungs of the social strata were much more likely to suffer from mental illness than those at the top. This social psychiatry study also showed that people representing the lower classes were more likely to be diagnosed with psychoses, rather than neuroses, and to be prescribed invasive, somatic treatments (such as electroconvulsive therapy, drugs, and lobotomy) rather than talk therapies, such as psychoanalysis.</p>
+
+<p>The New Haven Study relied partly on mental health statistics, but it also included a qualitative element. Social psychiatrists investigated the conditions in which people lived and conducted interviews with them, in order to determine how these factors might impact their mental health. These researchers found that most people in the lowest class lived in “crowded old tenements.” The buildings were often dilapidated and lacked the pleasant gardens found in wealthier neighborhoods. </p>
+
+<p>Such conditions should not be surprising. After all, these were people living in relative poverty. But details in the way researchers described such places—as well as those who lived there—indicated something else was going on.</p>
+<h2>Blame vs. Sympathy: How Judgment is Shaped By Social Class</h2>
+<p>One thing that these social psychiatrists (who tended to be white, upper-middle-class, male, and highly educated) tended to focus on was how a state of disrepair often characterized the buildings where those in the lower classes lived. If there were steps up to the door, they were likely to be wobbly or broken. Doors would hang on hinges and not close fully. Flooring would be worn through. Light bulbs were burnt out. Rather than laying blame on the landlords for such deficiencies, the researchers implied that they were the fault of the residents, even though they probably were not responsible for such conditions and likely couldn’t afford to repair anything.</p>
+
+<p>The social psychiatrists also picked up on the dirty and unkempt nature of the tenements, mentioning broken bottles, uncut grass, cigarette butts, stained carpets, smeared countertops, and flies buzzing around. Again, such uncleanliness was put forward as a moral failing. The researchers didn’t think to mention that many of the upper-class homes would have employed housekeepers. Middle-class homes at this time (during the 1950s) were often maintained by a stay-at-home mom, who would have spent a great deal of her time cleaning up after her family. </p>
+
+<p>In contrast, many men and women (and some adolescents) in the tenements would have been working long hours, possibly juggling multiple jobs. Those coping with ill-health, addictions, and/or chronic unemployment may have simply lacked the motivation or energy to clean up homes that were already in a poor state.</p>
+
+<p>When describing other aspects of the interviewees’ lives, the researchers seemed to be quicker to judge than sympathize. They sniffed at the fact that most apartments had televisions (mainly rented), suggesting that the money spent on such luxuries could be expended on more edifying things, such as books. They pointed out how noisy the apartments were, seeming to blame the residents, rather than the thin walls. </p>
+
+<p>Finally, they were aghast at how residents dealt with the inadequate provision of toilets (typically only two for an apartment block housing 20 families). An interviewee explained to a researcher that sometimes men would simply urinate out of the windows. As he was explaining, he spied someone in an adjacent building doing just that. In his horror, the researcher failed to comment on the fact that, when there were only two toilets for nearly 100 people, such things were bound to happen.</p>
+
+
+<h2>Are Biases Still Blinding Us Today?</h2>
+<p>Other studies occurring at the same time, such as the <a href="https://www.psychologytoday.com/us/blog/a-short-history-of-mental-health/202504/is-rural-living-better-for-mental-health">Stirling County Study </a>or the <a href="https://www.psychologytoday.com/us/blog/a-short-history-of-mental-health/202501/mad-in-the-metropolis-is-city-living-bad-for-mental">Midtown Manhattan Study</a>, reveal a similar tendency to condemn the actions of lower-class people, rather than seek explanations in an unequal social system. So, why does this matter? </p>
+<p>Simply put, by bringing their prejudices about working-class people to their research, social psychiatrists were lured into blaming them for their situation—and, by extension, their poor mental health—rather than questioning a social structure characterized by chronic inequality and racism. The result was that social psychiatrists were reluctant to suggest societal solutions to prevent mental illness, such as reducing poverty, inequality, and racism, and instead implied that people at society’s margins ought to “educate” themselves out of poverty. Such thinking was most evident in the approach to Black families in the 1960s, as<a href="https://uncpress.org/9781469627304/whats-wrong-with-the-poor/"> Mical Raz’s research</a> shows.</p>
+
+<p>Today, it’s not so different. We have even more evidence that social factors drive mental illness, but we remain largely unwilling to tackle these problems at the source, even as society grows more and more unequal. I have suggested that <a href="https://www.psychologytoday.com/us/blog/short-history-mental-health/201911/universal-basic-income-and-mental-health">universal basic income </a>could be a good way to change this mindset—but changing our mindset could itself be a good starting point. Rather than leaping to judgment, we should seek to ask why people do, and feel, the way they do—even when they are urinating out of a window.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/a-short-history-of-mental-health/202602/a-social-class-apart-the-hidden-biases-shaping" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/a-short-history-of-mental-health/202602/a-social-class-apart-the-hidden-biases-shaping</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/a-short-history-of-mental-health/202602/a-social-class-apart-the-hidden-biases-shaping</guid>
+            <dc:creator><![CDATA[Matthew Smith Ph.D.]]></dc:creator>
+            <pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-02/shutterstock_2333252331.jpg?itok=P29667GJ" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Experiencing Awe Through Music and Beyond]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2023-10/Main_photo-removebg-preview.jpg?itok=002r2_SB" alt="Raymond Leone MMT, MT-BC " style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Awe</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Experiencing Awe Through Music and Beyond</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Personal Perspective: What we experience when we feel something we can't put into words.</h2><p style="font-size:0.9em;color:#666;">Posted February 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+                    <p dir="ltr">I’ve been thinking about the concept of awe recently. In fact, one of my "not New Year’s resolutions" this year is to experience more awe in my life. To be open to the beauty and power of life’s wonders and the experiences that give meaning and a sense that there is something bigger to everyday living.</p>
+
+<p dir="ltr">In his book, <em>Awe: The New Science of Everyday Wonder and How It Can Transform Your Life</em>, psychologist Dacher Keltner offers this definition: “Awe is the feeling of being in the presence of something vast that transcends your current understanding of the world.”</p>
+<p dir="ltr">In considering this idea, it certainly seems that we experience awe in nature—seeing the Grand Canyon for the first time, for example, or Niagara Falls or the sunrise over the Atlantic Ocean. But also the tree in your backyard when the leaves change to vibrant yellows and oranges in fall, or a blue heron taking flight over a lake.</p>
+
+<p dir="ltr">While I don’t consider myself the most spiritual person, I imagine that people experience awe in the spiritual—in feeling the presence of some higher power, perhaps through prayer, meditation or a mystical experience. And certainly we experience awe in the arts. When you get chills from hearing a piece of music that moves you from Bach, Brahms, Miles, Coltrane, Lady Gaga, Green Day, or Norah Jones. (Sing to me, Norah!) When you see a painting by da Vinci or Monet, or Pollock, or a graffiti mural downtown. Or architecture, poetry, or a ballet dancer soaring across the stage with grace and strength.</p>
+
+<p dir="ltr">And then there is tasting unbelievable homemade pasta in Tuscany (or at my mom’s house), seeing a baby giggle, or watching a couple in their 90s holding hands while slowly walking down the street. Feeling the immediate elation while letting out an unexpected primal roar, in concert with 40,000 others after a game-winning homer in the bottom of the 9th. Or hearing my daughter sing and seeing the excitement on my son’s face as he tries to explain an intricate math equation that, to me, looks like Arabic. Or your dog’s excitement when you get home at the end of the day.</p>
+
+<p>Is awe simply a more intense feeling of beauty? Or is there more to it? There can be a sense of fear involved in experiencing awe: a massive thunderstorm rolling in or feeling the house shake from winds gusting over 60 miles per hour. The ocean certainly has elements of fear with its vastness and power.</p>
+
+<h2>The power of music and awe</h2>
+<p dir="ltr">As I contemplate awe, and seek more of it in my life, I realize that I actually experience awe every day in my work as a music therapist working in a hospital setting. In facilitating music experiences, and connecting on an aesthetic level with those who are suffering, I experience awe. And in thinking about how awe can be a unique combination of beauty and, perhaps, fear, I often see awe experienced in the patients I work with.</p>
+
+<p dir="ltr">One such man was in his 80s. As cancer had gotten the best of him, he was on in-patient hospice care. As I’m often asked to do, I went to visit him and provide some music for comfort. When I walked into the room he was in bed with his eyes closed, non-respondent. His mouth was agape, and his breathing was shallow and labored. Fortunately, he didn’t seem to be in any pain or discomfort.</p>
+
+<p dir="ltr">I took out my guitar and played a soothing soundscape, working to "hold" him in the space with the music. (Regardless of a patient's condition, I always believe the music gets through. I feel it. And I’ve seen indicators.) As I played, I thought about him—who he was, what he did, what his life was like. I wondered who would miss him. I concentrated on providing the right aesthetics and beauty for the moment. I felt connected to him within the music experience.</p>
+
+<p dir="ltr">Then, after about 15 minutes he suddenly opened his eyes and looked right at me. It startled me. I was frozen and could not move away from his gaze. Somehow I kept the music going. Then I saw a single tear form in his right eye and run down his cheek. He looked unsure, but at the same time, peaceful. After a moment—I don’t know if it was a second or five minutes—his eyes were closed again. I played for a bit longer and then just sat in the silence with him, contemplating what had just happened, and that there may have been something bigger going on here. I later heard that he passed within an hour after I left his room.</p>
+
+
+
+  
+
+
+<p dir="ltr">I believe that while experiencing the aesthetics of the music, combined with a sense of mortal uncertainty about what is beyond this world, he experienced awe. I did too.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/music-therapy-music-musings/202602/experiencing-awe-through-music-and-beyond" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/music-therapy-music-musings/202602/experiencing-awe-through-music-and-beyond</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/music-therapy-music-musings/202602/experiencing-awe-through-music-and-beyond</guid>
+            <dc:creator><![CDATA[Raymond Leone MMT, MT-BC]]></dc:creator>
+            <pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-02/shutterstock_2208437269.jpg?itok=wibjKNL5" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[When Morning Dread Takes Over During Fertility Treatment]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-10/IMG_3472_Copy_Copy_Copy_Copy-removebg-preview.jpg?itok=K8cNzEFs" alt="Fenella Das Gupta Ph.D., MFT" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Infertility</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">When Morning Dread Takes Over During Fertility Treatment</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Why survival mode intensifies during fertility treatment and how to reclaim your pace.</h2><p style="font-size:0.9em;color:#666;">Posted February 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Morning dread during fertility treatment is a nervous system response, not weakness.</li><li style="margin-bottom:6px;">Survival mode can make even self-care feel like performance.</li><li style="margin-bottom:6px;">Small shifts in pace can restore steadiness when control feels lost.</li>
             </ul>
           </div>
                     <div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-02/pexels-cottonbro-4057763.jpg?itok=DGLVB_l1" width="320" height="213" data-insert-type="image" title="cottonbro studio / Pexels" alt="cottonbro studio / Pexels"></div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-02/IMG_0005.jpeg.jpg?itok=b11nB2Tg" width="320" height="213" data-insert-type="image" title="Prostock-studio / Shutterstock" alt="Prostock-studio / Shutterstock"></div>
 <div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: cottonbro studio / Pexels</div>
+<div class="insertArea--origin subtext">Source: Prostock-studio / Shutterstock</div>
 </div>
 </div>
 </div>
-<p>“Often when you think you’re at the end of something, you’re at the beginning of something else,” the late Fred M. Rogers once said. Mister Rogers’ emotional intelligence impacts all ages of people who have big feelings around life changes, self-acceptance, new beginnings, loss, and loneliness.</p>
-<h2>The Emotional Roller Coaster</h2>
+<p>No matter what stage you are in—early in treatment, in the middle of cycles, nearing the end, considering third-party reproduction or adoption, or resolving the journey altogether—the stress and anxiety can feel supercharged. Fertility treatment compresses time, hope, fear, and identity into a tight emotional space.</p>
 
-<p>People anticipate the day they’ll have no commute, office gossip, or problematic people. Colleagues may offer gift cards, books, and travel advice, and pitch volunteer opportunities. Some fete with a party.</p>
-<p>Those first few weeks may find the newly retired jetting to a well-deserved vacation. Some exhale responsi­bilities, sleep in, now off the clock. Yet for others, anxiety, disappointment, and despair surface when reality hits fantasy, especially if retirement was not their choice.</p>
+<h2>The Dread That Arrives Before You Are Ready</h2>
+<p>Perhaps one of the hardest and most commonly reported experiences is the dread that arrives first thing in the morning. It can hit like a ton of bricks. Sometimes, as soon as you properly open your eyes, the phone is already ringing. Or the emails have accumulated, decisions waiting to be made, all needing attention in a timely manner. Before you have even had a moment to orient yourself, your body shifts into hypervigilance mode, with the nagging worry: Is this the right thing? What if this does not work? The day has not yet begun, and already you are behind.</p>
 
-<p>A business closes, artificial intelligence (AI) takes over a job, or a federal career ends amid RIF (reduction in force) or VERA (voluntary early retirement authority). In 2025, the term “fork in the road” quite aptly applied. Physically demanding jobs wear workers out; yet, with home and car payments, plus dependents, they cannot forgo work.</p>
+<h2>When Stress Becomes Existential</h2>
+<p>This is not just medical stress. It is deeply psychological. Deeply existential, even if you do not have the space to consciously name it. Many threads interweave in the tapestry of reproduction: history, identity, partnership, time, and meaning. Each appointment can feel like a verdict. Each phone call can feel like a turning point. The nervous system rarely gets to stand down. It stays slightly activated, always bracing for impact, always preparing for news—good or bad.</p>
 
-<p>In a field clobbered by venture capital (VC) firms, even therapists have left practice rather than compromise licensure, ethics, and liability once they discover the downsides of large chains that lured them.</p>
-<h2>Recognize the Symptoms</h2>
-<p>An upcoming, zero-ending birthday summons reflection. Markers like 55 and 65 raise questions: Is this all there is? What have I accomplished? What’s left for me? How much longer can I survive in [said job]?</p>
+<h2>Living in Anticipatory Tension</h2>
+<p>Over time, this constant bracing takes a toll. The body wakes already tense. The day feels loaded before it has even begun. You can find yourself living in anticipatory tension, caught between hope and self-protection, longing and fear.</p>
+<h2>All the Best-Laid Plans</h2>
+<p>Even with the best intentions for self-care—plans for meditation, spirituality, breathing exercises, and gratitude practices—at the times of greatest stress, these can start to feel like extra tasks. Things we have to do on top of the things we have to do.</p>
 
-<p>What if you’ve experienced a few months to decompress, then begin questioning whether ends meet amid inflation, housing, and other factors.</p>
-<p>Mental health counselors see an uptick in requests due to anticipatory fear, sadness, and a loss of structure. Once retired, some experience morning chest heaviness, frequent headaches, tight muscles, aches and pains, evening dread, or a sense of malaise. Physical stress signs lead them to primary care doctors first.</p>
+<p>You may genuinely want to journal. You may believe in your affirmations. You may know that breathing slowly would help. But when the nervous system is in survival mode, those practices can begin to feel like obligations rather than support.</p>
+<p>The mind is full, and it races. Fear predominates. And that makes sense. We are biologically wired to move into survival mode when our sense of safety feels threatened. Fertility treatment, with its uncertainty and high stakes, can feel like a direct threat to the life we imagined. Of course the body reacts. Of course it mobilizes. This is not weakness. It is wiring.</p>
 
-<p>As test results populate the patient’s portal and an anxiety diagnosis arises, referrals for counseling result. Research points to the relationship between depression and retirement; it’s not a normative part of growing older, according to a 2022 report in <em>Clinical Interventions in Aging</em>.<sup>1</sup></p>
-<h2>Choosing the Right Help</h2>
+<h2>The Exhaustion of Performing</h2>
+<p>On our hardest days, we often feel the need to perform just to get through the day. To show up at work. To respond to messages. To sit across from friends and make conversation. Not to let others see how much fear or grief is running underneath.</p>
+<p>That performance is exhausting.</p>
 
-<p>Those who anticipate this crossroads might use employee benefits while still at work. From a cost perspective, it’s smart. Beware, however, that employee assistance programs (EAPs) have drawbacks.</p>
-<p>Market consolidation and VC-backed companies have subsumed EAPs into profit-driven networks. Because EAP provider pay is low, you may be assigned to therapists starting out. When you’re age 50 plus, discerning retirement and finances, you’ll often benefit from a seasoned, similarly aged counselor.</p>
+<p>It requires holding two realities at once: the external face and the internal storm. And if I were to give you a long list of coping tools right now, that might simply kick you back into performance mode. Another set of things to do correctly. Another standard to meet.</p>
+<p>That’s a trap we should both avoid. So, what is left?</p>
 
 
-<p>So, too, training matters. Social work degrees confer case management knowledge plus mental health care. To obtain a counseling degree at Johns Hopkins University, we were required to take career and life planning in addition to a range of clinical mental health and diagnosis courses.</p>
-<p>If you opt for coaching, coaches who also have clinical licensure will better screen a client and slate them for mental health treatment when warranted.</p>
+<h2>The Smallest Shifts</h2>
+<p>When the day feels excruciatingly painful to get through, the simplest things help. Small mantras or two-word reminders like “slow down.” Create small gaps in your day, even if they are only a few minutes long. When things feel heavy, take something off your plate. The world will not create spaces for you. You will need to create spaces in the day for yourself.</p>
 
-<h2>Retirement Counseling or Coaching</h2>
-<p>If a client presents with anxiety, sadness, hopelessness, or worthlessness, hands down, I give them a mental health intake. They can also use most insurances to pay for my services. The 2022 aging study mentioned that Medicare reimbursement disincentivizes providers to accept Medicare. Yet, those on a fixed income often cannot afford $100 or more out of pocket for sessions.</p>
+<p>These shifts are not dramatic. They are not performative. They do not require spiritual alignment or perfect discipline. They are quiet adjustments in pace.</p>
+<p>Or you might try a quiet internal question, such as, <em>Is this high risk or low risk? </em>Ask: <em>How important is this to my life right now? Is this moment actually dangerous, or does it just feel urgent? Does this email, this symptom, this thought about the future require my attention right now?</em></p>
 
 
 
   
 
 
-<p>Coaching, for new direction and life purpose, may mean fewer sessions, paid for privately at a negotiated rate. Because we tend to make life decisions based upon our values, I encourage values work, which is very experiential and thought-provoking, for all clients.</p>
-<p>With a diagnosis, expect to monitor symptoms with short, weekly mental health assessments and delve into your circumstances. Research reports that marital satisfaction and strong, socially active relationships improve a retiree’s mental health. Marital therapy experience comes in handy. On the other hand, those who are removed from social networks and who move into residential long-term care are at greater depression risk.<sup>2</sup></p>
+<p>When we are under prolonged stress, everything can start to register as high risk. A delayed call from the clinic. A sensation in the body. A passing comment from someone else. The brain interprets it all as potentially catastrophic.</p>
+<p>But often, in that specific moment, what we are facing is low risk. It is uncomfortable. It is uncertain. It is emotionally loaded. But it is not immediate danger. It does not require our immediate attention.</p>
 
-<p>Ask yourself who you miss from work. Think of all interactions, down to the barista in the lobby. What was the number of meetings, walk-abouts, conferences, even accolades you received on a formal or subtle basis? Without steady contact, loneliness sets in, which former Surgeon General Vivek Murthy dubbed a public health crisis.<sup>3</sup></p>
+<p>In many situations, we are not obligated to respond right away. Nor are we required to manage other people’s emotions in that instant. Asking the question gently—<em>High risk or low risk?</em>—creates space. It invites the thinking brain back online. It inserts a small wedge between stimulus and reaction.</p>
+<h2>What You Can Control</h2>
 
-<h2>Opting to Work Differently</h2>
-<p>Forecasting with a financial planner is wise, but when suddenly let go or forced out, it’s not too late. One in eight seniors has returned to work or plans to rejoin the workforce. More than half (54 percent) cite inflation and high costs of living as impacting their work/life decisions.<sup>4</sup></p>
-
-<p>Those without sufficient savings can focus upon a different, less stress-filled job. Temp agencies offer short-term projects. Accountants can keep the books for small businesses; those knowledgeable in language, math, or other subjects might tutor. Childcare workers babysit for working parents. Live in a tourist-popular location? Consider renting your home while you travel.<sup>5</sup></p>
-
-<p>Regardless of how you spend your days, passion-driven work helps best. Look at jobs with substantial employee discounts that lessen your cash outlay. Lastly, phase in retirement, working part-time or seasonally. This buffers the hit on your retirement portfolio while you add to Social Security.</p>
-<h2>Overall Adjustments</h2>
-
-<p>Whether you’re preparing to retire or already have:</p>
-<ul>
-<li>Write down changes you’d like: What do you want to see more of and less of, and what fills gaps so some things stay similar? This is a brain dump within a sectioned notebook for travel, volunteerism, and to-do lists. Ideas: Explore a new hobby or culture, learn a language or new software, tackle a clean-out project, or take up yoga, mindfulness, or gardening.</li>
-<li>Identify mood and behavior changes, noticing irritability, lack of patience, anxiety, and hopelessness.<sup>6</sup> In a 2024 study on retirement happiness, 31 percent of retirees reported feeling forlorn, while those who reported more happiness filled their time with social activities, exercise, hobbies, and travel.<sup>7</sup></li>
-<li>Don’t ignore problem behaviors. Compared to when they once worked, older adults often have higher alcohol con­sumption, less physical activity, poor dietary habits, and a higher incidence of smoking.<sup>8</sup></li>
-<li>Engage in cognitively protective activities that involve memory and problem-solving. Break out the puzzles, books, and board games, inviting others. Start a game night, card, or Scrabble group, or host a book club.</li>
-</ul>
-
-<p><em>© 2026 by Loriann Oberlin, MS, LCPC</em></p>
+<p>In an uncertain situation, control is limited. You cannot control outcomes. You cannot force timelines. You cannot eliminate risk.</p>
+<p>But pace is something you can influence.</p>
+<p>And sometimes, on the most stressful days of fertility treatment, reclaiming your pace is the most stabilizing move you can make.</p>
+<p>No performance required.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/the-full-picture/202602/how-your-mind-meets-retirement-determines-mood-gain-or-pain" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/creating-2-pink-lines/202602/when-morning-dread-takes-over-during-fertility-treatment" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/the-full-picture/202602/how-your-mind-meets-retirement-determines-mood-gain-or-pain</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-full-picture/202602/how-your-mind-meets-retirement-determines-mood-gain-or-pain</guid>
-            <dc:creator><![CDATA[Loriann Oberlin MS, LCPC]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/creating-2-pink-lines/202602/when-morning-dread-takes-over-during-fertility-treatment</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/creating-2-pink-lines/202602/when-morning-dread-takes-over-during-fertility-treatment</guid>
+            <dc:creator><![CDATA[S. Fenella Das Gupta Ph.D., MFT]]></dc:creator>
             <pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-02/pexels-cottonbro-4057763.jpg?itok=pkHSgK8S" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-02/IMG_0005.jpeg.jpg?itok=axhNVOvy" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Hunger Games: Why Diets Fail and Weight Loss Medicines Succeed]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/thomas-rutledge-edited-photo.jpg?itok=fUGEYwh1" alt="Thomas Rutledge Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Appetite</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Hunger Games: Why Diets Fail and Weight Loss Medicines Succeed</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Controlling hunger, not calories, is the Holy Grail of weight loss.</h2><p style="font-size:0.9em;color:#666;">Posted February 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Do You Find It Hard to Trust Others?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/Michelle-Mcquaid_0.jpg?itok=kqRvBYok" alt="Michelle McQuaid Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Trust</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Do You Find It Hard to Trust Others?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How to step out of the drama and stop abandoning yourself.</h2><p style="font-size:0.9em;color:#666;">Posted February 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Until recently, weight loss has been a struggle and eventually a failure for most people.</li><li style="margin-bottom:6px;">GLP-1 medicines not only enable broad weight loss success, but they also reveal the crucial role of hunger.</li><li style="margin-bottom:6px;">Whether via bariatric surgery, medicines, or lifestyle, hunger control is essential for long-term weight loss.</li>
+              <li style="margin-bottom:6px;">Waiting for others to change leaves us dependent on something entirely outside our control.</li><li style="margin-bottom:6px;">The hardest part of any broken trust isn't what others did—it's how we abandon ourselves.</li><li style="margin-bottom:6px;">There is a practical path from feeling stuck to trusting yourself in relationships.</li>
             </ul>
           </div>
-                    <p>After a century of futility, the seemingly impenetrable mystery of weight loss is nearly solved. Until late 2022, most of us were taught that the weight loss journey was paved with willpower. Our Sisyphean task was to create a caloric deficit through diet and exercise and maintain it indefinitely through deliberate effort, food, and activity tracking, and enduring lifestyle changes. For the minority, this formula succeeded.<sup>1</sup> Yet most people found that weight loss was a revolving door: No matter the method or the motivation, their weight eventually returned to roughly the same starting point.<sup>2</sup> </p>
+                    <p>Trust feels genuinely difficult right now—and for many of us, for very good reason. Something has shifted. The certainties we relied on feel less certain. The systems we counted on feel less reliable. And the people around us? They can feel harder to read, harder to predict, harder to count on.</p>
+<p>When trust feels this fragile, it’s natural to focus on what others need to do differently. If they were more honest, more consistent, more accountable—then things would feel safer. And sometimes that’s a fair assessment. But waiting for others to change leaves us dependent on something entirely outside our control.</p>
 
-<p>Then something unexpected happened. Following decades of clinical trials yielding ineffective or even dangerous weight loss medicines,<sup>3</sup> a new class of injectable medicines called GLP-1 agonists (GLP=glucagon-like peptide) arrived in 2022-2023.<sup>4</sup> Not only did the average GLP-1 user experience weight loss far surpassing that usually achieved through lifestyle changes alone, their weight loss generally came with minimal conscious effort. For the first time, people were suddenly achieving clinically significant weight loss without tracking calories, practicing specific diets, or willpowering themselves through high-volume exercise routines. The weight loss journey, for millions, had transformed from an uphill slog to a stroll in the park. </p>
+<h2>The More Practical Question</h2>
+<p>What if the more practical question isn’t “Are they trustworthy?”—but “Can I trust myself to navigate whatever they do?”</p>
+<p>This isn’t about lowering the bar for others’ behavior, or pretending difficult people aren’t difficult. It’s about recognizing that how we show up in our relationships is the one thing we can always work with.</p>
 
-<p>The purpose of this post is to explain this weight loss paradigm change, including how it benefits GLP-1 users and non-users alike. The greatest breakthrough from the GLP-1 medicine era was arguably not the novel psychopharmacology. It was shattering the illusion that weight loss was ever about calorie counting, exercise, or controversial diets. <em>Weight loss, instead, was always about controlling hunger.</em><sup>5 </sup></p>
+<h2>What Self-Trust Gives Us</h2>
+<p>Psychologists describe this as <a href="https://www.michellemcquaid.com/making-leadership-work-podcast-series6/">secure attachment to ourselves</a>—and it’s different from confidence or optimism. It’s the quiet knowing that when things get hard, we will show up for ourselves. We’ll advocate for what we need. We’ll ask for help when we need it. We’ll set healthy limits when the situation calls for it. And we won’t abandon ourselves—even if others do.</p>
 
-<p>Turns out that weight loss was a real-life "Hunger Games." GLP-1 medicines simply offered us a reliable strategy for finally winning the game.</p>
-<h2>Winning the Hunger Games</h2>
-<p>To understand the remarkable effectiveness of bariatric surgery and GLP-1 medicines compared to traditional diet and exercise programs for weight loss, you must understand hunger. <em>Surprisingly to many people, the human body doesn't possess an internal calorie detector. </em>Your body doesn't know if you've eaten 500 calories or 5,000. Instead, our body evolved to rely on biological proxy systems that, until the recent era of ultra-processed food, functioned extraordinarily well to regulate our weight and appetite across times of feast and famine. These systems include:</p>
-
-<ol>
-<li>Stretch detectors in the stomach to register food volume.<sup>6</sup></li>
-<li>Appetite hormones such as leptin, insulin, and GLP-1 that partly regulate hunger and satiety.<sup>7</sup></li>
-<li>Nutrient sensors in our gastrointestinal tract (GI) that alert the brain to essential nutrients such as proteins, fatty acids, and micronutrients (the complexity of these nutrient sensors is a reason that the human stomach/GI tract has more neurons than the entire brain of many other animals).<sup>8</sup></li>
-<li>Palatability detectors in the mouth and brain (e.g., taste buds, brain reward pathways) to help us identify foods that are safe and nutritious.<sup>9</sup></li>
-</ol>
-
-<p>Consider the above mechanisms in understanding why many diets and exercise programs fail for long-term weight loss. </p>
-<ul>
-<li>Diets are generally low in food volume (failing to activate satiety through stretch receptors).</li>
-<li>Diets tend to be low in nutrients (failing to stimulate nutrient sensors) and often low in palatability.</li>
-<li>And, if too low calorie or too high in exercise volume, many diets and exercise programs activate leptin-signaling pathways that drive compensatory increases in appetite and reduced metabolic activity for many—but not all—people (i.e., lowering energy expenditure).<sup>10</sup> </li>
-</ul>
-
-<p><em>Increased hunger is the predictable result. </em>And if hunger is a horse, weight gain is the wagon it pulls closely behind. </p>
-<p>The modern era of ultra-processed food consumption also appears to have driven dramatic rises in obesity and obesity-related health condition rates (e.g., diabetes, liver disease, many forms of cancer) by bypassing the above human satiety mechanisms. For instance:</p>
-
+<p>When we have that self-trust, difficult relationships become more navigable—not because the other person has changed, but because we trust ourselves to handle whatever comes.</p>
+<h2>Avoiding the Drama</h2>
+<p>Without that self-trust, we’re vulnerable to a pattern that psychologist Stephen Karpman identified, called<a href="https://journals.sagepub.com/doi/10.1177/0886260520957696"> the Drama Triangle</a>. When we don’t feel safe enough, our nervous system tips into protection mode, and our brains generate stories to make sense of what’s happening. And these stories tend to follow a familiar shape:</p>
 
 <ul>
-<li>Ultra-processed foods frequently contain large amounts of energy (calories) in a size-condensed, low-nutrient, and highly palatable form. An ultra-processed diet is a near-perfect formula for producing fat gain, increased hunger, and frequent emotional cravings (i.e., psychological hunger) in humans due to the way it uniquely hijacks our brain and GI systems.</li>
-<li>Alternatively, a nutrition plan consisting of high fiber and high protein from nutrient-dense whole foods is the single best eating strategy for achieving and maintaining a healthy weight.<sup>11</sup> Ideally, this nutrient plan is coupled with a moderate exercise routine that mitigates the compensatory metabolic responses often induced by high-volume exercise programs.</li>
+<li>We cast someone as the Villain—the source of all our problems.</li>
+<li>We look for a Hero—someone who can fix things and rescue us.</li>
+<li>And see a Victim—overwhelmed, helpless, waiting for something outside themselves to change.</li>
 </ul>
+<p>This isn't a character flaw. It's just faulty maths. Our brains search for the fastest path back to safety—and the story of the Drama Triangle feels like an answer that's easy to understand. But when we place both the threat and the solution outside of ourselves, we abandon ourselves in the process.</p>
 
-<p>Through precisely the same hunger mechanisms through which diets generally fail, bariatric surgery and GLP-1 medicine succeed. </p>
-<ol>
-<li>As a hunger control strategy, bariatric surgery is a blunt force instrument. Bariatric procedures directly modify the stomach and—in the case of gastric bypass surgery—the intestinal tract. The result is a long-term or even permanent reduction in hunger through improved stretch detector mechanisms (far less food is required post-surgery to trigger them) and increased function of appetite hormones.</li>
-<li>If bariatric surgery is a sledgehammer approach to controlling hunger, GLP-1 medicines are a scalpel. First-generation (e.g., Wegovy), second-generation (e.g., Zepbound), and approaching third-generation (e.g., retatrutide) selectively enhance the function of specific appetite hormones and appear to modify palatability and food reward mechanisms. The result is reductions in both physical and psychological hunger for most users. </li>
-</ol>
+<h2>Start With Compassion</h2>
+<p>The first step back toward trusting yourself is to start with compassion—particularly for yourself. When we can see the story we’re stuck in with some kindness and understanding, rather than judgment, something loosens. We’re not a bad person for casting Villains, hoping for Heroes, or seeing Victims. We’re a human being whose brain is trying to manage a situation that feels unsafe.</p>
+
+<p>That moment of self-compassion—“Oh, I'm not feeling safe enough in this situation, and I need a better way to navigate what's unfolding”—is often what creates just enough space to slow down and calculate a more reliable path.<br><br><em>Try asking yourself: Are the stories I'm telling about this situation serving me and others well? Have I gotten myself stuck in a drama triangle? </em></p>
+
+<h2>Then Get Curious</h2>
+<p>Once there’s a little space, curiosity becomes possible. And curiosity changes everything—because it shifts the question from “What did they do wrong?” to “What is mine to learn?”<br><br>Drawing on the research of <a href="https://theempowermentdynamic.com/individuals/">David Emerald</a>, I’ve come to think of this as the Compassion Circle: Every Villain can become a Challenger—someone pushing us toward growth we wouldn’t have chosen but perhaps needed. The Hero we were searching for can become a Coach—someone who supports us while trusting we’re capable. And instead of staying stuck as the Victim, we can step into the role of Creator—someone who recognizes they can’t control others, but can choose their own response.</p>
+
+<p>Personally, I find it helpful to imagine the person I’ve been casting as the Villain with a big red bow on top of their head—the unexpected gift of learning and growth I didn’t ask for, and didn’t want, but am being given nonetheless. </p>
+<p><em>Try asking yourself: What might this situation be trying to teach me? What growth is being asked of me here, even if I didn’t sign up for it?</em></p>
 
 
 
   
 
 
-<h2>Takeaway</h2>
-<p>No matter how you approach your goal of healthy weight loss, hunger is likely to be your most formidable opponent. Although the methods by which they control hunger vary, every effective dietary, physical activity, surgical, and medicinal approach to weight loss capitalizes on known human hunger and satiety mechanisms. In contrast, weight loss methods that fail to adequately control hunger through one or more of these mechanisms rarely produce lasting weight loss. All of us seeking long-term healthy weight management can benefit from the revelations yielded by the new GLP-1 medicines in enhancing our results. </p>
+<h2>Finally, Get Creative</h2>
+<p>With compassion and curiosity as your foundation, more creativity becomes available. This is where we move from stuck to accountable—not waiting to be rescued, not rehearsing the blame story, but taking accountability for our own learning and growth.</p>
+<p>It doesn’t have to be a grand gesture. Small experiments are often the wisest—a different kind of conversation, a boundary named for the first time, help asked for rather than waited on. The point is that you’re no longer waiting for someone to save you. You’re trusting yourself to be in relationships with others.</p>
+
+<p><em>Try asking yourself: How do I want to show up for myself and others in this situation? How will this help me learn to trust myself to be in healthy relationships?</em></p>
+<h2>Where to Start</h2>
+<p>Trusting others will always be complicated. People will sometimes disappoint us—sometimes significantly, and sometimes for reasons entirely within their control. We don’t have to pretend otherwise.</p>
+
+<p>But the question of whether we trust ourselves is one we can actually do something about. Learning to show up for ourselves, to advocate for what we need, to set healthy limits, and to not abandon ourselves when things get hard—this is the foundation that makes navigating who to trust, when to trust, and how to trust others possible.</p>
+
+<p><em>What might change in your relationships if you trusted yourself more?</em></p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/the-healthy-journey/202602/hunger-games-why-diets-fail-and-weight-loss-medicines-succeed" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/from-functioning-to-flourishing/202602/do-you-find-it-hard-to-trust-others" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/the-healthy-journey/202602/hunger-games-why-diets-fail-and-weight-loss-medicines-succeed</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-healthy-journey/202602/hunger-games-why-diets-fail-and-weight-loss-medicines-succeed</guid>
-            <dc:creator><![CDATA[Thomas Rutledge Ph.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/from-functioning-to-flourishing/202602/do-you-find-it-hard-to-trust-others</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/from-functioning-to-flourishing/202602/do-you-find-it-hard-to-trust-others</guid>
+            <dc:creator><![CDATA[Michelle McQuaid Ph.D.]]></dc:creator>
             <pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-02/openclipart-vectors-baby-2028307_1280.png.jpg?itok=fSOsC56V" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-02/Man_Woman_Fighting.jpeg.jpg?itok=Sa3KpntU" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Self-Care Tips for Overwhelmed Parents]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2023-06/Lumanlan.jpg?itok=u-qf3M5y" alt="Lumanlan" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Parenting</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Self-Care Tips for Overwhelmed Parents</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How to deal with parental exhaustion when you can barely get through the day.</h2><p style="font-size:0.9em;color:#666;">Posted February 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[3 Ways to Inoculate a Narcissistic Co-parent's Alienation]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/erinleonardedit.jpg?itok=ObO6nG4A" alt="Erin Leonard Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Divorce</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">3 Ways to Inoculate a Narcissistic Co-parent's Alienation</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Salvage your attachment with your child by using these three strategies.</h2><p style="font-size:0.9em;color:#666;">Posted February 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Tips for overwhelmed parents can start with the HALT framework: hunger, anger, loneliness, and tiredness.</li><li style="margin-bottom:6px;">It may be better to be truly present for shorter periods than depleted all day.</li><li style="margin-bottom:6px;">"Special Time" — 10 minutes of consistent daily play — can be more powerful than an unpredictable hour.</li>
+              <li style="margin-bottom:6px;">A narcissistic co-parent almost always engages in parental alienation.</li><li style="margin-bottom:6px;">Parental alienation occurs when your ex plays the victim and shifts all blame onto you.</li><li style="margin-bottom:6px;">Kids are programmed to protect their attachment relationships and jump in to help one that seems victimized.</li>
             </ul>
           </div>
-                    <p dir="ltr">In Parts <a href="https://www.psychologytoday.com/us/blog/parenting-beyond-power/202602/why-exhausted-parents-keep-snapping-at-their-kids">1</a> and <a href="https://www.psychologytoday.com/us/blog/parenting-beyond-power/202602/parental-burnout-symptoms-and-the-shame-cycle-explained">2</a> of this series, we looked at what happens when your needs go unmet — your window of tolerance narrows, you snap at your kids, and then guilt keeps you stuck in the same patterns. You know you need to take care of yourself. But how do you actually do that when you're already running on empty?</p>
+                    <p>A narcissistic co-parent can be vindictive and seems to have an insatiable need to “win” every power struggle during a divorce. In many instances, they involve the kids and have no qualms about turning your own kids against you. Alternatively, <em>you<strong> </strong></em>want to put the dysfunctional marriage behind you and move forward, prioritizing your kids' health and happiness. The last thing you want is for the kids to endure any additional suffering.</p>
 
-<h2 dir="ltr">Identifying what you actually need</h2>
-<p dir="ltr">The HALT framework helps you identify the basic states that make everything harder. HALT stands for Hungry, Angry, Lonely, Tired — and when you're in any of these states, your window of tolerance gets narrower.</p>
-<p dir="ltr">So before you can think about some elaborate self-care routine, start here:</p>
+<p>Parental alienation takes place when one parent plays the victim with the kids and manipulates them into taking care of them while influencing them to turn their back on you. For example, “You and your dad and your sisters are together in the home that used to be mine. I am completely alone in an apartment. I have never been so lonely. I’m not sure I’m going to make it through this.” When a child hears this, they instantly panic. Biologically, neurologically, psychologically, and emotionally, kids are programmed to protect their attachment relationship. Without a second thought, the child dives in to help a parent that they believe is in peril.</p>
 
-<p dir="ltr"><strong>Physical needs:</strong> Do you have food that's actually easy to eat? Are you getting actual rest, or just scrolling through your phone? Are you moving your body in ways that feel good to you?</p>
-<p dir="ltr"><strong>Emotional needs:</strong> When was the last time another adult really saw you? Someone who actually <a href="https://pubmed.ncbi.nlm.nih.gov/9599440/">asked how you're doing</a> and listened to the answer?</p>
+<p>After the child drops everything to attend to this parent, the parent will further “chain” them to their side by making the child think that they are the only ones who can help them. For example, “What would I do without you? You help me so much. I always know I can count on you. You are the only one who truly helps me.” Now, the child believes that they are responsible for helping their vulnerable parent through hard times… that the parent’s well-being is on their shoulders. This is often referred to as parentification, and it creates intense and constant anxiety in a child and prevents them from enjoying their own childhood.</p>
 
-<p dir="ltr"><strong>Connection needs:</strong> <a href="https://pubmed.ncbi.nlm.nih.gov/25825706/">Brief conversations with people</a> who get it can matter more than you think. Sometimes it's just being around other people who treat you like a person instead of just someone's parent.</p>
-<p dir="ltr"><a href="https://psycnet.apa.org/record/2001-03012-001"><strong>Autonomy</strong></a><strong>:</strong> Do you get to make any choices about your own time? Even small ones help — choosing what to eat, when to go to bed, whether to read or watch something.</p>
+<p>To boot, the narcissistic co-parent continually blames you for their “ruined life.” They say things like, “Your mom takes so much child support that I can barely survive. I cannot afford to buy groceries.” Or “Your dad took my entire retirement account. I’ll be working until I die.”</p>
+<p>Basically, they exaggerate, manipulate, and continue to play the victim while blaming you for their terrible plight in life, and when the child rushes to their side and rejects you, the narcissistic co-parent immediately acts stable and happy. The child now thinks that they have no choice but to rebuff you because they believe it is the only way to keep their vulnerable parent stable. Constantly worried about this parent, they are relieved when they appear happy.</p>
 
-<h2 dir="ltr">What small changes actually look like</h2>
-<p dir="ltr">When parents finally start making progress with their triggers, they usually don't do anything dramatic. The changes are small and concrete:</p>
-<p dir="ltr"><strong>Reduce the number of decisions you make when you're already depleted.</strong> Cook batches of food on the weekend. Lay out clothes the night before. Create simple routines that require less mental energy.</p>
+<p>Because you do not play the victim and you would never ask your child to take care of your emotional needs, the child perceives you as strong and in no need of any help. They also blame you for “ruining” your co-parent’s life. In their mind, you deserve to be punished.</p>
+<p>Once a child is manipulated by the co-parent, they are almost impossible to reach. It seems like the more you try to help them see the dysfunctional dynamic, the more they perceive you as the “bully” that the other parent says you are. Also, kids despise parental drama, and your child has already made up their mind, so they refuse to listen to you. It’s awful, and it may seem hopeless, but it is not. Several strategies may help.</p>
 
-<p dir="ltr"><strong>Protect your </strong><a href="https://yourparentingmojo.com/captivate-podcast/boundariesrevisited/"><strong>energy by saying no.</strong></a><strong> </strong>Each yes to something else is a no to your own capacity to stay regulated.</p>
-<p dir="ltr"><strong>Ask for specific help.</strong> Try: "Could you watch the kids Saturday morning so I can rest?" Make it easy for people to actually help.</p>
-<p dir="ltr"><strong>Find small moments of connection.</strong> Brief conversations with neighbors, a text exchange with a friend who gets it, five minutes of chat with another parent at pickup. Being seen as a person, not just as someone's parent.</p>
+<h2>Three Strategies</h2>
+<p>First, avoid bringing up the other parent. Help your child with the emotional mistreatment that they experience with your co-parent when <em>they<strong> </strong></em>identify that they need your help. When they ask for assistance, refrain from saying anything negative about your co-parent and instead empathize. For example, “You were really shocked and disappointed. I get it, honey. I would feel the same way. You have every right to feel like that.” By empathizing, you are helping them emotionally, but you are not doing what your co-parent does, which is to trash you at any chance they get. Also, you are keeping the focus on your child. This is essential. Next, assist them in thinking about how to manage the predicament in the future so they can protect themselves.</p>
 
-<h2 dir="ltr">When you're already depleted</h2>
-<p dir="ltr">When you're already running on empty, dealing with parental exhaustion requires recognizing that you're depleted and making small choices that create tiny pockets of relief throughout your day.</p>
-<p dir="ltr"><strong>Use screens strategically.</strong> Put on a show your child will actually watch, and rest. Don't scroll through social media comparing yourself to everyone else. Actually close your eyes and rest.</p>
+<p>Second, honor their perspective any chance you get. For example, in the car, they mention that they like a new rapper. You may not like rap, but you honor your child’s perspective. For example, “I’m glad you like them, honey. It’s fun to discover new artists. Music is so therapeutic sometimes.” Validating their viewpoint, even though you have a different perspective, is something that your co-parent may find difficult. A narcissistic co-parent often lacks the ability to consider a different perspective due to their “my way or the highway” attitude. They also believe that they are always right, so they may continually rebuff your child for expressing an opinion that differs from theirs. Unfortunately, your child may have quickly learned to censor themselves and may have already trained themselves to think like your co-parent to avoid emotional abuse.</p>
 
 
-<p dir="ltr"><strong>Go outside if you possibly can.</strong> Even if all you do is sit while your child plays. Fresh air and a change of environment can help reset your nervous system a little bit.</p>
-<p dir="ltr"><strong>Ask yourself: What's ONE thing I can remove from today?</strong> Can you eat a frozen pizza instead of cooking? Skip one activity? Let some things stay messy?</p>
+<p>Third, tell them funny and adorable stories about them as babies and small children. Most kids love hearing about themselves when they were younger. The narratives also validate their deeper qualities. For example, perhaps the story is about your son saving an injured baby bird. Or it may be about your daughter standing up for a friend against a bully at the park. Meaningful stories are everything. They prove to your child that you have always been there, and that you have always <em>seen</em> them. You know who they are, and you can prove this by retelling sacred stories about them when they were much younger. Typically, a narcissistic parent has difficulties doing this. They are focused on getting what they want in the moment, and they prefer to keep things superficial and about themselves, so they lack the ability to identify and remember deep and profound attachment experiences with their children.</p>
 
-<p dir="ltr"><strong>How to talk with your child about this:</strong></p>
-<p dir="ltr">Be honest in <a href="https://psycnet.apa.org/record/1991-23887-001">age-appropriate ways</a>. "I’m feeling very tired. Even sleeping doesn't help right now."</p>
-<p dir="ltr">Use metaphors that kids understand. "You know how when you're tired, and you go to sleep and wake up with energy? For me right now, my tank is so empty that sleep isn't enough. It's like a car with no gas. There's no gas station available. It takes time to refill."</p>
+<p>All three of these strategies have something in common. They allow you to differentiate yourself, relationally, from your co-parent. You can offer your child empathy, perspective-taking, and a deep understanding of who they are and have always been. Your co-parent has great difficulties with these things. Your child probably feels much different with your ex than they do with you. They must censor themselves, take care of your ex’s emotions, and endure the emotional abandonment that they experience when they fall short of their expectations. In time, they may recognize that one parent is emotionally safe, and the other is not. </p>
 
 
 
   
 
 
-<p dir="ltr">Be clear about what's yours: "When I'm this tired, I get impatient. That's about me, not about you. You didn't do anything wrong."</p>
-<p dir="ltr">Don't use terms like "parental burnout". That sounds to a child as though it's their fault for being too much.</p>
-<p dir="ltr">After you recharge, even a little bit, repair: "I was grumpy earlier. That wasn't about you. I was very tired and I didn't handle it well. I'm sorry."</p>
-
-<h2 dir="ltr">Building ongoing support</h2>
-<p dir="ltr"><strong>If you have a partner, talk together about the balance of stressors and resources.</strong> What's draining each of you? What helps? You're recognizing when one person's tank is lower and shifting the load temporarily.</p>
-<p dir="ltr"><strong>Find your village (even when it feels impossible).</strong> Friends who won't judge are worth their weight in gold. Online communities can help if they actually support rather than create more comparison. If a group makes you feel worse about yourself, leave it.</p>
-
-<p dir="ltr"><strong>Getting professional support matters too.</strong> There's a free online tool called the <a href="https://en.burnoutparental.com/suis-je-en-burnout">Parental Burnout Assessment</a> developed by researchers at UC Louvain. It can help you see where you are and which factors are weighing on you most heavily.</p>
-<h2 dir="ltr">What this actually looks like</h2>
-<p dir="ltr">Researcher Moïra Mikolajczak puts it this way: It's better to be truly present for shorter <a href="https://pubmed.ncbi.nlm.nih.gov/29946278/">periods than depleted all day</a>.</p>
-
-<p dir="ltr">That might sound like this: "I'll play with you for 10 minutes and we can build blocks together. Then I need some quiet time. After that, we'll have a snack together."</p>
-<p dir="ltr">The key is follow-through. When you say you need quiet time, actually take it. And when you say you'll reconnect, actually do it.</p>
-<p dir="ltr">This is where "Special Time" comes in. Special Time is about 10 minutes of consistent, daily play where your child chooses the activity and you offer your full attention. Ten minutes every day is far more powerful than an hour that happens unpredictably.</p>
-
-<p dir="ltr">This routine communicates something essential to your child: "You're special. I love you. I want to spend time with you."</p>
-<p dir="ltr">They also learn something else: Adults have needs, too. Meeting those needs is healthy and normal and not something to apologize for.</p>
-<p dir="ltr">You're modeling self-care. You're showing them how to recognize when their own tank is getting low and honor that.</p>
-
-<h2 dir="ltr">Final Thoughts</h2>
-<p dir="ltr">The process of learning to recognize when you're getting depleted and actually doing something about it takes practice. You might try things that don't work. You might forget and push through anyway. Eventually, you get better at catching yourself earlier.</p>
-<p dir="ltr">But even with all these strategies, guilt still shows up. In Part 4, we'll look at how to deal with parental guilt when it comes — because knowing you should meet your needs and actually doing it without feeling terrible about it are two different things.</p>
+<p>You can find more information on this topic in my book, <em>How to Outsmart a Narcissist; Use Emotional Intelligence to Regain Control at Home, Work, and In Life</em>. </p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/parenting-beyond-power/202602/self-care-tips-for-overwhelmed-parents" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/peaceful-parenting/202602/3-ways-to-inoculate-a-narcissistic-co-parents-alienation" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/parenting-beyond-power/202602/self-care-tips-for-overwhelmed-parents</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/parenting-beyond-power/202602/self-care-tips-for-overwhelmed-parents</guid>
-            <dc:creator><![CDATA[Jen Lumanlan M.S., M.Ed.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/peaceful-parenting/202602/3-ways-to-inoculate-a-narcissistic-co-parents-alienation</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/peaceful-parenting/202602/3-ways-to-inoculate-a-narcissistic-co-parents-alienation</guid>
+            <dc:creator><![CDATA[Erin Leonard Ph.D.]]></dc:creator>
             <pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-02/pexels-ekaterina-bolovtsova-7113344.jpg?itok=OpTgnzIx" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-02/D884192F-480C-40B7-AC9F-A65B24F6DE39.png.jpg?itok=bBCrWzcN" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
