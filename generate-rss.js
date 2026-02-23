@@ -10,8 +10,40 @@ const flareSolverrURL = process.env.FLARESOLVERR_URL || "http://localhost:8191";
 // Delay between article fetches to avoid rate limiting
 const FETCH_DELAY_MS = 5000;
 
+// Persists URLs that have already been fetched in previous runs
+const SEEN_FILE = "./feeds/seen.json";
+
 // Ensure feeds folder exists
 fs.mkdirSync("./feeds", { recursive: true });
+
+// ---------------------------------------------------------------------------
+// Seen-URL helpers
+// ---------------------------------------------------------------------------
+
+/** Load the set of previously fetched URLs from disk */
+function loadSeenURLs() {
+  try {
+    if (fs.existsSync(SEEN_FILE)) {
+      const data = JSON.parse(fs.readFileSync(SEEN_FILE, "utf-8"));
+      const set = new Set(Array.isArray(data) ? data : []);
+      console.log(`📂 Loaded ${set.size} previously seen URLs from seen.json`);
+      return set;
+    }
+  } catch (e) {
+    console.warn("⚠️  Could not read seen.json, starting fresh:", e.message);
+  }
+  return new Set();
+}
+
+/** Persist the updated set of seen URLs to disk */
+function saveSeenURLs(seenSet) {
+  fs.writeFileSync(SEEN_FILE, JSON.stringify([...seenSet], null, 2));
+  console.log(`💾 saved ${seenSet.size} URLs to seen.json`);
+}
+
+// ---------------------------------------------------------------------------
+// FlareSolverr fetch
+// ---------------------------------------------------------------------------
 
 async function fetchWithFlareSolverr(url) {
   try {
@@ -46,6 +78,10 @@ function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
 
+// ---------------------------------------------------------------------------
+// Full article fetcher
+// ---------------------------------------------------------------------------
+
 /**
  * Fetches the full article content from an individual article page.
  * Returns an HTML string combining key points + full body.
@@ -74,14 +110,10 @@ async function fetchFullArticle(url) {
     }
 
     // --- Article title & subtitle ---
-    const title = $("h1.blog-entry__title--full").text().trim();
+    const title    = $("h1.blog-entry__title--full").text().trim();
     const subtitle = $("h2.blog-entry__subtitle--full").text().trim();
-    if (title) {
-      fullContent += `<h1 style="font-size:1.6em;margin-bottom:4px;">${title}</h1>`;
-    }
-    if (subtitle) {
-      fullContent += `<h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">${subtitle}</h2>`;
-    }
+    if (title)    fullContent += `<h1 style="font-size:1.6em;margin-bottom:4px;">${title}</h1>`;
+    if (subtitle) fullContent += `<h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">${subtitle}</h2>`;
 
     // --- Author & date ---
     const author = $("a[href*='/us/contributors/']").first().text().trim();
@@ -120,29 +152,27 @@ async function fetchFullArticle(url) {
     // --- Full article body ---
     const bodyEl = $(".field-name-body");
     if (bodyEl.length) {
-      // Remove ad placeholder divs and internal pathway cards
       bodyEl.find(".markup-replacement-slot").remove();
       bodyEl.find(".pathways_card").remove();
-      bodyEl.find(".card-group").remove();  // inline "Essential Reads" blocks
+      bodyEl.find(".card-group").remove();
 
-      // Clean up internal links — keep text but strip href so they don't
-      // break in RSS readers (optional: remove this block to keep links)
       bodyEl.find("a.basics-link").each((_, el) => {
-        const text = $(el).text();
-        $(el).replaceWith(text);
+        $(el).replaceWith($(el).text());
       });
 
-      // Sanitize inline styles that might break RSS readers
       bodyEl.find("[style]").removeAttr("style");
 
       fullContent += bodyEl.html() || "";
     } else {
-      // Fallback: grab any paragraph text from the article
-      const fallback = $("article p").map((_, el) => `<p>${$(el).text().trim()}</p>`).get().join("");
+      // Fallback: plain paragraphs
+      const fallback = $("article p")
+        .map((_, el) => `<p>${$(el).text().trim()}</p>`)
+        .get()
+        .join("");
       fullContent += fallback || "<p>Full content could not be retrieved.</p>";
     }
 
-    // --- Footer: link back to original ---
+    // --- Footer link ---
     fullContent += `
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
@@ -157,15 +187,23 @@ async function fetchFullArticle(url) {
   }
 }
 
+// ---------------------------------------------------------------------------
+// Main
+// ---------------------------------------------------------------------------
+
 async function generateRSS() {
   try {
+    // Load URLs already processed in previous runs
+    const seenURLs = loadSeenURLs();
+
+    // Fetch the homepage
     const htmlContent = await fetchWithFlareSolverr(targetURL);
-
     const $ = cheerio.load(htmlContent);
-    const items = [];
-    const seen = new Set();
 
-    // --- Scrape article teasers from the homepage ---
+    const seenThisRun = new Set(); // dedup within this run
+    const allItems = [];
+
+    // Scrape teasers
     $("article.teaser.teaser-lg.blog-entry--teaser").each((_, el) => {
       const $article = $(el);
 
@@ -176,57 +214,53 @@ async function generateRSS() {
       if (!title || !href) return;
 
       const link = href.startsWith("http") ? href : baseURL + href;
-      if (seen.has(link)) return;
-      seen.add(link);
 
-      const imgEl  = $article.find(".teaser-lg__image img").first();
-      const image  = imgEl.attr("src") || "";
+      // Skip if seen in this run (homepage duplicate)
+      if (seenThisRun.has(link)) return;
+      seenThisRun.add(link);
 
+      const imgEl    = $article.find(".teaser-lg__image img").first();
+      const image    = imgEl.attr("src") || "";
       const authorEl = $article.find("p.teaser-lg__byline");
       const author   = authorEl.find("a").first().text().trim() ||
                        authorEl.text().replace(/\s+/g, " ").trim();
+      const date     = $article.find("span.teaser-lg__published_on").text().trim();
+      const topic    = $article.find("h6.teaser-lg__topic a").text().trim();
+      const summary  = $article.find("p.teaser-lg__summary.teaser-lg__teaser--desktop").text().trim();
 
-      const date    = $article.find("span.teaser-lg__published_on").text().trim();
-      const topic   = $article.find("h6.teaser-lg__topic a").text().trim();
-      const summary = $article.find("p.teaser-lg__summary.teaser-lg__teaser--desktop").text().trim();
-
-      items.push({ title, link, description: "", author, date, image, topic, summary });
+      allItems.push({ title, link, description: "", author, date, image, topic, summary });
     });
 
-    console.log(`Found ${items.length} article teasers on homepage`);
+    console.log(`\nFound ${allItems.length} teasers on homepage`);
 
-    if (items.length === 0) {
-      console.warn("⚠️ No articles found on homepage");
-      items.push({
-        title: "No articles found",
-        link: baseURL,
-        description: "RSS feed could not scrape any articles.",
-        author: "",
-        date: new Date().toUTCString(),
-        image: ""
-      });
+    // Filter to only NEW articles (not seen in any previous run)
+    const newItems = allItems.filter(item => !seenURLs.has(item.link));
+
+    console.log(`🆕 ${newItems.length} new article(s) to fetch (${allItems.length - newItems.length} already seen, skipped)`);
+
+    if (newItems.length === 0) {
+      console.log("✅ No new articles since last run. Feed unchanged.");
+      return;
     }
 
-    // --- Fetch full content for each article (up to 20) ---
-    const articleLimit = 20;
-    const articlesToFetch = items.slice(0, articleLimit);
-
-    console.log(`\nFetching full content for ${articlesToFetch.length} articles...`);
-
-    for (let i = 0; i < articlesToFetch.length; i++) {
-      const item = articlesToFetch[i];
-      console.log(`\n[${i + 1}/${articlesToFetch.length}] ${item.title}`);
+    // Fetch full content for every new article
+    for (let i = 0; i < newItems.length; i++) {
+      const item = newItems[i];
+      console.log(`\n[${i + 1}/${newItems.length}] ${item.title}`);
 
       item.description = await fetchFullArticle(item.link);
 
-      // Be polite — wait between requests
-      if (i < articlesToFetch.length - 1) {
-        console.log(`  ⏳ Waiting ${FETCH_DELAY_MS}ms before next fetch...`);
+      // Mark as seen immediately so a crash mid-run still saves progress
+      seenURLs.add(item.link);
+      saveSeenURLs(seenURLs);
+
+      if (i < newItems.length - 1) {
+        console.log(`  ⏳ Waiting ${FETCH_DELAY_MS / 1000}s before next fetch...`);
         await sleep(FETCH_DELAY_MS);
       }
     }
 
-    // --- Build RSS feed ---
+    // Build RSS with all new items
     const feed = new RSS({
       title: "Psychology Today – Latest",
       description: "Latest articles from Psychology Today (full content)",
@@ -236,7 +270,7 @@ async function generateRSS() {
       pubDate: new Date().toUTCString()
     });
 
-    articlesToFetch.forEach(item => {
+    newItems.forEach(item => {
       const feedItem = {
         title: item.title,
         url: item.link,
@@ -245,17 +279,14 @@ async function generateRSS() {
       };
 
       if (item.author) feedItem.author = item.author;
-
-      if (item.image) {
-        feedItem.enclosure = { url: item.image, type: "image/jpeg" };
-      }
+      if (item.image)  feedItem.enclosure = { url: item.image, type: "image/jpeg" };
 
       feed.item(feedItem);
     });
 
     const xml = feed.xml({ indent: true });
     fs.writeFileSync("./feeds/feed.xml", xml);
-    console.log(`\n✅ RSS generated with ${articlesToFetch.length} full-content items.`);
+    console.log(`\n✅ RSS generated with ${newItems.length} new article(s).`);
 
   } catch (err) {
     console.error("❌ Fatal error generating RSS:", err.message);
