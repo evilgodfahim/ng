@@ -3,8 +3,8 @@ const axios = require("axios");
 const cheerio = require("cheerio");
 const RSS = require("rss");
 
-const baseURL = "https://www.psychologytoday.com";
-const targetURL = "https://www.psychologytoday.com/us";
+const baseURL = "https://www.nationalgeographic.com";
+const targetURL = "https://www.nationalgeographic.com";
 const flareSolverrURL = process.env.FLARESOLVERR_URL || "http://localhost:8191";
 
 // Delay between article fetches to avoid rate limiting
@@ -38,7 +38,7 @@ function loadSeenURLs() {
 /** Persist the updated set of seen URLs to disk */
 function saveSeenURLs(seenSet) {
   fs.writeFileSync(SEEN_FILE, JSON.stringify([...seenSet], null, 2));
-  console.log(`💾 saved ${seenSet.size} URLs to seen.json`);
+  console.log(`💾 Saved ${seenSet.size} URLs to seen.json`);
 }
 
 // ---------------------------------------------------------------------------
@@ -83,8 +83,13 @@ function sleep(ms) {
 // ---------------------------------------------------------------------------
 
 /**
- * Fetches the full article content from an individual article page.
- * Returns an HTML string combining key points + full body.
+ * Fetches the full article content from an individual NatGeo article page.
+ * Returns an HTML string with hero image, metadata, and body content.
+ *
+ * SELECTOR NOTES:
+ *   NatGeo renders content server-side. The selectors below target the
+ *   typical structure as of early 2026. If the feed body comes back empty,
+ *   inspect the raw HTML for the actual class names and update accordingly.
  */
 async function fetchFullArticle(url) {
   try {
@@ -94,97 +99,205 @@ async function fetchFullArticle(url) {
     let fullContent = "";
 
     // --- Hero image ---
-    const heroImg = $("article .blog-entry--header img").first();
+    // NatGeo usually puts the lead image in a <picture> inside the header/figure
+    const heroImg =
+      $("figure.lead-media img").first() ||
+      $("header picture img").first() ||
+      $("[class*='hero'] img").first();
+
     if (heroImg.length) {
-      const src = heroImg.attr("src") || "";
+      const src = heroImg.attr("src") || heroImg.attr("data-src") || "";
       const alt = heroImg.attr("alt") || "";
       if (src) {
         fullContent += `<p><img src="${src}" alt="${alt}" style="max-width:100%;border-radius:6px;"/></p>`;
       }
     }
 
-    // --- Topic / category ---
-    const topic = $("h6.blog-entry__topic--full a").first().text().trim();
+    // --- Category / topic tag ---
+    // Typical selectors: a[class*='category'], span[class*='tag'], div[class*='kicker']
+    const topic =
+      $("a[class*='category']").first().text().trim() ||
+      $("span[class*='kicker']").first().text().trim() ||
+      $("[class*='topic']").first().text().trim();
+
     if (topic) {
       fullContent += `<p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">${topic}</strong></p>`;
     }
 
-    // --- Article title & subtitle ---
-    const title    = $("h1.blog-entry__title--full").text().trim();
-    const subtitle = $("h2.blog-entry__subtitle--full").text().trim();
+    // --- Title & subtitle ---
+    const title    = $("h1").first().text().trim();
+    const subtitle =
+      $("h2[class*='subtitle']").first().text().trim() ||
+      $("p[class*='dek']").first().text().trim() ||
+      $("div[class*='intro']").first().text().trim();
+
     if (title)    fullContent += `<h1 style="font-size:1.6em;margin-bottom:4px;">${title}</h1>`;
     if (subtitle) fullContent += `<h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">${subtitle}</h2>`;
 
     // --- Author & date ---
-    const author = $("a[href*='/us/contributors/']").first().text().trim();
-    const date   = $(".blog_entry--date").first().text().trim();
+    // NatGeo typically uses <a class="Byline__Name"> and <time> elements
+    const author =
+      $("a[class*='Byline__Name']").first().text().trim() ||
+      $("[class*='byline'] a").first().text().trim() ||
+      $("[class*='author']").first().text().trim();
+
+    const date =
+      $("time[class*='Byline__Date']").first().text().trim() ||
+      $("time").first().attr("datetime") ||
+      $("[class*='date']").first().text().trim();
+
     if (author || date) {
       fullContent += `<p style="font-size:0.9em;color:#666;">`;
       if (author) fullContent += `By <strong>${author}</strong>`;
       if (author && date) fullContent += " &nbsp;|&nbsp; ";
-      if (date)   fullContent += `Posted ${date}`;
+      if (date)   fullContent += `Published ${date}`;
       fullContent += `</p>`;
     }
 
     fullContent += `<hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>`;
 
-    // --- Key Points block ---
-    const keyPointsBlock = $(".blog_entry__key-points");
-    if (keyPointsBlock.length) {
-      const keyPointsTitle = keyPointsBlock.find(".blog_entry__key-points-title").text().trim();
-      const points = [];
-      keyPointsBlock.find(".blog_entry__key-points-item").each((_, el) => {
-        const text = $(el).text().trim();
-        if (text) points.push(text);
-      });
+    // --- Article body ---
+    // NatGeo's article body lives in a div with class names like
+    // "article__body", "ArticleBody", or "[class*='body-text']".
+    // Try each selector in priority order.
+    const bodySelectors = [
+      "div[class*='article__body']",
+      "div[class*='ArticleBody']",
+      "div[class*='body-text']",
+      "section[class*='article-body']",
+      "div[data-testid='article-body']",
+      "article"
+    ];
 
-      if (points.length) {
-        fullContent += `
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">${keyPointsTitle || "Key Points"}</strong>
-            <ul style="margin:0;padding-left:20px;">
-              ${points.map(p => `<li style="margin-bottom:6px;">${p}</li>`).join("")}
-            </ul>
-          </div>`;
+    let bodyEl = null;
+    for (const sel of bodySelectors) {
+      const el = $(sel).first();
+      if (el.length) {
+        bodyEl = el;
+        break;
       }
     }
 
-    // --- Full article body ---
-    const bodyEl = $(".field-name-body");
-    if (bodyEl.length) {
-      bodyEl.find(".markup-replacement-slot").remove();
-      bodyEl.find(".pathways_card").remove();
-      bodyEl.find(".card-group").remove();
+    if (bodyEl) {
+      // Remove ad slots, newsletter prompts, related-content cards
+      bodyEl.find("[class*='ad-slot']").remove();
+      bodyEl.find("[class*='newsletter']").remove();
+      bodyEl.find("[class*='related']").remove();
+      bodyEl.find("[class*='promo']").remove();
+      bodyEl.find("[class*='social-share']").remove();
+      bodyEl.find("script, style").remove();
 
-      bodyEl.find("a.basics-link").each((_, el) => {
-        $(el).replaceWith($(el).text());
-      });
-
+      // Strip inline styles so reader apps can apply their own
       bodyEl.find("[style]").removeAttr("style");
+
+      // Make relative image src attributes absolute
+      bodyEl.find("img[src]").each((_, imgEl) => {
+        const src = $(imgEl).attr("src") || "";
+        if (src.startsWith("/")) {
+          $(imgEl).attr("src", baseURL + src);
+        }
+      });
 
       fullContent += bodyEl.html() || "";
     } else {
-      // Fallback: plain paragraphs
-      const fallback = $("article p")
+      // Fallback: collect all <p> text from the page
+      const fallback = $("article p, main p")
         .map((_, el) => `<p>${$(el).text().trim()}</p>`)
         .get()
+        .filter(p => p.length > 15)   // skip near-empty paragraphs
         .join("");
       fullContent += fallback || "<p>Full content could not be retrieved.</p>";
     }
 
-    // --- Footer link ---
+    // --- Footer attribution link ---
     fullContent += `
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="${url}" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="${url}" target="_blank">Read the original article on National Geographic →</a>
       </p>`;
 
     return fullContent;
 
   } catch (err) {
     console.error(`⚠️  Could not fetch full article for ${url}: ${err.message}`);
-    return `<p><em>Full article could not be loaded. <a href="${url}">Read on Psychology Today</a>.</em></p>`;
+    return `<p><em>Full article could not be loaded. <a href="${url}">Read on National Geographic</a>.</em></p>`;
   }
+}
+
+// ---------------------------------------------------------------------------
+// Homepage teaser scraper
+// ---------------------------------------------------------------------------
+
+/**
+ * Extracts article teasers from the NatGeo homepage.
+ *
+ * NatGeo card markup uses a mix of:
+ *   - <a class="AnchorLink"> wrapping a card
+ *   - <div class="Card"> or <div class="GridPromo">
+ *   - <h3 class="PromoTitle"> or <span class="PromoTitle">
+ *
+ * The function tries several selector strategies so it is resilient to
+ * minor markup changes. Adjust SELECTOR_STRATEGIES if NatGeo redesigns.
+ */
+function scrapeHomepageTeasers($) {
+  const items = [];
+
+  // Strategy 1 – explicit card containers with a headline link
+  $("div[class*='Card'], div[class*='Promo'], div[class*='card'], article").each((_, el) => {
+    const $card = $(el);
+
+    // Find the primary headline link
+    const linkEl =
+      $card.find("h2 a, h3 a, h4 a, [class*='Title'] a, [class*='headline'] a").first();
+
+    const href  = linkEl.attr("href") || $card.find("a[href*='/article']").first().attr("href") || "";
+    const title = linkEl.text().trim() || $card.find("[class*='Title']").first().text().trim();
+
+    if (!title || !href) return;
+
+    // Only keep article URLs (skip /topic/, /video/, etc. if desired)
+    if (!href.includes("/article") && !href.includes("/animals/") &&
+        !href.includes("/environment/") && !href.includes("/science/") &&
+        !href.includes("/history-culture/") && !href.includes("/travel/") &&
+        !href.includes("/photography/")) return;
+
+    const link = href.startsWith("http") ? href : baseURL + href;
+
+    const image =
+      $card.find("img").first().attr("src") ||
+      $card.find("img").first().attr("data-src") || "";
+
+    const author =
+      $card.find("[class*='Byline'] a").first().text().trim() ||
+      $card.find("[class*='byline']").first().text().trim();
+
+    const date =
+      $card.find("time").first().attr("datetime") ||
+      $card.find("[class*='Date']").first().text().trim();
+
+    const topic =
+      $card.find("[class*='Kicker'] a, [class*='kicker'] a, [class*='topic'] a").first().text().trim() ||
+      $card.find("[class*='Category']").first().text().trim();
+
+    const summary =
+      $card.find("[class*='Dek'], [class*='dek'], [class*='summary'], p").first().text().trim();
+
+    items.push({ title, link, description: "", author, date, image, topic, summary });
+  });
+
+  // Strategy 2 – fallback: any anchor whose href looks like an article
+  if (items.length === 0) {
+    $("a[href*='/article']").each((_, el) => {
+      const $a   = $(el);
+      const href = $a.attr("href") || "";
+      const link = href.startsWith("http") ? href : baseURL + href;
+      const title = $a.text().trim() || $a.find("h2, h3, h4").first().text().trim();
+      if (!title || title.length < 5) return;
+      items.push({ title, link, description: "", author: "", date: "", image: "", topic: "", summary: "" });
+    });
+  }
+
+  return items;
 }
 
 // ---------------------------------------------------------------------------
@@ -201,34 +314,13 @@ async function generateRSS() {
     const $ = cheerio.load(htmlContent);
 
     const seenThisRun = new Set(); // dedup within this run
-    const allItems = [];
+    let allItems = scrapeHomepageTeasers($);
 
-    // Scrape teasers
-    $("article.teaser.teaser-lg.blog-entry--teaser").each((_, el) => {
-      const $article = $(el);
-
-      const titleEl = $article.find("h2.teaser-lg__title a").first();
-      const title   = titleEl.text().trim();
-      const href    = titleEl.attr("href");
-
-      if (!title || !href) return;
-
-      const link = href.startsWith("http") ? href : baseURL + href;
-
-      // Skip if seen in this run (homepage duplicate)
-      if (seenThisRun.has(link)) return;
-      seenThisRun.add(link);
-
-      const imgEl    = $article.find(".teaser-lg__image img").first();
-      const image    = imgEl.attr("src") || "";
-      const authorEl = $article.find("p.teaser-lg__byline");
-      const author   = authorEl.find("a").first().text().trim() ||
-                       authorEl.text().replace(/\s+/g, " ").trim();
-      const date     = $article.find("span.teaser-lg__published_on").text().trim();
-      const topic    = $article.find("h6.teaser-lg__topic a").text().trim();
-      const summary  = $article.find("p.teaser-lg__summary.teaser-lg__teaser--desktop").text().trim();
-
-      allItems.push({ title, link, description: "", author, date, image, topic, summary });
+    // Deduplicate within this run
+    allItems = allItems.filter(item => {
+      if (seenThisRun.has(item.link)) return false;
+      seenThisRun.add(item.link);
+      return true;
     });
 
     console.log(`\nFound ${allItems.length} teasers on homepage`);
@@ -260,12 +352,13 @@ async function generateRSS() {
       }
     }
 
-    // Build RSS with all new items
+    // Build RSS feed
     const feed = new RSS({
-      title: "Psychology Today – Latest",
-      description: "Latest articles from Psychology Today (full content)",
-      feed_url: `${targetURL}/feed`,
+      title: "National Geographic – Latest",
+      description: "Latest articles from National Geographic (full content)",
+      feed_url: `${baseURL}/feed`,
       site_url: baseURL,
+      image_url: "https://www.nationalgeographic.com/favicon.ico",
       language: "en",
       pubDate: new Date().toUTCString()
     });
@@ -278,8 +371,9 @@ async function generateRSS() {
         date: item.date ? new Date(item.date) : new Date()
       };
 
-      if (item.author) feedItem.author = item.author;
-      if (item.image)  feedItem.enclosure = { url: item.image, type: "image/jpeg" };
+      if (item.author)  feedItem.author    = item.author;
+      if (item.topic)   feedItem.categories = [item.topic];
+      if (item.image)   feedItem.enclosure  = { url: item.image, type: "image/jpeg" };
 
       feed.item(feedItem);
     });
@@ -292,9 +386,9 @@ async function generateRSS() {
     console.error("❌ Fatal error generating RSS:", err.message);
 
     const feed = new RSS({
-      title: "Psychology Today (error fallback)",
+      title: "National Geographic (error fallback)",
       description: "RSS feed could not scrape, showing placeholder",
-      feed_url: `${targetURL}/feed`,
+      feed_url: `${baseURL}/feed`,
       site_url: baseURL,
       language: "en",
       pubDate: new Date().toUTCString()
@@ -302,7 +396,7 @@ async function generateRSS() {
     feed.item({
       title: "Feed generation failed",
       url: baseURL,
-      description: "An error occurred during scraping.",
+      description: "An error occurred during scraping. Check the console logs.",
       date: new Date()
     });
     fs.writeFileSync("./feeds/feed.xml", feed.xml({ indent: true }));
