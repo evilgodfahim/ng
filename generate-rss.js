@@ -73,6 +73,10 @@ function scrapeHomepageTeasers($) {
     if (!title || !href) return;
 
     const link = href.startsWith("http") ? href : baseURL + href;
+
+    // Only select items whose link contains "/article/"
+    if (!link.includes("/article/")) return;
+
     if (seenLinks.has(link)) return;
     seenLinks.add(link);
 
