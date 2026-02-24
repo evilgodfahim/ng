@@ -9,15 +9,15 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Feb 2026 15:53:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Feb 2026 17:02:27 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 24 Feb 2026 15:53:41 GMT</pubDate>
+        <pubDate>Tue, 24 Feb 2026 17:02:27 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Everything to know about Bryce Canyon National Park]]></title>
-            <link>https://www.nationalgeographic.com/travel/national-parks/article/bryce-canyon-national-park</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/national-parks/article/bryce-canyon-national-park</guid>
-            <pubDate>Tue, 24 Feb 2026 15:53:41 GMT</pubDate>
+            <title><![CDATA[After 175 years, Galápagos giant tortoises return home]]></title>
+            <link>https://www.nationalgeographic.com/animals/article/giant-tortoises-galapagos-floreana-island</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/giant-tortoises-galapagos-floreana-island</guid>
+            <pubDate>Tue, 24 Feb 2026 17:02:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
