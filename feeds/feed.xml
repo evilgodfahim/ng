@@ -9,21 +9,15 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Feb 2026 18:57:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Feb 2026 06:58:07 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 23 Feb 2026 18:57:08 GMT</pubDate>
+        <pubDate>Tue, 24 Feb 2026 06:58:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[The mummies forged through fire and ice]]></title>
-            <link>https://www.nationalgeographic.com/history/article/dead-world-mummies-fire-ice-video</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/dead-world-mummies-fire-ice-video</guid>
-            <pubDate>Mon, 23 Feb 2026 18:57:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The inside guide to Malaysia's ultimate food city]]></title>
-            <link>https://www.nationalgeographic.com/travel/article/best-places-to-eat-in-george-town-malaysia-food-guide</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/best-places-to-eat-in-george-town-malaysia-food-guide</guid>
-            <pubDate>Mon, 23 Feb 2026 18:57:08 GMT</pubDate>
+            <title><![CDATA[Before the Great Migration, there was the Great Exodus]]></title>
+            <link>https://www.nationalgeographic.com/history/article/great-exodus-midwest-nicodemus-kansas</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/great-exodus-midwest-nicodemus-kansas</guid>
+            <pubDate>Tue, 24 Feb 2026 06:58:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
