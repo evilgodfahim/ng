@@ -126,29 +126,78 @@ function extractTilesFromState(stateObj) {
 }
 
 // ---------------------------------------------------------------------------
+// Bracket-balanced JSON extractor.
+// Finds the first `{` after `needle` in `text` and reads until the matching `}`
+// ---------------------------------------------------------------------------
+
+function extractBalancedJSON(text, needle) {
+  const start = text.indexOf(needle);
+  if (start === -1) return null;
+
+  const brace = text.indexOf("{", start + needle.length);
+  if (brace === -1) return null;
+
+  let depth = 0;
+  let inString = false;
+  let escape = false;
+
+  for (let i = brace; i < text.length; i++) {
+    const ch = text[i];
+    if (escape) { escape = false; continue; }
+    if (ch === "\\" && inString) { escape = true; continue; }
+    if (ch === '"' && !escape) { inString = !inString; continue; }
+    if (inString) continue;
+    if (ch === "{") depth++;
+    else if (ch === "}") {
+      depth--;
+      if (depth === 0) {
+        return text.slice(brace, i + 1);
+      }
+    }
+  }
+  return null;
+}
+
+// ---------------------------------------------------------------------------
 // Parse the __natgeo__ JSON from an inline <script> tag
 // ---------------------------------------------------------------------------
 
 function parseNatGeoState(html) {
-  const $ = cheerio.load(html);
-  let stateObj = null;
+  // Try both assignment styles NatGeo uses
+  const needles = [
+    "window['__natgeo__']=",
+    'window["__natgeo__"]=',
+    "window['__natgeo__'] =",
+    '__natgeo__={'
+  ];
 
-  $("script").each((_, el) => {
-    const text = $(el).html() || "";
-    if (text.includes("__natgeo__") && text.includes('"hub"')) {
-      // Extract the JSON object assigned to window['__natgeo__']
-      const match = text.match(/window\['__natgeo__'\]\s*=\s*(\{[\s\S]+\});?\s*<\/script/);
-      if (match) {
-        try {
-          stateObj = JSON.parse(match[1]);
-        } catch (e) {
-          console.warn("⚠️  JSON parse failed:", e.message.substring(0, 80));
-        }
+  for (const needle of needles) {
+    const raw = extractBalancedJSON(html, needle);
+    if (raw) {
+      try {
+        const obj = JSON.parse(raw);
+        console.log(`✅ Parsed __natgeo__ state (${Math.round(raw.length / 1024)}KB)`);
+        return obj;
+      } catch (e) {
+        console.warn(`⚠️  JSON parse failed for needle "${needle}":`, e.message.substring(0, 100));
       }
     }
-  });
+  }
 
-  return stateObj;
+  // Last resort: dump all script tags that mention __natgeo__ for debugging
+  const $ = cheerio.load(html);
+  let found = 0;
+  $("script").each((_, el) => {
+    const t = ($(el).html() || "");
+    if (t.includes("__natgeo__")) {
+      found++;
+      const preview = t.substring(0, 200).replace(/\n/g, " ");
+      console.warn(`  Script[${found}] preview: ${preview}`);
+    }
+  });
+  if (found === 0) console.warn("⚠️  No script tags containing __natgeo__ found at all");
+
+  return null;
 }
 
 // ---------------------------------------------------------------------------
