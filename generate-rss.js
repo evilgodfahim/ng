@@ -90,10 +90,13 @@ function extractTilesFromState(stateObj) {
     const title = tile.title || tile.abstract || "";
     const image = pickImage(tile.img);
 
-    if (!link || !title) return;
+    if (!link || !title || title.trim().length === 0) return;
     if (!link.startsWith("http")) link = baseURL + link;
     // Only include actual article pages
     if (!link.includes("nationalgeographic.com")) return;
+    // Exclude unwanted sections
+    if (link.includes("natgeotv.com")) return;
+    if (link.includes("kids.nationalgeographic")) return;
     if (seenLinks.has(link)) return;
     seenLinks.add(link);
 
