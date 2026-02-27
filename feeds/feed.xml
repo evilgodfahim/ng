@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Feb 2026 19:41:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Feb 2026 09:36:29 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 26 Feb 2026 19:41:05 GMT</pubDate>
+        <pubDate>Fri, 27 Feb 2026 09:36:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[We just learned a lot more about Neanderthal-human mating]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/8a6cd4c1-dc89-4483-ba39-472ed7f05e8d/C0523194-Neanderthal_model_16x9.jpg" alt="We just learned a lot more about Neanderthal-human mating" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/history/article/neanderthal-men-human-women-mating</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/neanderthal-men-human-women-mating</guid>
-            <pubDate>Thu, 26 Feb 2026 19:41:05 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/8a6cd4c1-dc89-4483-ba39-472ed7f05e8d/C0523194-Neanderthal_model_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[24 hours in Veliko Tarnovo, Bulgaria's cultural capital]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/ba2d6683-7bf9-4ba1-a33d-c2efba2f716e/GettyImages-1458029366_16x9.jpg" alt="24 hours in Veliko Tarnovo, Bulgaria's cultural capital" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/paid-content-explore-veliko-tarnovo-bulgaria</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/paid-content-explore-veliko-tarnovo-bulgaria</guid>
+            <pubDate>Fri, 27 Feb 2026 09:36:29 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/ba2d6683-7bf9-4ba1-a33d-c2efba2f716e/GettyImages-1458029366_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
