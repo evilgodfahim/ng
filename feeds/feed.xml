@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Feb 2026 09:21:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Feb 2026 15:17:36 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 28 Feb 2026 09:21:40 GMT</pubDate>
+        <pubDate>Sat, 28 Feb 2026 15:17:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[The world's best conservation projects worth travelling for]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/9482f705-5315-49f3-8ea1-a874b33e889f/Coral_Gardeners_2_16x9.jpg" alt="The world's best conservation projects worth travelling for" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/the-worlds-best-conservation-projects-worth-travelling-for</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/the-worlds-best-conservation-projects-worth-travelling-for</guid>
-            <pubDate>Sat, 28 Feb 2026 09:21:40 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/9482f705-5315-49f3-8ea1-a874b33e889f/Coral_Gardeners_2_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Why March is Women's History Month in the U.S.]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/490e02f2-5c9a-400b-ada8-bc66506ec082/GettyImages-181944846_16x9.jpg" alt="Why March is Women's History Month in the U.S." style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/why-the-us-celebrates-womens-history-month-every-march</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/why-the-us-celebrates-womens-history-month-every-march</guid>
+            <pubDate>Sat, 28 Feb 2026 15:17:36 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/490e02f2-5c9a-400b-ada8-bc66506ec082/GettyImages-181944846_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
