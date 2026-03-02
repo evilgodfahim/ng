@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Mar 2026 09:25:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Mar 2026 09:43:16 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 01 Mar 2026 09:25:18 GMT</pubDate>
+        <pubDate>Mon, 02 Mar 2026 09:43:16 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[7 reading retreats to book now]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/cc7d7049-98d0-4a85-bb44-613b84c4a8f9/GettyImages-2213150324_RESIZED_16x9.jpg" alt="7 reading retreats to book now" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/best-reading-retreats-to-book-now</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/best-reading-retreats-to-book-now</guid>
-            <pubDate>Sun, 01 Mar 2026 09:25:18 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/cc7d7049-98d0-4a85-bb44-613b84c4a8f9/GettyImages-2213150324_RESIZED_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[This African island is a lush, lost Eden]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/02a92355-5493-4d5c-bdea-c6fd5c99ddec/principe_AWL_SAO1180AW_HR_16x9.jpg" alt="This African island is a lush, lost Eden" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/how-conservation-is-reshaping-principe-africas-lush-lost-eden</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/how-conservation-is-reshaping-principe-africas-lush-lost-eden</guid>
+            <pubDate>Mon, 02 Mar 2026 09:43:16 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/02a92355-5493-4d5c-bdea-c6fd5c99ddec/principe_AWL_SAO1180AW_HR_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
