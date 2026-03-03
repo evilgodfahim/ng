@@ -9,25 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Mar 2026 20:32:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Mar 2026 09:37:30 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 02 Mar 2026 20:32:14 GMT</pubDate>
+        <pubDate>Tue, 03 Mar 2026 09:37:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[These 7 retreats are perfect for night-sky watching]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/ad23097e-1328-4399-9906-ba09a895238d/Starrynight_16x9.jpg" alt="These 7 retreats are perfect for night-sky watching" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/best-cabins-stargazing</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/best-cabins-stargazing</guid>
-            <pubDate>Mon, 02 Mar 2026 20:32:14 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/ad23097e-1328-4399-9906-ba09a895238d/Starrynight_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[The science behind love at first sight]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/ebf672d2-8108-4e81-9b2c-47eb2686f47d/6373253_2_16x9.jpg" alt="The science behind love at first sight" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/science/article/love-at-first-sight-science</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/love-at-first-sight-science</guid>
-            <pubDate>Mon, 02 Mar 2026 20:32:14 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/ebf672d2-8108-4e81-9b2c-47eb2686f47d/6373253_2_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[How this 800-year-old Chinese village is using the power of song]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/46907ef8-826e-4d5b-ad21-38b62d87a1e6/China_AN204312_HR_16x9.jpg" alt="How this 800-year-old Chinese village is using the power of song" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/how-the-800-year-old-chinese-village-guizhou-is-using-the-power-of-song</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/how-the-800-year-old-chinese-village-guizhou-is-using-the-power-of-song</guid>
+            <pubDate>Tue, 03 Mar 2026 09:37:30 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/46907ef8-826e-4d5b-ad21-38b62d87a1e6/China_AN204312_HR_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
