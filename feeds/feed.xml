@@ -9,17 +9,41 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Mar 2026 09:36:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Mar 2026 12:44:19 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 04 Mar 2026 09:36:07 GMT</pubDate>
+        <pubDate>Wed, 04 Mar 2026 12:44:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Spend 3 days exploring Iceland’s Reykjanes Peninsula]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/e8241470-c99a-403b-a23c-49c8a0fd2026/resizedone_16x9.jpg" alt="Spend 3 days exploring Iceland’s Reykjanes Peninsula" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/paid-content-spend-3-days-exploring-the-dramatic-landscapes-of-icelands-reykjanes-peninsula</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/paid-content-spend-3-days-exploring-the-dramatic-landscapes-of-icelands-reykjanes-peninsula</guid>
-            <pubDate>Wed, 04 Mar 2026 09:36:07 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/e8241470-c99a-403b-a23c-49c8a0fd2026/resizedone_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[9 things to know about Holi, India’s most colorful festival]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/e981536f-5cb8-4106-a1ba-cb8458a3c29e/holi-festival-india_16x9.jpg" alt="9 things to know about Holi, India’s most colorful festival" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/culture/article/facts-hindu-holi-festival</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/culture/article/facts-hindu-holi-festival</guid>
+            <pubDate>Wed, 04 Mar 2026 12:44:19 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/e981536f-5cb8-4106-a1ba-cb8458a3c29e/holi-festival-india_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[What you don’t know about the Vikings]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/272cbb88-e842-4215-9c63-2cea0fc625fd/MM8450_160126_01939_16x9.jpg" alt="What you don’t know about the Vikings" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/vikings-ship-burials-battle-reenactor</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/vikings-ship-burials-battle-reenactor</guid>
+            <pubDate>Wed, 04 Mar 2026 12:44:19 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/272cbb88-e842-4215-9c63-2cea0fc625fd/MM8450_160126_01939_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[10 of the best family-friendly things to do in Tennessee]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/b107940a-31f5-434c-a40e-670037eaee16/shutterstock_2452012395-3_16x9.jpg" alt="10 of the best family-friendly things to do in Tennessee" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/best-family-travel-tennessee</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/best-family-travel-tennessee</guid>
+            <pubDate>Wed, 04 Mar 2026 12:44:19 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/b107940a-31f5-434c-a40e-670037eaee16/shutterstock_2452012395-3_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[How travel insurance can—and can’t—help when plans change]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/c3c96f1f-2e3f-4b7f-b9b4-5a885c2c06f0/_GettyImages-2162665033_16x9.jpg" alt="How travel insurance can—and can’t—help when plans change" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/how-and-why-to-buy-travel-insurance</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/how-and-why-to-buy-travel-insurance</guid>
+            <pubDate>Wed, 04 Mar 2026 12:44:19 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/c3c96f1f-2e3f-4b7f-b9b4-5a885c2c06f0/_GettyImages-2162665033_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
