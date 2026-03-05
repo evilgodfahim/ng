@@ -9,17 +9,33 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Mar 2026 19:35:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Mar 2026 12:51:26 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 04 Mar 2026 19:35:01 GMT</pubDate>
+        <pubDate>Thu, 05 Mar 2026 12:51:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Ancient hunter-gatherers ate their fruits and veggies]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/1c65de12-e13d-4131-bdab-32c57deb5818/h_25.801065_16x9.jpg" alt="Ancient hunter-gatherers ate their fruits and veggies" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/science/article/hunter-gatherers-stone-age-plants-cuisine</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/hunter-gatherers-stone-age-plants-cuisine</guid>
-            <pubDate>Wed, 04 Mar 2026 19:35:01 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/1c65de12-e13d-4131-bdab-32c57deb5818/h_25.801065_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Giant salamanders are about to take a once-in-a-year trek]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/709c8252-8428-4a98-85c8-636c3ef4bb17/Minden_90927716_16x9.jpg" alt="Giant salamanders are about to take a once-in-a-year trek" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/animals/article/spotted-salamander-migration-big-night</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/spotted-salamander-migration-big-night</guid>
+            <pubDate>Thu, 05 Mar 2026 12:51:26 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/709c8252-8428-4a98-85c8-636c3ef4bb17/Minden_90927716_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Everything to know about North Cascades National Park]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/0646e29f-77b1-4426-9281-d07d67a02e01/Unison_stock_16016064_Full_16x9.jpg" alt="Everything to know about North Cascades National Park" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/national-parks/article/north-cascades-national-park</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/national-parks/article/north-cascades-national-park</guid>
+            <pubDate>Thu, 05 Mar 2026 12:51:26 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/0646e29f-77b1-4426-9281-d07d67a02e01/Unison_stock_16016064_Full_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The debate that could reveal the secret of superagers]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/8a66db11-42ee-44ba-89fa-38be9c7aa66e/GettyImages-1385538279_16x9.jpg" alt="The debate that could reveal the secret of superagers" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/health/article/superager-brain-cells-neurogenesis</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/health/article/superager-brain-cells-neurogenesis</guid>
+            <pubDate>Thu, 05 Mar 2026 12:51:26 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/8a66db11-42ee-44ba-89fa-38be9c7aa66e/GettyImages-1385538279_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
