@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Mar 2026 16:35:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Mar 2026 19:31:18 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 06 Mar 2026 16:35:20 GMT</pubDate>
+        <pubDate>Fri, 06 Mar 2026 19:31:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[The deadly race to decipher Maya hieroglyphs]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/5c70e8ff-ec12-4175-8f4e-0dcdbfcb2e0e/SPI-954095_16x9.jpg" alt="The deadly race to decipher Maya hieroglyphs" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/history/article/deciphering-maya-hieroglyphs</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/deciphering-maya-hieroglyphs</guid>
-            <pubDate>Fri, 06 Mar 2026 16:35:20 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/5c70e8ff-ec12-4175-8f4e-0dcdbfcb2e0e/SPI-954095_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[In a first, NASA changed an asteroid’s orbit around the sun]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/667609fe-b484-4566-85e8-53ecdddc8226/20221215-01_smaller_16x9.gif" alt="In a first, NASA changed an asteroid’s orbit around the sun" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/science/article/nasa-dart-asteroid-orbit-sun-didymos-dimorphos</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/nasa-dart-asteroid-orbit-sun-didymos-dimorphos</guid>
+            <pubDate>Fri, 06 Mar 2026 19:31:18 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/667609fe-b484-4566-85e8-53ecdddc8226/20221215-01_smaller_16x9.gif" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
