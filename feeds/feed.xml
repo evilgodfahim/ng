@@ -9,33 +9,25 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Mar 2026 12:43:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Mar 2026 14:34:22 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 06 Mar 2026 12:43:35 GMT</pubDate>
+        <pubDate>Fri, 06 Mar 2026 14:34:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Will humans and animals ever be able to converse?]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/58a76867-c935-4cd1-a385-5011b05169a3/AP887881091455_16x9.jpg" alt="Will humans and animals ever be able to converse?" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/animals/article/animal-human-communication-research</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/animal-human-communication-research</guid>
-            <pubDate>Fri, 06 Mar 2026 12:43:35 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/58a76867-c935-4cd1-a385-5011b05169a3/AP887881091455_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[In Dublin for St Patrick's Day? Explore the city like a local]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/2a838330-e8a6-44a8-9480-922e1eb6ee0c/Tourism_Ireland_Drury_Street_Dublin_City-4_16x9.jpg" alt="In Dublin for St Patrick's Day? Explore the city like a local" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/how-to-explore-dublin-on-st-patricks-day-like-a-local</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/how-to-explore-dublin-on-st-patricks-day-like-a-local</guid>
+            <pubDate>Fri, 06 Mar 2026 14:34:22 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/2a838330-e8a6-44a8-9480-922e1eb6ee0c/Tourism_Ireland_Drury_Street_Dublin_City-4_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[The secret religious history of your Chia Pet]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/3d8b6b1f-0dcb-48c9-8799-5e7dd3845d72/MM10482_251111_000424_16x9.jpg" alt="The secret religious history of your Chia Pet" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/history/article/chia-pets-mexico-religious-roots</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/chia-pets-mexico-religious-roots</guid>
-            <pubDate>Fri, 06 Mar 2026 12:43:35 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/3d8b6b1f-0dcb-48c9-8799-5e7dd3845d72/MM10482_251111_000424_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Here’s how daylight saving time can hurt your heart health]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/33ee00da-ee3b-48fe-b0ec-d09bcce161fa/Unison_Stocksy_unlicensed_comp_5324680_16x9.jpg" alt="Here’s how daylight saving time can hurt your heart health" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/health/article/daylight-savings-heart-health</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/health/article/daylight-savings-heart-health</guid>
-            <pubDate>Fri, 06 Mar 2026 12:43:35 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/33ee00da-ee3b-48fe-b0ec-d09bcce161fa/Unison_Stocksy_unlicensed_comp_5324680_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[These women voted before suffrage—on a technicality]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/9edfc678-db60-4109-9146-c00afb559d77/petti2_16x9.jpg" alt="These women voted before suffrage—on a technicality" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/women-voting-rights-new-jersey-19th-amendment</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/women-voting-rights-new-jersey-19th-amendment</guid>
+            <pubDate>Fri, 06 Mar 2026 14:34:22 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/9edfc678-db60-4109-9146-c00afb559d77/petti2_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
