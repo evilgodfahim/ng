@@ -9,25 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Mar 2026 14:34:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Mar 2026 15:33:18 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 06 Mar 2026 14:34:22 GMT</pubDate>
+        <pubDate>Fri, 06 Mar 2026 15:33:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[In Dublin for St Patrick's Day? Explore the city like a local]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/2a838330-e8a6-44a8-9480-922e1eb6ee0c/Tourism_Ireland_Drury_Street_Dublin_City-4_16x9.jpg" alt="In Dublin for St Patrick's Day? Explore the city like a local" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/how-to-explore-dublin-on-st-patricks-day-like-a-local</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/how-to-explore-dublin-on-st-patricks-day-like-a-local</guid>
-            <pubDate>Fri, 06 Mar 2026 14:34:22 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/2a838330-e8a6-44a8-9480-922e1eb6ee0c/Tourism_Ireland_Drury_Street_Dublin_City-4_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[These women voted before suffrage—on a technicality]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/9edfc678-db60-4109-9146-c00afb559d77/petti2_16x9.jpg" alt="These women voted before suffrage—on a technicality" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/history/article/women-voting-rights-new-jersey-19th-amendment</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/women-voting-rights-new-jersey-19th-amendment</guid>
-            <pubDate>Fri, 06 Mar 2026 14:34:22 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/9edfc678-db60-4109-9146-c00afb559d77/petti2_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[This tiny Australian island is biodiverse wonderland]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/6876f49c-910f-4e1b-b1a5-5e5d92ac12a2/3DGHGT6_16x9.jpg" alt="This tiny Australian island is biodiverse wonderland" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/raymond-island-koalas</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/raymond-island-koalas</guid>
+            <pubDate>Fri, 06 Mar 2026 15:33:18 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/6876f49c-910f-4e1b-b1a5-5e5d92ac12a2/3DGHGT6_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
