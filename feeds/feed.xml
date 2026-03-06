@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Mar 2026 14:52:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Mar 2026 08:32:31 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 05 Mar 2026 14:52:48 GMT</pubDate>
+        <pubDate>Fri, 06 Mar 2026 08:32:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[The breakthrough that could cut addiction-related deaths]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/2667b462-3fe8-49a0-b690-c738c06730a8/3D7JXNP_16x9.jpg" alt="The breakthrough that could cut addiction-related deaths" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/health/article/glp-1-addiction-research</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/health/article/glp-1-addiction-research</guid>
-            <pubDate>Thu, 05 Mar 2026 14:52:48 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/2667b462-3fe8-49a0-b690-c738c06730a8/3D7JXNP_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[10 of Europe's most restorative island escapes]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/20eb010f-2e5f-4e92-98bb-7b228b937580/coverstory_healing_P9JX9E_HR_16x9.jpg" alt="10 of Europe's most restorative island escapes" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/europes-most-restorative-island-escapes</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/europes-most-restorative-island-escapes</guid>
+            <pubDate>Fri, 06 Mar 2026 08:32:31 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/20eb010f-2e5f-4e92-98bb-7b228b937580/coverstory_healing_P9JX9E_HR_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
