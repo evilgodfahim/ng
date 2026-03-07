@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Mar 2026 14:20:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Mar 2026 15:18:53 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 07 Mar 2026 14:20:19 GMT</pubDate>
+        <pubDate>Sat, 07 Mar 2026 15:18:53 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[10 of the best hotels in Venice]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/99a89022-35cc-4a80-95c7-2d458206afc6/venice-venice_16x9.jpg" alt="10 of the best hotels in Venice" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/best-hotels-in-venice</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/best-hotels-in-venice</guid>
-            <pubDate>Sat, 07 Mar 2026 14:20:19 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/99a89022-35cc-4a80-95c7-2d458206afc6/venice-venice_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[These 3 samurai women were heroes of shogun era Japan]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/97fd0a3f-7ca1-4686-81ff-e3d4d1f4bb79/DP135504_16x9.jpg" alt="These 3 samurai women were heroes of shogun era Japan" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/samurai-women-shogun-legends</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/samurai-women-shogun-legends</guid>
+            <pubDate>Sat, 07 Mar 2026 15:18:53 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/97fd0a3f-7ca1-4686-81ff-e3d4d1f4bb79/DP135504_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
