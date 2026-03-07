@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Mar 2026 13:36:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Mar 2026 14:20:19 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 07 Mar 2026 13:36:03 GMT</pubDate>
+        <pubDate>Sat, 07 Mar 2026 14:20:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Why a culinary revolution is underway in the Cayman Islands]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/52748206-3c92-4324-8f55-5a2a109c71a2/grandcayman_GettyImages-2177300011_HR_16x9.jpg" alt="Why a culinary revolution is underway in the Cayman Islands" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/culinary-revolution-in-the-cayman-islands-food-farmers-chefs</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/culinary-revolution-in-the-cayman-islands-food-farmers-chefs</guid>
-            <pubDate>Sat, 07 Mar 2026 13:36:03 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/52748206-3c92-4324-8f55-5a2a109c71a2/grandcayman_GettyImages-2177300011_HR_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[10 of the best hotels in Venice]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/99a89022-35cc-4a80-95c7-2d458206afc6/venice-venice_16x9.jpg" alt="10 of the best hotels in Venice" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/best-hotels-in-venice</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/best-hotels-in-venice</guid>
+            <pubDate>Sat, 07 Mar 2026 14:20:19 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/99a89022-35cc-4a80-95c7-2d458206afc6/venice-venice_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
