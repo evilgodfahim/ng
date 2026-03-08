@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Mar 2026 09:25:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Mar 2026 13:36:58 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 08 Mar 2026 09:25:11 GMT</pubDate>
+        <pubDate>Sun, 08 Mar 2026 13:36:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Iceland’s bathing culture has been nominated by Unesco—here's why]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/9ed0dc26-746e-4adb-bce5-a1de544a1a80/E7JECG_16x9.jpg" alt="Iceland’s bathing culture has been nominated by Unesco—here's why" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/why-icelands-bathing-culture-has-been-nominated-by-unesco</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/why-icelands-bathing-culture-has-been-nominated-by-unesco</guid>
-            <pubDate>Sun, 08 Mar 2026 09:25:11 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/9ed0dc26-746e-4adb-bce5-a1de544a1a80/E7JECG_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Why this English national park is becoming a wine-lover's retreat]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/6383fab8-0bc5-433b-8341-bec54ead29a0/ukbreak4_16x9.jpg" alt="Why this English national park is becoming a wine-lover's retreat" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/why-south-downs-national-park-is-becoming-a-wine-lovers-retreat</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/why-south-downs-national-park-is-becoming-a-wine-lovers-retreat</guid>
+            <pubDate>Sun, 08 Mar 2026 13:36:58 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/6383fab8-0bc5-433b-8341-bec54ead29a0/ukbreak4_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
