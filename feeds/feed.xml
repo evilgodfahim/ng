@@ -9,17 +9,33 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Mar 2026 14:03:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Mar 2026 15:54:56 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 09 Mar 2026 14:03:50 GMT</pubDate>
+        <pubDate>Mon, 09 Mar 2026 15:54:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[The world’s lowest-lying islands are under threat—here’s why]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/29ef94b6-42d3-47bb-b3ba-94af20ac3494/vanishingislands_BellaFalk_PalauScenicFlight_R6-132_HR_16x9.jpg" alt="The world’s lowest-lying islands are under threat—here’s why" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/worlds-lowest-lying-islands-are-under-threat-how-to-make-a-difference</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/worlds-lowest-lying-islands-are-under-threat-how-to-make-a-difference</guid>
-            <pubDate>Mon, 09 Mar 2026 14:03:50 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/29ef94b6-42d3-47bb-b3ba-94af20ac3494/vanishingislands_BellaFalk_PalauScenicFlight_R6-132_HR_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Meet ‘The Baroness’—the world’s longest wild snake]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/65a2d07a-d1d3-4b55-a48d-c645b44380e3/1000852639_16x9.jpg" alt="Meet ‘The Baroness’—the world’s longest wild snake" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/animals/article/python-sets-record-for-worlds-longest-wild-snake</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/python-sets-record-for-worlds-longest-wild-snake</guid>
+            <pubDate>Mon, 09 Mar 2026 15:54:56 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/65a2d07a-d1d3-4b55-a48d-c645b44380e3/1000852639_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[What Apollo 11 astronauts actually said when they got to the moon]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/bda04bcd-f4df-4467-b3ab-1419e4f81faf/SPI-49807_16x9.jpg" alt="What Apollo 11 astronauts actually said when they got to the moon" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/apollo-11-armstrong-aldrin-collins-capcom</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/apollo-11-armstrong-aldrin-collins-capcom</guid>
+            <pubDate>Mon, 09 Mar 2026 15:54:56 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/bda04bcd-f4df-4467-b3ab-1419e4f81faf/SPI-49807_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Everything you should know about Canyonlands National Park]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/274ef919-fe8b-46f1-8b26-705ceaaca2ed/moon-rock-pinnacles-chesler-park-needles-canyonlands_16x9.jpg" alt="Everything you should know about Canyonlands National Park" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/national-parks/article/canyonlands-national-park</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/national-parks/article/canyonlands-national-park</guid>
+            <pubDate>Mon, 09 Mar 2026 15:54:56 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/274ef919-fe8b-46f1-8b26-705ceaaca2ed/moon-rock-pinnacles-chesler-park-needles-canyonlands_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
