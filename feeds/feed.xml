@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Mar 2026 12:53:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Mar 2026 14:03:50 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 09 Mar 2026 12:53:07 GMT</pubDate>
+        <pubDate>Mon, 09 Mar 2026 14:03:50 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Murderer or a martyr? The tragic life of Mary, Queen of Scots]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/3ca3f8d5-e04a-4b47-9cd4-4c768044df87/mary5_16x9.jpg" alt="Murderer or a martyr? The tragic life of Mary, Queen of Scots" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/history/article/mary-queen-of-scots-tragedy</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/mary-queen-of-scots-tragedy</guid>
-            <pubDate>Mon, 09 Mar 2026 12:53:07 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/3ca3f8d5-e04a-4b47-9cd4-4c768044df87/mary5_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[The world’s lowest-lying islands are under threat—here’s why]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/29ef94b6-42d3-47bb-b3ba-94af20ac3494/vanishingislands_BellaFalk_PalauScenicFlight_R6-132_HR_16x9.jpg" alt="The world’s lowest-lying islands are under threat—here’s why" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/worlds-lowest-lying-islands-are-under-threat-how-to-make-a-difference</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/worlds-lowest-lying-islands-are-under-threat-how-to-make-a-difference</guid>
+            <pubDate>Mon, 09 Mar 2026 14:03:50 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/29ef94b6-42d3-47bb-b3ba-94af20ac3494/vanishingislands_BellaFalk_PalauScenicFlight_R6-132_HR_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
