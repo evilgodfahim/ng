@@ -9,17 +9,25 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Mar 2026 09:44:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Mar 2026 11:32:06 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 09 Mar 2026 09:44:12 GMT</pubDate>
+        <pubDate>Mon, 09 Mar 2026 11:32:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[How to plan the ultimate trip to Chile]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/a765afa5-b365-440a-a29d-5c2d3231a23f/coverstory_chile_GettyImages-460048853_ukHR_16x9.jpg" alt="How to plan the ultimate trip to Chile" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/how-to-plan-the-ultimate-trip-to-chile-travel-guide</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/how-to-plan-the-ultimate-trip-to-chile-travel-guide</guid>
-            <pubDate>Mon, 09 Mar 2026 09:44:12 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/a765afa5-b365-440a-a29d-5c2d3231a23f/coverstory_chile_GettyImages-460048853_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Here's why gulls try so hard to steal your food]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/4e9fddea-99b7-4dd5-b387-126cd31acabb/naturepl_01530946_16x9.jpg" alt="Here's why gulls try so hard to steal your food" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/animals/article/gulls-stealing-food-behavior</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/gulls-stealing-food-behavior</guid>
+            <pubDate>Mon, 09 Mar 2026 11:32:06 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/4e9fddea-99b7-4dd5-b387-126cd31acabb/naturepl_01530946_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[What intermittent fasting really does for your body and brain]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/4316d6df-0ff4-4ed7-ae67-650ffd0fd7dd/h_16213329_16x9.jpg" alt="What intermittent fasting really does for your body and brain" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/health/article/intermittent-fasting-health-benefits</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/health/article/intermittent-fasting-health-benefits</guid>
+            <pubDate>Mon, 09 Mar 2026 11:32:06 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/4316d6df-0ff4-4ed7-ae67-650ffd0fd7dd/h_16213329_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
