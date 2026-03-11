@@ -9,25 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Mar 2026 16:45:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Mar 2026 19:39:14 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 11 Mar 2026 16:45:21 GMT</pubDate>
+        <pubDate>Wed, 11 Mar 2026 19:39:14 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[This fish has cloned itself for 100,000 years. Scientists just figured out how.]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/84b42271-0fc8-4d0f-b730-148bce346910/DSC_4795_Kopie_16x9.jpg" alt="This fish has cloned itself for 100,000 years. Scientists just figured out how." style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/animals/article/this-fish-has-been-able-to-clone-itself-for-100000-years</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/this-fish-has-been-able-to-clone-itself-for-100000-years</guid>
-            <pubDate>Wed, 11 Mar 2026 16:45:21 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/84b42271-0fc8-4d0f-b730-148bce346910/DSC_4795_Kopie_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Which of these Spanish Canary Islands should you visit?]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/f4d95279-9e50-49a2-a80c-d2b396747645/Spain_Tourism_Myth2_230719_0901_1_16x9.jpg" alt="Which of these Spanish Canary Islands should you visit?" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/visit-canary-islands-spain</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/visit-canary-islands-spain</guid>
-            <pubDate>Wed, 11 Mar 2026 16:45:21 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/f4d95279-9e50-49a2-a80c-d2b396747645/Spain_Tourism_Myth2_230719_0901_1_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Best places to see cherry blossoms in the U.S.]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/f552ab94-e4be-4966-ab38-6afd7ccbd1d3/cherry-blossom-washington-dc_16x9.jpg" alt="Best places to see cherry blossoms in the U.S." style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/cherry-blossom-bloom-predictions-spring</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/cherry-blossom-bloom-predictions-spring</guid>
+            <pubDate>Wed, 11 Mar 2026 19:39:14 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/f552ab94-e4be-4966-ab38-6afd7ccbd1d3/cherry-blossom-washington-dc_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
