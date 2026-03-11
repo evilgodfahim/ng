@@ -9,17 +9,25 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Mar 2026 15:57:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Mar 2026 10:34:40 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 10 Mar 2026 15:57:02 GMT</pubDate>
+        <pubDate>Wed, 11 Mar 2026 10:34:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[5 of the best new U.S. rail trips]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/20d3d9d0-f373-4b18-8e23-3308a5447e1c/GettyImages-2208020099_16x9.jpg" alt="5 of the best new U.S. rail trips" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/best-new-us-rail-trips-america</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/best-new-us-rail-trips-america</guid>
-            <pubDate>Tue, 10 Mar 2026 15:57:02 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/20d3d9d0-f373-4b18-8e23-3308a5447e1c/GettyImages-2208020099_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Everything you should know about Yellowstone National Park]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/2345ad78-5713-4341-9bee-c1ed57de0f0e/prismatic-spring-yellowstone_16x9.jpg" alt="Everything you should know about Yellowstone National Park" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/national-parks/article/yellowstone-national-park</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/national-parks/article/yellowstone-national-park</guid>
+            <pubDate>Wed, 11 Mar 2026 10:34:40 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/2345ad78-5713-4341-9bee-c1ed57de0f0e/prismatic-spring-yellowstone_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[How to spend the perfect weekend in Algeria's capital]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/2b8c1893-208f-4428-8790-13390753dc6d/TG_longweekend_Algiers_024_ukHR_16x9.jpg" alt="How to spend the perfect weekend in Algeria's capital" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/how-to-spend-the-perfect-weekend-in-algiers-algerias-capital</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/how-to-spend-the-perfect-weekend-in-algiers-algerias-capital</guid>
+            <pubDate>Wed, 11 Mar 2026 10:34:40 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/2b8c1893-208f-4428-8790-13390753dc6d/TG_longweekend_Algiers_024_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
