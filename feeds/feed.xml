@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Mar 2026 19:39:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Mar 2026 09:38:13 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 11 Mar 2026 19:39:14 GMT</pubDate>
+        <pubDate>Thu, 12 Mar 2026 09:38:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Best places to see cherry blossoms in the U.S.]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/f552ab94-e4be-4966-ab38-6afd7ccbd1d3/cherry-blossom-washington-dc_16x9.jpg" alt="Best places to see cherry blossoms in the U.S." style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/cherry-blossom-bloom-predictions-spring</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/cherry-blossom-bloom-predictions-spring</guid>
-            <pubDate>Wed, 11 Mar 2026 19:39:14 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/f552ab94-e4be-4966-ab38-6afd7ccbd1d3/cherry-blossom-washington-dc_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[For Chile's most elemental cuisine, visit this island of female chefs]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/e2d1c033-ad6f-44af-bc68-c0e2ee9ebe4d/cvoerstory-chile_16x9.jpg" alt="For Chile's most elemental cuisine, visit this island of female chefs" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/for-chiles-most-elemental-cuisine-visit-this-island-of-female-chefs-chiloe</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/for-chiles-most-elemental-cuisine-visit-this-island-of-female-chefs-chiloe</guid>
+            <pubDate>Thu, 12 Mar 2026 09:38:13 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/e2d1c033-ad6f-44af-bc68-c0e2ee9ebe4d/cvoerstory-chile_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
