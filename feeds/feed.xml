@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Mar 2026 12:49:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Mar 2026 15:55:31 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 12 Mar 2026 12:49:34 GMT</pubDate>
+        <pubDate>Thu, 12 Mar 2026 15:55:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Et tu, Brute? The real story of Brutus’ betrayal of Caesar]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/822902f7-7e1e-43ba-8515-ce20e794010d/background_16x9.jpg" alt="Et tu, Brute? The real story of Brutus’ betrayal of Caesar" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/history/article/caesar-brutus-murder-ides-of-march</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/caesar-brutus-murder-ides-of-march</guid>
-            <pubDate>Thu, 12 Mar 2026 12:49:34 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/822902f7-7e1e-43ba-8515-ce20e794010d/background_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Singapore layover? Here’s how to spend 12 hours in Lion City]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/4d86bdd4-2f4a-4f9b-92b4-c1a2d0b21106/Candlenut_Food_Spread_cr-Candlenut-Singapore_16x9.jpg" alt="Singapore layover? Here’s how to spend 12 hours in Lion City" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/singapore-layover-guide-what-to-do-in-12-hours</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/singapore-layover-guide-what-to-do-in-12-hours</guid>
+            <pubDate>Thu, 12 Mar 2026 15:55:31 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/4d86bdd4-2f4a-4f9b-92b4-c1a2d0b21106/Candlenut_Food_Spread_cr-Candlenut-Singapore_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
