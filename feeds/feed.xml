@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Mar 2026 13:57:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Mar 2026 14:42:28 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 13 Mar 2026 13:57:45 GMT</pubDate>
+        <pubDate>Fri, 13 Mar 2026 14:42:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[A food guide to the Cajun Bayou]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/f9823f38-52ed-4c2d-aec3-f515bc06cb6f/GriffinsRestaurant20257_16x9.jpg" alt="A food guide to the Cajun Bayou" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/paid-content-cajun-bayou-food-guide</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/paid-content-cajun-bayou-food-guide</guid>
-            <pubDate>Fri, 13 Mar 2026 13:57:45 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/f9823f38-52ed-4c2d-aec3-f515bc06cb6f/GriffinsRestaurant20257_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[How to experience Japan through its most famous sports]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/427a2d11-213e-4d2c-9c6d-c2108e01ceb7/2P02AC5_16x9.jpg" alt="How to experience Japan through its most famous sports" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/how-to-experience-japan-through-its-most-famous-sports-sumo-baseball-drift-racing</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/how-to-experience-japan-through-its-most-famous-sports-sumo-baseball-drift-racing</guid>
+            <pubDate>Fri, 13 Mar 2026 14:42:28 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/427a2d11-213e-4d2c-9c6d-c2108e01ceb7/2P02AC5_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
