@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Mar 2026 13:43:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Mar 2026 16:26:42 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 15 Mar 2026 13:43:18 GMT</pubDate>
+        <pubDate>Sun, 15 Mar 2026 16:26:42 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Go on a foraging trip to Italy's Brenta Dolomites]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/196575ea-500c-426d-a41e-198b5383aa43/20210803_campiglio-901296_16x9.jpg" alt="Go on a foraging trip to Italy's Brenta Dolomites" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/how-to-go-foraging-in-italys-brenta-dolomites</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/how-to-go-foraging-in-italys-brenta-dolomites</guid>
-            <pubDate>Sun, 15 Mar 2026 13:43:18 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/196575ea-500c-426d-a41e-198b5383aa43/20210803_campiglio-901296_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[See 'the lungs of Africa' through the eyes of a photographer]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/b3256f24-0ccf-4410-b32e-9a136f60121a/MDC_Kamba_3652_16x9.jpg" alt="See 'the lungs of Africa' through the eyes of a photographer" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/congo-the-lungs-of-africa-through-the-eyes-of-a-photographer</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/congo-the-lungs-of-africa-through-the-eyes-of-a-photographer</guid>
+            <pubDate>Sun, 15 Mar 2026 16:26:42 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/b3256f24-0ccf-4410-b32e-9a136f60121a/MDC_Kamba_3652_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
