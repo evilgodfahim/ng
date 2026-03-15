@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Mar 2026 13:42:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Mar 2026 13:43:18 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 14 Mar 2026 13:42:16 GMT</pubDate>
+        <pubDate>Sun, 15 Mar 2026 13:43:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[New Jersey is the capital of the American diner—here's why]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/a1d9bf39-b4e5-4e51-ba66-47a0e5f81551/_NJN7849_MPT_HR_16x9.png" alt="New Jersey is the capital of the American diner—here's why" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/why-new-jersey-is-the-capital-of-the-american-diner</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/why-new-jersey-is-the-capital-of-the-american-diner</guid>
-            <pubDate>Sat, 14 Mar 2026 13:42:16 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/a1d9bf39-b4e5-4e51-ba66-47a0e5f81551/_NJN7849_MPT_HR_16x9.png" length="0" type="image/jpeg"/>
+            <title><![CDATA[Go on a foraging trip to Italy's Brenta Dolomites]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/196575ea-500c-426d-a41e-198b5383aa43/20210803_campiglio-901296_16x9.jpg" alt="Go on a foraging trip to Italy's Brenta Dolomites" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/how-to-go-foraging-in-italys-brenta-dolomites</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/how-to-go-foraging-in-italys-brenta-dolomites</guid>
+            <pubDate>Sun, 15 Mar 2026 13:43:18 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/196575ea-500c-426d-a41e-198b5383aa43/20210803_campiglio-901296_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
