@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Mar 2026 17:57:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Mar 2026 21:30:05 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 18 Mar 2026 17:57:59 GMT</pubDate>
+        <pubDate>Wed, 18 Mar 2026 21:30:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Visiting a U.S. national park—for the retro architecture]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/6826082b-316f-437d-99b1-d0855374b63a/great_outsiders_o_davies_032_16x9.jpg" alt="Visiting a U.S. national park—for the retro architecture" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/modernist-architecture-national-parks</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/modernist-architecture-national-parks</guid>
-            <pubDate>Wed, 18 Mar 2026 17:57:59 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/6826082b-316f-437d-99b1-d0855374b63a/great_outsiders_o_davies_032_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[A rare glimpse of rural Japan more than 100 years ago]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/af51b06a-c785-4427-9532-8ce37a0b3783/SPI-605724_16x9.jpg" alt="A rare glimpse of rural Japan more than 100 years ago" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/rural-japan-a-century-ago</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/rural-japan-a-century-ago</guid>
+            <pubDate>Wed, 18 Mar 2026 21:30:05 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/af51b06a-c785-4427-9532-8ce37a0b3783/SPI-605724_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
