@@ -9,25 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Mar 2026 16:09:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Mar 2026 17:57:59 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 18 Mar 2026 16:09:42 GMT</pubDate>
+        <pubDate>Wed, 18 Mar 2026 17:57:59 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Everything to know about Haleakalā National Park]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/a45919e3-6dbb-459c-bdd4-295beb9e68cd/HYR3AJ_16x9.jpg" alt="Everything to know about Haleakalā National Park" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/national-parks/article/haleakala-national-park</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/national-parks/article/haleakala-national-park</guid>
-            <pubDate>Wed, 18 Mar 2026 16:09:42 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/a45919e3-6dbb-459c-bdd4-295beb9e68cd/HYR3AJ_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Endometriosis can impact the whole body]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/a6f32d95-0899-4876-8a58-a65bbdd9fd95/HannahKiviranta-A-Haunting-23_16x9.jpg" alt="Endometriosis can impact the whole body" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/health/article/endometriosis-disease-body-symptoms-treatment</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/health/article/endometriosis-disease-body-symptoms-treatment</guid>
-            <pubDate>Wed, 18 Mar 2026 16:09:42 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/a6f32d95-0899-4876-8a58-a65bbdd9fd95/HannahKiviranta-A-Haunting-23_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Visiting a U.S. national park—for the retro architecture]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/6826082b-316f-437d-99b1-d0855374b63a/great_outsiders_o_davies_032_16x9.jpg" alt="Visiting a U.S. national park—for the retro architecture" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/modernist-architecture-national-parks</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/modernist-architecture-national-parks</guid>
+            <pubDate>Wed, 18 Mar 2026 17:57:59 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/6826082b-316f-437d-99b1-d0855374b63a/great_outsiders_o_davies_032_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
