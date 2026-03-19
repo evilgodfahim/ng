@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Mar 2026 15:50:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Mar 2026 18:51:57 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 19 Mar 2026 15:50:39 GMT</pubDate>
+        <pubDate>Thu, 19 Mar 2026 18:51:57 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[7 of the world's best self-drive safaris]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/143828c8-8344-416c-b04a-07eddd9f2fa7/safari_GettyImages-2156261391_ukHR_16x9.jpg" alt="7 of the world's best self-drive safaris" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/worlds-best-self-drive-safaris</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/worlds-best-self-drive-safaris</guid>
-            <pubDate>Thu, 19 Mar 2026 15:50:39 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/143828c8-8344-416c-b04a-07eddd9f2fa7/safari_GettyImages-2156261391_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[When did humans arrive in the Americas?]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/db9b0f0e-1442-41f9-863a-7f881904851b/8_OSL_samplingatSection1-copy_16x9.jpg" alt="When did humans arrive in the Americas?" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/monte-verde-redated</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/monte-verde-redated</guid>
+            <pubDate>Thu, 19 Mar 2026 18:51:57 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/db9b0f0e-1442-41f9-863a-7f881904851b/8_OSL_samplingatSection1-copy_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
