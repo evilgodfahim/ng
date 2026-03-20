@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Mar 2026 18:51:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Mar 2026 09:36:22 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 19 Mar 2026 18:51:57 GMT</pubDate>
+        <pubDate>Fri, 20 Mar 2026 09:36:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[When did humans arrive in the Americas?]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/db9b0f0e-1442-41f9-863a-7f881904851b/8_OSL_samplingatSection1-copy_16x9.jpg" alt="When did humans arrive in the Americas?" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/history/article/monte-verde-redated</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/monte-verde-redated</guid>
-            <pubDate>Thu, 19 Mar 2026 18:51:57 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/db9b0f0e-1442-41f9-863a-7f881904851b/8_OSL_samplingatSection1-copy_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[How Tobago's festival season celebrates its future—and its past]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/84d70935-426f-4246-87ee-3342249d3090/tobago_Paavonpera_NGT_Tobago_HIGHRES_11_ukHR_16x9.jpg" alt="How Tobago's festival season celebrates its future—and its past" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/how-tobagos-festival-season-celebrates-its-futureand-its-past</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/how-tobagos-festival-season-celebrates-its-futureand-its-past</guid>
+            <pubDate>Fri, 20 Mar 2026 09:36:22 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/84d70935-426f-4246-87ee-3342249d3090/tobago_Paavonpera_NGT_Tobago_HIGHRES_11_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
