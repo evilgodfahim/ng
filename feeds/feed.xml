@@ -9,25 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Mar 2026 13:58:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Mar 2026 16:37:35 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 20 Mar 2026 13:58:40 GMT</pubDate>
+        <pubDate>Fri, 20 Mar 2026 16:37:35 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[U.S. expedited travel programs, explained]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/03d452f6-bc42-4243-8883-058ec78e2071/GettyImages-1245857627_16x9.jpg" alt="U.S. expedited travel programs, explained" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/global-entry-tsa-precheck-clear-everything-to-know-expedited-entry-airport</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/global-entry-tsa-precheck-clear-everything-to-know-expedited-entry-airport</guid>
-            <pubDate>Fri, 20 Mar 2026 13:58:40 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/03d452f6-bc42-4243-8883-058ec78e2071/GettyImages-1245857627_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Is it safe to go there? The U.S. travel advisory system, explained]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/aec24bae-f017-42f8-bb41-8b37ca65981d/NationalGeographic_1760727_16x9.jpg" alt="Is it safe to go there? The U.S. travel advisory system, explained" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/travel-advisories-state-department-safety</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/travel-advisories-state-department-safety</guid>
-            <pubDate>Fri, 20 Mar 2026 13:58:40 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/aec24bae-f017-42f8-bb41-8b37ca65981d/NationalGeographic_1760727_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Where to travel in April]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/005830bf-9c50-41a2-8ae2-777ee1e9ab1a/GettyImages-175398241_16x9.jpg" alt="Where to travel in April" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/where-to-travel-april</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/where-to-travel-april</guid>
+            <pubDate>Fri, 20 Mar 2026 16:37:35 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/005830bf-9c50-41a2-8ae2-777ee1e9ab1a/GettyImages-175398241_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
