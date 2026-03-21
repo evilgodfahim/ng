@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Mar 2026 10:21:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Mar 2026 12:38:11 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 21 Mar 2026 10:21:47 GMT</pubDate>
+        <pubDate>Sat, 21 Mar 2026 12:38:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[An essential guide to exploring Orange County]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/54a5c073-e49b-4c83-a6c2-ceac8363226a/view_16x9.jpg" alt="An essential guide to exploring Orange County" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/paid-content-an-essential-guide-to-exploring-orange-county-new-york</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/paid-content-an-essential-guide-to-exploring-orange-county-new-york</guid>
-            <pubDate>Sat, 21 Mar 2026 10:21:47 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/54a5c073-e49b-4c83-a6c2-ceac8363226a/view_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Why Nowruz is a celebration of springtime]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/05059ab5-3904-49fb-b0f0-9e0d57b009ad/nowruz-holiday-01_16x9.jpg" alt="Why Nowruz is a celebration of springtime" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/nowruz-ancient-festival-celebration-springtime-new-year</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/nowruz-ancient-festival-celebration-springtime-new-year</guid>
+            <pubDate>Sat, 21 Mar 2026 12:38:11 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/05059ab5-3904-49fb-b0f0-9e0d57b009ad/nowruz-holiday-01_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
