@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Mar 2026 16:37:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Mar 2026 10:21:47 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 20 Mar 2026 16:37:35 GMT</pubDate>
+        <pubDate>Sat, 21 Mar 2026 10:21:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Where to travel in April]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/005830bf-9c50-41a2-8ae2-777ee1e9ab1a/GettyImages-175398241_16x9.jpg" alt="Where to travel in April" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/where-to-travel-april</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/where-to-travel-april</guid>
-            <pubDate>Fri, 20 Mar 2026 16:37:35 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/005830bf-9c50-41a2-8ae2-777ee1e9ab1a/GettyImages-175398241_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[An essential guide to exploring Orange County]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/54a5c073-e49b-4c83-a6c2-ceac8363226a/view_16x9.jpg" alt="An essential guide to exploring Orange County" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/paid-content-an-essential-guide-to-exploring-orange-county-new-york</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/paid-content-an-essential-guide-to-exploring-orange-county-new-york</guid>
+            <pubDate>Sat, 21 Mar 2026 10:21:47 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/54a5c073-e49b-4c83-a6c2-ceac8363226a/view_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
