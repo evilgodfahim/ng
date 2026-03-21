@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Mar 2026 12:38:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Mar 2026 14:22:39 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 21 Mar 2026 12:38:11 GMT</pubDate>
+        <pubDate>Sat, 21 Mar 2026 14:22:39 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Why Nowruz is a celebration of springtime]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/05059ab5-3904-49fb-b0f0-9e0d57b009ad/nowruz-holiday-01_16x9.jpg" alt="Why Nowruz is a celebration of springtime" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/history/article/nowruz-ancient-festival-celebration-springtime-new-year</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/nowruz-ancient-festival-celebration-springtime-new-year</guid>
-            <pubDate>Sat, 21 Mar 2026 12:38:11 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/05059ab5-3904-49fb-b0f0-9e0d57b009ad/nowruz-holiday-01_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Where to drink in Athens, according to a local mixologist]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/7173ecb8-b554-424c-977d-db8584c2eff7/Dry_martini-cr-Paris-Tavitian_16x9.jpg" alt="Where to drink in Athens, according to a local mixologist" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/where-to-drink-in-athens-best-cocktail-bars-according-to-a-local-mixologist</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/where-to-drink-in-athens-best-cocktail-bars-according-to-a-local-mixologist</guid>
+            <pubDate>Sat, 21 Mar 2026 14:22:39 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/7173ecb8-b554-424c-977d-db8584c2eff7/Dry_martini-cr-Paris-Tavitian_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
