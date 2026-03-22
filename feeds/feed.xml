@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Mar 2026 09:28:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Mar 2026 13:40:33 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 22 Mar 2026 09:28:01 GMT</pubDate>
+        <pubDate>Sun, 22 Mar 2026 13:40:33 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[FCDO travel advice for U.K. travellers—explained]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/f9e9abc4-ca8a-4311-9332-09df6e05a59a/GettyImages-1383820623_16x9.jpg" alt="FCDO travel advice for U.K. travellers—explained" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/what-to-know-uk-travel-fcdo-travel-advice</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/what-to-know-uk-travel-fcdo-travel-advice</guid>
-            <pubDate>Sun, 22 Mar 2026 09:28:01 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/f9e9abc4-ca8a-4311-9332-09df6e05a59a/GettyImages-1383820623_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[This historic dish is a French staple—just don't call it pizza]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/1f699a02-e642-4d76-a06e-dc9ffbe0e2fb/TG_onthemenu_Tigre_Food-7_ukHR_16x9.jpg" alt="This historic dish is a French staple—just don't call it pizza" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/what-is-flammekueche-the-an-alsatian-french-food-staple</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/what-is-flammekueche-the-an-alsatian-french-food-staple</guid>
+            <pubDate>Sun, 22 Mar 2026 13:40:33 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/1f699a02-e642-4d76-a06e-dc9ffbe0e2fb/TG_onthemenu_Tigre_Food-7_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
