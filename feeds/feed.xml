@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Mar 2026 12:56:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Mar 2026 14:15:44 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 23 Mar 2026 12:56:57 GMT</pubDate>
+        <pubDate>Mon, 23 Mar 2026 14:15:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[How Mahatma Gandhi started a nonviolent revolution]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/916bbdb8-62ce-4b89-b30b-3e291a9398cc/gand5_16x9.jpg" alt="How Mahatma Gandhi started a nonviolent revolution" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/history/article/gandhi-activism-nonviolence-protests</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/gandhi-activism-nonviolence-protests</guid>
-            <pubDate>Mon, 23 Mar 2026 12:56:57 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/916bbdb8-62ce-4b89-b30b-3e291a9398cc/gand5_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Where to eat in Mexico City, according to a local chef]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/16cca6ff-9ef3-407d-b77a-04e8a652592f/2M5A9423_Andrew_Reiner_16x9.jpg" alt="Where to eat in Mexico City, according to a local chef" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/where-to-eat-in-mexico-city-according-to-a-local-chef</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/where-to-eat-in-mexico-city-according-to-a-local-chef</guid>
+            <pubDate>Mon, 23 Mar 2026 14:15:44 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/16cca6ff-9ef3-407d-b77a-04e8a652592f/2M5A9423_Andrew_Reiner_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
