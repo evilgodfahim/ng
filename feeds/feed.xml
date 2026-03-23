@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Mar 2026 14:15:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Mar 2026 15:56:42 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 23 Mar 2026 14:15:44 GMT</pubDate>
+        <pubDate>Mon, 23 Mar 2026 15:56:42 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Where to eat in Mexico City, according to a local chef]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/16cca6ff-9ef3-407d-b77a-04e8a652592f/2M5A9423_Andrew_Reiner_16x9.jpg" alt="Where to eat in Mexico City, according to a local chef" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/where-to-eat-in-mexico-city-according-to-a-local-chef</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/where-to-eat-in-mexico-city-according-to-a-local-chef</guid>
-            <pubDate>Mon, 23 Mar 2026 14:15:44 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/16cca6ff-9ef3-407d-b77a-04e8a652592f/2M5A9423_Andrew_Reiner_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[How a physician’s DIY device got Americans to the top of Everest]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/2de74325-8002-485d-a087-dfafd9dbec57/MM10547_20251217_0142_16x9.jpg" alt="How a physician’s DIY device got Americans to the top of Everest" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/maytag-mask-mountain-climber-everest</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/maytag-mask-mountain-climber-everest</guid>
+            <pubDate>Mon, 23 Mar 2026 15:56:42 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/2de74325-8002-485d-a087-dfafd9dbec57/MM10547_20251217_0142_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
