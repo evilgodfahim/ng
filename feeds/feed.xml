@@ -9,17 +9,33 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Mar 2026 10:49:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Mar 2026 11:40:57 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 23 Mar 2026 10:49:11 GMT</pubDate>
+        <pubDate>Mon, 23 Mar 2026 11:40:57 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[These are the 10 most popular national parks]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/65118bd4-07be-4f55-90b8-012cae152c3d/unison-GC17-0179-taylorglenn_16x9.jpg" alt="These are the 10 most popular national parks" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/national-parks/article/most-visited-parks-photos</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/national-parks/article/most-visited-parks-photos</guid>
-            <pubDate>Mon, 23 Mar 2026 10:49:11 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/65118bd4-07be-4f55-90b8-012cae152c3d/unison-GC17-0179-taylorglenn_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[A Raphael masterpiece is finally back in one piece]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/1679953f-d529-4599-8fea-2013c415b0e7/216A0265-b-Final_16x9.jpg" alt="A Raphael masterpiece is finally back in one piece" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/culture/article/raphael-colonna-altarpiece-metropolitan-museum-art</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/culture/article/raphael-colonna-altarpiece-metropolitan-museum-art</guid>
+            <pubDate>Mon, 23 Mar 2026 11:40:57 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/1679953f-d529-4599-8fea-2013c415b0e7/216A0265-b-Final_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[These 8 stunning bike trails are reachable by train]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/6c602ded-a78a-416c-afa5-a5d899ed6a4e/GettyImages-1498527680_16x9.jpeg" alt="These 8 stunning bike trails are reachable by train" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/bike-routes-accessible-by-train-united-states</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/bike-routes-accessible-by-train-united-states</guid>
+            <pubDate>Mon, 23 Mar 2026 11:40:57 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/6c602ded-a78a-416c-afa5-a5d899ed6a4e/GettyImages-1498527680_16x9.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Avoid crowds at the 10 least-visited U.S. national parks]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/22ae6197-e907-4f3e-a4ca-ad1a30d358d7/GettyImages-523082368_16x9.jpg" alt="Avoid crowds at the 10 least-visited U.S. national parks" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/least-visited-national-parks</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/least-visited-national-parks</guid>
+            <pubDate>Mon, 23 Mar 2026 11:40:57 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/22ae6197-e907-4f3e-a4ca-ad1a30d358d7/GettyImages-523082368_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
