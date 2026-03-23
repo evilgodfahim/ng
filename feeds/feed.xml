@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Mar 2026 09:07:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Mar 2026 10:49:11 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 23 Mar 2026 09:07:04 GMT</pubDate>
+        <pubDate>Mon, 23 Mar 2026 10:49:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Why high-speed rail has yet to reach the U.S.—and is change coming?]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/f6f2913e-2072-4e20-bef1-9d08ce52b9d5/lowdown_JGXY59_ukHR_16x9.jpg" alt="Why high-speed rail has yet to reach the U.S.—and is change coming?" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/is-high-speed-rail-coming-to-the-usa</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/is-high-speed-rail-coming-to-the-usa</guid>
-            <pubDate>Mon, 23 Mar 2026 09:07:04 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/f6f2913e-2072-4e20-bef1-9d08ce52b9d5/lowdown_JGXY59_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[These are the 10 most popular national parks]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/65118bd4-07be-4f55-90b8-012cae152c3d/unison-GC17-0179-taylorglenn_16x9.jpg" alt="These are the 10 most popular national parks" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/national-parks/article/most-visited-parks-photos</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/national-parks/article/most-visited-parks-photos</guid>
+            <pubDate>Mon, 23 Mar 2026 10:49:11 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/65118bd4-07be-4f55-90b8-012cae152c3d/unison-GC17-0179-taylorglenn_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
