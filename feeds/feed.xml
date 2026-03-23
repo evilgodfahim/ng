@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Mar 2026 13:40:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Mar 2026 09:07:04 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 22 Mar 2026 13:40:33 GMT</pubDate>
+        <pubDate>Mon, 23 Mar 2026 09:07:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[This historic dish is a French staple—just don't call it pizza]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/1f699a02-e642-4d76-a06e-dc9ffbe0e2fb/TG_onthemenu_Tigre_Food-7_ukHR_16x9.jpg" alt="This historic dish is a French staple—just don't call it pizza" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/what-is-flammekueche-the-an-alsatian-french-food-staple</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/what-is-flammekueche-the-an-alsatian-french-food-staple</guid>
-            <pubDate>Sun, 22 Mar 2026 13:40:33 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/1f699a02-e642-4d76-a06e-dc9ffbe0e2fb/TG_onthemenu_Tigre_Food-7_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Why high-speed rail has yet to reach the U.S.—and is change coming?]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/f6f2913e-2072-4e20-bef1-9d08ce52b9d5/lowdown_JGXY59_ukHR_16x9.jpg" alt="Why high-speed rail has yet to reach the U.S.—and is change coming?" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/is-high-speed-rail-coming-to-the-usa</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/is-high-speed-rail-coming-to-the-usa</guid>
+            <pubDate>Mon, 23 Mar 2026 09:07:04 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/f6f2913e-2072-4e20-bef1-9d08ce52b9d5/lowdown_JGXY59_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
