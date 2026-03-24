@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Mar 2026 19:44:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Mar 2026 09:52:01 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 23 Mar 2026 19:44:31 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 09:52:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[What a 55,000-year-old fetus reveals about Neanderthals]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/b24c247d-794d-4800-8a75-d747520c9464/foetus_AWB_3_16x9.jpg" alt="What a 55,000-year-old fetus reveals about Neanderthals" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/history/article/neanderthal-fetus-bottleneck</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/neanderthal-fetus-bottleneck</guid>
-            <pubDate>Mon, 23 Mar 2026 19:44:31 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/b24c247d-794d-4800-8a75-d747520c9464/foetus_AWB_3_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Why Iona in the Inner Hebrides is the ultimate modern pilgrimage]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/373f2745-11a2-456e-80fd-c409c0abf3e4/coverstory_healing_GettyImages-844246726_HR_16x9.jpg" alt="Why Iona in the Inner Hebrides is the ultimate modern pilgrimage" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/why-iona-in-scotlands-inner-hebrides-is-the-ultimate-modern-pilgrimage</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/why-iona-in-scotlands-inner-hebrides-is-the-ultimate-modern-pilgrimage</guid>
+            <pubDate>Tue, 24 Mar 2026 09:52:01 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/373f2745-11a2-456e-80fd-c409c0abf3e4/coverstory_healing_GettyImages-844246726_HR_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
