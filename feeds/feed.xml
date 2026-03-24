@@ -9,17 +9,33 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Mar 2026 09:52:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Mar 2026 11:41:54 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 24 Mar 2026 09:52:01 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 11:41:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Why Iona in the Inner Hebrides is the ultimate modern pilgrimage]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/373f2745-11a2-456e-80fd-c409c0abf3e4/coverstory_healing_GettyImages-844246726_HR_16x9.jpg" alt="Why Iona in the Inner Hebrides is the ultimate modern pilgrimage" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/why-iona-in-scotlands-inner-hebrides-is-the-ultimate-modern-pilgrimage</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/why-iona-in-scotlands-inner-hebrides-is-the-ultimate-modern-pilgrimage</guid>
-            <pubDate>Tue, 24 Mar 2026 09:52:01 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/373f2745-11a2-456e-80fd-c409c0abf3e4/coverstory_healing_GettyImages-844246726_HR_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Searching for the site of one of Christianity's great miracles]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/db117834-a5f9-4e6e-a6fd-76163ca1d8c0/2G05KEN_16x9.jpg" alt="Searching for the site of one of Christianity's great miracles" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/annunciation-nazareth-mary-jesus-christ</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/annunciation-nazareth-mary-jesus-christ</guid>
+            <pubDate>Tue, 24 Mar 2026 11:41:54 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/db117834-a5f9-4e6e-a6fd-76163ca1d8c0/2G05KEN_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why some grief never fades]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/aa80cc59-93df-4205-a1cc-65b3260bee9d/h_11.03248278_16x9.jpg" alt="Why some grief never fades" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/health/article/prolonged-grief-disorder-brain-effects</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/health/article/prolonged-grief-disorder-brain-effects</guid>
+            <pubDate>Tue, 24 Mar 2026 11:41:54 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/aa80cc59-93df-4205-a1cc-65b3260bee9d/h_11.03248278_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Where to see one of California’s best superblooms in years]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/72c15ffb-79de-4df0-86f3-37ad8455fdbc/GettyImages-2263911025_16x9.jpg" alt="Where to see one of California’s best superblooms in years" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/environment/article/california-death-valley-superbloom</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/california-death-valley-superbloom</guid>
+            <pubDate>Tue, 24 Mar 2026 11:41:54 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/72c15ffb-79de-4df0-86f3-37ad8455fdbc/GettyImages-2263911025_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
