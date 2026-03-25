@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Mar 2026 14:19:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Mar 2026 16:06:23 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 25 Mar 2026 14:19:56 GMT</pubDate>
+        <pubDate>Wed, 25 Mar 2026 16:06:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[10 of the best hotels in Vancouver]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/c4ef8979-d61f-4f74-90e8-164dabf6a74f/SuiteX-EmaPeter2_16x9.jpg" alt="10 of the best hotels in Vancouver" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/best-hotels-in-vancouver</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/best-hotels-in-vancouver</guid>
-            <pubDate>Wed, 25 Mar 2026 14:19:56 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/c4ef8979-d61f-4f74-90e8-164dabf6a74f/SuiteX-EmaPeter2_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Humans have been hanging out with dogs for at least 14,000 years]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/fd48df4b-dc79-4c06-8fd3-8406e7abe998/Reconstruction_16x9.jpg" alt="Humans have been hanging out with dogs for at least 14,000 years" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/animals/article/dog-domestication-genetics-bones-europe</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/dog-domestication-genetics-bones-europe</guid>
+            <pubDate>Wed, 25 Mar 2026 16:06:23 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/fd48df4b-dc79-4c06-8fd3-8406e7abe998/Reconstruction_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
