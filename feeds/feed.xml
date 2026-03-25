@@ -9,25 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Mar 2026 12:58:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Mar 2026 14:19:56 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 25 Mar 2026 12:58:54 GMT</pubDate>
+        <pubDate>Wed, 25 Mar 2026 14:19:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Everyone wants a piece of the moon—what could go wrong?]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/cfe564e6-1da9-4a85-a025-a4776935ec79/ngm-2509-moon-futures_thumbnail_16x9.jpg" alt="Everyone wants a piece of the moon—what could go wrong?" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/science/graphics/moon-base-exploration-lunar-surface</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/science/graphics/moon-base-exploration-lunar-surface</guid>
-            <pubDate>Wed, 25 Mar 2026 12:58:54 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/cfe564e6-1da9-4a85-a025-a4776935ec79/ngm-2509-moon-futures_thumbnail_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Women still face inequalities, despite the 19th Amendment]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/0e2ea7d3-ebc3-43ec-a185-d41bfeedd8f4/01-nineteenth-amendment_16x9.jpg" alt="Women still face inequalities, despite the 19th Amendment" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/culture/article/19th-amendment-womens-suffrage-voting</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/culture/article/19th-amendment-womens-suffrage-voting</guid>
-            <pubDate>Wed, 25 Mar 2026 12:58:54 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/0e2ea7d3-ebc3-43ec-a185-d41bfeedd8f4/01-nineteenth-amendment_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[10 of the best hotels in Vancouver]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/c4ef8979-d61f-4f74-90e8-164dabf6a74f/SuiteX-EmaPeter2_16x9.jpg" alt="10 of the best hotels in Vancouver" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/best-hotels-in-vancouver</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/best-hotels-in-vancouver</guid>
+            <pubDate>Wed, 25 Mar 2026 14:19:56 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/c4ef8979-d61f-4f74-90e8-164dabf6a74f/SuiteX-EmaPeter2_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
