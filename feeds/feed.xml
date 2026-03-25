@@ -9,17 +9,33 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Mar 2026 10:43:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Mar 2026 11:38:36 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 25 Mar 2026 10:43:34 GMT</pubDate>
+        <pubDate>Wed, 25 Mar 2026 11:38:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Everything to know about Glacier National Park]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/df0b14cb-e96f-4a4d-98b1-d091c1b8af7a/NationalGeographic_2495629_16x9.jpg" alt="Everything to know about Glacier National Park" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/national-parks/article/glacier-national-park</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/national-parks/article/glacier-national-park</guid>
-            <pubDate>Wed, 25 Mar 2026 10:43:34 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/df0b14cb-e96f-4a4d-98b1-d091c1b8af7a/NationalGeographic_2495629_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[A mystery pod of orcas surprised Seattle whale watchers]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/4fdd72f2-958a-47d6-add8-1b7b94cd718f/IMG_3291_1_16x9.jpg" alt="A mystery pod of orcas surprised Seattle whale watchers" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/animals/article/mystery-orcas-puget-sound-seattle</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/mystery-orcas-puget-sound-seattle</guid>
+            <pubDate>Wed, 25 Mar 2026 11:38:36 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/4fdd72f2-958a-47d6-add8-1b7b94cd718f/IMG_3291_1_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Everything to know about Acadia National Park]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/1eafcbf6-b36e-480f-a3b5-70328a1b68b7/92924_16x9.jpg" alt="Everything to know about Acadia National Park" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/national-parks/article/acadia-national-park</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/national-parks/article/acadia-national-park</guid>
+            <pubDate>Wed, 25 Mar 2026 11:38:36 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/1eafcbf6-b36e-480f-a3b5-70328a1b68b7/92924_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Teleportation is no longer just science fiction—at the quantum level]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/f47f43dc-d740-4d52-a7a8-80a543a8cc6b/h_11.01779862_16x9.jpg" alt="Teleportation is no longer just science fiction—at the quantum level" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/science/article/quantum-teleportation-science-computing-physics</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/quantum-teleportation-science-computing-physics</guid>
+            <pubDate>Wed, 25 Mar 2026 11:38:36 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/f47f43dc-d740-4d52-a7a8-80a543a8cc6b/h_11.01779862_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
