@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Mar 2026 09:49:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Mar 2026 10:43:34 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 25 Mar 2026 09:49:55 GMT</pubDate>
+        <pubDate>Wed, 25 Mar 2026 10:43:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[See the real Zagreb on this city tour with street artists]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/9448a60f-0b77-498b-80ce-1066186d5594/coverstory_croatia_DJI_0167_ukHR_16x9.jpg" alt="See the real Zagreb on this city tour with street artists" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/see-the-real-zagreb-on-this-city-tour-with-street-artists</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/see-the-real-zagreb-on-this-city-tour-with-street-artists</guid>
-            <pubDate>Wed, 25 Mar 2026 09:49:55 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/9448a60f-0b77-498b-80ce-1066186d5594/coverstory_croatia_DJI_0167_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Everything to know about Glacier National Park]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/df0b14cb-e96f-4a4d-98b1-d091c1b8af7a/NationalGeographic_2495629_16x9.jpg" alt="Everything to know about Glacier National Park" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/national-parks/article/glacier-national-park</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/national-parks/article/glacier-national-park</guid>
+            <pubDate>Wed, 25 Mar 2026 10:43:34 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/df0b14cb-e96f-4a4d-98b1-d091c1b8af7a/NationalGeographic_2495629_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
