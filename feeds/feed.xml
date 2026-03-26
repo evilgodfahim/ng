@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Mar 2026 19:43:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Mar 2026 09:07:32 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 25 Mar 2026 19:43:54 GMT</pubDate>
+        <pubDate>Thu, 26 Mar 2026 09:07:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Biruté Galdikas's iconic story that helped change orangutans' fate]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/82df81a4-c04b-4c9b-9ba7-5ab87bea2f20/SPI-16823_16x9.jpg" alt="Biruté Galdikas's iconic story that helped change orangutans' fate" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/animals/article/birute-galdikas-orangutans-borneo-october-1975</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/birute-galdikas-orangutans-borneo-october-1975</guid>
-            <pubDate>Wed, 25 Mar 2026 19:43:54 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/82df81a4-c04b-4c9b-9ba7-5ab87bea2f20/SPI-16823_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Meet the locals reviving Route 66 for a new generation of drivers]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/88866295-91c2-48ed-851f-b7b32fc6e55d/coverstory_route66_NG-Ward-2_ukHR_16x9.jpg" alt="Meet the locals reviving Route 66 for a new generation of drivers" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/how-tulsa-locals-revived-a-stretch-of-route-66</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/how-tulsa-locals-revived-a-stretch-of-route-66</guid>
+            <pubDate>Thu, 26 Mar 2026 09:07:32 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/88866295-91c2-48ed-851f-b7b32fc6e55d/coverstory_route66_NG-Ward-2_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
