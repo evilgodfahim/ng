@@ -9,41 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Mar 2026 11:46:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Mar 2026 13:03:42 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 26 Mar 2026 11:46:15 GMT</pubDate>
+        <pubDate>Thu, 26 Mar 2026 13:03:42 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Revealing the sneaky genius of bees]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/075478a5-9664-402f-8e83-884f9c438d7f/MM10353_251023_18464_16x9.jpg" alt="Revealing the sneaky genius of bees" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/animals/article/secrets-of-bees-adaptation-pollinators</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/secrets-of-bees-adaptation-pollinators</guid>
-            <pubDate>Thu, 26 Mar 2026 11:46:15 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/075478a5-9664-402f-8e83-884f9c438d7f/MM10353_251023_18464_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Patagonia's Aysén region offers adventure away from the crowds]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/376e4a50-f563-42dc-86ee-d4ce46ffbc3e/1_SPI-2603104_16x9.jpg" alt="Patagonia's Aysén region offers adventure away from the crowds" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/patagonia-aysen-region-chile</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/patagonia-aysen-region-chile</guid>
-            <pubDate>Thu, 26 Mar 2026 11:46:15 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/376e4a50-f563-42dc-86ee-d4ce46ffbc3e/1_SPI-2603104_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[8 night sky events to see in April]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/ea44b03a-4d6f-447a-9c79-f5d627764ec7/AP24114696700174_16x9.jpg" alt="8 night sky events to see in April" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/science/article/april-2026-night-sky-events</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/april-2026-night-sky-events</guid>
-            <pubDate>Thu, 26 Mar 2026 11:46:15 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/ea44b03a-4d6f-447a-9c79-f5d627764ec7/AP24114696700174_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[The genetic reason why cherry blossoms bloom at the same time]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/dba33f31-87f9-4494-abbb-f9e3bc1ea00c/Stocksy_unlicensed_comp_22822_16x9.jpg" alt="The genetic reason why cherry blossoms bloom at the same time" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/environment/article/yoshino-cherry-blossoms-cloning</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/yoshino-cherry-blossoms-cloning</guid>
-            <pubDate>Thu, 26 Mar 2026 11:46:15 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/dba33f31-87f9-4494-abbb-f9e3bc1ea00c/Stocksy_unlicensed_comp_22822_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[The secret world of hotel concierges—and how you can benefit]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/5ce8212d-abab-471c-b518-87e2d1db2745/Lowdown_2JD8MYC_FireflyUpscaler2xscale_HR_RESIZED_16x9.jpg" alt="The secret world of hotel concierges—and how you can benefit" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/the-secret-world-of-hotel-concierges-and-how-you-can-benefit</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/the-secret-world-of-hotel-concierges-and-how-you-can-benefit</guid>
+            <pubDate>Thu, 26 Mar 2026 13:03:42 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/5ce8212d-abab-471c-b518-87e2d1db2745/Lowdown_2JD8MYC_FireflyUpscaler2xscale_HR_RESIZED_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
