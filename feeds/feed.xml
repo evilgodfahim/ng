@@ -9,17 +9,41 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Mar 2026 09:07:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Mar 2026 11:46:15 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 26 Mar 2026 09:07:32 GMT</pubDate>
+        <pubDate>Thu, 26 Mar 2026 11:46:15 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Meet the locals reviving Route 66 for a new generation of drivers]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/88866295-91c2-48ed-851f-b7b32fc6e55d/coverstory_route66_NG-Ward-2_ukHR_16x9.jpg" alt="Meet the locals reviving Route 66 for a new generation of drivers" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/how-tulsa-locals-revived-a-stretch-of-route-66</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/how-tulsa-locals-revived-a-stretch-of-route-66</guid>
-            <pubDate>Thu, 26 Mar 2026 09:07:32 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/88866295-91c2-48ed-851f-b7b32fc6e55d/coverstory_route66_NG-Ward-2_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Revealing the sneaky genius of bees]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/075478a5-9664-402f-8e83-884f9c438d7f/MM10353_251023_18464_16x9.jpg" alt="Revealing the sneaky genius of bees" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/animals/article/secrets-of-bees-adaptation-pollinators</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/secrets-of-bees-adaptation-pollinators</guid>
+            <pubDate>Thu, 26 Mar 2026 11:46:15 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/075478a5-9664-402f-8e83-884f9c438d7f/MM10353_251023_18464_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Patagonia's Aysén region offers adventure away from the crowds]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/376e4a50-f563-42dc-86ee-d4ce46ffbc3e/1_SPI-2603104_16x9.jpg" alt="Patagonia's Aysén region offers adventure away from the crowds" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/patagonia-aysen-region-chile</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/patagonia-aysen-region-chile</guid>
+            <pubDate>Thu, 26 Mar 2026 11:46:15 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/376e4a50-f563-42dc-86ee-d4ce46ffbc3e/1_SPI-2603104_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[8 night sky events to see in April]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/ea44b03a-4d6f-447a-9c79-f5d627764ec7/AP24114696700174_16x9.jpg" alt="8 night sky events to see in April" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/science/article/april-2026-night-sky-events</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/april-2026-night-sky-events</guid>
+            <pubDate>Thu, 26 Mar 2026 11:46:15 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/ea44b03a-4d6f-447a-9c79-f5d627764ec7/AP24114696700174_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The genetic reason why cherry blossoms bloom at the same time]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/dba33f31-87f9-4494-abbb-f9e3bc1ea00c/Stocksy_unlicensed_comp_22822_16x9.jpg" alt="The genetic reason why cherry blossoms bloom at the same time" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/environment/article/yoshino-cherry-blossoms-cloning</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/yoshino-cherry-blossoms-cloning</guid>
+            <pubDate>Thu, 26 Mar 2026 11:46:15 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/dba33f31-87f9-4494-abbb-f9e3bc1ea00c/Stocksy_unlicensed_comp_22822_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
