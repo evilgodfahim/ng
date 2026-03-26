@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Mar 2026 19:11:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Mar 2026 20:32:02 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 26 Mar 2026 19:11:09 GMT</pubDate>
+        <pubDate>Thu, 26 Mar 2026 20:32:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Watch the moment scientists realized whales have ‘midwives’]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/2eb20933-6ef5-45df-8ba0-a3dfdf285dba/naturepl_01622869_16x9.jpg" alt="Watch the moment scientists realized whales have ‘midwives’" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/animals/article/sperm-whale-birth-video</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/sperm-whale-birth-video</guid>
-            <pubDate>Thu, 26 Mar 2026 19:11:09 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/2eb20933-6ef5-45df-8ba0-a3dfdf285dba/naturepl_01622869_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Newly discovered primate species could redraw the ape family tree]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/2ad71a2a-c338-491c-b8fc-273b48168e5e/10_16x9.jpg" alt="Newly discovered primate species could redraw the ape family tree" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/first-egypt-ape-fossil-jaw</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/first-egypt-ape-fossil-jaw</guid>
+            <pubDate>Thu, 26 Mar 2026 20:32:02 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/2ad71a2a-c338-491c-b8fc-273b48168e5e/10_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
