@@ -9,17 +9,25 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Mar 2026 13:03:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Mar 2026 16:16:22 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 26 Mar 2026 13:03:42 GMT</pubDate>
+        <pubDate>Thu, 26 Mar 2026 16:16:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[The secret world of hotel concierges—and how you can benefit]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/5ce8212d-abab-471c-b518-87e2d1db2745/Lowdown_2JD8MYC_FireflyUpscaler2xscale_HR_RESIZED_16x9.jpg" alt="The secret world of hotel concierges—and how you can benefit" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/the-secret-world-of-hotel-concierges-and-how-you-can-benefit</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/the-secret-world-of-hotel-concierges-and-how-you-can-benefit</guid>
-            <pubDate>Thu, 26 Mar 2026 13:03:42 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/5ce8212d-abab-471c-b518-87e2d1db2745/Lowdown_2JD8MYC_FireflyUpscaler2xscale_HR_RESIZED_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Photos show National Geographic’s legacy of sparking curiosity]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/19bc029c-07e1-4d93-a5bd-b0d160412d47/11-OceanShow_Flythrough_1_16x9.jpg" alt="Photos show National Geographic’s legacy of sparking curiosity" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/impact/article/photos-museum-of-exploration</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/impact/article/photos-museum-of-exploration</guid>
+            <pubDate>Thu, 26 Mar 2026 16:16:22 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/19bc029c-07e1-4d93-a5bd-b0d160412d47/11-OceanShow_Flythrough_1_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hannah Reyes Morales has spent a decade telling intimate human stories]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/a5dc8086-d828-412b-a94b-8a6ccf213b09/NG%20asset%20Hannah%20R%20Morales_16x9.jpeg" alt="Hannah Reyes Morales has spent a decade telling intimate human stories" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/impact/article/hannah-reyes-morales-explorer-story</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/impact/article/hannah-reyes-morales-explorer-story</guid>
+            <pubDate>Thu, 26 Mar 2026 16:16:22 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/a5dc8086-d828-412b-a94b-8a6ccf213b09/NG%20asset%20Hannah%20R%20Morales_16x9.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
