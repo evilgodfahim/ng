@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Mar 2026 17:58:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Mar 2026 19:11:09 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 26 Mar 2026 17:58:17 GMT</pubDate>
+        <pubDate>Thu, 26 Mar 2026 19:11:09 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[The farthest journey in human history is about to begin]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/f7f43541-93cb-4055-8e0b-b0cbbf35f24f/NationalGeographic_2722853_16x9.jpg" alt="The farthest journey in human history is about to begin" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/science/article/artemis-2-moon-mission-astronauts</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/artemis-2-moon-mission-astronauts</guid>
-            <pubDate>Thu, 26 Mar 2026 17:58:17 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/f7f43541-93cb-4055-8e0b-b0cbbf35f24f/NationalGeographic_2722853_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Watch the moment scientists realized whales have ‘midwives’]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/2eb20933-6ef5-45df-8ba0-a3dfdf285dba/naturepl_01622869_16x9.jpg" alt="Watch the moment scientists realized whales have ‘midwives’" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/animals/article/sperm-whale-birth-video</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/sperm-whale-birth-video</guid>
+            <pubDate>Thu, 26 Mar 2026 19:11:09 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/2eb20933-6ef5-45df-8ba0-a3dfdf285dba/naturepl_01622869_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
