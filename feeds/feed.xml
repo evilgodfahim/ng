@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Mar 2026 15:48:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Mar 2026 16:49:01 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 27 Mar 2026 15:48:18 GMT</pubDate>
+        <pubDate>Fri, 27 Mar 2026 16:49:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Mackenzie Calle’s above and beyond photography goes inside a Mars simulation]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/06023812-cf1c-4c6c-a1cf-4f59b35b6f1d/EC-115199S-24_MCalle_20251018_00564_16x9.jpg" alt="Mackenzie Calle’s above and beyond photography goes inside a Mars simulation" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/impact/article/mackenzie-calle-explorer-story</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/impact/article/mackenzie-calle-explorer-story</guid>
-            <pubDate>Fri, 27 Mar 2026 15:48:18 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/06023812-cf1c-4c6c-a1cf-4f59b35b6f1d/EC-115199S-24_MCalle_20251018_00564_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Why California’s Bay Area is America’s natural wine hub]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/dd5de242-ff2a-491c-931c-daeb9f089e96/ShuggiesRebrandxERINNG-spread_16x9.jpg" alt="Why California’s Bay Area is America’s natural wine hub" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/why-californias-bay-area-is-americas-natural-wine-hub</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/why-californias-bay-area-is-americas-natural-wine-hub</guid>
+            <pubDate>Fri, 27 Mar 2026 16:49:01 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/dd5de242-ff2a-491c-931c-daeb9f089e96/ShuggiesRebrandxERINNG-spread_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
