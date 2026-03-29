@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 29 Mar 2026 08:34:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Mar 2026 19:28:54 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 29 Mar 2026 08:34:56 GMT</pubDate>
+        <pubDate>Sun, 29 Mar 2026 19:28:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Is American craft sake the next big thing?]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/b54b0eb1-7202-486f-b16e-72f7efb8a833/trends_sake_Dassai_Storytelling-Spaces-Tastingroom_ukHR_16x9.jpg" alt="Is American craft sake the next big thing?" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/american-craft-sake-is-booming-and-now-it-has-set-its-sights-on-japan</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/american-craft-sake-is-booming-and-now-it-has-set-its-sights-on-japan</guid>
-            <pubDate>Sun, 29 Mar 2026 08:34:56 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/b54b0eb1-7202-486f-b16e-72f7efb8a833/trends_sake_Dassai_Storytelling-Spaces-Tastingroom_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Watch Artemis II roll out aboard the heaviest vehicle on Earth]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/7d66343b-3e41-45e0-b727-fcbaa247e6be/MM9498_20260117_02997_16x9.jpg" alt="Watch Artemis II roll out aboard the heaviest vehicle on Earth" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/science/article/artemis-2-rollout-timelapse</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/artemis-2-rollout-timelapse</guid>
+            <pubDate>Sun, 29 Mar 2026 19:28:54 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/7d66343b-3e41-45e0-b727-fcbaa247e6be/MM9498_20260117_02997_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
