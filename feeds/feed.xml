@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Mar 2026 14:59:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2026 17:50:58 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 30 Mar 2026 14:59:32 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 17:50:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[How NASA plans to send humans back to the moon—and beyond]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/34f69026-9c0f-4915-bcee-6fa36a5cace6/capsule_int_final_16x9.jpg" alt="How NASA plans to send humans back to the moon—and beyond" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/premium/graphics/inside-artemis-program-rockets-spacesuits</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/premium/graphics/inside-artemis-program-rockets-spacesuits</guid>
-            <pubDate>Mon, 30 Mar 2026 14:59:32 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/34f69026-9c0f-4915-bcee-6fa36a5cace6/capsule_int_final_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Can a zoo be ethical? These institutions are trying to prove it]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/6f7e78e5-41ef-4732-bc62-48e981608bb2/ET_thelowdown_WCXA6P_ukHR_16x9.jpg" alt="Can a zoo be ethical? These institutions are trying to prove it" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/is-there-an-ethically-good-zoo-these-zoos-say-yes</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/is-there-an-ethically-good-zoo-these-zoos-say-yes</guid>
+            <pubDate>Mon, 30 Mar 2026 17:50:58 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/6f7e78e5-41ef-4732-bc62-48e981608bb2/ET_thelowdown_WCXA6P_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
