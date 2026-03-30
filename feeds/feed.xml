@@ -9,49 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Mar 2026 11:55:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2026 14:59:32 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 30 Mar 2026 11:55:10 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 14:59:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Atlantic puffins are returning to shore—here’s how to see them]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/41cdc643-80ad-495d-8761-ab055b3b0c01/naturepl_01750796_16x9.jpg" alt="Atlantic puffins are returning to shore—here’s how to see them" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/animals/article/atlantic-puffins-coastal-migration</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/atlantic-puffins-coastal-migration</guid>
-            <pubDate>Mon, 30 Mar 2026 11:55:10 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/41cdc643-80ad-495d-8761-ab055b3b0c01/naturepl_01750796_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[The bizarre raptor-like dinosaurs that menaced the Mesozoic]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/dd2804a5-93d5-4058-8095-1a1128e197ad/960e532a-749d-442c-9940-d0a788aa5a4e_16x9.jpg" alt="The bizarre raptor-like dinosaurs that menaced the Mesozoic" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/history/article/dead-world-bizarre-raptors</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/dead-world-bizarre-raptors</guid>
-            <pubDate>Mon, 30 Mar 2026 11:55:10 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/dd2804a5-93d5-4058-8095-1a1128e197ad/960e532a-749d-442c-9940-d0a788aa5a4e_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Who really wrote the Old Testament? These are the theories.]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/ea18b291-9065-4019-959a-059dd0a8eb07/bible2_16x9.jpg" alt="Who really wrote the Old Testament? These are the theories." style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/history/article/old-testament-bible-authors</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/old-testament-bible-authors</guid>
-            <pubDate>Mon, 30 Mar 2026 11:55:10 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/ea18b291-9065-4019-959a-059dd0a8eb07/bible2_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[The essential guide to visiting Michigan]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/c3e551de-7201-43b9-ad16-de7de3793793/GettyImages-2180408678_16x9.jpg" alt="The essential guide to visiting Michigan" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/michigan-essential-travel-guide</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/michigan-essential-travel-guide</guid>
-            <pubDate>Mon, 30 Mar 2026 11:55:10 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/c3e551de-7201-43b9-ad16-de7de3793793/GettyImages-2180408678_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Survival of the most cooperative]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/85dc52e0-41a1-46a9-9f18-722e9e2605dd/NGSPPOCN_Giacomo_dOrlando_DSC9733_16x9.jpg" alt="Survival of the most cooperative" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/environment/article/saving-coral-reefs-rarotonga</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/saving-coral-reefs-rarotonga</guid>
-            <pubDate>Mon, 30 Mar 2026 11:55:10 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/85dc52e0-41a1-46a9-9f18-722e9e2605dd/NGSPPOCN_Giacomo_dOrlando_DSC9733_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[How NASA plans to send humans back to the moon—and beyond]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/34f69026-9c0f-4915-bcee-6fa36a5cace6/capsule_int_final_16x9.jpg" alt="How NASA plans to send humans back to the moon—and beyond" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/premium/graphics/inside-artemis-program-rockets-spacesuits</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/premium/graphics/inside-artemis-program-rockets-spacesuits</guid>
+            <pubDate>Mon, 30 Mar 2026 14:59:32 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/34f69026-9c0f-4915-bcee-6fa36a5cace6/capsule_int_final_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
