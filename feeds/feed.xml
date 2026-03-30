@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Mar 2026 07:21:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2026 09:06:42 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 30 Mar 2026 07:21:17 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 09:06:42 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Underwater Treasures]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/8bd40d82-0a59-4e52-a02a-b774d603a1fb/STOCKPKG_MM10254_Byzantine_wreck_54_16x9.jpg" alt="Underwater Treasures" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/photo-of-the-day/media-spotlight/underwater-ancient-harbor-polace-croatia</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/photo-of-the-day/media-spotlight/underwater-ancient-harbor-polace-croatia</guid>
-            <pubDate>Mon, 30 Mar 2026 07:21:17 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/8bd40d82-0a59-4e52-a02a-b774d603a1fb/STOCKPKG_MM10254_Byzantine_wreck_54_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[This Welsh region is now an adventure hub—here's why]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/585c024e-3d15-4618-b7df-c0f6136de516/TE_ukbreak_DJI_0867_ukHR_16x9.jpg" alt="This Welsh region is now an adventure hub—here's why" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/carmarthenshire-in-wales-is-now-an-adventure-hub</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/carmarthenshire-in-wales-is-now-an-adventure-hub</guid>
+            <pubDate>Mon, 30 Mar 2026 09:06:42 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/585c024e-3d15-4618-b7df-c0f6136de516/TE_ukbreak_DJI_0867_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
