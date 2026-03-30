@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Mar 2026 09:06:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2026 10:58:04 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 30 Mar 2026 09:06:42 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 10:58:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[This Welsh region is now an adventure hub—here's why]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/585c024e-3d15-4618-b7df-c0f6136de516/TE_ukbreak_DJI_0867_ukHR_16x9.jpg" alt="This Welsh region is now an adventure hub—here's why" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/carmarthenshire-in-wales-is-now-an-adventure-hub</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/carmarthenshire-in-wales-is-now-an-adventure-hub</guid>
-            <pubDate>Mon, 30 Mar 2026 09:06:42 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/585c024e-3d15-4618-b7df-c0f6136de516/TE_ukbreak_DJI_0867_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[An ancient Hawaiian marine technology could help ocean ecosystems recover]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/c51eb5fe-9966-45ce-8d9b-4a69e66bd968/PRADA_Hawaii_Image04_v2_16x9.jpg" alt="An ancient Hawaiian marine technology could help ocean ecosystems recover" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/environment/article/paid-content-ancient-hawaiian-marine-technology-helps-ocean-ecosystems-recover</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/paid-content-ancient-hawaiian-marine-technology-helps-ocean-ecosystems-recover</guid>
+            <pubDate>Mon, 30 Mar 2026 10:58:04 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/c51eb5fe-9966-45ce-8d9b-4a69e66bd968/PRADA_Hawaii_Image04_v2_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
