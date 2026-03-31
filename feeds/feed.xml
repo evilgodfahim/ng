@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 31 Mar 2026 04:37:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Mar 2026 08:05:59 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 31 Mar 2026 04:37:28 GMT</pubDate>
+        <pubDate>Tue, 31 Mar 2026 08:05:59 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Fascinating Creatures]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/4ddfe01a-dd57-4aa1-8092-1f2d3cbe1710/MM10361_251031_00925_16x9.jpg" alt="Fascinating Creatures" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/photo-of-the-day/media-spotlight/taxidermied-animals-abu-dhabi-museum</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/photo-of-the-day/media-spotlight/taxidermied-animals-abu-dhabi-museum</guid>
-            <pubDate>Tue, 31 Mar 2026 04:37:28 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/4ddfe01a-dd57-4aa1-8092-1f2d3cbe1710/MM10361_251031_00925_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[A practical guide to driving Route 66]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/944bdea0-363c-4844-8b4e-aa87b6dece71/coverstory_route66_GettyImages-1088070948_ukHR_16x9.jpg" alt="A practical guide to driving Route 66" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/a-practical-guide-to-driving-route-66-everything-to-know</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/a-practical-guide-to-driving-route-66-everything-to-know</guid>
+            <pubDate>Tue, 31 Mar 2026 08:05:59 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/944bdea0-363c-4844-8b4e-aa87b6dece71/coverstory_route66_GettyImages-1088070948_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
