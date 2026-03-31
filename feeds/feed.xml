@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Mar 2026 17:50:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Mar 2026 04:37:28 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 30 Mar 2026 17:50:58 GMT</pubDate>
+        <pubDate>Tue, 31 Mar 2026 04:37:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Can a zoo be ethical? These institutions are trying to prove it]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/6f7e78e5-41ef-4732-bc62-48e981608bb2/ET_thelowdown_WCXA6P_ukHR_16x9.jpg" alt="Can a zoo be ethical? These institutions are trying to prove it" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/is-there-an-ethically-good-zoo-these-zoos-say-yes</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/is-there-an-ethically-good-zoo-these-zoos-say-yes</guid>
-            <pubDate>Mon, 30 Mar 2026 17:50:58 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/6f7e78e5-41ef-4732-bc62-48e981608bb2/ET_thelowdown_WCXA6P_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Fascinating Creatures]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/4ddfe01a-dd57-4aa1-8092-1f2d3cbe1710/MM10361_251031_00925_16x9.jpg" alt="Fascinating Creatures" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/photo-of-the-day/media-spotlight/taxidermied-animals-abu-dhabi-museum</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/photo-of-the-day/media-spotlight/taxidermied-animals-abu-dhabi-museum</guid>
+            <pubDate>Tue, 31 Mar 2026 04:37:28 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/4ddfe01a-dd57-4aa1-8092-1f2d3cbe1710/MM10361_251031_00925_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
