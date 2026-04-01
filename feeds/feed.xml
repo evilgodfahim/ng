@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 31 Mar 2026 16:05:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Apr 2026 08:58:32 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 31 Mar 2026 16:05:22 GMT</pubDate>
+        <pubDate>Wed, 01 Apr 2026 08:58:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Everything to know about Isle Royale National Park]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/6132edea-190c-40c7-b9b0-5ec1fc38cf22/stock_61065869_16x9.jpg" alt="Everything to know about Isle Royale National Park" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/national-parks/article/isle-royale-national-park</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/national-parks/article/isle-royale-national-park</guid>
-            <pubDate>Tue, 31 Mar 2026 16:05:22 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/6132edea-190c-40c7-b9b0-5ec1fc38cf22/stock_61065869_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Looking for under-the-radar adventures? Try Norway's Vesterålen]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/597888db-7954-432f-897e-c8d3fc1f2bc0/Norway__OSL8890_HR_16x9.jpg" alt="Looking for under-the-radar adventures? Try Norway's Vesterålen" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/under-the-radar-adventure-paradise-in-norway-vesteralen-archipelago</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/under-the-radar-adventure-paradise-in-norway-vesteralen-archipelago</guid>
+            <pubDate>Wed, 01 Apr 2026 08:58:32 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/597888db-7954-432f-897e-c8d3fc1f2bc0/Norway__OSL8890_HR_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
