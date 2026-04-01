@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Apr 2026 15:00:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Apr 2026 18:55:03 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Apr 2026 15:00:35 GMT</pubDate>
+        <pubDate>Wed, 01 Apr 2026 18:55:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Where to find some of the wildest rides and thrills in Orlando, Florida]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/fe19a07d-1adc-4865-abd0-da29cd45c310/GettyImages-1331833734_16x9.jpg" alt="Where to find some of the wildest rides and thrills in Orlando, Florida" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/paid-content-where-to-find-some-of-the-wildest-rides-and-thrills-orlando-florida</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/paid-content-where-to-find-some-of-the-wildest-rides-and-thrills-orlando-florida</guid>
-            <pubDate>Wed, 01 Apr 2026 15:00:35 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/fe19a07d-1adc-4865-abd0-da29cd45c310/GettyImages-1331833734_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Katy Croff Bell is making a treasure map of the deep sea]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/c17568e0-a629-4a43-add8-e3045d13ee2f/GSFC_20171208_Archive_e002131_16x9.jpg" alt="Katy Croff Bell is making a treasure map of the deep sea" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/environment/article/katy-croff-bell-10000-map-deep-ocean-floor</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/katy-croff-bell-10000-map-deep-ocean-floor</guid>
+            <pubDate>Wed, 01 Apr 2026 18:55:03 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/c17568e0-a629-4a43-add8-e3045d13ee2f/GSFC_20171208_Archive_e002131_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
