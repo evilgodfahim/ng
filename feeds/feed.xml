@@ -9,25 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Apr 2026 13:10:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Apr 2026 15:00:35 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Apr 2026 13:10:38 GMT</pubDate>
+        <pubDate>Wed, 01 Apr 2026 15:00:35 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[8 of the best museums to visit in London]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/84b27a2c-1c87-482d-b47c-fe0c91940ca9/3BNWN33_RESIZED_16x9.jpg" alt="8 of the best museums to visit in London" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/best-museums-in-london-visit-now</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/best-museums-in-london-visit-now</guid>
-            <pubDate>Wed, 01 Apr 2026 13:10:38 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/84b27a2c-1c87-482d-b47c-fe0c91940ca9/3BNWN33_RESIZED_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[How Felicity Muth is decoding bee intelligence]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/14ebaadf-4d88-47c4-9670-276683bad237/NGS2025EXPL_FelicityMuth_CR_MarkThiessen_1369_16x9.jpg" alt="How Felicity Muth is decoding bee intelligence" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/impact/article/felicity-muth-explorer-story</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/impact/article/felicity-muth-explorer-story</guid>
-            <pubDate>Wed, 01 Apr 2026 13:10:38 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/14ebaadf-4d88-47c4-9670-276683bad237/NGS2025EXPL_FelicityMuth_CR_MarkThiessen_1369_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Where to find some of the wildest rides and thrills in Orlando, Florida]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/fe19a07d-1adc-4865-abd0-da29cd45c310/GettyImages-1331833734_16x9.jpg" alt="Where to find some of the wildest rides and thrills in Orlando, Florida" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/paid-content-where-to-find-some-of-the-wildest-rides-and-thrills-orlando-florida</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/paid-content-where-to-find-some-of-the-wildest-rides-and-thrills-orlando-florida</guid>
+            <pubDate>Wed, 01 Apr 2026 15:00:35 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/fe19a07d-1adc-4865-abd0-da29cd45c310/GettyImages-1331833734_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
