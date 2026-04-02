@@ -9,25 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Apr 2026 18:51:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Apr 2026 20:30:52 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 02 Apr 2026 18:51:13 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 20:30:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Male octopus has ‘sex arm’ that can mate in the dark]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/2a4ea524-9fa4-408d-b949-295e0e4300de/SPI-2474106_16x9.jpg" alt="Male octopus has ‘sex arm’ that can mate in the dark" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/animals/article/octopus-sex-arm-sensory-behavior</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/octopus-sex-arm-sensory-behavior</guid>
-            <pubDate>Thu, 02 Apr 2026 18:51:13 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/2a4ea524-9fa4-408d-b949-295e0e4300de/SPI-2474106_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Watch Artemis II blast off in stunning slow motion]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/66510fc7-c1a4-407e-bcb7-30f655886e8d/ngm-2604-slo-mo-rocket_thumbnail_16x9.jpg" alt="Watch Artemis II blast off in stunning slow motion" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/science/graphics/artemis-ii-rocket-launch-video-slow-motion</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/science/graphics/artemis-ii-rocket-launch-video-slow-motion</guid>
-            <pubDate>Thu, 02 Apr 2026 18:51:13 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/66510fc7-c1a4-407e-bcb7-30f655886e8d/ngm-2604-slo-mo-rocket_thumbnail_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Why the Strait of Hormuz is a geological wonder]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/f30867d1-5037-4b57-8167-ac9283279766/3DRG907_16x9.jpg" alt="Why the Strait of Hormuz is a geological wonder" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/science/article/strait-of-hormuz-geology</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/strait-of-hormuz-geology</guid>
+            <pubDate>Thu, 02 Apr 2026 20:30:52 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/f30867d1-5037-4b57-8167-ac9283279766/3DRG907_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
