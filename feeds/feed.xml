@@ -9,25 +9,25 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Apr 2026 11:42:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Apr 2026 18:51:13 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 02 Apr 2026 11:42:08 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 18:51:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[How Artemis II astronauts plan to capture a new ‘Earthrise’]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/c23668c2-946b-4da9-b678-f513552b31c2/as08-14-2383_16x9.jpg" alt="How Artemis II astronauts plan to capture a new ‘Earthrise’" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/science/article/artemis-ii-nasa-earthrise-photo</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/artemis-ii-nasa-earthrise-photo</guid>
-            <pubDate>Thu, 02 Apr 2026 11:42:08 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/c23668c2-946b-4da9-b678-f513552b31c2/as08-14-2383_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Male octopus has ‘sex arm’ that can mate in the dark]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/2a4ea524-9fa4-408d-b949-295e0e4300de/SPI-2474106_16x9.jpg" alt="Male octopus has ‘sex arm’ that can mate in the dark" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/animals/article/octopus-sex-arm-sensory-behavior</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/octopus-sex-arm-sensory-behavior</guid>
+            <pubDate>Thu, 02 Apr 2026 18:51:13 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/2a4ea524-9fa4-408d-b949-295e0e4300de/SPI-2474106_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[A rare sungrazing comet is about to make an extreme flyby]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/95f1a66f-da77-4356-aaca-b59b0f6ff106/2026a1_14_03_26_16x9.jpg" alt="A rare sungrazing comet is about to make an extreme flyby" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/science/article/sungrazing-comet-2026-a1-maps-when-to-see</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/sungrazing-comet-2026-a1-maps-when-to-see</guid>
-            <pubDate>Thu, 02 Apr 2026 11:42:08 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/95f1a66f-da77-4356-aaca-b59b0f6ff106/2026a1_14_03_26_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Watch Artemis II blast off in stunning slow motion]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/66510fc7-c1a4-407e-bcb7-30f655886e8d/ngm-2604-slo-mo-rocket_thumbnail_16x9.jpg" alt="Watch Artemis II blast off in stunning slow motion" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/science/graphics/artemis-ii-rocket-launch-video-slow-motion</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/science/graphics/artemis-ii-rocket-launch-video-slow-motion</guid>
+            <pubDate>Thu, 02 Apr 2026 18:51:13 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/66510fc7-c1a4-407e-bcb7-30f655886e8d/ngm-2604-slo-mo-rocket_thumbnail_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
