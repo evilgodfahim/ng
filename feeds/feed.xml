@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Apr 2026 18:55:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Apr 2026 01:54:06 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Apr 2026 18:55:03 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 01:54:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Katy Croff Bell is making a treasure map of the deep sea]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/c17568e0-a629-4a43-add8-e3045d13ee2f/GSFC_20171208_Archive_e002131_16x9.jpg" alt="Katy Croff Bell is making a treasure map of the deep sea" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/environment/article/katy-croff-bell-10000-map-deep-ocean-floor</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/katy-croff-bell-10000-map-deep-ocean-floor</guid>
-            <pubDate>Wed, 01 Apr 2026 18:55:03 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/c17568e0-a629-4a43-add8-e3045d13ee2f/GSFC_20171208_Archive_e002131_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[See National Geographic’s photos of the historic Artemis II launch]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/bbebfd30-4465-4a30-b21b-ef2ae5caf0dd/MM9498_20260401_2212_16x9.jpg" alt="See National Geographic’s photos of the historic Artemis II launch" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/science/article/artemis-ii-launch-photos-nasa-moon-mission</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/artemis-ii-launch-photos-nasa-moon-mission</guid>
+            <pubDate>Thu, 02 Apr 2026 01:54:06 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/bbebfd30-4465-4a30-b21b-ef2ae5caf0dd/MM9498_20260401_2212_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
