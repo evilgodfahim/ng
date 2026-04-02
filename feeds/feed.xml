@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Apr 2026 01:54:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Apr 2026 09:57:04 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 02 Apr 2026 01:54:06 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 09:57:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[See National Geographic’s photos of the historic Artemis II launch]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/bbebfd30-4465-4a30-b21b-ef2ae5caf0dd/MM9498_20260401_2212_16x9.jpg" alt="See National Geographic’s photos of the historic Artemis II launch" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/science/article/artemis-ii-launch-photos-nasa-moon-mission</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/artemis-ii-launch-photos-nasa-moon-mission</guid>
-            <pubDate>Thu, 02 Apr 2026 01:54:06 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/bbebfd30-4465-4a30-b21b-ef2ae5caf0dd/MM9498_20260401_2212_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Summer in the Alps? Austria's Gastein Valley is where to start]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/6676e8da-9354-4407-b108-4463e523c225/Longweekend_BadHofgastein4FireflyUpscaler2xscale_HR_16x9.jpg" alt="Summer in the Alps? Austria's Gastein Valley is where to start" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/best-place-to-start-hiking-in-the-alps-this-summer-austria-gastein-valley</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/best-place-to-start-hiking-in-the-alps-this-summer-austria-gastein-valley</guid>
+            <pubDate>Thu, 02 Apr 2026 09:57:04 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/6676e8da-9354-4407-b108-4463e523c225/Longweekend_BadHofgastein4FireflyUpscaler2xscale_HR_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
