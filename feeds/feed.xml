@@ -9,25 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Apr 2026 11:34:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Apr 2026 12:53:58 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Apr 2026 11:34:31 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 12:53:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Everything to know about National Park of American Samoa]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/331434ba-0ac9-45ab-aca0-9c40af3afe7b/MMBX2N_16x9.jpg" alt="Everything to know about National Park of American Samoa" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/national-parks/article/american-samoa-national-park</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/national-parks/article/american-samoa-national-park</guid>
-            <pubDate>Fri, 03 Apr 2026 11:34:31 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/331434ba-0ac9-45ab-aca0-9c40af3afe7b/MMBX2N_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[This Tennessee city is America’s first ‘National Park City’]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/4dac8923-45ae-441b-87ce-25c44bde6276/GettyImages-2185985188_16x9.jpg" alt="This Tennessee city is America’s first ‘National Park City’" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/chattanooga-tennessee-national-park-city</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/chattanooga-tennessee-national-park-city</guid>
-            <pubDate>Fri, 03 Apr 2026 11:34:31 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/4dac8923-45ae-441b-87ce-25c44bde6276/GettyImages-2185985188_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[22 beautiful photos from the archives: jazz, flamingos, and more]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/b0c257f4-84ce-473c-956d-585da275d411/-18STOCK_MM10143_Mushroom_Part_II_03_16x9.jpg" alt="22 beautiful photos from the archives: jazz, flamingos, and more" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/photography/article/photo-of-the-day-march-2026-jazz-japan-flamingos-sloth</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/photography/article/photo-of-the-day-march-2026-jazz-japan-flamingos-sloth</guid>
+            <pubDate>Fri, 03 Apr 2026 12:53:58 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/b0c257f4-84ce-473c-956d-585da275d411/-18STOCK_MM10143_Mushroom_Part_II_03_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
