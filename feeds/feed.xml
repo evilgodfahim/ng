@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Apr 2026 20:30:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Apr 2026 09:05:54 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 02 Apr 2026 20:30:52 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 09:05:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Why the Strait of Hormuz is a geological wonder]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/f30867d1-5037-4b57-8167-ac9283279766/3DRG907_16x9.jpg" alt="Why the Strait of Hormuz is a geological wonder" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/science/article/strait-of-hormuz-geology</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/strait-of-hormuz-geology</guid>
-            <pubDate>Thu, 02 Apr 2026 20:30:52 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/f30867d1-5037-4b57-8167-ac9283279766/3DRG907_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Oregon has cleaned up its waterways. Here's how to discover them]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/61ddd170-011c-4f7c-9866-d47fdacf4dff/portland_GettyImages-1096099514_ukHR_16x9.jpg" alt="Oregon has cleaned up its waterways. Here's how to discover them" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/oregon-has-cleaned-up-its-waterways-this-is-how-to-discover-them</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/oregon-has-cleaned-up-its-waterways-this-is-how-to-discover-them</guid>
+            <pubDate>Fri, 03 Apr 2026 09:05:54 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/61ddd170-011c-4f7c-9866-d47fdacf4dff/portland_GettyImages-1096099514_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
