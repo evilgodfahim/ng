@@ -9,17 +9,25 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Apr 2026 12:53:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Apr 2026 08:35:55 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Apr 2026 12:53:58 GMT</pubDate>
+        <pubDate>Sat, 04 Apr 2026 08:35:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[22 beautiful photos from the archives: jazz, flamingos, and more]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/b0c257f4-84ce-473c-956d-585da275d411/-18STOCK_MM10143_Mushroom_Part_II_03_16x9.jpg" alt="22 beautiful photos from the archives: jazz, flamingos, and more" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/photography/article/photo-of-the-day-march-2026-jazz-japan-flamingos-sloth</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/photography/article/photo-of-the-day-march-2026-jazz-japan-flamingos-sloth</guid>
-            <pubDate>Fri, 03 Apr 2026 12:53:58 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/b0c257f4-84ce-473c-956d-585da275d411/-18STOCK_MM10143_Mushroom_Part_II_03_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Learn the art of scent with a stay at Milan's perfume hotel]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/83f7227c-7882-4a78-8e3a-7ecb05a75fe3/TE_stayanddo_GettyImages-2219315583_ukHR_16x9.jpg" alt="Learn the art of scent with a stay at Milan's perfume hotel" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/learn-the-art-of-scent-with-a-stay-at-milans-perfume-hotel</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/learn-the-art-of-scent-with-a-stay-at-milans-perfume-hotel</guid>
+            <pubDate>Sat, 04 Apr 2026 08:35:55 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/83f7227c-7882-4a78-8e3a-7ecb05a75fe3/TE_stayanddo_GettyImages-2219315583_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sip your way across Europe's best cities for coffee]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/85891cca-8baa-4756-b06e-a207a893aca7/51459_Vienna_WienTourismus-JuliusHirtzberger_Cafe_Schwarzenberg_RESIZED_16x9.jpg" alt="Sip your way across Europe's best cities for coffee" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/best-european-cities-for-coffee-lovers</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/best-european-cities-for-coffee-lovers</guid>
+            <pubDate>Sat, 04 Apr 2026 08:35:55 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/85891cca-8baa-4756-b06e-a207a893aca7/51459_Vienna_WienTourismus-JuliusHirtzberger_Cafe_Schwarzenberg_RESIZED_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
