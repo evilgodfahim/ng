@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 04 Apr 2026 13:50:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Apr 2026 08:44:33 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 04 Apr 2026 13:50:02 GMT</pubDate>
+        <pubDate>Sun, 05 Apr 2026 08:44:33 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[5 ways to embrace the great outdoors in Norway]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/34277625-71ac-4952-8255-853bc87725fe/Norway_AWL_IBLHAB12320819_HR_16x9.jpg" alt="5 ways to embrace the great outdoors in Norway" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/best-outdoors-activities-in-norway</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/best-outdoors-activities-in-norway</guid>
-            <pubDate>Sat, 04 Apr 2026 13:50:02 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/34277625-71ac-4952-8255-853bc87725fe/Norway_AWL_IBLHAB12320819_HR_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Stories, symbolism and beaded shawls—the secrets of powwow]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/b57658d1-ca71-460d-b88a-ab84b7ea9a45/inpics_powwow_Irvine_powwow96_ukHR_16x9.jpg" alt="Stories, symbolism and beaded shawls—the secrets of powwow" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/powwow-regalia-northwest-montana-flathead-reservation-indigenous-4th-of-july</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/powwow-regalia-northwest-montana-flathead-reservation-indigenous-4th-of-july</guid>
+            <pubDate>Sun, 05 Apr 2026 08:44:33 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/b57658d1-ca71-460d-b88a-ab84b7ea9a45/inpics_powwow_Irvine_powwow96_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
