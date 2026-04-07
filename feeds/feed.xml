@@ -9,25 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Apr 2026 18:52:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Apr 2026 08:10:00 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 06 Apr 2026 18:52:02 GMT</pubDate>
+        <pubDate>Tue, 07 Apr 2026 08:10:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[How Sammy Ramsey redefines the mission to save bees]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/7aeecb30-60c0-41e8-8a2c-2df462a3da8b/NS110957961_NGS2023EXPL_SRamsey_20230411_491_16x9.jpg" alt="How Sammy Ramsey redefines the mission to save bees" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/impact/article/sammy-ramsey-explorer-story</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/impact/article/sammy-ramsey-explorer-story</guid>
-            <pubDate>Mon, 06 Apr 2026 18:52:02 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/7aeecb30-60c0-41e8-8a2c-2df462a3da8b/NS110957961_NGS2023EXPL_SRamsey_20230411_491_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rosa Vásquez Espinoza: Magnifying the world’s tiniest life forms]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/571eb078-f483-4659-ba3c-650b7b304bed/NGS2021EXPLRVEcrAnaSotelo7X7A5903_16x9.jpeg" alt="Rosa Vásquez Espinoza: Magnifying the world’s tiniest life forms" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/impact/article/rosa-vasquez-explorer-story</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/impact/article/rosa-vasquez-explorer-story</guid>
-            <pubDate>Mon, 06 Apr 2026 18:52:02 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/571eb078-f483-4659-ba3c-650b7b304bed/NGS2021EXPLRVEcrAnaSotelo7X7A5903_16x9.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[This once-lawless UK island is now a place to disconnect]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/f26df480-c2ca-40a3-bdee-c707fd44aced/TE_specialinterest_LUNDYISLAND-ChrisOrangePhoto_ukHR_16x9.jpg" alt="This once-lawless UK island is now a place to disconnect" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/the-once-lawless-lundy-island-is-now-a-place-to-disconnect-in-the-uk</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/the-once-lawless-lundy-island-is-now-a-place-to-disconnect-in-the-uk</guid>
+            <pubDate>Tue, 07 Apr 2026 08:10:00 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/f26df480-c2ca-40a3-bdee-c707fd44aced/TE_specialinterest_LUNDYISLAND-ChrisOrangePhoto_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
