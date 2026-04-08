@@ -9,17 +9,33 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Apr 2026 08:10:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Apr 2026 11:51:23 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 08 Apr 2026 08:10:55 GMT</pubDate>
+        <pubDate>Wed, 08 Apr 2026 11:51:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[A once-banned Mexican American tradition is making a comeback]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/debde6a8-01d1-4572-ade8-9b8ecc8fac54/ABQLowrider_GCAMPOS_FINALSET_06_16x9.jpg" alt="A once-banned Mexican American tradition is making a comeback" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/once-banned-mexican-american-tradition-lowriding-is-making-a-comeback</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/once-banned-mexican-american-tradition-lowriding-is-making-a-comeback</guid>
-            <pubDate>Wed, 08 Apr 2026 08:10:55 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/debde6a8-01d1-4572-ade8-9b8ecc8fac54/ABQLowrider_GCAMPOS_FINALSET_06_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Would you adopt a lab animal?]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/c784842c-cd47-43ed-8a3d-6f1cb586b833/Callaway_16x9.jpg" alt="Would you adopt a lab animal?" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/animals/article/lab-animals-adopted-pets</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/lab-animals-adopted-pets</guid>
+            <pubDate>Wed, 08 Apr 2026 11:51:23 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/c784842c-cd47-43ed-8a3d-6f1cb586b833/Callaway_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[7 of the best U.S. state parks to visit in spring]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/f7941e93-a11c-40a2-8f06-df20ce7f66dd/h_16035223_16x9.jpg" alt="7 of the best U.S. state parks to visit in spring" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/best-state-parks-spring-united-states</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/best-state-parks-spring-united-states</guid>
+            <pubDate>Wed, 08 Apr 2026 11:51:23 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/f7941e93-a11c-40a2-8f06-df20ce7f66dd/h_16035223_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Learn how to find Orion's Belt]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/002c0a08-5ccc-4b53-a730-0e3673c29794/MM10568_260321_04352_Orion_16x9.jpg" alt="Learn how to find Orion's Belt" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/science/article/wonder-lessons-stargazing-guide-orions-belt</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/wonder-lessons-stargazing-guide-orions-belt</guid>
+            <pubDate>Wed, 08 Apr 2026 11:51:23 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/002c0a08-5ccc-4b53-a730-0e3673c29794/MM10568_260321_04352_Orion_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
