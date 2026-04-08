@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Apr 2026 15:06:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Apr 2026 19:56:30 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 08 Apr 2026 15:06:03 GMT</pubDate>
+        <pubDate>Wed, 08 Apr 2026 19:56:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Space weather can be deadly. Here’s how NASA protects the Artemis II crew.]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/214f4136-0868-4ce0-86c1-859f94e9f3f7/GSFC_20171208_Archive_e002109_16x9.jpg" alt="Space weather can be deadly. Here’s how NASA protects the Artemis II crew." style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/science/article/space-weather-radiation-artemis-ii-astronauts</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/space-weather-radiation-artemis-ii-astronauts</guid>
-            <pubDate>Wed, 08 Apr 2026 15:06:03 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/214f4136-0868-4ce0-86c1-859f94e9f3f7/GSFC_20171208_Archive_e002109_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[We depend on plastic. Now we’re drowning in it.]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/b31b424c-79b7-4aca-910c-9c10b7adb543/plastic-waste-single-use-worldwide-consumption-7_16x9.jpg" alt="We depend on plastic. Now we’re drowning in it." style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/magazine/article/plastic-planet-waste-pollution-trash-crisis</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/magazine/article/plastic-planet-waste-pollution-trash-crisis</guid>
+            <pubDate>Wed, 08 Apr 2026 19:56:30 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/b31b424c-79b7-4aca-910c-9c10b7adb543/plastic-waste-single-use-worldwide-consumption-7_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
