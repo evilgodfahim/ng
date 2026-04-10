@@ -9,17 +9,33 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Apr 2026 18:58:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Apr 2026 11:43:30 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 09 Apr 2026 18:58:10 GMT</pubDate>
+        <pubDate>Fri, 10 Apr 2026 11:43:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Why these chimps have been at war for 8 years]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/f01496b1-b7da-4e45-b58a-42bf0cc938fd/Prior_to_split_in_2015_Basie_Central_embracemales_from_West_before_face_off_with_outsider_group_Photo_by_Aaron_Sandel_16x9.jpg" alt="Why these chimps have been at war for 8 years" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/animals/article/chimpanzee-war-conflict-animal-societies</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/chimpanzee-war-conflict-animal-societies</guid>
-            <pubDate>Thu, 09 Apr 2026 18:58:10 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/f01496b1-b7da-4e45-b58a-42bf0cc938fd/Prior_to_split_in_2015_Basie_Central_embracemales_from_West_before_face_off_with_outsider_group_Photo_by_Aaron_Sandel_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[A mysterious Roman cult temple may become the newest UNESCO World Heritage Site]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/80750a6f-2f76-4675-b3b4-fac0bc5e8cf6/3CKDDPN_16x9.jpg" alt="A mysterious Roman cult temple may become the newest UNESCO World Heritage Site" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/Zerzevan-Castle-unesco</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/Zerzevan-Castle-unesco</guid>
+            <pubDate>Fri, 10 Apr 2026 11:43:30 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/80750a6f-2f76-4675-b3b4-fac0bc5e8cf6/3CKDDPN_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Inside NASA's audacious plan to build a nuclear-powered moon base]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/b4b6af14-4609-4820-872f-a156dcd6a539/2-building-the-moon-base_Page_04_16x9.jpg" alt="Inside NASA's audacious plan to build a nuclear-powered moon base" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/science/article/what-happens-after-artemis-ii</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/what-happens-after-artemis-ii</guid>
+            <pubDate>Fri, 10 Apr 2026 11:43:30 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/b4b6af14-4609-4820-872f-a156dcd6a539/2-building-the-moon-base_Page_04_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Learn to find the Leo constellation]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/5671b44d-6f13-40b5-a720-d3bc5aae367d/MM10568_260331_04706-v2_Leo_16x9.jpg" alt="Learn to find the Leo constellation" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/science/article/wonder-lessons-stargazing-guide-leo-sickle</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/wonder-lessons-stargazing-guide-leo-sickle</guid>
+            <pubDate>Fri, 10 Apr 2026 11:43:30 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/5671b44d-6f13-40b5-a720-d3bc5aae367d/MM10568_260331_04706-v2_Leo_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
