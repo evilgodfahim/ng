@@ -9,17 +9,25 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Apr 2026 12:59:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Apr 2026 15:46:44 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 10 Apr 2026 12:59:48 GMT</pubDate>
+        <pubDate>Fri, 10 Apr 2026 15:46:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Cannabis may make you remember things that never happened]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/7e6111a4-1cac-49b9-8535-30c7a3275299/h_21.00384626_16x9.jpg" alt="Cannabis may make you remember things that never happened" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/health/article/how-cannabis-affects-memory-thc-false-recall</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/health/article/how-cannabis-affects-memory-thc-false-recall</guid>
-            <pubDate>Fri, 10 Apr 2026 12:59:48 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/7e6111a4-1cac-49b9-8535-30c7a3275299/h_21.00384626_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Retracing the first Grand Canyon expedition a century later]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/0fcc7e77-34bf-4723-bf04-e7bea2837a16/SPI-1047603_16x9.jpg" alt="Retracing the first Grand Canyon expedition a century later" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/grand-canyon-john-wesley-powell-historic-trip</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/grand-canyon-john-wesley-powell-historic-trip</guid>
+            <pubDate>Fri, 10 Apr 2026 15:46:44 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/0fcc7e77-34bf-4723-bf04-e7bea2837a16/SPI-1047603_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[6 of the best motels along Route 66]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/68283e9e-4bf2-48ec-8a7e-2b251ea6211e/AmericanaMotorHotelEntrancewithSign2credit_PracticeHospitality2_16x9.jpg" alt="6 of the best motels along Route 66" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/these-are-the-best-motels-along-route-66</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/these-are-the-best-motels-along-route-66</guid>
+            <pubDate>Fri, 10 Apr 2026 15:46:44 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/68283e9e-4bf2-48ec-8a7e-2b251ea6211e/AmericanaMotorHotelEntrancewithSign2credit_PracticeHospitality2_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
