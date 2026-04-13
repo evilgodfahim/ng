@@ -9,25 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 12 Apr 2026 08:41:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Apr 2026 07:55:38 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 12 Apr 2026 08:41:34 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 07:55:38 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[7 of the UK’s best wellness festivals]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/affcfaa4-15dd-44c4-881e-e943d70affa8/WildernessFestival2025_0421_SaraLincoln_SL_22655_16x9.jpg" alt="7 of the UK’s best wellness festivals" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/best-wellness-festivals-uk</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/best-wellness-festivals-uk</guid>
-            <pubDate>Sun, 12 Apr 2026 08:41:34 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/affcfaa4-15dd-44c4-881e-e943d70affa8/WildernessFestival2025_0421_SaraLincoln_SL_22655_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[In Tokyo, monks walk across fire—and you can join them]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/eb27fb56-ca8f-4677-a9a4-e3fa6a0bfb70/TE_specialinterest_P1639569_HR_16x9.jpg" alt="In Tokyo, monks walk across fire—and you can join them" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/walk-over-fire-with-monks-shugendo-ceremony-tokyo-japan</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/walk-over-fire-with-monks-shugendo-ceremony-tokyo-japan</guid>
-            <pubDate>Sun, 12 Apr 2026 08:41:34 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/eb27fb56-ca8f-4677-a9a4-e3fa6a0bfb70/TE_specialinterest_P1639569_HR_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[The Mediterranean’s most family-friendly islands to visit now]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/6d2a0047-925e-4abc-8f59-501d7b2b13c9/Family_BEACH-Family-sea_Forte-VillageFireflyUpscaler2.scale_HR_16x9.jpg" alt="The Mediterranean’s most family-friendly islands to visit now" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/best-mediterannean-islands-for-families</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/best-mediterannean-islands-for-families</guid>
+            <pubDate>Mon, 13 Apr 2026 07:55:38 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/6d2a0047-925e-4abc-8f59-501d7b2b13c9/Family_BEACH-Family-sea_Forte-VillageFireflyUpscaler2.scale_HR_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
