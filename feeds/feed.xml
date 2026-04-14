@@ -9,25 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Apr 2026 15:12:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Apr 2026 09:13:03 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 13 Apr 2026 15:12:54 GMT</pubDate>
+        <pubDate>Tue, 14 Apr 2026 09:13:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[American turtle racing has a quirky—and controversial—history]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/d4a68c89-ddb0-46fb-89bf-273cf80e4ba7/TerrapinAdv1928_16x9.jpg" alt="American turtle racing has a quirky—and controversial—history" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/history/article/turtle-races-weird-history-risks-controversy</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/turtle-races-weird-history-risks-controversy</guid>
-            <pubDate>Mon, 13 Apr 2026 15:12:54 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/d4a68c89-ddb0-46fb-89bf-273cf80e4ba7/TerrapinAdv1928_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pairing these foods can boost their health benefits]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/956e194c-5e65-43b8-96e9-7d5666c327cd/i8860_20180802_115__16x9.jpg" alt="Pairing these foods can boost their health benefits" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/health/article/food-pairings-nutrition-benefits</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/health/article/food-pairings-nutrition-benefits</guid>
-            <pubDate>Mon, 13 Apr 2026 15:12:54 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/956e194c-5e65-43b8-96e9-7d5666c327cd/i8860_20180802_115__16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[I hiked the Appalachians to connect with nature—here's how]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/9ed95e64-1ace-41db-8d2c-b9997561d070/tennessee_GettyImages-1273902092_ukHR_16x9.jpg" alt="I hiked the Appalachians to connect with nature—here's how" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/hike-the-appalachians-from-chattanooga-americas-first-national-park-city</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/hike-the-appalachians-from-chattanooga-americas-first-national-park-city</guid>
+            <pubDate>Tue, 14 Apr 2026 09:13:03 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/9ed95e64-1ace-41db-8d2c-b9997561d070/tennessee_GettyImages-1273902092_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
