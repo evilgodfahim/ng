@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Apr 2026 02:02:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Apr 2026 09:13:47 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 15 Apr 2026 02:02:11 GMT</pubDate>
+        <pubDate>Wed, 15 Apr 2026 09:13:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[We’re one step closer to understanding the sperm whale ‘alphabet’]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/725baa89-a3f0-4da2-a075-8cd3605a2332/naturepl_01681975_16x9.jpg" alt="We’re one step closer to understanding the sperm whale ‘alphabet’" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/animals/article/sperm-whale-vowel-patterns-communication-discovery</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/sperm-whale-vowel-patterns-communication-discovery</guid>
-            <pubDate>Wed, 15 Apr 2026 02:02:11 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/725baa89-a3f0-4da2-a075-8cd3605a2332/naturepl_01681975_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Where to eat in Florence, according to a local chef]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/b5b55781-7e51-428d-aa53-4c083deb4213/LorenzoDei_16x9.jpg" alt="Where to eat in Florence, according to a local chef" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/where-to-eat-in-florence-italy-according-to-a-chef</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/where-to-eat-in-florence-italy-according-to-a-chef</guid>
+            <pubDate>Wed, 15 Apr 2026 09:13:47 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/b5b55781-7e51-428d-aa53-4c083deb4213/LorenzoDei_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
