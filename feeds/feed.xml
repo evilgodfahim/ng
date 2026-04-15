@@ -9,17 +9,33 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Apr 2026 09:13:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Apr 2026 11:53:55 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 15 Apr 2026 09:13:47 GMT</pubDate>
+        <pubDate>Wed, 15 Apr 2026 11:53:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Where to eat in Florence, according to a local chef]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/b5b55781-7e51-428d-aa53-4c083deb4213/LorenzoDei_16x9.jpg" alt="Where to eat in Florence, according to a local chef" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/where-to-eat-in-florence-italy-according-to-a-chef</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/where-to-eat-in-florence-italy-according-to-a-chef</guid>
-            <pubDate>Wed, 15 Apr 2026 09:13:47 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/b5b55781-7e51-428d-aa53-4c083deb4213/LorenzoDei_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Inside Mohenjo Daro, the 5,000-year-old metropolis frozen in time]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/29fc5656-38f9-4fb2-9a56-d309cf71b968/Mohenjo_Daro_Interactive_OO_4_CC_Delivered_00_04_55_11_Still002_16x9.jpg" alt="Inside Mohenjo Daro, the 5,000-year-old metropolis frozen in time" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/graphics/mohenjo-daro-indus-valley-civilization-pakistan</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/graphics/mohenjo-daro-indus-valley-civilization-pakistan</guid>
+            <pubDate>Wed, 15 Apr 2026 11:53:55 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/29fc5656-38f9-4fb2-9a56-d309cf71b968/Mohenjo_Daro_Interactive_OO_4_CC_Delivered_00_04_55_11_Still002_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Are these brain cells the key to treating trauma and anxiety?]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/fb25583c-1c1a-46c1-a31c-0fb9fef3122e/P3600395-Astrocyte_nerve_cell_16x9.jpg" alt="Are these brain cells the key to treating trauma and anxiety?" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/health/article/astrocytes-brain-cells-mental-health-research</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/health/article/astrocytes-brain-cells-mental-health-research</guid>
+            <pubDate>Wed, 15 Apr 2026 11:53:55 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/fb25583c-1c1a-46c1-a31c-0fb9fef3122e/P3600395-Astrocyte_nerve_cell_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Learn to spot stratus clouds]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/6515bb4b-65c1-488a-ab6f-4c984165fe97/MM10568_260306_00193_stratus_16x9.jpg" alt="Learn to spot stratus clouds" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/environment/article/wonder-lessons-cloud-spotting-guide-stratus</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/wonder-lessons-cloud-spotting-guide-stratus</guid>
+            <pubDate>Wed, 15 Apr 2026 11:53:55 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/6515bb4b-65c1-488a-ab6f-4c984165fe97/MM10568_260306_00193_stratus_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
