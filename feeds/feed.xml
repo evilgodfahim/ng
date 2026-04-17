@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Apr 2026 14:52:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Apr 2026 15:56:04 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Apr 2026 14:52:13 GMT</pubDate>
+        <pubDate>Fri, 17 Apr 2026 15:56:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[How to spend the perfect day in Oslo]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/0226e877-6560-4b13-9654-037e1cfd3ceb/Norway_fiskeriet_161025_0089_HR_16x9.jpg" alt="How to spend the perfect day in Oslo" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/how-to-spend-the-perfect-day-in-oslo-norway</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/how-to-spend-the-perfect-day-in-oslo-norway</guid>
-            <pubDate>Fri, 17 Apr 2026 14:52:13 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/0226e877-6560-4b13-9654-037e1cfd3ceb/Norway_fiskeriet_161025_0089_HR_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[15 breathtaking photos of bees in their habitat]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/272dab4d-4cdd-4e31-ac4a-76bdbbc424ca/1-NS119398238_Cerrados_Bees_Story_LucasNinno-14_16x9.jpg" alt="15 breathtaking photos of bees in their habitat" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/impact/article/bee-photos</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/impact/article/bee-photos</guid>
+            <pubDate>Fri, 17 Apr 2026 15:56:04 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/272dab4d-4cdd-4e31-ac4a-76bdbbc424ca/1-NS119398238_Cerrados_Bees_Story_LucasNinno-14_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
