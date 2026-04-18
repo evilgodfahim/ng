@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Apr 2026 08:52:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Apr 2026 13:59:17 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 18 Apr 2026 08:52:56 GMT</pubDate>
+        <pubDate>Sat, 18 Apr 2026 13:59:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[A photographer's love letter to São Tomé & Príncipe]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/93aa6ac7-0983-4c12-b648-e66ef6878f74/inpics_saotomeprincipe_DSC02707-Enhanced-NR_ukHR_16x9.jpg" alt="A photographer's love letter to São Tomé & Príncipe" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/photographers-love-letter-sao-tome-principe-the-twin-equatorial-islands</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/photographers-love-letter-sao-tome-principe-the-twin-equatorial-islands</guid>
-            <pubDate>Sat, 18 Apr 2026 08:52:56 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/93aa6ac7-0983-4c12-b648-e66ef6878f74/inpics_saotomeprincipe_DSC02707-Enhanced-NR_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Why Sundance is the ski resort to visit this year]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/6ee561c0-76e6-4adf-961a-d542a67117a4/Timp_16x9.jpg" alt="Why Sundance is the ski resort to visit this year" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/why-sundance-is-the-ski-resort-to-visit-this-year</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/why-sundance-is-the-ski-resort-to-visit-this-year</guid>
+            <pubDate>Sat, 18 Apr 2026 13:59:17 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/6ee561c0-76e6-4adf-961a-d542a67117a4/Timp_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
