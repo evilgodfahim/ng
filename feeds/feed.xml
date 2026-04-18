@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Apr 2026 18:53:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Apr 2026 08:52:56 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Apr 2026 18:53:59 GMT</pubDate>
+        <pubDate>Sat, 18 Apr 2026 08:52:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[The Nordic spa scene is booming in a surprising place—Nova Scotia]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/85aaf257-8028-444f-9dc6-46900486877e/Sensea-Summer-by-Jessica-Emin-53_16x9.jpg" alt="The Nordic spa scene is booming in a surprising place—Nova Scotia" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/nova-scotia-nordic-spas</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/nova-scotia-nordic-spas</guid>
-            <pubDate>Fri, 17 Apr 2026 18:53:59 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/85aaf257-8028-444f-9dc6-46900486877e/Sensea-Summer-by-Jessica-Emin-53_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[A photographer's love letter to São Tomé & Príncipe]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/93aa6ac7-0983-4c12-b648-e66ef6878f74/inpics_saotomeprincipe_DSC02707-Enhanced-NR_ukHR_16x9.jpg" alt="A photographer's love letter to São Tomé & Príncipe" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/photographers-love-letter-sao-tome-principe-the-twin-equatorial-islands</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/photographers-love-letter-sao-tome-principe-the-twin-equatorial-islands</guid>
+            <pubDate>Sat, 18 Apr 2026 08:52:56 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/93aa6ac7-0983-4c12-b648-e66ef6878f74/inpics_saotomeprincipe_DSC02707-Enhanced-NR_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
