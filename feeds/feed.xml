@@ -9,17 +9,25 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Apr 2026 14:46:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Apr 2026 08:48:10 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 18 Apr 2026 14:46:42 GMT</pubDate>
+        <pubDate>Sun, 19 Apr 2026 08:48:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Why does one degree matter for ocean warming?]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/2c56cb59-1711-4790-b49a-187be5033237/water2_16x9.jpg" alt="Why does one degree matter for ocean warming?" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/environment/graphics/ocean-temperature-changes</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/graphics/ocean-temperature-changes</guid>
-            <pubDate>Sat, 18 Apr 2026 14:46:42 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/2c56cb59-1711-4790-b49a-187be5033237/water2_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[How to plan the perfect trip to Norway]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/4ee2b862-af02-4531-8dbe-d1cb2f2cd2dc/Norway_OSL8237HR_16x9.jpg" alt="How to plan the perfect trip to Norway" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/how-to-plan-the-perfect-trip-to-norway</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/how-to-plan-the-perfect-trip-to-norway</guid>
+            <pubDate>Sun, 19 Apr 2026 08:48:10 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/4ee2b862-af02-4531-8dbe-d1cb2f2cd2dc/Norway_OSL8237HR_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Where to travel in May]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/5309858b-3935-4b3d-b16f-4086f0a60023/GettyImages-667937575_16x9.jpg" alt="Where to travel in May" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/where-to-travel-in-may</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/where-to-travel-in-may</guid>
+            <pubDate>Sun, 19 Apr 2026 08:48:10 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/5309858b-3935-4b3d-b16f-4086f0a60023/GettyImages-667937575_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
