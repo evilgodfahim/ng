@@ -9,25 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Apr 2026 14:44:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Apr 2026 16:04:06 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 20 Apr 2026 14:44:49 GMT</pubDate>
+        <pubDate>Mon, 20 Apr 2026 16:04:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Capturing one of humanity’s first voyages into the heavens]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/ca58370b-728e-4dfb-8796-9f38021dd67c/SPI_932482_16x9.jpg" alt="Capturing one of humanity’s first voyages into the heavens" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/history/article/first-human-stratosphere-auguste-piccard</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/first-human-stratosphere-auguste-piccard</guid>
-            <pubDate>Mon, 20 Apr 2026 14:44:49 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/ca58370b-728e-4dfb-8796-9f38021dd67c/SPI_932482_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[The global hunt to unlock the healing powers of … poop]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/84b4c7b1-aaa8-41a4-af3f-e4dd85484dbe/MM10412_251128_00713_16x9.jpg" alt="The global hunt to unlock the healing powers of … poop" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/science/article/bacteria-gut-microbiome-poop</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/bacteria-gut-microbiome-poop</guid>
-            <pubDate>Mon, 20 Apr 2026 14:44:49 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/84b4c7b1-aaa8-41a4-af3f-e4dd85484dbe/MM10412_251128_00713_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Watch Bruce the parrot defeat his rivals with only half a beak]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/6706b6aa-039c-4911-a6eb-df4435d2ea33/AlexGrabham_16x9.jpg" alt="Watch Bruce the parrot defeat his rivals with only half a beak" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/animals/article/kea-parrot-bruce-jousting-science</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/kea-parrot-bruce-jousting-science</guid>
+            <pubDate>Mon, 20 Apr 2026 16:04:06 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/6706b6aa-039c-4911-a6eb-df4435d2ea33/AlexGrabham_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
