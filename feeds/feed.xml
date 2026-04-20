@@ -9,25 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Apr 2026 08:48:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Apr 2026 10:03:20 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 19 Apr 2026 08:48:10 GMT</pubDate>
+        <pubDate>Mon, 20 Apr 2026 10:03:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[How to plan the perfect trip to Norway]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/4ee2b862-af02-4531-8dbe-d1cb2f2cd2dc/Norway_OSL8237HR_16x9.jpg" alt="How to plan the perfect trip to Norway" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/how-to-plan-the-perfect-trip-to-norway</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/how-to-plan-the-perfect-trip-to-norway</guid>
-            <pubDate>Sun, 19 Apr 2026 08:48:10 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/4ee2b862-af02-4531-8dbe-d1cb2f2cd2dc/Norway_OSL8237HR_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Where to travel in May]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/5309858b-3935-4b3d-b16f-4086f0a60023/GettyImages-667937575_16x9.jpg" alt="Where to travel in May" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/where-to-travel-in-may</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/where-to-travel-in-may</guid>
-            <pubDate>Sun, 19 Apr 2026 08:48:10 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/5309858b-3935-4b3d-b16f-4086f0a60023/GettyImages-667937575_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[How to plan an island-hopping weekend in the Isles of Scilly]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/83cf5c8f-36fa-4b43-92ff-3c286a0c07bb/longweekend_DJI_ukHR_16x9.jpg" alt="How to plan an island-hopping weekend in the Isles of Scilly" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/island-hopping-isles-scilly-best-things-to-do</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/island-hopping-isles-scilly-best-things-to-do</guid>
+            <pubDate>Mon, 20 Apr 2026 10:03:20 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/83cf5c8f-36fa-4b43-92ff-3c286a0c07bb/longweekend_DJI_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
