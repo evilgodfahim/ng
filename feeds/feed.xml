@@ -9,17 +9,41 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Apr 2026 09:20:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Apr 2026 13:14:32 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Apr 2026 09:20:56 GMT</pubDate>
+        <pubDate>Tue, 21 Apr 2026 13:14:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Where to find the best Belgian waffles in Brussels]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/758cc431-a998-4007-b405-d8860536b82e/TG_onthemenu_DSC_3384__ukHR_16x9.jpg" alt="Where to find the best Belgian waffles in Brussels" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/where-to-eat-the-best-belgian-waffles-in-brussels</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/where-to-eat-the-best-belgian-waffles-in-brussels</guid>
-            <pubDate>Tue, 21 Apr 2026 09:20:56 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/758cc431-a998-4007-b405-d8860536b82e/TG_onthemenu_DSC_3384__ukHR_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[How to see the Lyrid meteor shower at its peak]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/9c3cb492-26c7-48b9-88fa-da60187d46e9/GettyImages-1210618110_16x9.jpg" alt="How to see the Lyrid meteor shower at its peak" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/science/article/lyrids-meteor-shower-earth-day-night-sky-space-science</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/lyrids-meteor-shower-earth-day-night-sky-space-science</guid>
+            <pubDate>Tue, 21 Apr 2026 13:14:32 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/9c3cb492-26c7-48b9-88fa-da60187d46e9/GettyImages-1210618110_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[A Soviet sea, killed by an obsession with 'white gold']]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/815a7e9d-254c-406f-96aa-adf575f6028a/SPI-459621RS_16x9.jpg" alt="A Soviet sea, killed by an obsession with 'white gold'" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/environment/article/aral-sea-drying-soviet-union-archival</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/aral-sea-drying-soviet-union-archival</guid>
+            <pubDate>Tue, 21 Apr 2026 13:14:32 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/815a7e9d-254c-406f-96aa-adf575f6028a/SPI-459621RS_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Learn to identify maple trees]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/817349b5-4234-4a85-8e7c-61091f77b3eb/STOCK_MM10568_IMG_0824_maple_16x9.jpg" alt="Learn to identify maple trees" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/environment/article/wonder-lessons-tree-identification-maple</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/wonder-lessons-tree-identification-maple</guid>
+            <pubDate>Tue, 21 Apr 2026 13:14:32 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/817349b5-4234-4a85-8e7c-61091f77b3eb/STOCK_MM10568_IMG_0824_maple_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cristian Lagger explores the planet’s coldest, darkest places]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/3363a375-a759-4aee-875b-9dcf408c953c/MF4180_G0034254_16x9.jpg" alt="Cristian Lagger explores the planet’s coldest, darkest places" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/environment/article/ancient-marine-ecosystems-antarctica</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/ancient-marine-ecosystems-antarctica</guid>
+            <pubDate>Tue, 21 Apr 2026 13:14:32 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/3363a375-a759-4aee-875b-9dcf408c953c/MF4180_G0034254_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
