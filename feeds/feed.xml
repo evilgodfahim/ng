@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Apr 2026 16:04:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Apr 2026 09:20:56 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 20 Apr 2026 16:04:06 GMT</pubDate>
+        <pubDate>Tue, 21 Apr 2026 09:20:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Watch Bruce the parrot defeat his rivals with only half a beak]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/6706b6aa-039c-4911-a6eb-df4435d2ea33/AlexGrabham_16x9.jpg" alt="Watch Bruce the parrot defeat his rivals with only half a beak" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/animals/article/kea-parrot-bruce-jousting-science</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/kea-parrot-bruce-jousting-science</guid>
-            <pubDate>Mon, 20 Apr 2026 16:04:06 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/6706b6aa-039c-4911-a6eb-df4435d2ea33/AlexGrabham_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Where to find the best Belgian waffles in Brussels]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/758cc431-a998-4007-b405-d8860536b82e/TG_onthemenu_DSC_3384__ukHR_16x9.jpg" alt="Where to find the best Belgian waffles in Brussels" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/where-to-eat-the-best-belgian-waffles-in-brussels</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/where-to-eat-the-best-belgian-waffles-in-brussels</guid>
+            <pubDate>Tue, 21 Apr 2026 09:20:56 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/758cc431-a998-4007-b405-d8860536b82e/TG_onthemenu_DSC_3384__ukHR_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
