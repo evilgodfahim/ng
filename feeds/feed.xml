@@ -9,17 +9,41 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Apr 2026 07:43:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Apr 2026 13:16:54 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 23 Apr 2026 07:43:52 GMT</pubDate>
+        <pubDate>Thu, 23 Apr 2026 13:16:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Celebrate Shakespeare’s birthday with a trip to his home town]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/397ee47d-e783-47c9-afbd-b24f4562a219/TE_ukbreak_B2DJJ5_ukHR_16x9.jpg" alt="Celebrate Shakespeare’s birthday with a trip to his home town" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/step-into-englands-tudor-past-on-a-tour-of-shakespeares-home-town</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/step-into-englands-tudor-past-on-a-tour-of-shakespeares-home-town</guid>
-            <pubDate>Thu, 23 Apr 2026 07:43:52 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/397ee47d-e783-47c9-afbd-b24f4562a219/TE_ukbreak_B2DJJ5_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[The lost fragments of the Stone of Destiny]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/b9dac4ff-63ef-4487-a038-6df1e6f12a04/gettyimages-2113280732-1024x1024_16x9.jpeg" alt="The lost fragments of the Stone of Destiny" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/stone-of-destiny-fragments</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/stone-of-destiny-fragments</guid>
+            <pubDate>Thu, 23 Apr 2026 13:16:54 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/b9dac4ff-63ef-4487-a038-6df1e6f12a04/gettyimages-2113280732-1024x1024_16x9.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[10 incredible glamping experiences near U.S. national parks]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/8efab961-2f76-43e2-933e-90d525e8475f/5_Tammah_Summer_16x9.jpg" alt="10 incredible glamping experiences near U.S. national parks" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/best-glamping-spots-near-national-parks</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/best-glamping-spots-near-national-parks</guid>
+            <pubDate>Thu, 23 Apr 2026 13:16:54 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/8efab961-2f76-43e2-933e-90d525e8475f/5_Tammah_Summer_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Learn to identify juniper trees]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/d504616d-073e-4b5e-b9fe-3224711c50a7/MM10568_260313_2409_juniper_16x9.jpg" alt="Learn to identify juniper trees" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/environment/article/wonder-lessons-tree-identification-juniper</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/wonder-lessons-tree-identification-juniper</guid>
+            <pubDate>Thu, 23 Apr 2026 13:16:54 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/d504616d-073e-4b5e-b9fe-3224711c50a7/MM10568_260313_2409_juniper_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hunting morels this spring? Here’s how to forage them safely.]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/df974055-cde7-44a1-975e-e8dcf4ce4a88/GettyImages-1204592424_16x9.jpg" alt="Hunting morels this spring? Here’s how to forage them safely." style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/environment/article/morel-mushrooms-foraging-morchella</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/morel-mushrooms-foraging-morchella</guid>
+            <pubDate>Thu, 23 Apr 2026 13:16:54 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/df974055-cde7-44a1-975e-e8dcf4ce4a88/GettyImages-1204592424_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
