@@ -9,25 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Apr 2026 15:48:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Apr 2026 19:01:48 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 23 Apr 2026 15:48:44 GMT</pubDate>
+        <pubDate>Thu, 23 Apr 2026 19:01:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[How Nat Geo documented a 5,000-year-old ancient city from above]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/0c228bc8-3415-41d8-8844-66043c41ee0f/Drone_Nadir_16x9.jpg" alt="How Nat Geo documented a 5,000-year-old ancient city from above" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/history/article/mohenjo-daro-pakistan-city-filmmakers</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/mohenjo-daro-pakistan-city-filmmakers</guid>
-            <pubDate>Thu, 23 Apr 2026 15:48:44 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/0c228bc8-3415-41d8-8844-66043c41ee0f/Drone_Nadir_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[An inside guide to Zermatt, the car-free Swiss ski resort]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/19659a2b-1829-4faa-bfaf-d7163b1be70f/ST_3x2_Zermatt-chairlift_102970_16x9.jpg" alt="An inside guide to Zermatt, the car-free Swiss ski resort" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/an-inside-guide-to-zermatt-the-car-free-swiss-ski-resort</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/an-inside-guide-to-zermatt-the-car-free-swiss-ski-resort</guid>
-            <pubDate>Thu, 23 Apr 2026 15:48:44 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/19659a2b-1829-4faa-bfaf-d7163b1be70f/ST_3x2_Zermatt-chairlift_102970_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[60-foot octopus may have been the ‘kraken’ of the Cretaceous]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/440e9ee5-10c4-4914-b369-fa9a2f63673b/Cretaceous_octopus_reconstruction_16x9.jpg" alt="60-foot octopus may have been the ‘kraken’ of the Cretaceous" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/science/article/cretaceous-kraken-giant-octopus</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/cretaceous-kraken-giant-octopus</guid>
+            <pubDate>Thu, 23 Apr 2026 19:01:48 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/440e9ee5-10c4-4914-b369-fa9a2f63673b/Cretaceous_octopus_reconstruction_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
