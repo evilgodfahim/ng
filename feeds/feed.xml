@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Apr 2026 15:04:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Apr 2026 16:50:37 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 24 Apr 2026 15:04:35 GMT</pubDate>
+        <pubDate>Fri, 24 Apr 2026 16:50:37 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Everything you should know about the U.K.'s Lake District]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/fa40ee2f-f073-47b4-aa86-18cecd0d3a57/GettyImages-2166003580_16x9.jpg" alt="Everything you should know about the U.K.'s Lake District" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/everything-you-should-know-about-lake-district-englands-largest-national-park</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/everything-you-should-know-about-lake-district-englands-largest-national-park</guid>
-            <pubDate>Fri, 24 Apr 2026 15:04:35 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/fa40ee2f-f073-47b4-aa86-18cecd0d3a57/GettyImages-2166003580_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[This iconic shrine in Japan is rebuilt every 20 years]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/ffd9d310-f34a-4383-bc82-4abb92d83b56/E71ERF_16x9.jpg" alt="This iconic shrine in Japan is rebuilt every 20 years" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/this-japanese-shrine-is-torn-down-every-20-years</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/this-japanese-shrine-is-torn-down-every-20-years</guid>
+            <pubDate>Fri, 24 Apr 2026 16:50:37 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/ffd9d310-f34a-4383-bc82-4abb92d83b56/E71ERF_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
