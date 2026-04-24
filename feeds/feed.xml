@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Apr 2026 19:01:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Apr 2026 09:27:12 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 23 Apr 2026 19:01:48 GMT</pubDate>
+        <pubDate>Fri, 24 Apr 2026 09:27:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[60-foot octopus may have been the ‘kraken’ of the Cretaceous]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/440e9ee5-10c4-4914-b369-fa9a2f63673b/Cretaceous_octopus_reconstruction_16x9.jpg" alt="60-foot octopus may have been the ‘kraken’ of the Cretaceous" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/science/article/cretaceous-kraken-giant-octopus</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/cretaceous-kraken-giant-octopus</guid>
-            <pubDate>Thu, 23 Apr 2026 19:01:48 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/440e9ee5-10c4-4914-b369-fa9a2f63673b/Cretaceous_octopus_reconstruction_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Why Irish seaweed bathing is the newest wellness trend to try]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/725eb3a9-8df0-4291-b284-38697a3be83e/TE_microtrends_GettyImages-1370027204_HR_16x9.jpg" alt="Why Irish seaweed bathing is the newest wellness trend to try" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/the-newest-wellness-trend-to-try-isirish-seaweed-bathing</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/the-newest-wellness-trend-to-try-isirish-seaweed-bathing</guid>
+            <pubDate>Fri, 24 Apr 2026 09:27:12 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/725eb3a9-8df0-4291-b284-38697a3be83e/TE_microtrends_GettyImages-1370027204_HR_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
