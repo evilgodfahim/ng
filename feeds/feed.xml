@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Apr 2026 18:42:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Apr 2026 20:41:16 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 24 Apr 2026 18:42:08 GMT</pubDate>
+        <pubDate>Fri, 24 Apr 2026 20:41:16 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Visiting Split this summer? Here's what to see and do]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/a2a929e2-d7da-4326-8e1b-ddd288edd915/PC_croatia_GettyImages-1155752691_ukHR_16x9.jpg" alt="Visiting Split this summer? Here's what to see and do" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/visiting-split-this-summer-heres-what-to-see-and-do</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/visiting-split-this-summer-heres-what-to-see-and-do</guid>
-            <pubDate>Fri, 24 Apr 2026 18:42:08 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/a2a929e2-d7da-4326-8e1b-ddd288edd915/PC_croatia_GettyImages-1155752691_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Inside Chernobyl’s shadow community]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/cd5d5711-72ef-49f4-a298-c431c0529b1c/01_Chernobyl40yearsafter_003_16x9.jpg" alt="Inside Chernobyl’s shadow community" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/photography/article/chernobyl-nuclear-disaster-forty-anniversary</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/photography/article/chernobyl-nuclear-disaster-forty-anniversary</guid>
+            <pubDate>Fri, 24 Apr 2026 20:41:16 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/cd5d5711-72ef-49f4-a298-c431c0529b1c/01_Chernobyl40yearsafter_003_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
