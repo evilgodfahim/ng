@@ -9,17 +9,41 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Apr 2026 09:27:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Apr 2026 13:13:25 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 24 Apr 2026 09:27:12 GMT</pubDate>
+        <pubDate>Fri, 24 Apr 2026 13:13:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Why Irish seaweed bathing is the newest wellness trend to try]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/725eb3a9-8df0-4291-b284-38697a3be83e/TE_microtrends_GettyImages-1370027204_HR_16x9.jpg" alt="Why Irish seaweed bathing is the newest wellness trend to try" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/the-newest-wellness-trend-to-try-isirish-seaweed-bathing</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/the-newest-wellness-trend-to-try-isirish-seaweed-bathing</guid>
-            <pubDate>Fri, 24 Apr 2026 09:27:12 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/725eb3a9-8df0-4291-b284-38697a3be83e/TE_microtrends_GettyImages-1370027204_HR_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Boise’s bold new identity goes far beyond potatoes]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/6d9ba994-078a-4d3f-b453-f39da8c4367a/AdobeStock_295221113_16x9.jpg" alt="Boise’s bold new identity goes far beyond potatoes" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/boise-idaho-travel</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/boise-idaho-travel</guid>
+            <pubDate>Fri, 24 Apr 2026 13:13:25 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/6d9ba994-078a-4d3f-b453-f39da8c4367a/AdobeStock_295221113_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why some types of sugar are better than others]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/c46fea7a-c7cb-4363-9358-b600ac2ba324/GettyImages-492762141_16x9.jpg" alt="Why some types of sugar are better than others" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/health/article/sugar-types-nutrition-comparison</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/health/article/sugar-types-nutrition-comparison</guid>
+            <pubDate>Fri, 24 Apr 2026 13:13:25 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/c46fea7a-c7cb-4363-9358-b600ac2ba324/GettyImages-492762141_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Billie Eilish on inventing a greener kind of concert tour]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/1b640990-d3be-4e1c-b81f-c61fdc866137/MM10588_260416_00077_16x9.jpg" alt="Billie Eilish on inventing a greener kind of concert tour" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/environment/article/billie-eilish-sustainable-green-tour</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/billie-eilish-sustainable-green-tour</guid>
+            <pubDate>Fri, 24 Apr 2026 13:13:25 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/1b640990-d3be-4e1c-b81f-c61fdc866137/MM10588_260416_00077_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Learn to identify cherry trees]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/81efefae-5f10-4e40-aeb0-c8e8dde532f1/MM10568_260313_1813_prunus_16x9.jpg" alt="Learn to identify cherry trees" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/environment/article/wonder-lessons-tree-identification-prunus-cherry</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/wonder-lessons-tree-identification-prunus-cherry</guid>
+            <pubDate>Fri, 24 Apr 2026 13:13:25 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/81efefae-5f10-4e40-aeb0-c8e8dde532f1/MM10568_260313_1813_prunus_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
