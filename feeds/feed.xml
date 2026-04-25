@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Apr 2026 11:34:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Apr 2026 14:01:01 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 25 Apr 2026 11:34:57 GMT</pubDate>
+        <pubDate>Sat, 25 Apr 2026 14:01:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[See a ghost 'fairyland' forest reemerge in Florida]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/3d9aebfd-ed54-4b35-ac5d-eded934ea12f/i-W4c9RLF-X4_16x9.jpg" alt="See a ghost 'fairyland' forest reemerge in Florida" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/environment/article/florida-rodman-reservoir-ocklawaha-river-springs</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/florida-rodman-reservoir-ocklawaha-river-springs</guid>
-            <pubDate>Sat, 25 Apr 2026 11:34:57 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/3d9aebfd-ed54-4b35-ac5d-eded934ea12f/i-W4c9RLF-X4_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[What it's like to stay at a First Nations village in Quebec City]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/e37e987d-84d0-48e0-8bec-85cf9460d567/TE_stayanddo_NoMans_LandPhotographie_HR_16x9.jpg" alt="What it's like to stay at a First Nations village in Quebec City" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/first-nations-village-quebec-city</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/first-nations-village-quebec-city</guid>
+            <pubDate>Sat, 25 Apr 2026 14:01:01 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/e37e987d-84d0-48e0-8bec-85cf9460d567/TE_stayanddo_NoMans_LandPhotographie_HR_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
