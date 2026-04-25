@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Apr 2026 20:41:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Apr 2026 11:34:57 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 24 Apr 2026 20:41:16 GMT</pubDate>
+        <pubDate>Sat, 25 Apr 2026 11:34:57 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Inside Chernobyl’s shadow community]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/cd5d5711-72ef-49f4-a298-c431c0529b1c/01_Chernobyl40yearsafter_003_16x9.jpg" alt="Inside Chernobyl’s shadow community" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/photography/article/chernobyl-nuclear-disaster-forty-anniversary</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/photography/article/chernobyl-nuclear-disaster-forty-anniversary</guid>
-            <pubDate>Fri, 24 Apr 2026 20:41:16 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/cd5d5711-72ef-49f4-a298-c431c0529b1c/01_Chernobyl40yearsafter_003_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[See a ghost 'fairyland' forest reemerge in Florida]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/3d9aebfd-ed54-4b35-ac5d-eded934ea12f/i-W4c9RLF-X4_16x9.jpg" alt="See a ghost 'fairyland' forest reemerge in Florida" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/environment/article/florida-rodman-reservoir-ocklawaha-river-springs</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/florida-rodman-reservoir-ocklawaha-river-springs</guid>
+            <pubDate>Sat, 25 Apr 2026 11:34:57 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/3d9aebfd-ed54-4b35-ac5d-eded934ea12f/i-W4c9RLF-X4_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
