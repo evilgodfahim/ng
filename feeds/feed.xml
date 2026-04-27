@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 27 Apr 2026 15:03:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Apr 2026 17:17:35 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 27 Apr 2026 15:03:26 GMT</pubDate>
+        <pubDate>Mon, 27 Apr 2026 17:17:35 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Journey across centuries on a Mughal trail through Delhi]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/7ab8384f-c290-463b-9944-8cd9a830aea1/delhi_DSC_5739_ukHR_16x9.jpg" alt="Journey across centuries on a Mughal trail through Delhi" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/journey-across-centuries-on-a-mughal-trail-through-delhi</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/journey-across-centuries-on-a-mughal-trail-through-delhi</guid>
-            <pubDate>Mon, 27 Apr 2026 15:03:26 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/7ab8384f-c290-463b-9944-8cd9a830aea1/delhi_DSC_5739_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[5 secret sites in Yellowstone most visitors miss]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/2c241036-cdda-4edf-9423-1c4cf3ffa792/1890-11053705_16x9.jpg" alt="5 secret sites in Yellowstone most visitors miss" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/yellowstones-hidden-gems</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/yellowstones-hidden-gems</guid>
+            <pubDate>Mon, 27 Apr 2026 17:17:35 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/2c241036-cdda-4edf-9423-1c4cf3ffa792/1890-11053705_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
