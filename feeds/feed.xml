@@ -9,25 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 27 Apr 2026 19:11:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Apr 2026 08:16:03 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 27 Apr 2026 19:11:46 GMT</pubDate>
+        <pubDate>Tue, 28 Apr 2026 08:16:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Meet Lentil—the adventure‑loving rescue]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/a6647262-813a-4ccd-9ffa-d1fdb8f752b3/BC_NexGard%20PLUS_CW_022526_632_16x9.jpg" alt="Meet Lentil—the adventure‑loving rescue" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/animals/article/paid-content-meet-lentil-the-adventure-loving-rescue</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/paid-content-meet-lentil-the-adventure-loving-rescue</guid>
-            <pubDate>Mon, 27 Apr 2026 19:11:46 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/a6647262-813a-4ccd-9ffa-d1fdb8f752b3/BC_NexGard%20PLUS_CW_022526_632_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Why alpha females reign supreme in meerkat world]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/8d85f645-0542-40ef-bd10-7db0825a01c9/MM10363_250604_19412_16x9.jpg" alt="Why alpha females reign supreme in meerkat world" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/animals/article/meerkats-alpha-female-matriarch</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/meerkats-alpha-female-matriarch</guid>
-            <pubDate>Mon, 27 Apr 2026 19:11:46 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/8d85f645-0542-40ef-bd10-7db0825a01c9/MM10363_250604_19412_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[7 European hikes that end with incredible views]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/fb203495-1319-4208-9406-e1968bb29352/GettyImages-2259974057_16x9.jpg" alt="7 European hikes that end with incredible views" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/best-european-hikes-that-end-with-incredible-views</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/best-european-hikes-that-end-with-incredible-views</guid>
+            <pubDate>Tue, 28 Apr 2026 08:16:03 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/fb203495-1319-4208-9406-e1968bb29352/GettyImages-2259974057_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
