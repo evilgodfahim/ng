@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Apr 2026 18:13:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Apr 2026 21:53:02 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 28 Apr 2026 18:13:35 GMT</pubDate>
+        <pubDate>Tue, 28 Apr 2026 21:53:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Botanist Peter Raven dies at 89]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/6aeff939-3657-4c08-bc9b-929e315714fb/SPI-455376_Unison_16x9.jpg" alt="Botanist Peter Raven dies at 89" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/environment/article/peter-raven-death-botanist-environmentalist</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/peter-raven-death-botanist-environmentalist</guid>
-            <pubDate>Tue, 28 Apr 2026 18:13:35 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/6aeff939-3657-4c08-bc9b-929e315714fb/SPI-455376_Unison_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[How Peter Raven transformed what we know about plants]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/8ac2b4ee-bc73-44b4-85c4-9cbe775490dd/SPI-1259886_Unison_16x9.jpg" alt="How Peter Raven transformed what we know about plants" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/environment/article/peter-raven-missouri-botanical-garden-archival</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/peter-raven-missouri-botanical-garden-archival</guid>
+            <pubDate>Tue, 28 Apr 2026 21:53:02 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/8ac2b4ee-bc73-44b4-85c4-9cbe775490dd/SPI-1259886_Unison_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
