@@ -9,17 +9,25 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Apr 2026 15:08:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Apr 2026 17:23:44 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 29 Apr 2026 15:08:24 GMT</pubDate>
+        <pubDate>Wed, 29 Apr 2026 17:23:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Ski the Italian Dolomites on a hut-to-hut mountain safari]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/982208ac-1ca1-4981-bbe6-ba6b5f23c72b/WellnessinquotaLagazuoi_Creditsmanazproductions_18_16x9.jpg" alt="Ski the Italian Dolomites on a hut-to-hut mountain safari" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/ski-the-italian-dolomites-on-a-hut-to-hut-mountain-safari</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/ski-the-italian-dolomites-on-a-hut-to-hut-mountain-safari</guid>
-            <pubDate>Wed, 29 Apr 2026 15:08:24 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/982208ac-1ca1-4981-bbe6-ba6b5f23c72b/WellnessinquotaLagazuoi_Creditsmanazproductions_18_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Why millions are obsessed with Sweden's spring moose migration]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/7026aedc-b98c-4d34-ba68-4c81fcf5fead/MM10398_250430_0430_16x9.jpg" alt="Why millions are obsessed with Sweden's spring moose migration" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/animals/article/sweden-great-moose-migration-reality-television-livestream</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/sweden-great-moose-migration-reality-television-livestream</guid>
+            <pubDate>Wed, 29 Apr 2026 17:23:44 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/7026aedc-b98c-4d34-ba68-4c81fcf5fead/MM10398_250430_0430_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[A coast-to-coast guide to Nicaragua]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/870cceb5-c4a6-4272-84d5-88b33a24107a/CornIslandsAerialShot_16x9.jpg" alt="A coast-to-coast guide to Nicaragua" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/paid-content-a-coast-to-coast-guide-to-nicaragua</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/paid-content-a-coast-to-coast-guide-to-nicaragua</guid>
+            <pubDate>Wed, 29 Apr 2026 17:23:44 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/870cceb5-c4a6-4272-84d5-88b33a24107a/CornIslandsAerialShot_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
