@@ -9,17 +9,33 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Apr 2026 08:08:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Apr 2026 12:14:20 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 29 Apr 2026 08:08:15 GMT</pubDate>
+        <pubDate>Wed, 29 Apr 2026 12:14:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[What is scream therapy and why is it making a comeback?]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/b455b604-dea5-4692-9c18-8ae2085c4b42/GettyImages-1283079513_16x9.jpg" alt="What is scream therapy and why is it making a comeback?" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/what-is-scream-therapy-and-why-is-it-making-a-comeback</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/what-is-scream-therapy-and-why-is-it-making-a-comeback</guid>
-            <pubDate>Wed, 29 Apr 2026 08:08:15 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/b455b604-dea5-4692-9c18-8ae2085c4b42/GettyImages-1283079513_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Ancient graves reveal unexpected link to modern Andean people]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/dba395af-9476-47bf-bd08-f6267d0aa26c/ultima_version_RB_16x9.jpg" alt="Ancient graves reveal unexpected link to modern Andean people" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/andean-graves-huarpe-upsallata-valley</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/andean-graves-huarpe-upsallata-valley</guid>
+            <pubDate>Wed, 29 Apr 2026 12:14:20 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/dba395af-9476-47bf-bd08-f6267d0aa26c/ultima_version_RB_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[7 of the best national parks in Spain]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/3c98acfc-0905-4f7c-ad25-954ad4a12234/GettyImages-1341240577_16x9.jpg" alt="7 of the best national parks in Spain" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/spain-national-parks</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/spain-national-parks</guid>
+            <pubDate>Wed, 29 Apr 2026 12:14:20 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/3c98acfc-0905-4f7c-ad25-954ad4a12234/GettyImages-1341240577_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Learn how to identify sedimentary rocks]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/09ad24dd-366c-4a17-970b-90635d45c5c8/MM10568_260314_4318_Sedimentary_16x9.jpg" alt="Learn how to identify sedimentary rocks" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/environment/article/wonder-lessons-sedimentary-rock-sandstone-conglomerate-limestone</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/wonder-lessons-sedimentary-rock-sandstone-conglomerate-limestone</guid>
+            <pubDate>Wed, 29 Apr 2026 12:14:20 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/09ad24dd-366c-4a17-970b-90635d45c5c8/MM10568_260314_4318_Sedimentary_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
