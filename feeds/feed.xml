@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Apr 2026 17:15:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Apr 2026 19:13:07 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 30 Apr 2026 17:15:30 GMT</pubDate>
+        <pubDate>Thu, 30 Apr 2026 19:13:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[As seen on screen—the best set-jetting spots in Greece]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/7a31c3e8-e5f2-47c3-851c-b9d7e932dd91/PC_Greekislands__K3JJN3_HR_16x9.jpg" alt="As seen on screen—the best set-jetting spots in Greece" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/podcasts/article/the-best-set-jetting-spots-in-greece-as-seen-on-screen</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/podcasts/article/the-best-set-jetting-spots-in-greece-as-seen-on-screen</guid>
-            <pubDate>Thu, 30 Apr 2026 17:15:30 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/7a31c3e8-e5f2-47c3-851c-b9d7e932dd91/PC_Greekislands__K3JJN3_HR_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Florida’s flamingos are back. Here’s where to see them.]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/280b6502-c5cc-4d41-8775-2e9568d8fa76/53581970380_ac9e86b51a_o_16x9.jpg" alt="Florida’s flamingos are back. Here’s where to see them." style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/floridas-flamingos-are-back-heres-where-to-see-them</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/floridas-flamingos-are-back-heres-where-to-see-them</guid>
+            <pubDate>Thu, 30 Apr 2026 19:13:07 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/280b6502-c5cc-4d41-8775-2e9568d8fa76/53581970380_ac9e86b51a_o_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
