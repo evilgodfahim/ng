@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 01 May 2026 13:09:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 May 2026 15:52:51 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 01 May 2026 13:09:51 GMT</pubDate>
+        <pubDate>Fri, 01 May 2026 15:52:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[22 breathtaking Nat Geo pictures that will spark your curiosity]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/05d344a9-5d45-4ced-9bd1-878c2f5ba6f3/SPI-2783960_16x9.jpg" alt="22 breathtaking Nat Geo pictures that will spark your curiosity" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/photography/article/photo-of-the-day-april-2026-clownfish-country-princesses-meerkat</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/photography/article/photo-of-the-day-april-2026-clownfish-country-princesses-meerkat</guid>
-            <pubDate>Fri, 01 May 2026 13:09:51 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/05d344a9-5d45-4ced-9bd1-878c2f5ba6f3/SPI-2783960_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Stay like royalty in a resort owned by a king]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/bae06a6e-2e90-4d03-955f-73ca5fc5f648/5Suite%20Deluxe%20Vue%20Mer_16x9.jpg" alt="Stay like royalty in a resort owned by a king" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/hotel-profile-royal-mansour-tamuda-bay</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/hotel-profile-royal-mansour-tamuda-bay</guid>
+            <pubDate>Fri, 01 May 2026 15:52:51 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/bae06a6e-2e90-4d03-955f-73ca5fc5f648/5Suite%20Deluxe%20Vue%20Mer_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
