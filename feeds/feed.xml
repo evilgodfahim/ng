@@ -9,17 +9,41 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 01 May 2026 08:57:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 May 2026 11:55:30 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 01 May 2026 08:57:05 GMT</pubDate>
+        <pubDate>Fri, 01 May 2026 11:55:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Japan's konbini culture is taking the Internet by storm—here's why]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/c307cf47-e623-43aa-8a96-843544010958/2M31WPP_16x9.jpg" alt="Japan's konbini culture is taking the Internet by storm—here's why" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/what-is-japans-konbini-food-and-why-is-it-taking-the-internet-by-storm</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/what-is-japans-konbini-food-and-why-is-it-taking-the-internet-by-storm</guid>
-            <pubDate>Fri, 01 May 2026 08:57:05 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/c307cf47-e623-43aa-8a96-843544010958/2M31WPP_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[How the Triple Crown became horse racing’s biggest prize]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/87dca7fb-e02a-4891-a14e-6d20ed3aa151/h_14572391_16x9.jpg" alt="How the Triple Crown became horse racing’s biggest prize" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/triple-crown-horse-racing</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/triple-crown-horse-racing</guid>
+            <pubDate>Fri, 01 May 2026 11:55:30 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/87dca7fb-e02a-4891-a14e-6d20ed3aa151/h_14572391_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[These state parks will show you another side of Florida]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/39c09fdd-3d0c-4a1d-8d6f-546e4909b8ed/SPI-2680043_16x9.jpg" alt="These state parks will show you another side of Florida" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/best-state-parks-florida</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/best-state-parks-florida</guid>
+            <pubDate>Fri, 01 May 2026 11:55:30 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/39c09fdd-3d0c-4a1d-8d6f-546e4909b8ed/SPI-2680043_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why cerulean is astonishingly difficult to make]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/13cd3310-a1b1-47bd-b0f1-e8be1fb0de1a/2YEMEW9_16x9.jpg" alt="Why cerulean is astonishingly difficult to make" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/science/article/cerulean-blue-color-history-chemistry</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/cerulean-blue-color-history-chemistry</guid>
+            <pubDate>Fri, 01 May 2026 11:55:30 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/13cd3310-a1b1-47bd-b0f1-e8be1fb0de1a/2YEMEW9_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Learn how to identify fossils]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/a684221f-6d9e-46d6-9cd5-e376dac11a79/MM10568_260308_2625_Fossils_16x9.jpg" alt="Learn how to identify fossils" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/environment/article/wonder-lessons-fossil-rocks</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/wonder-lessons-fossil-rocks</guid>
+            <pubDate>Fri, 01 May 2026 11:55:30 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/a684221f-6d9e-46d6-9cd5-e376dac11a79/MM10568_260308_2625_Fossils_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
