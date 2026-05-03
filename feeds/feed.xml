@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 03 May 2026 09:19:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 May 2026 14:12:08 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 03 May 2026 09:19:07 GMT</pubDate>
+        <pubDate>Sun, 03 May 2026 14:12:08 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Why Chania could be the best place for Cretan food]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/cec94d22-05fb-4cca-a13c-cc2c67a79195/crete_Paavonpera_NGT_Crete_HIGHRES_05_ukHR_16x9.jpg" alt="Why Chania could be the best place for Cretan food" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/a-food-guide-to-chania-crete</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/a-food-guide-to-chania-crete</guid>
-            <pubDate>Sun, 03 May 2026 09:19:07 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/cec94d22-05fb-4cca-a13c-cc2c67a79195/crete_Paavonpera_NGT_Crete_HIGHRES_05_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[These Scottish islands celebrate midsummer like nowhere else]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/db1e8d11-7b24-460e-b1b5-af75ebd8dbc2/TE_ukbreak_AWL_NIS224859_ukHR_16x9.jpg" alt="These Scottish islands celebrate midsummer like nowhere else" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/scotland-shetland-islands-celebrate-midsummer-like-nowhere-else-unst-mainland-lerwick</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/scotland-shetland-islands-celebrate-midsummer-like-nowhere-else-unst-mainland-lerwick</guid>
+            <pubDate>Sun, 03 May 2026 14:12:08 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/db1e8d11-7b24-460e-b1b5-af75ebd8dbc2/TE_ukbreak_AWL_NIS224859_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
