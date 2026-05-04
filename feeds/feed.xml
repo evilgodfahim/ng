@@ -9,41 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 04 May 2026 11:44:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 May 2026 13:47:55 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 04 May 2026 11:44:10 GMT</pubDate>
+        <pubDate>Mon, 04 May 2026 13:47:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Rare jaguar caught on camera drinking from Arizona watering hole]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/7b2c3b57-6c8f-473f-b067-548a09d87c1e/CHI_jaguar_3_2022_cropped_Press_16x9.jpg" alt="Rare jaguar caught on camera drinking from Arizona watering hole" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/animals/article/rare-jaguar-video-cinco-border</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/rare-jaguar-video-cinco-border</guid>
-            <pubDate>Mon, 04 May 2026 11:44:10 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/7b2c3b57-6c8f-473f-b067-548a09d87c1e/CHI_jaguar_3_2022_cropped_Press_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sampling Sardinia’s legendary maggot cheese]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/8cb1a377-eaf3-4dfb-9956-11cf99e94642/MM10406_250904_00749_16x9.jpg" alt="Sampling Sardinia’s legendary maggot cheese" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/culture/article/maggot-cheese-casu-marzu-sardinia-italy</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/culture/article/maggot-cheese-casu-marzu-sardinia-italy</guid>
-            <pubDate>Mon, 04 May 2026 11:44:10 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/8cb1a377-eaf3-4dfb-9956-11cf99e94642/MM10406_250904_00749_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[These surprising early symptoms may be linked to Alzheimer's]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/376ab7d3-c577-4c06-8014-4f6fe174ebe0/SPI-2693946_16x9.jpg" alt="These surprising early symptoms may be linked to Alzheimer's" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/health/article/surprising-early-symptoms-alzheimers-dementia</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/health/article/surprising-early-symptoms-alzheimers-dementia</guid>
-            <pubDate>Mon, 04 May 2026 11:44:10 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/376ab7d3-c577-4c06-8014-4f6fe174ebe0/SPI-2693946_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[How to spy on animals—from low-Earth orbit]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/ef95db01-6924-4f56-852d-562be96093cf/CAS500-2_Fig_Mtn_Streak_16mm_9988_Full_16x9.jpg" alt="How to spy on animals—from low-Earth orbit" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/science/article/project-icarus-new-satellite-animal-tagging</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/project-icarus-new-satellite-animal-tagging</guid>
-            <pubDate>Mon, 04 May 2026 11:44:10 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/ef95db01-6924-4f56-852d-562be96093cf/CAS500-2_Fig_Mtn_Streak_16mm_9988_Full_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[The story of how the first American went to space]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/81bf7e3d-de96-467c-8036-6d8b26ce74a0/alan2_16x9.jpg" alt="The story of how the first American went to space" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/nasa-alan-shepard-first-american-in-space</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/nasa-alan-shepard-first-american-in-space</guid>
+            <pubDate>Mon, 04 May 2026 13:47:55 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/81bf7e3d-de96-467c-8036-6d8b26ce74a0/alan2_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
