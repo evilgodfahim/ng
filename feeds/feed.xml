@@ -9,33 +9,25 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 05 May 2026 11:57:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 May 2026 15:50:24 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 05 May 2026 11:57:28 GMT</pubDate>
+        <pubDate>Tue, 05 May 2026 15:50:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
-        <item>
-            <title><![CDATA[Can Ibiza's colorful lizards survive a snake explosion?]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/5f769cea-1f2d-406b-af78-aea0b50f76b8/Rainbow_Lizards_GIF_16x9.gif" alt="Can Ibiza's colorful lizards survive a snake explosion?" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/animals/article/spain-ibiza-wall-lizard-snake-threat</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/spain-ibiza-wall-lizard-snake-threat</guid>
-            <pubDate>Tue, 05 May 2026 11:57:28 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/5f769cea-1f2d-406b-af78-aea0b50f76b8/Rainbow_Lizards_GIF_16x9.gif" length="0" type="image/jpeg"/>
-        </item>
         <item>
             <title><![CDATA[Capturing the first-ever drone photo of the largest land migration]]></title>
             <description><![CDATA[<img src="https://i.natgeofe.com/n/aeec394c-25ff-4839-89c4-6ef3aaac5fc9/Lede_Art_Vertical.00_01_18_00.Still002_16x9.jpg" alt="Capturing the first-ever drone photo of the largest land migration" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/animals/article/steve-winter-antelope-south-sudan-land-migration</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/steve-winter-antelope-south-sudan-land-migration</guid>
-            <pubDate>Tue, 05 May 2026 11:57:28 GMT</pubDate>
+            <link>https://www.nationalgeographic.com/animals/article/marcus-westberg-antelope-south-sudan-land-migration</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/marcus-westberg-antelope-south-sudan-land-migration</guid>
+            <pubDate>Tue, 05 May 2026 15:50:24 GMT</pubDate>
             <enclosure url="https://i.natgeofe.com/n/aeec394c-25ff-4839-89c4-6ef3aaac5fc9/Lede_Art_Vertical.00_01_18_00.Still002_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Everything to know about Grand Teton National Park]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/a147ff7a-a320-4654-b445-481478dde6ee/NationalGeographic_2703411_16x9.jpg" alt="Everything to know about Grand Teton National Park" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/national-parks/article/grand-teton-national-park</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/national-parks/article/grand-teton-national-park</guid>
-            <pubDate>Tue, 05 May 2026 11:57:28 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/a147ff7a-a320-4654-b445-481478dde6ee/NationalGeographic_2703411_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[These zoos are dedicated to conservation]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/60cd6155-e297-45ce-a0bf-3a6e6ae105a2/ET_thelowdown_2YBKE9M_ukHR_16x9.jpg" alt="These zoos are dedicated to conservation" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/zoos-that-are-dedicated-to-conservation</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/zoos-that-are-dedicated-to-conservation</guid>
+            <pubDate>Tue, 05 May 2026 15:50:24 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/60cd6155-e297-45ce-a0bf-3a6e6ae105a2/ET_thelowdown_2YBKE9M_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
