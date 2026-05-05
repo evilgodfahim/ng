@@ -9,17 +9,33 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 05 May 2026 08:02:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 May 2026 11:57:28 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 05 May 2026 08:02:09 GMT</pubDate>
+        <pubDate>Tue, 05 May 2026 11:57:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[6 of the best ancestral wellness practices from around the world]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/10efdf16-a537-4b1f-87f9-ba4e9581410d/ancestral_tourism1_16x9.jpg" alt="6 of the best ancestral wellness practices from around the world" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/best-ancestral-wellness-practices-from-around-the-world</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/best-ancestral-wellness-practices-from-around-the-world</guid>
-            <pubDate>Tue, 05 May 2026 08:02:09 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/10efdf16-a537-4b1f-87f9-ba4e9581410d/ancestral_tourism1_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Can Ibiza's colorful lizards survive a snake explosion?]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/5f769cea-1f2d-406b-af78-aea0b50f76b8/Rainbow_Lizards_GIF_16x9.gif" alt="Can Ibiza's colorful lizards survive a snake explosion?" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/animals/article/spain-ibiza-wall-lizard-snake-threat</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/spain-ibiza-wall-lizard-snake-threat</guid>
+            <pubDate>Tue, 05 May 2026 11:57:28 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/5f769cea-1f2d-406b-af78-aea0b50f76b8/Rainbow_Lizards_GIF_16x9.gif" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Capturing the first-ever drone photo of the largest land migration]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/aeec394c-25ff-4839-89c4-6ef3aaac5fc9/Lede_Art_Vertical.00_01_18_00.Still002_16x9.jpg" alt="Capturing the first-ever drone photo of the largest land migration" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/animals/article/steve-winter-antelope-south-sudan-land-migration</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/steve-winter-antelope-south-sudan-land-migration</guid>
+            <pubDate>Tue, 05 May 2026 11:57:28 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/aeec394c-25ff-4839-89c4-6ef3aaac5fc9/Lede_Art_Vertical.00_01_18_00.Still002_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Everything to know about Grand Teton National Park]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/a147ff7a-a320-4654-b445-481478dde6ee/NationalGeographic_2703411_16x9.jpg" alt="Everything to know about Grand Teton National Park" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/national-parks/article/grand-teton-national-park</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/national-parks/article/grand-teton-national-park</guid>
+            <pubDate>Tue, 05 May 2026 11:57:28 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/a147ff7a-a320-4654-b445-481478dde6ee/NationalGeographic_2703411_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
