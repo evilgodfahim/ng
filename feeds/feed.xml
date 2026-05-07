@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 06 May 2026 21:52:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 May 2026 08:33:18 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 06 May 2026 21:52:36 GMT</pubDate>
+        <pubDate>Thu, 07 May 2026 08:33:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[What is hantavirus? Here's what to know about how it spreads]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/4248793b-af94-4f3e-8bf2-bf1897fcbcac/F0442441-Hantavirus_illustration_16x9.jpg" alt="What is hantavirus? Here's what to know about how it spreads" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/health/article/hantavirus-virus-mice-transmission</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/health/article/hantavirus-virus-mice-transmission</guid>
-            <pubDate>Wed, 06 May 2026 21:52:36 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/4248793b-af94-4f3e-8bf2-bf1897fcbcac/F0442441-Hantavirus_illustration_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Why New Nordic cuisine thrives in this rural Norwegian region]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/09c824ce-22a8-4c2c-b09a-11370a142a8a/norway2_16x9.jpg" alt="Why New Nordic cuisine thrives in this rural Norwegian region" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/why-new-nordic-cuisine-thrives-in-this-rural-norwegian-region-sunnmore</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/why-new-nordic-cuisine-thrives-in-this-rural-norwegian-region-sunnmore</guid>
+            <pubDate>Thu, 07 May 2026 08:33:18 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/09c824ce-22a8-4c2c-b09a-11370a142a8a/norway2_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
