@@ -9,49 +9,25 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 07 May 2026 13:54:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 May 2026 09:12:47 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 07 May 2026 13:54:54 GMT</pubDate>
+        <pubDate>Fri, 08 May 2026 09:12:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Wasp named after Sir David Attenborough for his 100th birthday]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/52fb944a-130e-4974-8c29-5341b458ba4c/fullwaspTrusteesoftheNaturalHistoryMuseum_16x9.jpg" alt="Wasp named after Sir David Attenborough for his 100th birthday" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/animals/article/new-wasp-named-after-sir-david-attenborough-on-his-100th-birthday</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/new-wasp-named-after-sir-david-attenborough-on-his-100th-birthday</guid>
-            <pubDate>Thu, 07 May 2026 13:54:54 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/52fb944a-130e-4974-8c29-5341b458ba4c/fullwaspTrusteesoftheNaturalHistoryMuseum_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[On the trail of Sir David Attenborough—7 destinations to visit]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/0c77b588-e91e-4a92-8ec8-79050a221736/GettyImages-2189399121_16x9.jpg" alt="On the trail of Sir David Attenborough—7 destinations to visit" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/best-destinations-to-visit-on-the-trail-of-david-attenborough-100-years</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/best-destinations-to-visit-on-the-trail-of-david-attenborough-100-years</guid>
+            <pubDate>Fri, 08 May 2026 09:12:47 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/0c77b588-e91e-4a92-8ec8-79050a221736/GettyImages-2189399121_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[This cemetery is swarming with 5.6 million bees]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/3c8d4cfa-c850-44b0-bb8e-434055ee8e54/Andrena_regularisDSC_4646cropped-A_16x9.jpg" alt="This cemetery is swarming with 5.6 million bees" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/animals/article/scientists-discover-56-million-bees-in-cemetery</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/scientists-discover-56-million-bees-in-cemetery</guid>
-            <pubDate>Thu, 07 May 2026 13:54:54 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/3c8d4cfa-c850-44b0-bb8e-434055ee8e54/Andrena_regularisDSC_4646cropped-A_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[5 small Texas towns that are big on charm—and worth the drive]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/224abbf5-1997-4e32-a4d2-06d2d43226d1/T3D014_16x9.jpg" alt="5 small Texas towns that are big on charm—and worth the drive" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/texas-small-towns</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/texas-small-towns</guid>
-            <pubDate>Thu, 07 May 2026 13:54:54 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/224abbf5-1997-4e32-a4d2-06d2d43226d1/T3D014_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Can wildflowers heal the toxic mess the L.A. fires?]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/9d682a03-09e7-4126-9fde-b79b6ce83aaf/Final-1_16x9.jpg" alt="Can wildflowers heal the toxic mess the L.A. fires?" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/environment/article/can-wildflowers-heal-the-toxic-mess-the-LA-fires-left-behind</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/can-wildflowers-heal-the-toxic-mess-the-LA-fires-left-behind</guid>
-            <pubDate>Thu, 07 May 2026 13:54:54 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/9d682a03-09e7-4126-9fde-b79b6ce83aaf/Final-1_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Why you may not want to let your lawn grow wild this ‘No Mow May’]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/e453ffc7-5d1d-4dda-896a-2b0228e9e298/7262309_16x9.jpg" alt="Why you may not want to let your lawn grow wild this ‘No Mow May’" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/environment/article/no-mow-may-dandelions-pollinators</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/no-mow-may-dandelions-pollinators</guid>
-            <pubDate>Thu, 07 May 2026 13:54:54 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/e453ffc7-5d1d-4dda-896a-2b0228e9e298/7262309_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[10 of the best Sir David Attenborough documentaries to watch]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/b667437a-2afc-45a0-b13b-5d9df3b8623b/FDW7WY_16x9.jpg" alt="10 of the best Sir David Attenborough documentaries to watch" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/david-attenborough-series-watch</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/david-attenborough-series-watch</guid>
+            <pubDate>Fri, 08 May 2026 09:12:47 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/b667437a-2afc-45a0-b13b-5d9df3b8623b/FDW7WY_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
