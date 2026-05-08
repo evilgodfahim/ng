@@ -9,25 +9,33 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 08 May 2026 09:12:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 May 2026 11:08:09 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 08 May 2026 09:12:47 GMT</pubDate>
+        <pubDate>Fri, 08 May 2026 11:08:09 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[On the trail of Sir David Attenborough—7 destinations to visit]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/0c77b588-e91e-4a92-8ec8-79050a221736/GettyImages-2189399121_16x9.jpg" alt="On the trail of Sir David Attenborough—7 destinations to visit" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/best-destinations-to-visit-on-the-trail-of-david-attenborough-100-years</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/best-destinations-to-visit-on-the-trail-of-david-attenborough-100-years</guid>
-            <pubDate>Fri, 08 May 2026 09:12:47 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/0c77b588-e91e-4a92-8ec8-79050a221736/GettyImages-2189399121_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[These animal mothers expect other species to raise their young]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/4e828318-98ee-46e0-98d9-ec7aa950ce5f/01551782_16x9.jpg" alt="These animal mothers expect other species to raise their young" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/animals/article/brood-parasites-mothers-day</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/brood-parasites-mothers-day</guid>
+            <pubDate>Fri, 08 May 2026 11:08:09 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/4e828318-98ee-46e0-98d9-ec7aa950ce5f/01551782_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[10 of the best Sir David Attenborough documentaries to watch]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/b667437a-2afc-45a0-b13b-5d9df3b8623b/FDW7WY_16x9.jpg" alt="10 of the best Sir David Attenborough documentaries to watch" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/david-attenborough-series-watch</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/david-attenborough-series-watch</guid>
-            <pubDate>Fri, 08 May 2026 09:12:47 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/b667437a-2afc-45a0-b13b-5d9df3b8623b/FDW7WY_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[5 ways pregnancy changes the brain]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/3dd11957-6333-4779-8977-928cb31fa30a/h_00000201393411_16x9.jpg" alt="5 ways pregnancy changes the brain" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/health/article/pregnancy-brain-changes-mom-brain-explained</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/health/article/pregnancy-brain-changes-mom-brain-explained</guid>
+            <pubDate>Fri, 08 May 2026 11:08:09 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/3dd11957-6333-4779-8977-928cb31fa30a/h_00000201393411_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Great Lakes are this summer's best-kept secret]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/1f25377c-a2d2-49ea-99b2-a9eeb477a647/shutterstock_2664724789_16x9.jpg" alt="The Great Lakes are this summer's best-kept secret" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/great-lakes-summer</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/great-lakes-summer</guid>
+            <pubDate>Fri, 08 May 2026 11:08:09 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/1f25377c-a2d2-49ea-99b2-a9eeb477a647/shutterstock_2664724789_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
