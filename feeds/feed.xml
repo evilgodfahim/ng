@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 09 May 2026 14:45:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 May 2026 11:45:47 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 09 May 2026 14:45:30 GMT</pubDate>
+        <pubDate>Sun, 10 May 2026 11:45:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Is adventure travel going soft?]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/a0847db8-e345-4e2c-bd8d-8172f077cccc/ET_lowdown_GettyImages-2189646594_ukHR_16x9.jpg" alt="Is adventure travel going soft?" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/what-are-soft-adventures-and-why-are-they-making-a-comeback</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/what-are-soft-adventures-and-why-are-they-making-a-comeback</guid>
-            <pubDate>Sat, 09 May 2026 14:45:30 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/a0847db8-e345-4e2c-bd8d-8172f077cccc/ET_lowdown_GettyImages-2189646594_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[The forest that helped me survive my mother’s death]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/6f34a56d-8338-4667-8e84-ba14e67a6038/SPI-2512983_16x9.jpg" alt="The forest that helped me survive my mother’s death" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/environment/article/suzanne-simard-grief-trees</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/suzanne-simard-grief-trees</guid>
+            <pubDate>Sun, 10 May 2026 11:45:47 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/6f34a56d-8338-4667-8e84-ba14e67a6038/SPI-2512983_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
