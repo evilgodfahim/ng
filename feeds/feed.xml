@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 12 May 2026 14:09:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 May 2026 17:06:13 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 12 May 2026 14:09:48 GMT</pubDate>
+        <pubDate>Tue, 12 May 2026 17:06:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Why these butterflies have fake heads]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/f26fb910-8fcd-4962-ae11-05d4c440d603/SPI-2808679_16x9.jpg" alt="Why these butterflies have fake heads" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/animals/article/photo-ark-butterfly-bartrams-scrub-hairstreak</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/photo-ark-butterfly-bartrams-scrub-hairstreak</guid>
-            <pubDate>Tue, 12 May 2026 14:09:48 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/f26fb910-8fcd-4962-ae11-05d4c440d603/SPI-2808679_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Behind the scenes on one of the world's most luxurious trains]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/e21aaefb-2d22-425a-b9d2-258dc48b294a/TE_specialinterest_2B4BXE0_ukHR_16x9.jpg" alt="Behind the scenes on one of the world's most luxurious trains" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/behind-the-scenes-on-one-of-the-worlds-most-luxurious-trains-maharajas-express-india</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/behind-the-scenes-on-one-of-the-worlds-most-luxurious-trains-maharajas-express-india</guid>
+            <pubDate>Tue, 12 May 2026 17:06:13 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/e21aaefb-2d22-425a-b9d2-258dc48b294a/TE_specialinterest_2B4BXE0_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
