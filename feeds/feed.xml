@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 13 May 2026 14:49:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 May 2026 17:13:04 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 13 May 2026 14:49:19 GMT</pubDate>
+        <pubDate>Wed, 13 May 2026 17:13:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Where to eat bunny chow, Durban's beloved curry-in-a-loaf dish]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/d6245fcb-a1d0-4253-a7f7-5224bb3769d7/TG_onthemenu_040A2541_ukHR_16x9.jpg" alt="Where to eat bunny chow, Durban's beloved curry-in-a-loaf dish" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/where-to-eat-bunny-chow-in-durban-the-citys-beloved-curry-in-a-loaf-dish</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/where-to-eat-bunny-chow-in-durban-the-citys-beloved-curry-in-a-loaf-dish</guid>
-            <pubDate>Wed, 13 May 2026 14:49:19 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/d6245fcb-a1d0-4253-a7f7-5224bb3769d7/TG_onthemenu_040A2541_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[DNA reveals 4 lost men from the doomed Franklin polar expedition]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/828c95a1-4276-4a6a-8641-dd167ef3ac03/BAL_7295338_16x9.jpg" alt="DNA reveals 4 lost men from the doomed Franklin polar expedition" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/franklin-expedition-sailors-identified</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/franklin-expedition-sailors-identified</guid>
+            <pubDate>Wed, 13 May 2026 17:13:04 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/828c95a1-4276-4a6a-8641-dd167ef3ac03/BAL_7295338_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
