@@ -9,17 +9,25 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 13 May 2026 17:13:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 May 2026 19:48:04 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 13 May 2026 17:13:04 GMT</pubDate>
+        <pubDate>Wed, 13 May 2026 19:48:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[DNA reveals 4 lost men from the doomed Franklin polar expedition]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/828c95a1-4276-4a6a-8641-dd167ef3ac03/BAL_7295338_16x9.jpg" alt="DNA reveals 4 lost men from the doomed Franklin polar expedition" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/history/article/franklin-expedition-sailors-identified</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/franklin-expedition-sailors-identified</guid>
-            <pubDate>Wed, 13 May 2026 17:13:04 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/828c95a1-4276-4a6a-8641-dd167ef3ac03/BAL_7295338_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[This may be the earliest evidence of Neanderthal ‘dentists’]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/fe2a0674-6b73-4d11-a862-00e3218e6eb2/neanderthal_tooth_16x9.jpg" alt="This may be the earliest evidence of Neanderthal ‘dentists’" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/neanderthal-dentist-tooth</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/neanderthal-dentist-tooth</guid>
+            <pubDate>Wed, 13 May 2026 19:48:04 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/fe2a0674-6b73-4d11-a862-00e3218e6eb2/neanderthal_tooth_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[PCOS has a new name. Here’s why doctors say it matters]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/c9fd08b2-ba3f-47f0-8651-18c501932ac6/C0151312-Calcified_cysts_of_the_ovary_16x9.jpg" alt="PCOS has a new name. Here’s why doctors say it matters" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/premium/article/polycystic-ovary-syndrome-pcos-myth-tiktok-social-media</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/premium/article/polycystic-ovary-syndrome-pcos-myth-tiktok-social-media</guid>
+            <pubDate>Wed, 13 May 2026 19:48:04 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/c9fd08b2-ba3f-47f0-8651-18c501932ac6/C0151312-Calcified_cysts_of_the_ovary_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
