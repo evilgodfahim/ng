@@ -9,17 +9,33 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 14 May 2026 09:30:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 May 2026 11:47:50 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 14 May 2026 09:30:17 GMT</pubDate>
+        <pubDate>Thu, 14 May 2026 11:47:50 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[A new species offers a clue to the boom of giant dinosaurs]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/99a4dffb-0392-43d3-8fa2-eac84c73f020/_Tha0001_16x9.jpg" alt="A new species offers a clue to the boom of giant dinosaurs" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/science/article/nagatitan-thailand-dinosaur</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/nagatitan-thailand-dinosaur</guid>
-            <pubDate>Thu, 14 May 2026 09:30:17 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/99a4dffb-0392-43d3-8fa2-eac84c73f020/_Tha0001_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Gooey blue blobs are washing up on U.S. beaches—here’s why]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/d80315e8-d257-424a-bc51-54dfa23b52f2/AdobeStock_1936221505_16x9.jpg" alt="Gooey blue blobs are washing up on U.S. beaches—here’s why" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/animals/article/velella-velella-stranding</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/velella-velella-stranding</guid>
+            <pubDate>Thu, 14 May 2026 11:47:50 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/d80315e8-d257-424a-bc51-54dfa23b52f2/AdobeStock_1936221505_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[This lesser-known cholesterol can quadruple your heart-attack risk]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/74e97083-9b57-43b7-aac2-f523a6d2d1fd/GettyImages-668760299_16x9.jpg" alt="This lesser-known cholesterol can quadruple your heart-attack risk" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/health/article/lipoprotein-lpa-cholesterol-test-heart-attack-stroke</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/health/article/lipoprotein-lpa-cholesterol-test-heart-attack-stroke</guid>
+            <pubDate>Thu, 14 May 2026 11:47:50 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/74e97083-9b57-43b7-aac2-f523a6d2d1fd/GettyImages-668760299_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[This is what happened when a scientist made a clone of a clone of a clone of a clone]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/5b62c631-f7b7-469a-97f4-954a683b62b3/MM10595_20260513_073_16x9.jpg" alt="This is what happened when a scientist made a clone of a clone of a clone of a clone" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/science/article/scientists-reclone-mice+</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/scientists-reclone-mice+</guid>
+            <pubDate>Thu, 14 May 2026 11:47:50 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/5b62c631-f7b7-469a-97f4-954a683b62b3/MM10595_20260513_073_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
