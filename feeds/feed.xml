@@ -9,17 +9,25 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 15 May 2026 13:54:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 May 2026 16:01:19 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 15 May 2026 13:54:54 GMT</pubDate>
+        <pubDate>Fri, 15 May 2026 16:01:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Looking for whales—and awe—through Baja California]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/a9b9b031-c8b6-43c2-926f-ce691fbe4a0b/LEX-MexicoBajaCaliforniaSurRLH-MX18-38602_16x9.jpg" alt="Looking for whales—and awe—through Baja California" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/expedition-whales-baja-california</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/expedition-whales-baja-california</guid>
-            <pubDate>Fri, 15 May 2026 13:54:54 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/a9b9b031-c8b6-43c2-926f-ce691fbe4a0b/LEX-MexicoBajaCaliforniaSurRLH-MX18-38602_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Why California is gaining three new parks]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/5837fe54-63c6-46e1-bcb8-efb414203371/FeatherRiverPark5_16x9.jpg" alt="Why California is gaining three new parks" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/california-3-new-state-parks</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/california-3-new-state-parks</guid>
+            <pubDate>Fri, 15 May 2026 16:01:19 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/5837fe54-63c6-46e1-bcb8-efb414203371/FeatherRiverPark5_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[America’s stunning natural icons in pictures]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/7d7734aa-7e5f-48f0-b7e6-13626efe60d4/SPI-1198152Mexican%20Gray%20Wolf%20cr%20JoelSartoreNationalGeographicPhotoArk%20(1)_16x9.jpg" alt="America’s stunning natural icons in pictures" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/impact/article/natural-icons-in-pictures</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/impact/article/natural-icons-in-pictures</guid>
+            <pubDate>Fri, 15 May 2026 16:01:19 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/7d7734aa-7e5f-48f0-b7e6-13626efe60d4/SPI-1198152Mexican%20Gray%20Wolf%20cr%20JoelSartoreNationalGeographicPhotoArk%20(1)_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
