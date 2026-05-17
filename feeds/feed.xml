@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 17 May 2026 09:01:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 May 2026 13:08:53 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 17 May 2026 09:01:41 GMT</pubDate>
+        <pubDate>Sun, 17 May 2026 13:08:53 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Beyond the Camino de Santiago—seven alternative hikes in Spain]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/9b398ec5-fcf6-4b7c-a635-3c5517ea4c96/PC_spainGettyImages-1408461757_HR_16x9.jpg" alt="Beyond the Camino de Santiago—seven alternative hikes in Spain" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/beyond-camino-de-santiago-alternative-hikes-spain</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/beyond-camino-de-santiago-alternative-hikes-spain</guid>
-            <pubDate>Sun, 17 May 2026 09:01:41 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/9b398ec5-fcf6-4b7c-a635-3c5517ea4c96/PC_spainGettyImages-1408461757_HR_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Grief getaways are on the rise—here's where to go]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/646a1967-3f38-4495-86b0-3dab9d633f66/ragerooms_HealingwithHorses__HR_16x9.jpg" alt="Grief getaways are on the rise—here's where to go" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/grief-getaways-are-on-the-rise-here-are-the-best-to-try</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/grief-getaways-are-on-the-rise-here-are-the-best-to-try</guid>
+            <pubDate>Sun, 17 May 2026 13:08:53 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/646a1967-3f38-4495-86b0-3dab9d633f66/ragerooms_HealingwithHorses__HR_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
