@@ -9,15 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 18 May 2026 21:06:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 May 2026 08:24:38 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 18 May 2026 21:06:29 GMT</pubDate>
+        <pubDate>Tue, 19 May 2026 08:24:38 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[How to capture the cosmos with your phone]]></title>
-            <link>https://www.nationalgeographic.com/photography/article/how-to-capture-the-cosmos-with-your-phone</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/photography/article/how-to-capture-the-cosmos-with-your-phone</guid>
-            <pubDate>Mon, 18 May 2026 21:06:29 GMT</pubDate>
+            <title><![CDATA[These Santorini hotels are worth the trip alone]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/4267b216-047b-46d4-b971-50f10ffee3d0/TG_wheretostay_GettyImages-1346895422_ukHR_16x9.jpg" alt="These Santorini hotels are worth the trip alone" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/best-hotels-in-santorini-greece</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/best-hotels-in-santorini-greece</guid>
+            <pubDate>Tue, 19 May 2026 08:24:38 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/4267b216-047b-46d4-b971-50f10ffee3d0/TG_wheretostay_GettyImages-1346895422_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
