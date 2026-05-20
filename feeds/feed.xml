@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 20 May 2026 17:51:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 May 2026 20:07:23 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 20 May 2026 17:51:55 GMT</pubDate>
+        <pubDate>Wed, 20 May 2026 20:07:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[A rare Ebola strain is spreading. Here's what you need to know.]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/7ef05962-1094-4f21-96ce-a672a7501645/GettyImages-2276659165_16x9.jpg" alt="A rare Ebola strain is spreading. Here's what you need to know." style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/health/article/ebola-bundibugyo-ebolavirus-outbreak</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/health/article/ebola-bundibugyo-ebolavirus-outbreak</guid>
-            <pubDate>Wed, 20 May 2026 17:51:55 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/7ef05962-1094-4f21-96ce-a672a7501645/GettyImages-2276659165_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Belugas just passed an impressive cognitive test]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/df4c1041-e718-418f-bec6-a244db5d00c4/SPI-2772423_16x9.jpg" alt="Belugas just passed an impressive cognitive test" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/animals/article/beluga-whales-mirror-recognition</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/beluga-whales-mirror-recognition</guid>
+            <pubDate>Wed, 20 May 2026 20:07:23 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/df4c1041-e718-418f-bec6-a244db5d00c4/SPI-2772423_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
