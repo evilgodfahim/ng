@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 20 May 2026 14:51:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 May 2026 17:51:55 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 20 May 2026 14:51:56 GMT</pubDate>
+        <pubDate>Wed, 20 May 2026 17:51:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Take a Tasmanian night safari to see biolumniscent wildlife]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/38cdec81-d080-446b-a412-6b3076341c56/tasmania_alanadimou-natgeotraveller-tasmaniaroadtrip-print-02_ukHR_16x9.jpg" alt="Take a Tasmanian night safari to see biolumniscent wildlife" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/australia-night-safari-tasmania-bioluminescent-wildlife</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/australia-night-safari-tasmania-bioluminescent-wildlife</guid>
-            <pubDate>Wed, 20 May 2026 14:51:56 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/38cdec81-d080-446b-a412-6b3076341c56/tasmania_alanadimou-natgeotraveller-tasmaniaroadtrip-print-02_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[A rare Ebola strain is spreading. Here's what you need to know.]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/7ef05962-1094-4f21-96ce-a672a7501645/GettyImages-2276659165_16x9.jpg" alt="A rare Ebola strain is spreading. Here's what you need to know." style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/health/article/ebola-bundibugyo-ebolavirus-outbreak</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/health/article/ebola-bundibugyo-ebolavirus-outbreak</guid>
+            <pubDate>Wed, 20 May 2026 17:51:55 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/7ef05962-1094-4f21-96ce-a672a7501645/GettyImages-2276659165_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
