@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 19 May 2026 20:27:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 May 2026 08:21:47 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 19 May 2026 20:27:24 GMT</pubDate>
+        <pubDate>Wed, 20 May 2026 08:21:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[This scientist made a clone of a clone of a clone of a clone]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/5b62c631-f7b7-469a-97f4-954a683b62b3/MM10595_20260513_073_16x9.jpg" alt="This scientist made a clone of a clone of a clone of a clone" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/science/article/scientists-reclone-mice</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/scientists-reclone-mice</guid>
-            <pubDate>Tue, 19 May 2026 20:27:24 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/5b62c631-f7b7-469a-97f4-954a683b62b3/MM10595_20260513_073_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Explore Costa Rica's Arenal region on horseback]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/7b8bc464-284a-4224-9444-78aaf6527189/coverstory_costarica_Reiner_NGT_CR1322-Edit_ukHR_16x9.jpg" alt="Explore Costa Rica's Arenal region on horseback" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/why-the-best-way-to-see-costa-ricas-arenal-volcano-is-on-horseback</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/why-the-best-way-to-see-costa-ricas-arenal-volcano-is-on-horseback</guid>
+            <pubDate>Wed, 20 May 2026 08:21:47 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/7b8bc464-284a-4224-9444-78aaf6527189/coverstory_costarica_Reiner_NGT_CR1322-Edit_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
