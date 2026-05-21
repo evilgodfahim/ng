@@ -9,41 +9,15 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 21 May 2026 16:13:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 May 2026 20:50:31 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 21 May 2026 16:13:18 GMT</pubDate>
+        <pubDate>Thu, 21 May 2026 20:50:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[How the Great Pyramid of Giza survived 4,600 years of earthquakes]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/a38917e4-faad-4496-b4cb-8a0cc55caf56/004.%20DSC_4565-2%202_16x9.jpg" alt="How the Great Pyramid of Giza survived 4,600 years of earthquakes" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/history/article/giza-pyramid-earthquake</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/giza-pyramid-earthquake</guid>
-            <pubDate>Thu, 21 May 2026 16:13:18 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/a38917e4-faad-4496-b4cb-8a0cc55caf56/004.%20DSC_4565-2%202_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Exclusive: There’s a new T. rex in town—and this giant beast ruled the seas]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/83f82edf-b898-4bc9-b51d-23085e9f55b0/Tylosaurus_rex_illustration_16x9.jpg" alt="Exclusive: There’s a new T. rex in town—and this giant beast ruled the seas" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/science/article/tylosaurus-rex-mosasaur</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/tylosaurus-rex-mosasaur</guid>
-            <pubDate>Thu, 21 May 2026 16:13:18 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/83f82edf-b898-4bc9-b51d-23085e9f55b0/Tylosaurus_rex_illustration_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Why Europe wants to tear down thousands of its dams]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/f0ca7ab1-08c7-4f34-b612-ddabd1f43c16/db1540e8-b5ff-4271-96da-7d48d153180d_16x9.jpg" alt="Why Europe wants to tear down thousands of its dams" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/environment/article/europe-dam-removal-rivers-hydropower</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/europe-dam-removal-rivers-hydropower</guid>
-            <pubDate>Thu, 21 May 2026 16:13:18 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/f0ca7ab1-08c7-4f34-b612-ddabd1f43c16/db1540e8-b5ff-4271-96da-7d48d153180d_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Okavango wilderness gives up its most vital secrets]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/b63110ac-86c6-4604-9620-036eb7f45d68/STOCK_Angola-20170519-101037-00007_16x9.jpg" alt="The Okavango wilderness gives up its most vital secrets" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/environment/article/okavango-wilderness-river-delta-africa</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/okavango-wilderness-river-delta-africa</guid>
-            <pubDate>Thu, 21 May 2026 16:13:18 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/b63110ac-86c6-4604-9620-036eb7f45d68/STOCK_Angola-20170519-101037-00007_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Wonders of America]]></title>
+            <link>https://www.nationalgeographic.com/culture/article/wonders-of-america</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/culture/article/wonders-of-america</guid>
+            <pubDate>Thu, 21 May 2026 20:50:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
