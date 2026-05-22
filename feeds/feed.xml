@@ -9,15 +9,41 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 21 May 2026 20:50:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 May 2026 13:27:51 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 21 May 2026 20:50:31 GMT</pubDate>
+        <pubDate>Fri, 22 May 2026 13:27:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Wonders of America]]></title>
-            <link>https://www.nationalgeographic.com/culture/article/wonders-of-america</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/culture/article/wonders-of-america</guid>
-            <pubDate>Thu, 21 May 2026 20:50:31 GMT</pubDate>
+            <title><![CDATA[The hermit who found the dino ‘monsters’ of Patagonia]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/873da401-71ab-493b-98dd-e6156a9e91f6/Campo1_A.Villafane_16x9.jpg" alt="The hermit who found the dino ‘monsters’ of Patagonia" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/newsletters/article/stones-bones-dino-monsters-patagonia-hermit</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/newsletters/article/stones-bones-dino-monsters-patagonia-hermit</guid>
+            <pubDate>Fri, 22 May 2026 13:27:51 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/873da401-71ab-493b-98dd-e6156a9e91f6/Campo1_A.Villafane_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Is this the most overlooked indicator of women's health?]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/7e6e1d7b-8f85-4483-90cc-3f2e7471a858/GettyImages-2183063317_16x9.jpg" alt="Is this the most overlooked indicator of women's health?" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/health/article/period-blood-endometriosis-health-diagnoses</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/health/article/period-blood-endometriosis-health-diagnoses</guid>
+            <pubDate>Fri, 22 May 2026 13:27:51 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/7e6e1d7b-8f85-4483-90cc-3f2e7471a858/GettyImages-2183063317_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[How El Niño could reshape monsoon season around the world]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/6fa5395f-5cb3-4073-9c31-e504e8e201f3/SPI-761677_16x9.jpg" alt="How El Niño could reshape monsoon season around the world" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/environment/article/el-nino-monsoon-season</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/el-nino-monsoon-season</guid>
+            <pubDate>Fri, 22 May 2026 13:27:51 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/6fa5395f-5cb3-4073-9c31-e504e8e201f3/SPI-761677_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Through their eyes: The heart of the Kalahari]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/874b8358-1e98-4fd5-b962-2da9d5da5a82/Okavango_16x9.jpg" alt="Through their eyes: The heart of the Kalahari" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/paid-content-the-heart-of-the-kalahari/</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/paid-content-the-heart-of-the-kalahari/</guid>
+            <pubDate>Fri, 22 May 2026 13:27:51 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/874b8358-1e98-4fd5-b962-2da9d5da5a82/Okavango_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
