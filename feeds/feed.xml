@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 23 May 2026 13:14:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 May 2026 09:18:36 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 23 May 2026 13:14:32 GMT</pubDate>
+        <pubDate>Sun, 24 May 2026 09:18:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Everything you should know about Plitvice Lakes National Park]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/57a41e89-0f0d-4eb1-a122-379352921c7a/GettyImages-1490967121_16x9.jpg" alt="Everything you should know about Plitvice Lakes National Park" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/everything-you-should-know-about-plitvice-lakes-national-park-croatia</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/everything-you-should-know-about-plitvice-lakes-national-park-croatia</guid>
-            <pubDate>Sat, 23 May 2026 13:14:32 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/57a41e89-0f0d-4eb1-a122-379352921c7a/GettyImages-1490967121_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[How Costa Rica’s Indigenous farmers are shaping a greener future]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/5de7b100-92f8-4cc5-9a2f-896f8cb1102d/coverstory_costarica_Reiner_NGT_CR3124-Edit_ukHR_16x9.jpg" alt="How Costa Rica’s Indigenous farmers are shaping a greener future" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/how-costa-ricas-indigenous-farmers-are-shaping-a-greener-future</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/how-costa-ricas-indigenous-farmers-are-shaping-a-greener-future</guid>
+            <pubDate>Sun, 24 May 2026 09:18:36 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/5de7b100-92f8-4cc5-9a2f-896f8cb1102d/coverstory_costarica_Reiner_NGT_CR3124-Edit_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
