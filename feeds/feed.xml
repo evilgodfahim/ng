@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 25 May 2026 08:15:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 May 2026 15:46:54 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 25 May 2026 08:15:04 GMT</pubDate>
+        <pubDate>Mon, 25 May 2026 15:46:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[What it’s like to spend a night in a Costa Rican jungle]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/3ffe6805-6095-417e-aab0-27c24cf1dc6a/coverstory_costarica_GettyImages-2175225474_ukHR_16x9.jpg" alt="What it’s like to spend a night in a Costa Rican jungle" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/how-to-stay-in-a-costa-rican-jungle-corcovado-overnight</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/how-to-stay-in-a-costa-rican-jungle-corcovado-overnight</guid>
-            <pubDate>Mon, 25 May 2026 08:15:04 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/3ffe6805-6095-417e-aab0-27c24cf1dc6a/coverstory_costarica_GettyImages-2175225474_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Why do we celebrate Memorial Day? A brief history of the holiday]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/92c59bd5-32fa-4897-8f0c-b48f0557f90e/NationalGeographic_1209131_16x9.jpg" alt="Why do we celebrate Memorial Day? A brief history of the holiday" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/culture/article/memorial-day-history</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/culture/article/memorial-day-history</guid>
+            <pubDate>Mon, 25 May 2026 15:46:54 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/92c59bd5-32fa-4897-8f0c-b48f0557f90e/NationalGeographic_1209131_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
