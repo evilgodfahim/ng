@@ -9,25 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 26 May 2026 16:38:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 May 2026 19:14:16 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 26 May 2026 16:38:31 GMT</pubDate>
+        <pubDate>Tue, 26 May 2026 19:14:16 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Inside the thrilling chariot races of ancient Rome’s Circus Maximus]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/2a7bbf1f-ee37-4649-a871-c797a521fead/circus2_16x9.jpg" alt="Inside the thrilling chariot races of ancient Rome’s Circus Maximus" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/history/article/ancient-rome-circus-maximus-chariot-racing</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/ancient-rome-circus-maximus-chariot-racing</guid>
-            <pubDate>Tue, 26 May 2026 16:38:31 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/2a7bbf1f-ee37-4649-a871-c797a521fead/circus2_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[This science-backed diet could save the planet—and you]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/d22ab49c-e6b9-4795-9fca-50a2a0de44d4/e7f9604d-8c1f-4b78-ab2b-28f9c61bb3a0_16x9.jpg" alt="This science-backed diet could save the planet—and you" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/environment/article/trying-planetary-health-diet-experiment</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/trying-planetary-health-diet-experiment</guid>
-            <pubDate>Tue, 26 May 2026 16:38:31 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/d22ab49c-e6b9-4795-9fca-50a2a0de44d4/e7f9604d-8c1f-4b78-ab2b-28f9c61bb3a0_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[How did Texas get its crop circles?]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/a791a502-8034-44f3-9765-5405db8308f1/B7538DalhartTX2048px_16x9.png" alt="How did Texas get its crop circles?" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/environment/article/texas-crop-cricles-center-pivot-irrigation</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/texas-crop-cricles-center-pivot-irrigation</guid>
+            <pubDate>Tue, 26 May 2026 19:14:16 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/a791a502-8034-44f3-9765-5405db8308f1/B7538DalhartTX2048px_16x9.png" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
