@@ -9,17 +9,25 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 26 May 2026 08:35:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 May 2026 16:38:31 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 26 May 2026 08:35:29 GMT</pubDate>
+        <pubDate>Tue, 26 May 2026 16:38:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Where to eat on the Isle of Wight, according to a local producer]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/241e55cb-706e-404a-800f-ee62db8dca56/_DSC5502_16x9.jpg" alt="Where to eat on the Isle of Wight, according to a local producer" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/where-to-eat-on-the-isle-of-wight-according-to-a-local-producer</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/where-to-eat-on-the-isle-of-wight-according-to-a-local-producer</guid>
-            <pubDate>Tue, 26 May 2026 08:35:29 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/241e55cb-706e-404a-800f-ee62db8dca56/_DSC5502_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Inside the thrilling chariot races of ancient Rome’s Circus Maximus]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/2a7bbf1f-ee37-4649-a871-c797a521fead/circus2_16x9.jpg" alt="Inside the thrilling chariot races of ancient Rome’s Circus Maximus" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/ancient-rome-circus-maximus-chariot-racing</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/ancient-rome-circus-maximus-chariot-racing</guid>
+            <pubDate>Tue, 26 May 2026 16:38:31 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/2a7bbf1f-ee37-4649-a871-c797a521fead/circus2_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[This science-backed diet could save the planet—and you]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/d22ab49c-e6b9-4795-9fca-50a2a0de44d4/e7f9604d-8c1f-4b78-ab2b-28f9c61bb3a0_16x9.jpg" alt="This science-backed diet could save the planet—and you" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/environment/article/trying-planetary-health-diet-experiment</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/trying-planetary-health-diet-experiment</guid>
+            <pubDate>Tue, 26 May 2026 16:38:31 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/d22ab49c-e6b9-4795-9fca-50a2a0de44d4/e7f9604d-8c1f-4b78-ab2b-28f9c61bb3a0_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
