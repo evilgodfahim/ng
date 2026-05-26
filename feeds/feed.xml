@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 26 May 2026 19:14:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 May 2026 21:39:18 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 26 May 2026 19:14:16 GMT</pubDate>
+        <pubDate>Tue, 26 May 2026 21:39:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[How did Texas get its crop circles?]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/a791a502-8034-44f3-9765-5405db8308f1/B7538DalhartTX2048px_16x9.png" alt="How did Texas get its crop circles?" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/environment/article/texas-crop-cricles-center-pivot-irrigation</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/texas-crop-cricles-center-pivot-irrigation</guid>
-            <pubDate>Tue, 26 May 2026 19:14:16 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/a791a502-8034-44f3-9765-5405db8308f1/B7538DalhartTX2048px_16x9.png" length="0" type="image/jpeg"/>
+            <title><![CDATA[These are NASA’s new moon rovers. We drove them.]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/70365ac7-12e0-4ada-b512-32f2a3d91805/01_MM10414__250819_00107_16x9.jpg" alt="These are NASA’s new moon rovers. We drove them." style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/science/article/moon-rover-space-innovation-nasa-artemis</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/moon-rover-space-innovation-nasa-artemis</guid>
+            <pubDate>Tue, 26 May 2026 21:39:18 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/70365ac7-12e0-4ada-b512-32f2a3d91805/01_MM10414__250819_00107_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
