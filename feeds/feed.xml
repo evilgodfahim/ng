@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 27 May 2026 18:22:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 May 2026 20:58:28 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 27 May 2026 18:22:18 GMT</pubDate>
+        <pubDate>Wed, 27 May 2026 20:58:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[What to do in Big Cypress, Florida's wildest hidden gem]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/72ccc5ea-99a9-4d51-b6e5-84df6fae2feb/SPI-2187959_16x9.jpg" alt="What to do in Big Cypress, Florida's wildest hidden gem" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/big-cypress-national-preserve-florida</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/big-cypress-national-preserve-florida</guid>
-            <pubDate>Wed, 27 May 2026 18:22:18 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/72ccc5ea-99a9-4d51-b6e5-84df6fae2feb/SPI-2187959_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[The color of this little blue octopus is what helps it survive]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/800a4b35-b827-4d3b-8bc1-ce74b4cf8e21/thisone_16x9.jpg" alt="The color of this little blue octopus is what helps it survive" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/animals/article/microeledone-galapagensis-little-blue-octopus</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/microeledone-galapagensis-little-blue-octopus</guid>
+            <pubDate>Wed, 27 May 2026 20:58:28 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/800a4b35-b827-4d3b-8bc1-ce74b4cf8e21/thisone_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
