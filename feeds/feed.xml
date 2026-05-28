@@ -9,17 +9,41 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 27 May 2026 20:58:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 May 2026 11:33:34 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 27 May 2026 20:58:28 GMT</pubDate>
+        <pubDate>Thu, 28 May 2026 11:33:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[The color of this little blue octopus is what helps it survive]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/800a4b35-b827-4d3b-8bc1-ce74b4cf8e21/thisone_16x9.jpg" alt="The color of this little blue octopus is what helps it survive" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/animals/article/microeledone-galapagensis-little-blue-octopus</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/microeledone-galapagensis-little-blue-octopus</guid>
-            <pubDate>Wed, 27 May 2026 20:58:28 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/800a4b35-b827-4d3b-8bc1-ce74b4cf8e21/thisone_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Ancient Cypriot cemetery reveals blinged-out remains]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/e018df91-e07b-44f6-8f96-d59be8af10e4/GettyImages-1134276833_16x9.jpg" alt="Ancient Cypriot cemetery reveals blinged-out remains" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/cyprus-cemetery-gold-crowns-treasure-bronze-age</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/cyprus-cemetery-gold-crowns-treasure-bronze-age</guid>
+            <pubDate>Thu, 28 May 2026 11:33:34 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/e018df91-e07b-44f6-8f96-d59be8af10e4/GettyImages-1134276833_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Everything to know about Shenandoah National Park]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/5eb1fd85-c546-4e9e-af77-b1ad92daa0bd/1-shenandoah-national-park-virginia_16x9.jpg" alt="Everything to know about Shenandoah National Park" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/national-parks/article/shenandoah-national-park</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/national-parks/article/shenandoah-national-park</guid>
+            <pubDate>Thu, 28 May 2026 11:33:34 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/5eb1fd85-c546-4e9e-af77-b1ad92daa0bd/1-shenandoah-national-park-virginia_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[How to photograph wildlife on a safari]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/57bdf3fa-39fb-4a2c-b9dd-9760421c2f19/LionessontheSerengetiatsunrise_Nori_16x9.jpg" alt="How to photograph wildlife on a safari" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/how-to-photograph-wildlife-on-a-safari</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/how-to-photograph-wildlife-on-a-safari</guid>
+            <pubDate>Thu, 28 May 2026 11:33:34 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/57bdf3fa-39fb-4a2c-b9dd-9760421c2f19/LionessontheSerengetiatsunrise_Nori_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[9 night sky events to see in June]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/045b88cc-5738-4ac0-8bc4-d2bc6a87182e/1916-111270938_unison_16x9.jpg" alt="9 night sky events to see in June" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/science/article/june-night-sky-events-2026</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/june-night-sky-events-2026</guid>
+            <pubDate>Thu, 28 May 2026 11:33:34 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/045b88cc-5738-4ac0-8bc4-d2bc6a87182e/1916-111270938_unison_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
