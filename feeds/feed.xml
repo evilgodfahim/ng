@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 28 May 2026 18:32:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 May 2026 21:05:00 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 28 May 2026 18:32:22 GMT</pubDate>
+        <pubDate>Thu, 28 May 2026 21:05:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Scientists solved the mystery of the magnetic pigeons]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/892f57a0-3243-4447-9f6e-bbae5723fcab/h_00000201342267_16x9.jpg" alt="Scientists solved the mystery of the magnetic pigeons" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/animals/article/pigeons-magnetic-field</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/pigeons-magnetic-field</guid>
-            <pubDate>Thu, 28 May 2026 18:32:22 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/892f57a0-3243-4447-9f6e-bbae5723fcab/h_00000201342267_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Winners: Nat Geo Traveller (UK) Photo Competition 2026]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/4c3b6d51-4426-4e9a-89e1-93f609324cdc/People_02_VietnambyAshleighBenn_16x9.jpg" alt="Winners: Nat Geo Traveller (UK) Photo Competition 2026" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/national-geographic-traveller-uk-photography-competition-winners</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/national-geographic-traveller-uk-photography-competition-winners</guid>
+            <pubDate>Thu, 28 May 2026 21:05:00 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/4c3b6d51-4426-4e9a-89e1-93f609324cdc/People_02_VietnambyAshleighBenn_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
