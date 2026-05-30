@@ -9,25 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 29 May 2026 20:13:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 May 2026 09:54:36 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 29 May 2026 20:13:30 GMT</pubDate>
+        <pubDate>Sat, 30 May 2026 09:54:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Tracking India's last lions]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/494deb20-300d-4e7f-94a3-f5629eb1b867/6ab5e7a4-ffd2-46f8-91da-ed4cf9eca439_16x9.jpg" alt="Tracking India's last lions" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/animals/article/photographing-asiatic-lions-india-gir-wildlife-sanctuary</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/photographing-asiatic-lions-india-gir-wildlife-sanctuary</guid>
-            <pubDate>Fri, 29 May 2026 20:13:30 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/494deb20-300d-4e7f-94a3-f5629eb1b867/6ab5e7a4-ffd2-46f8-91da-ed4cf9eca439_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Photo story: a family trip to Chattanooga]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/0754b5ad-8aaf-4fce-9eb9-fb7797802431/260423_GK_chattanooga186-WR2_16x9.png" alt="Photo story: a family trip to Chattanooga" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/paid-content-photo-story-a-family-trip-to-chattanooga-tennessee</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/paid-content-photo-story-a-family-trip-to-chattanooga-tennessee</guid>
-            <pubDate>Fri, 29 May 2026 20:13:30 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/0754b5ad-8aaf-4fce-9eb9-fb7797802431/260423_GK_chattanooga186-WR2_16x9.png" length="0" type="image/jpeg"/>
+            <title><![CDATA[What you should know before booking a trip to Costa Rica]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/28d31c1b-7273-4219-b9ab-824b9bcf35c8/coverstory_costarica_AWL_CR4250AWRF_ukHR_16x9.jpg" alt="What you should know before booking a trip to Costa Rica" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/what-you-should-know-before-booking-a-trip-to-costa-rica</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/what-you-should-know-before-booking-a-trip-to-costa-rica</guid>
+            <pubDate>Sat, 30 May 2026 09:54:36 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/28d31c1b-7273-4219-b9ab-824b9bcf35c8/coverstory_costarica_AWL_CR4250AWRF_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
