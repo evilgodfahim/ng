@@ -9,17 +9,25 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 31 May 2026 10:53:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jun 2026 11:37:36 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 31 May 2026 10:53:46 GMT</pubDate>
+        <pubDate>Mon, 01 Jun 2026 11:37:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Beyond the lanterns—how Hoi An’s creative scene is lighting up]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/7726a491-a6e9-44b2-8b09-b37b0634aaf1/hoian_GettyImages-2046529448_ukHR_16x9.jpg" alt="Beyond the lanterns—how Hoi An’s creative scene is lighting up" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/explore-how-contemporary-hoi-ans-creative-scene-is-lighting-up-vietnam</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/explore-how-contemporary-hoi-ans-creative-scene-is-lighting-up-vietnam</guid>
-            <pubDate>Sun, 31 May 2026 10:53:46 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/7726a491-a6e9-44b2-8b09-b37b0634aaf1/hoian_GettyImages-2046529448_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Did this ancient society thrive without elites?]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/266f7a93-0257-4ee2-9059-913a998c5b9f/Aerial_MohenjoDaro_Selects_16x9.jpg" alt="Did this ancient society thrive without elites?" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/indus-valley-egalitarian-ancient-society-mohenjo-daro</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/indus-valley-egalitarian-ancient-society-mohenjo-daro</guid>
+            <pubDate>Mon, 01 Jun 2026 11:37:36 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/266f7a93-0257-4ee2-9059-913a998c5b9f/Aerial_MohenjoDaro_Selects_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Summer heatwaves are changing travel—here's what you need to know]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/13d8afb2-d1d9-40c6-820e-232827b58c6f/Lowdown_GettyImages-1162401819_HR_16x9.jpg" alt="Summer heatwaves are changing travel—here's what you need to know" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/how-summer-heatwaves-are-changing-the-way-we-travel</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/how-summer-heatwaves-are-changing-the-way-we-travel</guid>
+            <pubDate>Mon, 01 Jun 2026 11:37:36 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/13d8afb2-d1d9-40c6-820e-232827b58c6f/Lowdown_GettyImages-1162401819_HR_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
