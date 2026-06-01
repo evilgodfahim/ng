@@ -9,25 +9,33 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 01 Jun 2026 11:37:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jun 2026 17:28:32 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 01 Jun 2026 11:37:36 GMT</pubDate>
+        <pubDate>Mon, 01 Jun 2026 17:28:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Did this ancient society thrive without elites?]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/266f7a93-0257-4ee2-9059-913a998c5b9f/Aerial_MohenjoDaro_Selects_16x9.jpg" alt="Did this ancient society thrive without elites?" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/history/article/indus-valley-egalitarian-ancient-society-mohenjo-daro</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/indus-valley-egalitarian-ancient-society-mohenjo-daro</guid>
-            <pubDate>Mon, 01 Jun 2026 11:37:36 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/266f7a93-0257-4ee2-9059-913a998c5b9f/Aerial_MohenjoDaro_Selects_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Speeding across the Sahara on one of Earth's most punishing road trips]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/b4af0d39-2ba4-421c-889c-c8bc573bd830/SPI-950831_16x9.jpg" alt="Speeding across the Sahara on one of Earth's most punishing road trips" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/algeria-sahara-desert-car-archival</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/algeria-sahara-desert-car-archival</guid>
+            <pubDate>Mon, 01 Jun 2026 17:28:32 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/b4af0d39-2ba4-421c-889c-c8bc573bd830/SPI-950831_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Summer heatwaves are changing travel—here's what you need to know]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/13d8afb2-d1d9-40c6-820e-232827b58c6f/Lowdown_GettyImages-1162401819_HR_16x9.jpg" alt="Summer heatwaves are changing travel—here's what you need to know" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/how-summer-heatwaves-are-changing-the-way-we-travel</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/how-summer-heatwaves-are-changing-the-way-we-travel</guid>
-            <pubDate>Mon, 01 Jun 2026 11:37:36 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/13d8afb2-d1d9-40c6-820e-232827b58c6f/Lowdown_GettyImages-1162401819_HR_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[How chess became medieval Europe’s favorite pastime]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/f3a13983-ff94-4b00-864e-42b6edd7ad37/chess2_16x9.jpg" alt="How chess became medieval Europe’s favorite pastime" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/medieval-chess-europe</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/medieval-chess-europe</guid>
+            <pubDate>Mon, 01 Jun 2026 17:28:32 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/f3a13983-ff94-4b00-864e-42b6edd7ad37/chess2_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[How did the Euphrates River form? We may now know.]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/70de5f4f-26a8-4ce8-8ab3-c329b4aec601/GettyImages-149469276_16x9.jpg" alt="How did the Euphrates River form? We may now know." style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/environment/article/euphrates-origin</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/euphrates-origin</guid>
+            <pubDate>Mon, 01 Jun 2026 17:28:32 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/70de5f4f-26a8-4ce8-8ab3-c329b4aec601/GettyImages-149469276_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
