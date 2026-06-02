@@ -9,17 +9,41 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 02 Jun 2026 08:23:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jun 2026 12:37:12 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 02 Jun 2026 08:23:58 GMT</pubDate>
+        <pubDate>Tue, 02 Jun 2026 12:37:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Queen Victoria loved this German spa town—and so will you]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/c9a32c78-c7de-46e5-bfd5-2ef7025b6cd1/GettyImages-1182905177_16x9.jpg" alt="Queen Victoria loved this German spa town—and so will you" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/best-things-to-do-spas-to-visit-in-baden-baden-germany</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/best-things-to-do-spas-to-visit-in-baden-baden-germany</guid>
-            <pubDate>Tue, 02 Jun 2026 08:23:58 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/c9a32c78-c7de-46e5-bfd5-2ef7025b6cd1/GettyImages-1182905177_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[New tech is saving gray whales in San Francisco Bay]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/17d92dd1-de40-4c12-ac74-a441bdd9afa1/GettyImages-1151270909_16x9.jpg" alt="New tech is saving gray whales in San Francisco Bay" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/animals/article/gray-whales-san-francisco-bay</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/gray-whales-san-francisco-bay</guid>
+            <pubDate>Tue, 02 Jun 2026 12:37:12 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/17d92dd1-de40-4c12-ac74-a441bdd9afa1/GettyImages-1151270909_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[A day in the life of a ‘retired’ aquarium penguin]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/2d5b7699-9395-48d0-a581-ba8647cbd0e0/Poa_painting_16x9.JPG" alt="A day in the life of a ‘retired’ aquarium penguin" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/animals/article/aquarium-retired-penguin-enclosure</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/aquarium-retired-penguin-enclosure</guid>
+            <pubDate>Tue, 02 Jun 2026 12:37:12 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/2d5b7699-9395-48d0-a581-ba8647cbd0e0/Poa_painting_16x9.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[First wrecks from the 'Golden Age of Piracy' discovered in Nassau]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/776196a3-e8b0-4d4f-92d3-64c5c6a092ba/PIrateEraWreck-StoneSharpenerWreckwatchTV_16x9.jpg" alt="First wrecks from the 'Golden Age of Piracy' discovered in Nassau" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/first-pirate-shipwrecks-nassau</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/first-pirate-shipwrecks-nassau</guid>
+            <pubDate>Tue, 02 Jun 2026 12:37:12 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/776196a3-e8b0-4d4f-92d3-64c5c6a092ba/PIrateEraWreck-StoneSharpenerWreckwatchTV_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Everything to know about Arches National Park]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/fa3e0390-57df-4c6c-b780-640933d6c2d5/shutterstock_2493935405_16x9.jpg" alt="Everything to know about Arches National Park" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/national-parks/article/arches-national-park</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/national-parks/article/arches-national-park</guid>
+            <pubDate>Tue, 02 Jun 2026 12:37:12 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/fa3e0390-57df-4c6c-b780-640933d6c2d5/shutterstock_2493935405_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
