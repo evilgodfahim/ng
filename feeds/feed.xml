@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 04 Jun 2026 03:32:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jun 2026 08:15:26 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 04 Jun 2026 03:32:32 GMT</pubDate>
+        <pubDate>Thu, 04 Jun 2026 08:15:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Scientists unearth a ‘petrified aquarium’ of fish fossils]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/23c4b3cf-6964-4827-9013-3807eb0ee870/Reconstruction_no_signature_16x9.jpg" alt="Scientists unearth a ‘petrified aquarium’ of fish fossils" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/science/article/fish-fossil-cretaceous-extinction-egypt</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/fish-fossil-cretaceous-extinction-egypt</guid>
-            <pubDate>Thu, 04 Jun 2026 03:32:32 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/23c4b3cf-6964-4827-9013-3807eb0ee870/Reconstruction_no_signature_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Discover the surprising history behind Busan's must-visit spot]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/ae32448b-d8ee-4f9e-b45f-e8f043d94a80/southkorea_2025_09NatGeoTravelerUKDay01-3919-Edit_ukHR3_16x9.jpg" alt="Discover the surprising history behind Busan's must-visit spot" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/discover-the-surprising-history-behind-gamcheon-village-busan-must-visit</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/discover-the-surprising-history-behind-gamcheon-village-busan-must-visit</guid>
+            <pubDate>Thu, 04 Jun 2026 08:15:26 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/ae32448b-d8ee-4f9e-b45f-e8f043d94a80/southkorea_2025_09NatGeoTravelerUKDay01-3919-Edit_ukHR3_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
