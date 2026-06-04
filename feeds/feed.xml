@@ -9,17 +9,41 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 04 Jun 2026 08:15:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jun 2026 11:48:00 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 04 Jun 2026 08:15:26 GMT</pubDate>
+        <pubDate>Thu, 04 Jun 2026 11:48:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Discover the surprising history behind Busan's must-visit spot]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/ae32448b-d8ee-4f9e-b45f-e8f043d94a80/southkorea_2025_09NatGeoTravelerUKDay01-3919-Edit_ukHR3_16x9.jpg" alt="Discover the surprising history behind Busan's must-visit spot" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/discover-the-surprising-history-behind-gamcheon-village-busan-must-visit</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/discover-the-surprising-history-behind-gamcheon-village-busan-must-visit</guid>
-            <pubDate>Thu, 04 Jun 2026 08:15:26 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/ae32448b-d8ee-4f9e-b45f-e8f043d94a80/southkorea_2025_09NatGeoTravelerUKDay01-3919-Edit_ukHR3_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Watch a mole rat 'farmer' at work]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/880d5233-31b9-4658-b6a0-799f1ecc76b6/DSC_0249_16x9.jpg" alt="Watch a mole rat 'farmer' at work" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/animals/article/mole-rat-farming-video</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/mole-rat-farming-video</guid>
+            <pubDate>Thu, 04 Jun 2026 11:48:00 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/880d5233-31b9-4658-b6a0-799f1ecc76b6/DSC_0249_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[What it took to make Nat Geo’s first nocturnal animal photos]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/04f82394-cd23-4d17-8437-bb930800f17b/SPI-1561808_16x9.jpg" alt="What it took to make Nat Geo’s first nocturnal animal photos" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/george-shiras-iii-wildlife-photography</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/george-shiras-iii-wildlife-photography</guid>
+            <pubDate>Thu, 04 Jun 2026 11:48:00 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/04f82394-cd23-4d17-8437-bb930800f17b/SPI-1561808_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[How to spend a weekend in Toronto]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/cae32110-cb7c-4f68-8136-a2cf939cf253/GettyImages-2274678198_16x9.jpg" alt="How to spend a weekend in Toronto" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/weekend-getaway-toronto-fifa</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/weekend-getaway-toronto-fifa</guid>
+            <pubDate>Thu, 04 Jun 2026 11:48:00 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/cae32110-cb7c-4f68-8136-a2cf939cf253/GettyImages-2274678198_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tetanus is making a comeback. There’s an easy way to fight back.]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/5f3ca324-65d5-4154-8258-a979ebd69b4a/MM10603_20260601_080-2_16x9.jpg" alt="Tetanus is making a comeback. There’s an easy way to fight back." style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/health/article/tetanus-shot-vaccine-bacteria-disease</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/health/article/tetanus-shot-vaccine-bacteria-disease</guid>
+            <pubDate>Thu, 04 Jun 2026 11:48:00 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/5f3ca324-65d5-4154-8258-a979ebd69b4a/MM10603_20260601_080-2_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
