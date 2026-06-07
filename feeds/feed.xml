@@ -9,25 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 06 Jun 2026 13:21:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Jun 2026 08:21:25 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 06 Jun 2026 13:21:31 GMT</pubDate>
+        <pubDate>Sun, 07 Jun 2026 08:21:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[What to do in Whistler this summer]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/79407a9a-d3c6-4aa1-9e18-8e23039615a6/Tourism_Whistler__16x9.jpg" alt="What to do in Whistler this summer" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/what-to-do-in-whistler-canada-in-summer</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/what-to-do-in-whistler-canada-in-summer</guid>
-            <pubDate>Sat, 06 Jun 2026 13:21:31 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/79407a9a-d3c6-4aa1-9e18-8e23039615a6/Tourism_Whistler__16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[The harrowing true story of the photo that defined D-Day]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/c9890dfb-a89f-42b4-821c-361959631e7a/PAR121453_16x9.jpg" alt="The harrowing true story of the photo that defined D-Day" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/premium/article/robert-capa-d-day-photograph</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/premium/article/robert-capa-d-day-photograph</guid>
-            <pubDate>Sat, 06 Jun 2026 13:21:31 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/c9890dfb-a89f-42b4-821c-361959631e7a/PAR121453_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[See how nature is bouncing back in these rewilded landscapes]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/8ae97b31-2df9-4384-a037-146d0436cd74/Report_EG6W17_HR_16x9.jpg" alt="See how nature is bouncing back in these rewilded landscapes" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/see-how-nature-is-bouncing-back-in-these-rewilded-landscapes</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/see-how-nature-is-bouncing-back-in-these-rewilded-landscapes</guid>
+            <pubDate>Sun, 07 Jun 2026 08:21:25 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/8ae97b31-2df9-4384-a037-146d0436cd74/Report_EG6W17_HR_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
