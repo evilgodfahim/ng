@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 09 Jun 2026 17:22:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jun 2026 20:02:29 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 09 Jun 2026 17:22:37 GMT</pubDate>
+        <pubDate>Tue, 09 Jun 2026 20:02:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[FDA approves first new sunscreen ingredient in nearly 20 years]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/8de00b5c-23c2-4dd6-aac2-0c24a3dba775/GettyImages-672898305_16x9.jpg" alt="FDA approves first new sunscreen ingredient in nearly 20 years" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/health/article/fda-new-sunscreen-ingrediant-bemotrizinol</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/health/article/fda-new-sunscreen-ingrediant-bemotrizinol</guid>
-            <pubDate>Tue, 09 Jun 2026 17:22:37 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/8de00b5c-23c2-4dd6-aac2-0c24a3dba775/GettyImages-672898305_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[NASA just announced the Artemis III crew]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/ee8ddf5a-783f-4620-929b-0e38a2da75b4/artemis-iii-crew_16x9.jpg" alt="NASA just announced the Artemis III crew" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/science/article/artemis-iii-crew-announced</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/artemis-iii-crew-announced</guid>
+            <pubDate>Tue, 09 Jun 2026 20:02:29 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/ee8ddf5a-783f-4620-929b-0e38a2da75b4/artemis-iii-crew_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
