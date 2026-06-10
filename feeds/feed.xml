@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 09 Jun 2026 20:02:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jun 2026 09:49:06 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 09 Jun 2026 20:02:29 GMT</pubDate>
+        <pubDate>Wed, 10 Jun 2026 09:49:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[NASA just announced the Artemis III crew]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/ee8ddf5a-783f-4620-929b-0e38a2da75b4/artemis-iii-crew_16x9.jpg" alt="NASA just announced the Artemis III crew" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/science/article/artemis-iii-crew-announced</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/artemis-iii-crew-announced</guid>
-            <pubDate>Tue, 09 Jun 2026 20:02:29 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/ee8ddf5a-783f-4620-929b-0e38a2da75b4/artemis-iii-crew_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Europe's best multi-day hikes you can do without camping]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/6d0d8f6e-378a-42c3-9adc-49f0d9f2c2d2/GettyImages-1289199147_16x9.jpg" alt="Europe's best multi-day hikes you can do without camping" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/europes-best-multi-day-hikes-you-can-do-without-camping</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/europes-best-multi-day-hikes-you-can-do-without-camping</guid>
+            <pubDate>Wed, 10 Jun 2026 09:49:06 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/6d0d8f6e-378a-42c3-9adc-49f0d9f2c2d2/GettyImages-1289199147_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
