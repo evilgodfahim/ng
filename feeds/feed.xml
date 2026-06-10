@@ -9,33 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 10 Jun 2026 12:52:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jun 2026 16:31:14 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 10 Jun 2026 12:52:03 GMT</pubDate>
+        <pubDate>Wed, 10 Jun 2026 16:31:14 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[California’s endangered condors have a surprising new foe]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/4438ed3f-3d87-4814-bb6f-678c44c5c768/SPI-2701911_16x9.jpg" alt="California’s endangered condors have a surprising new foe" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/animals/article/california-condors-lead-poisoning</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/california-condors-lead-poisoning</guid>
-            <pubDate>Wed, 10 Jun 2026 12:52:03 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/4438ed3f-3d87-4814-bb6f-678c44c5c768/SPI-2701911_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Giving koalas a new shot at survival]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/14d9190c-d9a7-4b52-863b-0115442758ce/MM8055B_111006_07790_16x9.jpg" alt="Giving koalas a new shot at survival" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/animals/article/koalas-chlamydia-photo-ark</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/koalas-chlamydia-photo-ark</guid>
-            <pubDate>Wed, 10 Jun 2026 12:52:03 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/14d9190c-d9a7-4b52-863b-0115442758ce/MM8055B_111006_07790_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Watch the night sky light up with fireflies in Bali]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/f34a6a7f-43ea-46de-8530-490019aaec5e/Bali_fireflies_16x9.jpg" alt="Watch the night sky light up with fireflies in Bali" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/taro-bali-fireflies-conservation-tour</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/taro-bali-fireflies-conservation-tour</guid>
-            <pubDate>Wed, 10 Jun 2026 12:52:03 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/f34a6a7f-43ea-46de-8530-490019aaec5e/Bali_fireflies_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Scientists discover a 5.3-million-year-old whale graveyard]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/70b68f5a-d471-4b24-aeb9-f5667a33c84f/cover_suggestion_16x9.jpg" alt="Scientists discover a 5.3-million-year-old whale graveyard" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/science/article/whale-graveyard-deep-sea-bones-fossils</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/whale-graveyard-deep-sea-bones-fossils</guid>
+            <pubDate>Wed, 10 Jun 2026 16:31:14 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/70b68f5a-d471-4b24-aeb9-f5667a33c84f/cover_suggestion_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
