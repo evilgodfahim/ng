@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 11 Jun 2026 16:49:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jun 2026 19:31:47 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 11 Jun 2026 16:49:17 GMT</pubDate>
+        <pubDate>Thu, 11 Jun 2026 19:31:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Go glamping off the grid at these solar-powered destinations]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/f50dcf71-2a58-401c-a398-698a1ad26d0d/Grand-Canyon-Milky-Way_16x9.jpg" alt="Go glamping off the grid at these solar-powered destinations" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/solar-powered-camping</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/solar-powered-camping</guid>
-            <pubDate>Thu, 11 Jun 2026 16:49:17 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/f50dcf71-2a58-401c-a398-698a1ad26d0d/Grand-Canyon-Milky-Way_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Earth’s fungal networks have been mapped in unprecedented detail]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/d41ed886-77ca-420d-bac7-9423c86be254/hyphal_map_16x9.jpg" alt="Earth’s fungal networks have been mapped in unprecedented detail" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/environment/article/arbuscular-mycorrhizal-fungi-networks-map</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/arbuscular-mycorrhizal-fungi-networks-map</guid>
+            <pubDate>Thu, 11 Jun 2026 19:31:47 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/d41ed886-77ca-420d-bac7-9423c86be254/hyphal_map_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
