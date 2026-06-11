@@ -9,33 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 11 Jun 2026 12:40:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jun 2026 16:49:17 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 11 Jun 2026 12:40:19 GMT</pubDate>
+        <pubDate>Thu, 11 Jun 2026 16:49:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Searching for one of the world’s most beautiful snakes]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/ee8e10e2-e7b0-4671-a17e-86135f6b01ae/STOCKPKG_MM10522_JDP_1573_16x9.jpg" alt="Searching for one of the world’s most beautiful snakes" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/animals/article/jade-palm-pit-viper-thalassinus-honduras</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/jade-palm-pit-viper-thalassinus-honduras</guid>
-            <pubDate>Thu, 11 Jun 2026 12:40:19 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/ee8e10e2-e7b0-4671-a17e-86135f6b01ae/STOCKPKG_MM10522_JDP_1573_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[What to know about the outbreak of flesh-eating flies in Texas]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/a9497fa6-27e2-4a34-b68f-b0026153ab47/h_21.00374363_16x9.jpg" alt="What to know about the outbreak of flesh-eating flies in Texas" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/animals/article/new-world-screwworm-parasitic-fly</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/new-world-screwworm-parasitic-fly</guid>
-            <pubDate>Thu, 11 Jun 2026 12:40:19 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/a9497fa6-27e2-4a34-b68f-b0026153ab47/h_21.00374363_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[How to spot these electric-blue clouds that form at the edge of space]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/3d5829d8-aa02-422b-96f3-524a3c926e70/AdobeStock_464068157_16x9.jpeg" alt="How to spot these electric-blue clouds that form at the edge of space" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/science/article/what-are-noctilucent-clouds</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/what-are-noctilucent-clouds</guid>
-            <pubDate>Thu, 11 Jun 2026 12:40:19 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/3d5829d8-aa02-422b-96f3-524a3c926e70/AdobeStock_464068157_16x9.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Go glamping off the grid at these solar-powered destinations]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/f50dcf71-2a58-401c-a398-698a1ad26d0d/Grand-Canyon-Milky-Way_16x9.jpg" alt="Go glamping off the grid at these solar-powered destinations" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/solar-powered-camping</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/solar-powered-camping</guid>
+            <pubDate>Thu, 11 Jun 2026 16:49:17 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/f50dcf71-2a58-401c-a398-698a1ad26d0d/Grand-Canyon-Milky-Way_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
