@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 11 Jun 2026 19:31:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jun 2026 08:19:41 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 11 Jun 2026 19:31:47 GMT</pubDate>
+        <pubDate>Fri, 12 Jun 2026 08:19:41 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Earth’s fungal networks have been mapped in unprecedented detail]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/d41ed886-77ca-420d-bac7-9423c86be254/hyphal_map_16x9.jpg" alt="Earth’s fungal networks have been mapped in unprecedented detail" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/environment/article/arbuscular-mycorrhizal-fungi-networks-map</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/arbuscular-mycorrhizal-fungi-networks-map</guid>
-            <pubDate>Thu, 11 Jun 2026 19:31:47 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/d41ed886-77ca-420d-bac7-9423c86be254/hyphal_map_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Discover Ohrid, one of Europe's oldest lakeside towns]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/17f189f3-40e6-4dac-b021-ab26be374e81/Lakes_3CXRJH2_HRC2_16x9.jpg" alt="Discover Ohrid, one of Europe's oldest lakeside towns" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/discover-ohrid-north-macedonia-one-of-europes-oldest-lakeside-towns</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/discover-ohrid-north-macedonia-one-of-europes-oldest-lakeside-towns</guid>
+            <pubDate>Fri, 12 Jun 2026 08:19:41 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/17f189f3-40e6-4dac-b021-ab26be374e81/Lakes_3CXRJH2_HRC2_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
