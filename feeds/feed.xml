@@ -9,17 +9,25 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 12 Jun 2026 08:19:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jun 2026 12:14:34 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 12 Jun 2026 08:19:41 GMT</pubDate>
+        <pubDate>Fri, 12 Jun 2026 12:14:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Discover Ohrid, one of Europe's oldest lakeside towns]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/17f189f3-40e6-4dac-b021-ab26be374e81/Lakes_3CXRJH2_HRC2_16x9.jpg" alt="Discover Ohrid, one of Europe's oldest lakeside towns" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/discover-ohrid-north-macedonia-one-of-europes-oldest-lakeside-towns</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/discover-ohrid-north-macedonia-one-of-europes-oldest-lakeside-towns</guid>
-            <pubDate>Fri, 12 Jun 2026 08:19:41 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/17f189f3-40e6-4dac-b021-ab26be374e81/Lakes_3CXRJH2_HRC2_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[The millennia-long battle to control Albania’s Sazan Island]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/940491d8-1f74-4df8-935a-c1db4b7782a6/AP698332432689_16x9.jpg" alt="The millennia-long battle to control Albania’s Sazan Island" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/sazan-island-history</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/sazan-island-history</guid>
+            <pubDate>Fri, 12 Jun 2026 12:14:34 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/940491d8-1f74-4df8-935a-c1db4b7782a6/AP698332432689_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why the heat index matters more than just the temperature]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/4c5894bf-9797-4828-8f16-59c09fe5e1aa/h_16049930_16x9.jpg" alt="Why the heat index matters more than just the temperature" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/environment/article/heat-index-humidity-temperature</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/heat-index-humidity-temperature</guid>
+            <pubDate>Fri, 12 Jun 2026 12:14:34 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/4c5894bf-9797-4828-8f16-59c09fe5e1aa/h_16049930_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
