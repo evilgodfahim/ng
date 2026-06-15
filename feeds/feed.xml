@@ -9,17 +9,65 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 15 Jun 2026 09:57:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jun 2026 15:46:19 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 15 Jun 2026 09:57:30 GMT</pubDate>
+        <pubDate>Mon, 15 Jun 2026 15:46:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[From Etna to Fuji—take on the world's most epic volcano hikes]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/efcf19ee-0d27-4b4b-a7b5-e6966c9b1ea3/Volcanoes_AWL_HMS4933632_HR_16x9.jpg" alt="From Etna to Fuji—take on the world's most epic volcano hikes" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/the-worlds-most-epic-volcano-hikes-from-etna-to-fuji-kilimanjaro</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/the-worlds-most-epic-volcano-hikes-from-etna-to-fuji-kilimanjaro</guid>
-            <pubDate>Mon, 15 Jun 2026 09:57:30 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/efcf19ee-0d27-4b4b-a7b5-e6966c9b1ea3/Volcanoes_AWL_HMS4933632_HR_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[How to ultrasound a 15-foot-wide giant mother manta]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/15dd110e-08f1-4553-ac4a-dfbf0ce8dea6/DSC08947_16x9.jpg" alt="How to ultrasound a 15-foot-wide giant mother manta" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/animals/article/manta-ultrasound</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/manta-ultrasound</guid>
+            <pubDate>Mon, 15 Jun 2026 15:46:19 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/15dd110e-08f1-4553-ac4a-dfbf0ce8dea6/DSC08947_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[How female dolphins know which males to avoid]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/55e1f86e-fef0-4186-81a1-419e5f4ea011/Shark_Bay_dolphin_simon_j_Allen_16x9.jpg" alt="How female dolphins know which males to avoid" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/animals/article/bottlenose-dolphins-female-response-male-whistle</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/bottlenose-dolphins-female-response-male-whistle</guid>
+            <pubDate>Mon, 15 Jun 2026 15:46:19 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/55e1f86e-fef0-4186-81a1-419e5f4ea011/Shark_Bay_dolphin_simon_j_Allen_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The forgotten female sculptor who confronted American slavery]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/0caf4566-711e-4ce0-8ba4-19ec45492346/NMAAHC-2020_10_5_001_O5_16x9.jpg" alt="The forgotten female sculptor who confronted American slavery" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/edmonia-lewis-exhibition-revives-american-artist</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/edmonia-lewis-exhibition-revives-american-artist</guid>
+            <pubDate>Mon, 15 Jun 2026 15:46:19 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/0caf4566-711e-4ce0-8ba4-19ec45492346/NMAAHC-2020_10_5_001_O5_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[A peek into the personal life of Charlemagne]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/4815c774-5607-4e59-beb5-5a84a1fada76/charl1_16x9.jpg" alt="A peek into the personal life of Charlemagne" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/charlemagne-ancient-roman-empire</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/charlemagne-ancient-roman-empire</guid>
+            <pubDate>Mon, 15 Jun 2026 15:46:19 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/4815c774-5607-4e59-beb5-5a84a1fada76/charl1_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[A culinary guide to the U.S.—based on each state’s favorite dish]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/67a63d27-5c50-4cef-b453-d6fa047fab8f/2R361WK_16x9.jpg" alt="A culinary guide to the U.S.—based on each state’s favorite dish" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/50-states-comfort-food</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/50-states-comfort-food</guid>
+            <pubDate>Mon, 15 Jun 2026 15:46:19 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/67a63d27-5c50-4cef-b453-d6fa047fab8f/2R361WK_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why existing vaccines won’t help this Ebola outbreak]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/003bac04-183e-4130-b8e2-15c6480dbaf7/GettyImages-2276752265_16x9.jpg" alt="Why existing vaccines won’t help this Ebola outbreak" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/health/article/ebola-vaccine-candidates-bundibugyo</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/health/article/ebola-vaccine-candidates-bundibugyo</guid>
+            <pubDate>Mon, 15 Jun 2026 15:46:19 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/003bac04-183e-4130-b8e2-15c6480dbaf7/GettyImages-2276752265_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why can’t you sleep?]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/66e002c2-f2ec-4fde-bb9d-aa968edf0dd0/troxel_wendy_25_16x9.jpg" alt="Why can’t you sleep?" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/health/article/wendy-troxel-reader-sleep-questions</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/health/article/wendy-troxel-reader-sleep-questions</guid>
+            <pubDate>Mon, 15 Jun 2026 15:46:19 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/66e002c2-f2ec-4fde-bb9d-aa968edf0dd0/troxel_wendy_25_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
