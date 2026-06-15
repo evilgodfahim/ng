@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 14 Jun 2026 19:18:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jun 2026 09:57:30 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 14 Jun 2026 19:18:28 GMT</pubDate>
+        <pubDate>Mon, 15 Jun 2026 09:57:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Wakhan corridor Exposure]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/a6e71793-0ca6-4e4a-933d-00860f9c4443/040_Paley_16x9.jpg" alt="Wakhan corridor Exposure" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/photography/article/wakhan-corridor-exposure</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/photography/article/wakhan-corridor-exposure</guid>
-            <pubDate>Sun, 14 Jun 2026 19:18:28 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/a6e71793-0ca6-4e4a-933d-00860f9c4443/040_Paley_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[From Etna to Fuji—take on the world's most epic volcano hikes]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/efcf19ee-0d27-4b4b-a7b5-e6966c9b1ea3/Volcanoes_AWL_HMS4933632_HR_16x9.jpg" alt="From Etna to Fuji—take on the world's most epic volcano hikes" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/the-worlds-most-epic-volcano-hikes-from-etna-to-fuji-kilimanjaro</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/the-worlds-most-epic-volcano-hikes-from-etna-to-fuji-kilimanjaro</guid>
+            <pubDate>Mon, 15 Jun 2026 09:57:30 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/efcf19ee-0d27-4b4b-a7b5-e6966c9b1ea3/Volcanoes_AWL_HMS4933632_HR_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
