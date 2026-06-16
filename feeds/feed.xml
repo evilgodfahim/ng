@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 16 Jun 2026 17:59:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jun 2026 21:09:47 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 16 Jun 2026 17:59:31 GMT</pubDate>
+        <pubDate>Tue, 16 Jun 2026 21:09:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Everything to know about Lassen Volcanic National Park]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/2cf3e190-200a-42e9-8978-b4f729dbd7ea/92944_16x9.jpg" alt="Everything to know about Lassen Volcanic National Park" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/national-parks/article/lassen-volcanic-national-park</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/national-parks/article/lassen-volcanic-national-park</guid>
-            <pubDate>Tue, 16 Jun 2026 17:59:31 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/2cf3e190-200a-42e9-8978-b4f729dbd7ea/92944_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Why we celebrate the end of slavery on Juneteenth]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/9bd3f48d-64e7-4999-b36c-659708e41578/02-juneteenth-update_16x9.jpg" alt="Why we celebrate the end of slavery on Juneteenth" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/culture/article/juneteenth</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/culture/article/juneteenth</guid>
+            <pubDate>Tue, 16 Jun 2026 21:09:47 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/9bd3f48d-64e7-4999-b36c-659708e41578/02-juneteenth-update_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
