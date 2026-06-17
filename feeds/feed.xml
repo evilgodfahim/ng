@@ -9,17 +9,49 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 16 Jun 2026 21:09:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jun 2026 12:51:25 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 16 Jun 2026 21:09:47 GMT</pubDate>
+        <pubDate>Wed, 17 Jun 2026 12:51:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Why we celebrate the end of slavery on Juneteenth]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/9bd3f48d-64e7-4999-b36c-659708e41578/02-juneteenth-update_16x9.jpg" alt="Why we celebrate the end of slavery on Juneteenth" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/culture/article/juneteenth</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/culture/article/juneteenth</guid>
-            <pubDate>Tue, 16 Jun 2026 21:09:47 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/9bd3f48d-64e7-4999-b36c-659708e41578/02-juneteenth-update_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[How Black Union soldiers made Juneteenth possible]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/0af1f279-963a-403c-b0eb-51077bc941da/165-JT-433B_001_16x9.jpg" alt="How Black Union soldiers made Juneteenth possible" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/juneteenth-black-soldiers</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/juneteenth-black-soldiers</guid>
+            <pubDate>Wed, 17 Jun 2026 12:51:25 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/0af1f279-963a-403c-b0eb-51077bc941da/165-JT-433B_001_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Where to travel in July]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/ee16fbbc-61ee-42e8-ac84-af77dbfbdd14/AWL_HMS3332126_france_16x9.jpg" alt="Where to travel in July" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/where-travel-july-best-destinations</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/where-travel-july-best-destinations</guid>
+            <pubDate>Wed, 17 Jun 2026 12:51:25 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/ee16fbbc-61ee-42e8-ac84-af77dbfbdd14/AWL_HMS3332126_france_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The essential guide to visiting Chicago]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/755ffe5d-3cd1-4f5b-9fc9-e834be52543b/SPI-2767503_16x9.jpg" alt="The essential guide to visiting Chicago" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/chicago-essential-travel-guide</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/chicago-essential-travel-guide</guid>
+            <pubDate>Wed, 17 Jun 2026 12:51:25 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/755ffe5d-3cd1-4f5b-9fc9-e834be52543b/SPI-2767503_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Glimpsing the future of fresh food]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/0c232a8d-4464-477f-a51f-561ec6c7355a/SpainPlasticSeaImagery2048px_16x9.jpg" alt="Glimpsing the future of fresh food" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/environment/article/spain-greenhouses-produce-food</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/spain-greenhouses-produce-food</guid>
+            <pubDate>Wed, 17 Jun 2026 12:51:25 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/0c232a8d-4464-477f-a51f-561ec6c7355a/SpainPlasticSeaImagery2048px_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Terror birds survived millions of years longer than thought]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/43947630-2f18-4581-ad00-6a2e21dd7956/Phorusrhacidae_Paisagem_V3_Clean_16x9.png" alt="Terror birds survived millions of years longer than thought" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/science/article/last-terror-bird</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/last-terror-bird</guid>
+            <pubDate>Wed, 17 Jun 2026 12:51:25 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/43947630-2f18-4581-ad00-6a2e21dd7956/Phorusrhacidae_Paisagem_V3_Clean_16x9.png" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
