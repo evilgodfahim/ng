@@ -9,25 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 17 Jun 2026 16:35:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jun 2026 21:55:54 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 17 Jun 2026 16:35:43 GMT</pubDate>
+        <pubDate>Wed, 17 Jun 2026 21:55:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Researchers record the first known noises from this prehistoric fish]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/25f86a03-47f6-4723-9973-1be90dd566c1/SPI-2690846_16x9.jpg" alt="Researchers record the first known noises from this prehistoric fish" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/animals/article/atlantic-sturgeon-thunder</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/atlantic-sturgeon-thunder</guid>
-            <pubDate>Wed, 17 Jun 2026 16:35:43 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/25f86a03-47f6-4723-9973-1be90dd566c1/SPI-2690846_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[25% Off All Subscriptions]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/e204ac76-621c-4c70-b4ed-7ef2acffb9e9/NGM-16140_600x800de_16x9.jpg" alt="25% Off All Subscriptions" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/subscribe/magazines?cmpid=int_org=ngp::int_src=ngp::int_cmp=a250::int_add=topnav</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/subscribe/magazines?cmpid=int_org=ngp::int_src=ngp::int_cmp=a250::int_add=topnav</guid>
-            <pubDate>Wed, 17 Jun 2026 16:35:43 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/e204ac76-621c-4c70-b4ed-7ef2acffb9e9/NGM-16140_600x800de_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[What is the summer solstice? Here’s what you need to know.]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/3f6aacfc-3070-4a3e-8f45-8695f2eef9c7/GettyImages-2158003129_16x9.jpg" alt="What is the summer solstice? Here’s what you need to know." style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/science/article/summer-solstice</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/summer-solstice</guid>
+            <pubDate>Wed, 17 Jun 2026 21:55:54 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/3f6aacfc-3070-4a3e-8f45-8695f2eef9c7/GettyImages-2158003129_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
