@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 17 Jun 2026 21:55:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jun 2026 23:20:19 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 17 Jun 2026 21:55:54 GMT</pubDate>
+        <pubDate>Wed, 17 Jun 2026 23:20:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[What is the summer solstice? Here’s what you need to know.]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/3f6aacfc-3070-4a3e-8f45-8695f2eef9c7/GettyImages-2158003129_16x9.jpg" alt="What is the summer solstice? Here’s what you need to know." style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/science/article/summer-solstice</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/summer-solstice</guid>
-            <pubDate>Wed, 17 Jun 2026 21:55:54 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/3f6aacfc-3070-4a3e-8f45-8695f2eef9c7/GettyImages-2158003129_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Did humans observe the solstice at this site before Stonehenge?]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/3b9f0fa7-2412-4598-b345-f32b9381d710/Phil-Harding-of-Wessex-Archaeology-atStonehenge_16x9.jpg" alt="Did humans observe the solstice at this site before Stonehenge?" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/stonehenge-solstice-alignment-bulford</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/stonehenge-solstice-alignment-bulford</guid>
+            <pubDate>Wed, 17 Jun 2026 23:20:19 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/3b9f0fa7-2412-4598-b345-f32b9381d710/Phil-Harding-of-Wessex-Archaeology-atStonehenge_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
