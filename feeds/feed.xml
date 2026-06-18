@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 17 Jun 2026 23:20:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jun 2026 08:40:36 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 17 Jun 2026 23:20:19 GMT</pubDate>
+        <pubDate>Thu, 18 Jun 2026 08:40:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Did humans observe the solstice at this site before Stonehenge?]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/3b9f0fa7-2412-4598-b345-f32b9381d710/Phil-Harding-of-Wessex-Archaeology-atStonehenge_16x9.jpg" alt="Did humans observe the solstice at this site before Stonehenge?" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/history/article/stonehenge-solstice-alignment-bulford</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/stonehenge-solstice-alignment-bulford</guid>
-            <pubDate>Wed, 17 Jun 2026 23:20:19 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/3b9f0fa7-2412-4598-b345-f32b9381d710/Phil-Harding-of-Wessex-Archaeology-atStonehenge_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[These European hikes are best reached by train]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/92a8380c-416c-4cbe-b329-12693a002486/GettyImages-Sussex-870506812_16x9.jpg" alt="These European hikes are best reached by train" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/europes-best-rail-to-trail-hikes</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/europes-best-rail-to-trail-hikes</guid>
+            <pubDate>Thu, 18 Jun 2026 08:40:36 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/92a8380c-416c-4cbe-b329-12693a002486/GettyImages-Sussex-870506812_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
