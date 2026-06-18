@@ -9,39 +9,25 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 18 Jun 2026 12:20:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jun 2026 16:24:51 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 18 Jun 2026 12:20:10 GMT</pubDate>
+        <pubDate>Thu, 18 Jun 2026 16:24:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[See rare footage of a great white shark—in the Mediterranean]]></title>
-            <link>https://www.nationalgeographic.com/animals/article/great-white-shark-video-mediterranean-sea</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/great-white-shark-video-mediterranean-sea</guid>
-            <pubDate>Thu, 18 Jun 2026 12:20:10 GMT</pubDate>
+            <title><![CDATA[These beaches are just a train ride away from NYC]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/b7a7ed51-c666-48a1-9c6b-0d32e3975359/shutterstock_2412369789_16x9.jpg" alt="These beaches are just a train ride away from NYC" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/weekend-getaway-beaches-nyc-new-york-city</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/weekend-getaway-beaches-nyc-new-york-city</guid>
+            <pubDate>Thu, 18 Jun 2026 16:24:51 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/b7a7ed51-c666-48a1-9c6b-0d32e3975359/shutterstock_2412369789_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[On the trail of the world’s best mummy sleuths]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/a9b01882-8b9a-4e15-bd39-38d91649e2cc/MM10483_260106_01678_16x9.jpg" alt="On the trail of the world’s best mummy sleuths" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/history/article/mummy-research-institute</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/mummy-research-institute</guid>
-            <pubDate>Thu, 18 Jun 2026 12:20:10 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/a9b01882-8b9a-4e15-bd39-38d91649e2cc/MM10483_260106_01678_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[It was the 'Italian Alcatraz'—now nature has reclaimed its space]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/a224f6ae-ba19-444d-8316-4a5ecfd6688e/shutterstock_2064001295_16x9.jpg" alt="It was the 'Italian Alcatraz'—now nature has reclaimed its space" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/asinara-national-park</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/asinara-national-park</guid>
-            <pubDate>Thu, 18 Jun 2026 12:20:10 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/a224f6ae-ba19-444d-8316-4a5ecfd6688e/shutterstock_2064001295_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Never-before-seen images from Nat Geo's epic Sahara road trip]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/5b2be359-bd68-4409-9e8b-53f289d80b1b/MzuriHiRes_11_16x9.jpg" alt="Never-before-seen images from Nat Geo's epic Sahara road trip" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/photography/article/george-rodger-mzuri-land-rover-photos</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/photography/article/george-rodger-mzuri-land-rover-photos</guid>
-            <pubDate>Thu, 18 Jun 2026 12:20:10 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/5b2be359-bd68-4409-9e8b-53f289d80b1b/MzuriHiRes_11_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[These Italian villages still make the world’s rarest pastas]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/e33fe22c-3df1-40b5-8bef-8153d7b26b0f/338A4050_16x9.jpg" alt="These Italian villages still make the world’s rarest pastas" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/rare-regional-pastas-italy</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/rare-regional-pastas-italy</guid>
+            <pubDate>Thu, 18 Jun 2026 16:24:51 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/e33fe22c-3df1-40b5-8bef-8153d7b26b0f/338A4050_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
