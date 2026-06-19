@@ -9,25 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 18 Jun 2026 16:24:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jun 2026 00:22:20 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 18 Jun 2026 16:24:51 GMT</pubDate>
+        <pubDate>Fri, 19 Jun 2026 00:22:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[These beaches are just a train ride away from NYC]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/b7a7ed51-c666-48a1-9c6b-0d32e3975359/shutterstock_2412369789_16x9.jpg" alt="These beaches are just a train ride away from NYC" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/weekend-getaway-beaches-nyc-new-york-city</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/weekend-getaway-beaches-nyc-new-york-city</guid>
-            <pubDate>Thu, 18 Jun 2026 16:24:51 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/b7a7ed51-c666-48a1-9c6b-0d32e3975359/shutterstock_2412369789_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[These Italian villages still make the world’s rarest pastas]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/e33fe22c-3df1-40b5-8bef-8153d7b26b0f/338A4050_16x9.jpg" alt="These Italian villages still make the world’s rarest pastas" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/rare-regional-pastas-italy</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/rare-regional-pastas-italy</guid>
-            <pubDate>Thu, 18 Jun 2026 16:24:51 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/e33fe22c-3df1-40b5-8bef-8153d7b26b0f/338A4050_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Solving one of humanity’s oldest ‘missing person’ cases]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/814f53a6-39bf-4b66-a347-7aee4340682e/IMG_5971_16x9.jpg" alt="Solving one of humanity’s oldest ‘missing person’ cases" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/newsletters/article/cave-painting-spain-stones-and-bones</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/newsletters/article/cave-painting-spain-stones-and-bones</guid>
+            <pubDate>Fri, 19 Jun 2026 00:22:20 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/814f53a6-39bf-4b66-a347-7aee4340682e/IMG_5971_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
