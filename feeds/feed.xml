@@ -9,17 +9,49 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 22 Jun 2026 09:44:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jun 2026 15:19:49 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 22 Jun 2026 09:44:13 GMT</pubDate>
+        <pubDate>Mon, 22 Jun 2026 15:19:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Europe's secret lakes—6 destinations without the crowds]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/39767537-44c5-4bfb-8dab-a78c0e7bf5fb/RSZLakes_175423-F014040-zelena_slovenija_ciril_jazbec_l1003346-photo-m_copy_HRP_16x9.jpg" alt="Europe's secret lakes—6 destinations without the crowds" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/best-lakes-in-europe-secret-destinations-without-the-crowds</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/best-lakes-in-europe-secret-destinations-without-the-crowds</guid>
-            <pubDate>Mon, 22 Jun 2026 09:44:13 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/39767537-44c5-4bfb-8dab-a78c0e7bf5fb/RSZLakes_175423-F014040-zelena_slovenija_ciril_jazbec_l1003346-photo-m_copy_HRP_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[The 24-hour hotline saving the world’s biggest freshwater fish]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/0b4cc6f1-9ebc-4cf2-8137-a5b5f156315f/IMG_4150_16x9.jpg" alt="The 24-hour hotline saving the world’s biggest freshwater fish" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/animals/article/rescue-hotline-saving-mekong-river-megafish</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/rescue-hotline-saving-mekong-river-megafish</guid>
+            <pubDate>Mon, 22 Jun 2026 15:19:49 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/0b4cc6f1-9ebc-4cf2-8137-a5b5f156315f/IMG_4150_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch artisans craft Nat Geo's enormous new handmade globe]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/9dc49f9a-4721-4350-9207-d47ba0f23018/frame_23767_16x9.jpg" alt="Watch artisans craft Nat Geo's enormous new handmade globe" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/culture/article/how-to-make-a-handmade-globe</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/culture/article/how-to-make-a-handmade-globe</guid>
+            <pubDate>Mon, 22 Jun 2026 15:19:49 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/9dc49f9a-4721-4350-9207-d47ba0f23018/frame_23767_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Shaker chair is iconic—these are the people who made it]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/511ba19c-6359-4723-82ee-a0a5cd90d219/shake2_16x9.jpg" alt="The Shaker chair is iconic—these are the people who made it" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/american-history-shaker-chairs</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/american-history-shaker-chairs</guid>
+            <pubDate>Mon, 22 Jun 2026 15:19:49 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/511ba19c-6359-4723-82ee-a0a5cd90d219/shake2_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Escape to the country]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/6241fca7-1cb4-49f5-8d17-e59fede8a363/e985c1fd-b7a1-492a-b9f0-137a8ba3c382_16x9.jpg" alt="Escape to the country" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/paid-content-escape-to-the-country</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/paid-content-escape-to-the-country</guid>
+            <pubDate>Mon, 22 Jun 2026 15:19:49 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/6241fca7-1cb4-49f5-8d17-e59fede8a363/e985c1fd-b7a1-492a-b9f0-137a8ba3c382_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[How cities are fighting back against the 'heat island effect']]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/f1164624-3e54-4a94-9998-19085b7ebebd/D76MCM_16x9.jpg" alt="How cities are fighting back against the 'heat island effect'" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/environment/article/urban-heat-island-effect-solutions</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/urban-heat-island-effect-solutions</guid>
+            <pubDate>Mon, 22 Jun 2026 15:19:49 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/f1164624-3e54-4a94-9998-19085b7ebebd/D76MCM_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
