@@ -9,17 +9,33 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 25 Jun 2026 08:52:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jun 2026 11:36:48 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 25 Jun 2026 08:52:51 GMT</pubDate>
+        <pubDate>Thu, 25 Jun 2026 11:36:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Heading to the Himalayas? Don’t skip Kathmandu]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/97d1e819-9591-4668-9160-eb0c89f76a19/RSZGettyImages2248307603_16x9.jpg" alt="Heading to the Himalayas? Don’t skip Kathmandu" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/a-guide-to-kathmandu-nepal-himalayas</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/a-guide-to-kathmandu-nepal-himalayas</guid>
-            <pubDate>Thu, 25 Jun 2026 08:52:51 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/97d1e819-9591-4668-9160-eb0c89f76a19/RSZGettyImages2248307603_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[5 Massachusetts towns that serve up a classic New England summer]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/c381c913-c4ce-4dd2-8f17-5851e068dab3/shutterstock_2427085603_16x9.jpg" alt="5 Massachusetts towns that serve up a classic New England summer" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/massachusetts-coastal-towns</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/massachusetts-coastal-towns</guid>
+            <pubDate>Thu, 25 Jun 2026 11:36:48 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/c381c913-c4ce-4dd2-8f17-5851e068dab3/shutterstock_2427085603_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[8 night sky events to see in July]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/3c8aed1e-ac5c-4b68-bb19-0f22c16d200b/GettyImages-2223881606_16x9.jpg" alt="8 night sky events to see in July" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/science/article/july-night-sky-events-2026</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/july-night-sky-events-2026</guid>
+            <pubDate>Thu, 25 Jun 2026 11:36:48 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/3c8aed1e-ac5c-4b68-bb19-0f22c16d200b/GettyImages-2223881606_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[A river crisis is unfolding in the American West]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/166ad909-0b35-4ffb-a446-d76f159e973b/GeographyOfHope_ElliotRoss_16_16x9.jpg" alt="A river crisis is unfolding in the American West" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/environment/article/colorado-river-drought-endangered-fish</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/colorado-river-drought-endangered-fish</guid>
+            <pubDate>Thu, 25 Jun 2026 11:36:48 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/166ad909-0b35-4ffb-a446-d76f159e973b/GeographyOfHope_ElliotRoss_16_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
