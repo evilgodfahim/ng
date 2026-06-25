@@ -9,17 +9,25 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 25 Jun 2026 17:08:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jun 2026 19:51:37 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 25 Jun 2026 17:08:26 GMT</pubDate>
+        <pubDate>Thu, 25 Jun 2026 19:51:37 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Following the footsteps of a radical explorer forgotten by history]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/3ad2071d-0f2f-4d60-8bce-ebf5b9ccaebc/2009.55_Johann_Reinhold_and_George_Forster_01-J_Rigaud_16x9.jpg" alt="Following the footsteps of a radical explorer forgotten by history" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/andrea-wulf-george-forster-explorer-human-rights</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/andrea-wulf-george-forster-explorer-human-rights</guid>
-            <pubDate>Thu, 25 Jun 2026 17:08:26 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/3ad2071d-0f2f-4d60-8bce-ebf5b9ccaebc/2009.55_Johann_Reinhold_and_George_Forster_01-J_Rigaud_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[What an ape’s laugh can teach us about human language]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/d6411c04-52cf-4d14-9a6f-4bc90230cf31/SPI-2506024_16x9.jpg" alt="What an ape’s laugh can teach us about human language" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/animals/article/apes-laugh-evolution</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/apes-laugh-evolution</guid>
+            <pubDate>Thu, 25 Jun 2026 19:51:37 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/d6411c04-52cf-4d14-9a6f-4bc90230cf31/SPI-2506024_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Uncovering Herculaneum’s haunting final moments]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/59b0b5ce-7e12-4280-9604-9c3933a9570b/SPI-110319_16x9.jpg" alt="Uncovering Herculaneum’s haunting final moments" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/mount-vesuvius-victims-herculaneum-archival</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/mount-vesuvius-victims-herculaneum-archival</guid>
+            <pubDate>Thu, 25 Jun 2026 19:51:37 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/59b0b5ce-7e12-4280-9604-9c3933a9570b/SPI-110319_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
