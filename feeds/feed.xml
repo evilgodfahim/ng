@@ -9,25 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 25 Jun 2026 19:51:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jun 2026 21:27:34 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 25 Jun 2026 19:51:37 GMT</pubDate>
+        <pubDate>Thu, 25 Jun 2026 21:27:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[What an ape’s laugh can teach us about human language]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/d6411c04-52cf-4d14-9a6f-4bc90230cf31/SPI-2506024_16x9.jpg" alt="What an ape’s laugh can teach us about human language" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/animals/article/apes-laugh-evolution</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/apes-laugh-evolution</guid>
-            <pubDate>Thu, 25 Jun 2026 19:51:37 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/d6411c04-52cf-4d14-9a6f-4bc90230cf31/SPI-2506024_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Uncovering Herculaneum’s haunting final moments]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/59b0b5ce-7e12-4280-9604-9c3933a9570b/SPI-110319_16x9.jpg" alt="Uncovering Herculaneum’s haunting final moments" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/history/article/mount-vesuvius-victims-herculaneum-archival</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/mount-vesuvius-victims-herculaneum-archival</guid>
-            <pubDate>Thu, 25 Jun 2026 19:51:37 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/59b0b5ce-7e12-4280-9604-9c3933a9570b/SPI-110319_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[How the Stonewall uprising ignited the pride movement]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/04d1c274-4822-43c7-9a7e-cc45400f4485/01-stonewall-update_16x9.jpg" alt="How the Stonewall uprising ignited the pride movement" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/stonewall-uprising-ignited-modern-lgbtq-rights-movement</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/stonewall-uprising-ignited-modern-lgbtq-rights-movement</guid>
+            <pubDate>Thu, 25 Jun 2026 21:27:34 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/04d1c274-4822-43c7-9a7e-cc45400f4485/01-stonewall-update_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
