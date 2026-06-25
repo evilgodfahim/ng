@@ -9,33 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 25 Jun 2026 11:36:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jun 2026 17:08:26 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 25 Jun 2026 11:36:48 GMT</pubDate>
+        <pubDate>Thu, 25 Jun 2026 17:08:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[5 Massachusetts towns that serve up a classic New England summer]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/c381c913-c4ce-4dd2-8f17-5851e068dab3/shutterstock_2427085603_16x9.jpg" alt="5 Massachusetts towns that serve up a classic New England summer" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/massachusetts-coastal-towns</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/massachusetts-coastal-towns</guid>
-            <pubDate>Thu, 25 Jun 2026 11:36:48 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/c381c913-c4ce-4dd2-8f17-5851e068dab3/shutterstock_2427085603_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[8 night sky events to see in July]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/3c8aed1e-ac5c-4b68-bb19-0f22c16d200b/GettyImages-2223881606_16x9.jpg" alt="8 night sky events to see in July" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/science/article/july-night-sky-events-2026</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/july-night-sky-events-2026</guid>
-            <pubDate>Thu, 25 Jun 2026 11:36:48 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/3c8aed1e-ac5c-4b68-bb19-0f22c16d200b/GettyImages-2223881606_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[A river crisis is unfolding in the American West]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/166ad909-0b35-4ffb-a446-d76f159e973b/GeographyOfHope_ElliotRoss_16_16x9.jpg" alt="A river crisis is unfolding in the American West" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/environment/article/colorado-river-drought-endangered-fish</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/colorado-river-drought-endangered-fish</guid>
-            <pubDate>Thu, 25 Jun 2026 11:36:48 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/166ad909-0b35-4ffb-a446-d76f159e973b/GeographyOfHope_ElliotRoss_16_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Following the footsteps of a radical explorer forgotten by history]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/3ad2071d-0f2f-4d60-8bce-ebf5b9ccaebc/2009.55_Johann_Reinhold_and_George_Forster_01-J_Rigaud_16x9.jpg" alt="Following the footsteps of a radical explorer forgotten by history" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/andrea-wulf-george-forster-explorer-human-rights</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/andrea-wulf-george-forster-explorer-human-rights</guid>
+            <pubDate>Thu, 25 Jun 2026 17:08:26 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/3ad2071d-0f2f-4d60-8bce-ebf5b9ccaebc/2009.55_Johann_Reinhold_and_George_Forster_01-J_Rigaud_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
