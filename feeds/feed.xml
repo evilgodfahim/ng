@@ -9,25 +9,33 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 26 Jun 2026 10:19:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jun 2026 13:07:13 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 26 Jun 2026 10:19:43 GMT</pubDate>
+        <pubDate>Fri, 26 Jun 2026 13:07:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Japan’s origin story can be found on this myth-filled island]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/f14db9ce-3790-4462-a14a-b3d9fb3f1219/AdobeStock_358814535_16x9.jpeg" alt="Japan’s origin story can be found on this myth-filled island" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/japan-kyushu-miyazaki-gods</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/japan-kyushu-miyazaki-gods</guid>
-            <pubDate>Fri, 26 Jun 2026 10:19:43 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/f14db9ce-3790-4462-a14a-b3d9fb3f1219/AdobeStock_358814535_16x9.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[The return of Argentina’s lost multicolored parrot]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/0871952c-1566-401d-a77c-efbba8b2169b/2HN16YP_16x9.jpg" alt="The return of Argentina’s lost multicolored parrot" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/animals/article/blue-winged-macaw-conservation-argentina</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/blue-winged-macaw-conservation-argentina</guid>
+            <pubDate>Fri, 26 Jun 2026 13:07:13 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/0871952c-1566-401d-a77c-efbba8b2169b/2HN16YP_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Embrace your inner cowboy with these equestrian experiences]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/1b3f4612-6c74-4129-9da7-8a78c7b59516/LMR_SUMMER-7566-LMR_3_16x9.jpg" alt="Embrace your inner cowboy with these equestrian experiences" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/best-horse-riding-equestrian-experiences-to-embrace-your-inner-cowboy</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/best-horse-riding-equestrian-experiences-to-embrace-your-inner-cowboy</guid>
-            <pubDate>Fri, 26 Jun 2026 10:19:43 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/1b3f4612-6c74-4129-9da7-8a78c7b59516/LMR_SUMMER-7566-LMR_3_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Enslaved people built the Roman Empire]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/041e2908-3180-4c73-bd39-c3ed4038c6bd/GettyImages-122220950_16x9.jpg" alt="Enslaved people built the Roman Empire" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/slaves-built-roman-empire-legacy</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/slaves-built-roman-empire-legacy</guid>
+            <pubDate>Fri, 26 Jun 2026 13:07:13 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/041e2908-3180-4c73-bd39-c3ed4038c6bd/GettyImages-122220950_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[This Spanish city is the best place to watch the 2026 total solar eclipse]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/c7a29ccc-18fd-4329-90c0-63e7f158ee95/1Valencia2026-ByDamonBeckford-16_16x9.jpg" alt="This Spanish city is the best place to watch the 2026 total solar eclipse" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/2026-solar-eclipse-spain</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/2026-solar-eclipse-spain</guid>
+            <pubDate>Fri, 26 Jun 2026 13:07:13 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/c7a29ccc-18fd-4329-90c0-63e7f158ee95/1Valencia2026-ByDamonBeckford-16_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
