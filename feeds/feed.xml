@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 26 Jun 2026 18:27:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jun 2026 20:43:07 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 26 Jun 2026 18:27:16 GMT</pubDate>
+        <pubDate>Fri, 26 Jun 2026 20:43:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Deaths from this cancer can now be virtually eliminated]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/f9404104-3072-40eb-a58e-452481d50627/GettyImages-1312005922_16x9.jpg" alt="Deaths from this cancer can now be virtually eliminated" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/health/article/cervical-cancer-hpv-vaccine-success</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/health/article/cervical-cancer-hpv-vaccine-success</guid>
-            <pubDate>Fri, 26 Jun 2026 18:27:16 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/f9404104-3072-40eb-a58e-452481d50627/GettyImages-1312005922_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[What is a heat dome? The science behind the weather phenomenon]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/17a78c7f-82ed-41f5-b3fd-7286a40cb931/h_15942431_16x9.jpg" alt="What is a heat dome? The science behind the weather phenomenon" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/environment/article/what-is-heat-dome</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/what-is-heat-dome</guid>
+            <pubDate>Fri, 26 Jun 2026 20:43:07 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/17a78c7f-82ed-41f5-b3fd-7286a40cb931/h_15942431_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
