@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 26 Jun 2026 20:43:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jun 2026 22:07:54 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 26 Jun 2026 20:43:07 GMT</pubDate>
+        <pubDate>Fri, 26 Jun 2026 22:07:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[What is a heat dome? The science behind the weather phenomenon]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/17a78c7f-82ed-41f5-b3fd-7286a40cb931/h_15942431_16x9.jpg" alt="What is a heat dome? The science behind the weather phenomenon" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/environment/article/what-is-heat-dome</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/what-is-heat-dome</guid>
-            <pubDate>Fri, 26 Jun 2026 20:43:07 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/17a78c7f-82ed-41f5-b3fd-7286a40cb931/h_15942431_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[In a first, scientists extract ancient human DNA from cave walls]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/dc94ab34-3b97-4e5c-a5f4-dcb4feba5b9f/Tebellin_Unpigmented_16x9.jpg" alt="In a first, scientists extract ancient human DNA from cave walls" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/ancient-dna-cave-walls-rock-art</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/ancient-dna-cave-walls-rock-art</guid>
+            <pubDate>Fri, 26 Jun 2026 22:07:54 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/dc94ab34-3b97-4e5c-a5f4-dcb4feba5b9f/Tebellin_Unpigmented_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
