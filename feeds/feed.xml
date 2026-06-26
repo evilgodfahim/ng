@@ -9,33 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 26 Jun 2026 13:07:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jun 2026 18:27:16 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 26 Jun 2026 13:07:13 GMT</pubDate>
+        <pubDate>Fri, 26 Jun 2026 18:27:16 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[The return of Argentina’s lost multicolored parrot]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/0871952c-1566-401d-a77c-efbba8b2169b/2HN16YP_16x9.jpg" alt="The return of Argentina’s lost multicolored parrot" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/animals/article/blue-winged-macaw-conservation-argentina</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/blue-winged-macaw-conservation-argentina</guid>
-            <pubDate>Fri, 26 Jun 2026 13:07:13 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/0871952c-1566-401d-a77c-efbba8b2169b/2HN16YP_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Enslaved people built the Roman Empire]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/041e2908-3180-4c73-bd39-c3ed4038c6bd/GettyImages-122220950_16x9.jpg" alt="Enslaved people built the Roman Empire" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/history/article/slaves-built-roman-empire-legacy</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/slaves-built-roman-empire-legacy</guid>
-            <pubDate>Fri, 26 Jun 2026 13:07:13 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/041e2908-3180-4c73-bd39-c3ed4038c6bd/GettyImages-122220950_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[This Spanish city is the best place to watch the 2026 total solar eclipse]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/c7a29ccc-18fd-4329-90c0-63e7f158ee95/1Valencia2026-ByDamonBeckford-16_16x9.jpg" alt="This Spanish city is the best place to watch the 2026 total solar eclipse" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/2026-solar-eclipse-spain</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/2026-solar-eclipse-spain</guid>
-            <pubDate>Fri, 26 Jun 2026 13:07:13 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/c7a29ccc-18fd-4329-90c0-63e7f158ee95/1Valencia2026-ByDamonBeckford-16_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Deaths from this cancer can now be virtually eliminated]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/f9404104-3072-40eb-a58e-452481d50627/GettyImages-1312005922_16x9.jpg" alt="Deaths from this cancer can now be virtually eliminated" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/health/article/cervical-cancer-hpv-vaccine-success</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/health/article/cervical-cancer-hpv-vaccine-success</guid>
+            <pubDate>Fri, 26 Jun 2026 18:27:16 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/f9404104-3072-40eb-a58e-452481d50627/GettyImages-1312005922_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
