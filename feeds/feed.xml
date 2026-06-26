@@ -9,17 +9,25 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 25 Jun 2026 21:27:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jun 2026 10:19:43 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 25 Jun 2026 21:27:34 GMT</pubDate>
+        <pubDate>Fri, 26 Jun 2026 10:19:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[How the Stonewall uprising ignited the pride movement]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/04d1c274-4822-43c7-9a7e-cc45400f4485/01-stonewall-update_16x9.jpg" alt="How the Stonewall uprising ignited the pride movement" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/history/article/stonewall-uprising-ignited-modern-lgbtq-rights-movement</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/stonewall-uprising-ignited-modern-lgbtq-rights-movement</guid>
-            <pubDate>Thu, 25 Jun 2026 21:27:34 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/04d1c274-4822-43c7-9a7e-cc45400f4485/01-stonewall-update_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Japan’s origin story can be found on this myth-filled island]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/f14db9ce-3790-4462-a14a-b3d9fb3f1219/AdobeStock_358814535_16x9.jpeg" alt="Japan’s origin story can be found on this myth-filled island" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/japan-kyushu-miyazaki-gods</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/japan-kyushu-miyazaki-gods</guid>
+            <pubDate>Fri, 26 Jun 2026 10:19:43 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/f14db9ce-3790-4462-a14a-b3d9fb3f1219/AdobeStock_358814535_16x9.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Embrace your inner cowboy with these equestrian experiences]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/1b3f4612-6c74-4129-9da7-8a78c7b59516/LMR_SUMMER-7566-LMR_3_16x9.jpg" alt="Embrace your inner cowboy with these equestrian experiences" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/best-horse-riding-equestrian-experiences-to-embrace-your-inner-cowboy</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/best-horse-riding-equestrian-experiences-to-embrace-your-inner-cowboy</guid>
+            <pubDate>Fri, 26 Jun 2026 10:19:43 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/1b3f4612-6c74-4129-9da7-8a78c7b59516/LMR_SUMMER-7566-LMR_3_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
