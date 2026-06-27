@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 27 Jun 2026 10:00:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jun 2026 16:01:01 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 27 Jun 2026 10:00:59 GMT</pubDate>
+        <pubDate>Sat, 27 Jun 2026 16:01:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Visit this secret Slovenian lake for a quiet summer break]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/b955eb5d-19bd-494a-ad15-d3d6d418577a/Lakes_BJ568Y_HR_16x9.jpg" alt="Visit this secret Slovenian lake for a quiet summer break" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/visit-lake-bohinj-slovenias-secret-lake-for-a-quiet-summer-break</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/visit-lake-bohinj-slovenias-secret-lake-for-a-quiet-summer-break</guid>
-            <pubDate>Sat, 27 Jun 2026 10:00:59 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/b955eb5d-19bd-494a-ad15-d3d6d418577a/Lakes_BJ568Y_HR_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Q&A: CEO Jill Tiefenthaler on the Society's next evolution]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/b07cbf12-41f8-4323-97ee-648443a3a389/Jill_Tiefenthaler_20250429_0084_Rebecca_Hale_16x9.jpg" alt="Q&A: CEO Jill Tiefenthaler on the Society's next evolution" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/impact/article/museum-of-exploration-jill-tiefenthaler-q-a</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/impact/article/museum-of-exploration-jill-tiefenthaler-q-a</guid>
+            <pubDate>Sat, 27 Jun 2026 16:01:01 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/b07cbf12-41f8-4323-97ee-648443a3a389/Jill_Tiefenthaler_20250429_0084_Rebecca_Hale_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
