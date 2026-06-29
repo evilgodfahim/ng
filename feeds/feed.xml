@@ -9,17 +9,39 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 29 Jun 2026 08:11:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jun 2026 13:02:10 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 29 Jun 2026 08:11:57 GMT</pubDate>
+        <pubDate>Mon, 29 Jun 2026 13:02:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Join the world’s coolest science lesson in Geneva]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/0f62b8f0-ab2e-4cf8-883c-5d09265904f9/CERN_16x9.jpg" alt="Join the world’s coolest science lesson in Geneva" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/cern-tour-geneva-switzerland-worlds-coolest-science-lesson</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/cern-tour-geneva-switzerland-worlds-coolest-science-lesson</guid>
-            <pubDate>Mon, 29 Jun 2026 08:11:57 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/0f62b8f0-ab2e-4cf8-883c-5d09265904f9/CERN_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[The ancient Maya may have had sophisticated dentists]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/7663d2f2-63ea-47f6-a8ac-1b5213cd7188/mayanteeth_16x9.jpeg" alt="The ancient Maya may have had sophisticated dentists" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/ancient-maya-teeth-jade-dentistry</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/ancient-maya-teeth-jade-dentistry</guid>
+            <pubDate>Mon, 29 Jun 2026 13:02:10 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/7663d2f2-63ea-47f6-a8ac-1b5213cd7188/mayanteeth_16x9.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Was Molly Pitcher a real person?]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/b84b1c99-4eed-4b0b-aa96-82ce5e2eb694/BAL_2204345_16x9.jpg" alt="Was Molly Pitcher a real person?" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/molly-pitcher-american-revolutionary-war</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/molly-pitcher-american-revolutionary-war</guid>
+            <pubDate>Mon, 29 Jun 2026 13:02:10 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/b84b1c99-4eed-4b0b-aa96-82ce5e2eb694/BAL_2204345_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[What Homer’s Odyssey tells us about ancient Greek colonization]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/d34e218e-683f-411b-b33e-4bcde4786538/od3_16x9.jpg" alt="What Homer’s Odyssey tells us about ancient Greek colonization" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/the-odyssey-odysseus-journey</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/the-odyssey-odysseus-journey</guid>
+            <pubDate>Mon, 29 Jun 2026 13:02:10 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/d34e218e-683f-411b-b33e-4bcde4786538/od3_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[What this feathered ‘dino-stork’ can tell us about the last days of the dinosaurs]]></title>
+            <link>https://www.nationalgeographic.com/history/article/kank-australis-stones-and-bones</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/kank-australis-stones-and-bones</guid>
+            <pubDate>Mon, 29 Jun 2026 13:02:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
