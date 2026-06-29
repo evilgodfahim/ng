@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 28 Jun 2026 10:23:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jun 2026 08:11:57 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 28 Jun 2026 10:23:33 GMT</pubDate>
+        <pubDate>Mon, 29 Jun 2026 08:11:57 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[10 European food festivals you won't want to miss this summer]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/1bb84fd2-959f-4d80-9110-03eafd7113e6/RSZappeltavla2025stor_16x9.jpg" alt="10 European food festivals you won't want to miss this summer" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/best-summer-food-festivals-europe</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/best-summer-food-festivals-europe</guid>
-            <pubDate>Sun, 28 Jun 2026 10:23:33 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/1bb84fd2-959f-4d80-9110-03eafd7113e6/RSZappeltavla2025stor_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Join the world’s coolest science lesson in Geneva]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/0f62b8f0-ab2e-4cf8-883c-5d09265904f9/CERN_16x9.jpg" alt="Join the world’s coolest science lesson in Geneva" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/cern-tour-geneva-switzerland-worlds-coolest-science-lesson</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/cern-tour-geneva-switzerland-worlds-coolest-science-lesson</guid>
+            <pubDate>Mon, 29 Jun 2026 08:11:57 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/0f62b8f0-ab2e-4cf8-883c-5d09265904f9/CERN_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
