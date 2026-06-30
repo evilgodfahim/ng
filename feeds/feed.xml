@@ -9,17 +9,15 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 29 Jun 2026 19:02:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jun 2026 04:00:28 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 29 Jun 2026 19:02:20 GMT</pubDate>
+        <pubDate>Tue, 30 Jun 2026 04:00:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[It’s possible to reverse diabetes—and even faster than you think]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/c741a967-9901-471a-a46d-89eea11895ff/h_15.00100867_16x9.jpg" alt="It’s possible to reverse diabetes—and even faster than you think" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/science/article/type-2-diabetes-reversible-diet-exercise</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/type-2-diabetes-reversible-diet-exercise</guid>
-            <pubDate>Mon, 29 Jun 2026 19:02:20 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/c741a967-9901-471a-a46d-89eea11895ff/h_15.00100867_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Linda Marsa]]></title>
+            <link>https://www.nationalgeographic.com/health/article/linda-marsa</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/health/article/linda-marsa</guid>
+            <pubDate>Tue, 30 Jun 2026 04:00:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
