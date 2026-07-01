@@ -9,17 +9,33 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 30 Jun 2026 17:01:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jul 2026 11:19:36 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 30 Jun 2026 17:01:42 GMT</pubDate>
+        <pubDate>Wed, 01 Jul 2026 11:19:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Local catch is back on the menu at these U.K. coastal towns]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/15a82f0b-dd20-40ed-a8db-ee8125fcd90d/Angelas_Hake_mussels_bisque_16x9.jpg" alt="Local catch is back on the menu at these U.K. coastal towns" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/best-restaurants-to-try-local-seafood-in-uk-making-a-comeback</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/best-restaurants-to-try-local-seafood-in-uk-making-a-comeback</guid>
-            <pubDate>Tue, 30 Jun 2026 17:01:42 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/15a82f0b-dd20-40ed-a8db-ee8125fcd90d/Angelas_Hake_mussels_bisque_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Why fireworks can be a death sentence for wildlife]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/5805a8a4-1304-443b-b058-082a61a8b013/AdobeStock_1660681698_16x9.jpeg" alt="Why fireworks can be a death sentence for wildlife" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/animals/article/fireworks-danger-wildlife</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/fireworks-danger-wildlife</guid>
+            <pubDate>Wed, 01 Jul 2026 11:19:36 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/5805a8a4-1304-443b-b058-082a61a8b013/AdobeStock_1660681698_16x9.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The best ways to explore America’s national parks at night]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/b273688a-cdb9-48f1-96f2-157e933400df/SPI-2322270_16x9.jpg" alt="The best ways to explore America’s national parks at night" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/national-parks-activities-after-dark</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/national-parks-activities-after-dark</guid>
+            <pubDate>Wed, 01 Jul 2026 11:19:36 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/b273688a-cdb9-48f1-96f2-157e933400df/SPI-2322270_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[9 of the best hotels in Barcelona]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/80f75cb6-36a2-45b6-8e82-78038d5a8a62/TG_wheretostay_BRUMMELL_EXT_H-12_cr_CoralSolari_ukHR_16x9.jpg" alt="9 of the best hotels in Barcelona" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/best-hotels-in-barcelona</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/best-hotels-in-barcelona</guid>
+            <pubDate>Wed, 01 Jul 2026 11:19:36 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/80f75cb6-36a2-45b6-8e82-78038d5a8a62/TG_wheretostay_BRUMMELL_EXT_H-12_cr_CoralSolari_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
