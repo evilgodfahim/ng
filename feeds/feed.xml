@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Jul 2026 17:09:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jul 2026 09:57:30 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Jul 2026 17:09:36 GMT</pubDate>
+        <pubDate>Thu, 02 Jul 2026 09:57:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[This frozen vault is a time capsule for Earth’s last glaciers]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/66d3958a-8b91-46ad-aa37-3adbf63e91f6/5_Ice_Cave_Ice_Memory%20Sanctuary_R_Ascione_ENEA_PRNA_IPEV_16x9.jpg" alt="This frozen vault is a time capsule for Earth’s last glaciers" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/environment/article/ice-core-sanctuary-vault-melting-glaciers-antarctica</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/ice-core-sanctuary-vault-melting-glaciers-antarctica</guid>
-            <pubDate>Wed, 01 Jul 2026 17:09:36 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/66d3958a-8b91-46ad-aa37-3adbf63e91f6/5_Ice_Cave_Ice_Memory%20Sanctuary_R_Ascione_ENEA_PRNA_IPEV_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[How to travel around South Korea by train]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/4630a539-3fc3-4b31-b070-9bf8b9fb4474/RSZsk3_16x9.jpg" alt="How to travel around South Korea by train" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/how-to-travel-around-south-korea-by-train</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/how-to-travel-around-south-korea-by-train</guid>
+            <pubDate>Thu, 02 Jul 2026 09:57:30 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/4630a539-3fc3-4b31-b070-9bf8b9fb4474/RSZsk3_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
