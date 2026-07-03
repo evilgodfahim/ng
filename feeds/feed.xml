@@ -9,17 +9,41 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Jul 2026 10:37:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jul 2026 12:53:22 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Jul 2026 10:37:57 GMT</pubDate>
+        <pubDate>Fri, 03 Jul 2026 12:53:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Heading to Nashville? Here's where the locals hang out]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/507a8425-6b3d-4ee5-926a-07defddc8f5a/RSZTE_whenin_1F4A0879_ukHR_16x9.jpg" alt="Heading to Nashville? Here's where the locals hang out" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/heres-where-the-locals-hang-out-in-nashville</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/heres-where-the-locals-hang-out-in-nashville</guid>
-            <pubDate>Fri, 03 Jul 2026 10:37:57 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/507a8425-6b3d-4ee5-926a-07defddc8f5a/RSZTE_whenin_1F4A0879_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Can we save the hammerhead shark from extinction?]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/4df520ed-554b-437c-aced-a779d357cf42/SPI-2728256_16x9.jpg" alt="Can we save the hammerhead shark from extinction?" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/animals/article/sharks-up-close-hammerhead-overfishing-protections</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/sharks-up-close-hammerhead-overfishing-protections</guid>
+            <pubDate>Fri, 03 Jul 2026 12:53:22 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/4df520ed-554b-437c-aced-a779d357cf42/SPI-2728256_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[What it’s like to stay in a hanok hotel in the heart of Seoul]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/b8e340f7-a546-46fc-8ad3-94a934a59daa/h_00000220139560_16x9.jpg" alt="What it’s like to stay in a hanok hotel in the heart of Seoul" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/hotel-profile-nostalgia-hotel-seoul</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/hotel-profile-nostalgia-hotel-seoul</guid>
+            <pubDate>Fri, 03 Jul 2026 12:53:22 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/b8e340f7-a546-46fc-8ad3-94a934a59daa/h_00000220139560_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[A smile isn't just contagious—it may change who you trust]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/c9aac79f-f629-431a-8d2c-db57fa3ae98d/AdobeStock_417828981_16x9.jpeg" alt="A smile isn't just contagious—it may change who you trust" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/health/article/science-of-smiling-and-trust</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/health/article/science-of-smiling-and-trust</guid>
+            <pubDate>Fri, 03 Jul 2026 12:53:22 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/c9aac79f-f629-431a-8d2c-db57fa3ae98d/AdobeStock_417828981_16x9.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Some remarkable pictures that wowed Nat Geo's photo editors]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/dbadea8f-6040-47b1-bd88-505792fa3ab5/SNOW_HORSE_16x9.jpg" alt="Some remarkable pictures that wowed Nat Geo's photo editors" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/photography/article/photo-of-the-day-june-2026-jellyfish-hidden-gecko-spring-snow</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/photography/article/photo-of-the-day-june-2026-jellyfish-hidden-gecko-spring-snow</guid>
+            <pubDate>Fri, 03 Jul 2026 12:53:22 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/dbadea8f-6040-47b1-bd88-505792fa3ab5/SNOW_HORSE_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
