@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Jul 2026 19:11:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jul 2026 06:43:43 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Jul 2026 19:11:43 GMT</pubDate>
+        <pubDate>Sat, 04 Jul 2026 06:43:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Our ancient ‘hobbit’ cousins ate dragon leftovers]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/f8e876f5-96ad-400a-ae82-4dc7ec338082/SPI-957328_16x9.jpg" alt="Our ancient ‘hobbit’ cousins ate dragon leftovers" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/science/article/hobbit-homo-floresiensis-hunting-dragons</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/hobbit-homo-floresiensis-hunting-dragons</guid>
-            <pubDate>Fri, 03 Jul 2026 19:11:43 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/f8e876f5-96ad-400a-ae82-4dc7ec338082/SPI-957328_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Where to find the best Turkish delight in Istanbul]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/928b6a85-2a6c-486d-9697-65416f66be1b/webedit-hacibekir-products-007_16x9.jpg" alt="Where to find the best Turkish delight in Istanbul" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/where-to-find-the-best-turkish-delight-lokum-in-istanbul</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/where-to-find-the-best-turkish-delight-lokum-in-istanbul</guid>
+            <pubDate>Sat, 04 Jul 2026 06:43:43 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/928b6a85-2a6c-486d-9697-65416f66be1b/webedit-hacibekir-products-007_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
