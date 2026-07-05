@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 04 Jul 2026 20:06:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jul 2026 10:06:39 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 04 Jul 2026 20:06:42 GMT</pubDate>
+        <pubDate>Sun, 05 Jul 2026 10:06:39 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Artemis crew share touching story in never-before-seen video]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/d869d098-3f4a-4f9c-a437-8346aeb7bc3b/art002e050818_16x9.jpg" alt="Artemis crew share touching story in never-before-seen video" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/science/article/artemis-ii-astronauts-moon-crater-reid-wiseman-jeremy-hansen-video</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/artemis-ii-astronauts-moon-crater-reid-wiseman-jeremy-hansen-video</guid>
-            <pubDate>Sat, 04 Jul 2026 20:06:42 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/d869d098-3f4a-4f9c-a437-8346aeb7bc3b/art002e050818_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Ready for a new adventure? Try sand sailing in Belgium]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/4dd562d2-f251-4443-9dd6-271b77c14d01/RSZ4_16x9.jpg" alt="Ready for a new adventure? Try sand sailing in Belgium" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/ready-for-a-new-adventure-try-sand-sailing-in-belgium</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/ready-for-a-new-adventure-try-sand-sailing-in-belgium</guid>
+            <pubDate>Sun, 05 Jul 2026 10:06:39 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/4dd562d2-f251-4443-9dd6-271b77c14d01/RSZ4_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
