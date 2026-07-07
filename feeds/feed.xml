@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Jul 2026 19:49:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jul 2026 10:22:11 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 06 Jul 2026 19:49:15 GMT</pubDate>
+        <pubDate>Tue, 07 Jul 2026 10:22:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[The eccentric pharaoh and the ‘Wikileaks of the Bronze Age’]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/807a5297-4dc5-4a9a-ac07-71c8f6788481/SPI-1400278_16x9.jpg" alt="The eccentric pharaoh and the ‘Wikileaks of the Bronze Age’" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/newsletters/article/stones-bones-eccentric-pharaoh-wikileaks-bronze-age</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/newsletters/article/stones-bones-eccentric-pharaoh-wikileaks-bronze-age</guid>
-            <pubDate>Mon, 06 Jul 2026 19:49:15 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/807a5297-4dc5-4a9a-ac07-71c8f6788481/SPI-1400278_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[In search of New Zealand's most mysterious penguin]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/404eb838-aaf6-4e18-bb34-0afd64956efd/RSZSpecialInterest_DSC02192_HRTN_16x9.jpg" alt="In search of New Zealand's most mysterious penguin" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/in-search-of-new-zealands-most-mysterious-penguin</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/in-search-of-new-zealands-most-mysterious-penguin</guid>
+            <pubDate>Tue, 07 Jul 2026 10:22:11 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/404eb838-aaf6-4e18-bb34-0afd64956efd/RSZSpecialInterest_DSC02192_HRTN_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
