@@ -9,25 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Jul 2026 13:15:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jul 2026 16:25:41 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Jul 2026 13:15:30 GMT</pubDate>
+        <pubDate>Tue, 07 Jul 2026 16:25:41 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Who dragged this colossal statue of Ramses II across the desert?]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/16a6ded8-df57-437e-9e01-372456c5b023/2_16x9.jpeg" alt="Who dragged this colossal statue of Ramses II across the desert?" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/history/article/ramses-ii-statue-dragged</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/ramses-ii-statue-dragged</guid>
-            <pubDate>Tue, 07 Jul 2026 13:15:30 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/16a6ded8-df57-437e-9e01-372456c5b023/2_16x9.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Henry Hudson faced a brutal mutiny—then disappeared]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/eec4660e-49df-4a4b-999c-74261bc731c2/BAL_8672568_16x9.jpg" alt="Henry Hudson faced a brutal mutiny—then disappeared" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/history/article/henry-hudson-mutiny-fate</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/henry-hudson-mutiny-fate</guid>
-            <pubDate>Tue, 07 Jul 2026 13:15:30 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/eec4660e-49df-4a4b-999c-74261bc731c2/BAL_8672568_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[The extraordinary life and quiet death of the world’s largest iceberg]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/096a1b4b-3048-439f-abe0-f5fdcd019d96/GettyImages-2177158292_16x9.jpg" alt="The extraordinary life and quiet death of the world’s largest iceberg" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/environment/article/the-extraordinary-life-and-quiet-death-of-the-worlds-largest-iceberg</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/the-extraordinary-life-and-quiet-death-of-the-worlds-largest-iceberg</guid>
+            <pubDate>Tue, 07 Jul 2026 16:25:41 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/096a1b4b-3048-439f-abe0-f5fdcd019d96/GettyImages-2177158292_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
