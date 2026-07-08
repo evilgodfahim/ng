@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Jul 2026 23:54:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jul 2026 08:18:06 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Jul 2026 23:54:36 GMT</pubDate>
+        <pubDate>Wed, 08 Jul 2026 08:18:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[What is a mountain? Here’s how they form]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/0f834703-1676-4d46-87fb-8824871ca37b/1110_16x9.jpg" alt="What is a mountain? Here’s how they form" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/science/article/mountains</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/mountains</guid>
-            <pubDate>Tue, 07 Jul 2026 23:54:36 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/0f834703-1676-4d46-87fb-8824871ca37b/1110_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Cool off this summer with Europe's favourite spritzes]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/5b0c88db-3928-4fec-b103-78e96f327dde/GettyImages-539121958_16x9.jpg" alt="Cool off this summer with Europe's favourite spritzes" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/best-spritzes-to-try-across-europe-in-summer-aperol-campari-hugo</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/best-spritzes-to-try-across-europe-in-summer-aperol-campari-hugo</guid>
+            <pubDate>Wed, 08 Jul 2026 08:18:06 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/5b0c88db-3928-4fec-b103-78e96f327dde/GettyImages-539121958_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
