@@ -9,49 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Jul 2026 12:25:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jul 2026 15:15:16 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 08 Jul 2026 12:25:49 GMT</pubDate>
+        <pubDate>Wed, 08 Jul 2026 15:15:16 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[These scientists want to create a shark ‘forecast’]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/83add367-703e-4775-86d1-c791d6a66cd4/GettyImages-2258101032_16x9.jpg" alt="These scientists want to create a shark ‘forecast’" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/animals/article/shark-swimming-beach-forecast-conservation</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/shark-swimming-beach-forecast-conservation</guid>
-            <pubDate>Wed, 08 Jul 2026 12:25:49 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/83add367-703e-4775-86d1-c791d6a66cd4/GettyImages-2258101032_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[53 hours: Inside the largest cheetah relocation ever attempted]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/cd20e473-e5aa-49bd-9b2d-cdedb53792e5/CHEETAHS_OCTOBER_24-13_16x9.jpg" alt="53 hours: Inside the largest cheetah relocation ever attempted" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/animals/article/cheetah-translocation-mozambique</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/cheetah-translocation-mozambique</guid>
-            <pubDate>Wed, 08 Jul 2026 12:25:49 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/cd20e473-e5aa-49bd-9b2d-cdedb53792e5/CHEETAHS_OCTOBER_24-13_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[700-year-old ‘Etch A Sketch’ found in a medieval toilet]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/44b02e18-93fe-4d3a-88ab-76f0f3110f98/112598_16x9.jpg" alt="700-year-old ‘Etch A Sketch’ found in a medieval toilet" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/history/article/medieval-toilet-notebook</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/medieval-toilet-notebook</guid>
-            <pubDate>Wed, 08 Jul 2026 12:25:49 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/44b02e18-93fe-4d3a-88ab-76f0f3110f98/112598_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Can these new tools help recover families erased by slavery?]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/d53a5adb-79ac-4877-8caf-926cee485daf/BAL_3286569_16x9.jpg" alt="Can these new tools help recover families erased by slavery?" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/history/article/tracing-caribbean-ancestors-through-slavery-records</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/tracing-caribbean-ancestors-through-slavery-records</guid>
-            <pubDate>Wed, 08 Jul 2026 12:25:49 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/d53a5adb-79ac-4877-8caf-926cee485daf/BAL_3286569_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Everything to know about Kenai Fjords National Park]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/81253719-05cc-423d-b13f-33f9c2ed89a6/GettyImages-523837768%202_16x9.jpg" alt="Everything to know about Kenai Fjords National Park" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/national-parks/article/kenai-fjords-national-park</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/national-parks/article/kenai-fjords-national-park</guid>
-            <pubDate>Wed, 08 Jul 2026 12:25:49 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/81253719-05cc-423d-b13f-33f9c2ed89a6/GettyImages-523837768%202_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Mapping how the U.S. forcibly took Indigenous lands]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/66ec18b9-c3f7-4f2c-a350-527655845d28/ind9_16x9.jpg" alt="Mapping how the U.S. forcibly took Indigenous lands" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/native-american-history-indigenous-lands</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/native-american-history-indigenous-lands</guid>
+            <pubDate>Wed, 08 Jul 2026 15:15:16 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/66ec18b9-c3f7-4f2c-a350-527655845d28/ind9_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
