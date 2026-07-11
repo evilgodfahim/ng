@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Jul 2026 16:21:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jul 2026 10:59:10 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 10 Jul 2026 16:21:47 GMT</pubDate>
+        <pubDate>Sat, 11 Jul 2026 10:59:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[This Costa Rican paradise is an underrated summer destination]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/6ba36d33-7748-451a-b859-5a2ddad795f8/Stocksy_unlicensed_comp_5427946_16x9.jpg" alt="This Costa Rican paradise is an underrated summer destination" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/guanacaste-costa-rica-green-season</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/guanacaste-costa-rica-green-season</guid>
-            <pubDate>Fri, 10 Jul 2026 16:21:47 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/6ba36d33-7748-451a-b859-5a2ddad795f8/Stocksy_unlicensed_comp_5427946_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[How to experience k-hiking in the heart of Seoul]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/cfeb1a0e-fe9c-4c90-a884-d35e8d44cabd/korearoute_16x9.jpg" alt="How to experience k-hiking in the heart of Seoul" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/best-place-to-experience-south-koreas-k-hiking-seouls-urban-mountains</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/best-place-to-experience-south-koreas-k-hiking-seouls-urban-mountains</guid>
+            <pubDate>Sat, 11 Jul 2026 10:59:10 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/cfeb1a0e-fe9c-4c90-a884-d35e8d44cabd/korearoute_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
