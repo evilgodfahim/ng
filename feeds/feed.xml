@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 12 Jul 2026 10:22:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jul 2026 10:19:59 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 12 Jul 2026 10:22:22 GMT</pubDate>
+        <pubDate>Mon, 13 Jul 2026 10:19:59 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Try Europe’s best city-to-swim rail trips this summer]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/c3281a1a-87ef-44ab-a8e3-326192591cb9/swimbridge_16x9.jpg" alt="Try Europe’s best city-to-swim rail trips this summer" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/best-city-to-wild-swim-rail-trips-europe-summer</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/best-city-to-wild-swim-rail-trips-europe-summer</guid>
-            <pubDate>Sun, 12 Jul 2026 10:22:22 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/c3281a1a-87ef-44ab-a8e3-326192591cb9/swimbridge_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Find a pint at the edge of the map in these remote pubs]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/ae9e94e4-696a-4ab5-a84c-78e66f885965/tanhillinn_16x9.jpg" alt="Find a pint at the edge of the map in these remote pubs" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/go-to-the-uk-irelands-most-remote-pubs</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/go-to-the-uk-irelands-most-remote-pubs</guid>
+            <pubDate>Mon, 13 Jul 2026 10:19:59 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/ae9e94e4-696a-4ab5-a84c-78e66f885965/tanhillinn_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
