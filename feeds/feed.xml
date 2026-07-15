@@ -9,17 +9,25 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Jul 2026 09:56:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jul 2026 11:27:29 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 15 Jul 2026 09:56:59 GMT</pubDate>
+        <pubDate>Wed, 15 Jul 2026 11:27:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Surfing in Edinburgh? How to catch a wave in the Scottish capital]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/b21ac6d9-9a35-451b-b451-62317e2873c5/RSZsurf1L_16x9.jpg" alt="Surfing in Edinburgh? How to catch a wave in the Scottish capital" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/where-to-go-surfing-in-edinburgh-scotland</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/where-to-go-surfing-in-edinburgh-scotland</guid>
-            <pubDate>Wed, 15 Jul 2026 09:56:59 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/b21ac6d9-9a35-451b-b451-62317e2873c5/RSZsurf1L_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[When does exercise start causing damage to your body?]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/6de1a87c-4bfa-4dcc-87f4-29e01a5f8a64/SPI-2740680_16x9.jpg" alt="When does exercise start causing damage to your body?" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/health/article/muscle-breakdown-exercise-rhabdomyolysis</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/health/article/muscle-breakdown-exercise-rhabdomyolysis</guid>
+            <pubDate>Wed, 15 Jul 2026 11:27:29 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/6de1a87c-4bfa-4dcc-87f4-29e01a5f8a64/SPI-2740680_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The stunningly beautiful quest to save the world’s rarest orchids]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/bafe706e-23aa-433a-85cb-104eceedf576/MF4205_20260407_01144_16x9.jpg" alt="The stunningly beautiful quest to save the world’s rarest orchids" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/environment/article/worlds-rarest-orchid-flowers-colombia</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/worlds-rarest-orchid-flowers-colombia</guid>
+            <pubDate>Wed, 15 Jul 2026 11:27:29 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/bafe706e-23aa-433a-85cb-104eceedf576/MF4205_20260407_01144_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
