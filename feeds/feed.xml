@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Jul 2026 13:22:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jul 2026 09:56:59 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 14 Jul 2026 13:22:01 GMT</pubDate>
+        <pubDate>Wed, 15 Jul 2026 09:56:59 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Bastille Day celebrates the rebellion that ignited the French Revolution]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/5e9e5db7-828f-433e-a8df-268ba6b43db9/bastille-day-og_16x9.jpg" alt="Bastille Day celebrates the rebellion that ignited the French Revolution" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/history/article/bastille-day-honors-rebellion-sparked-french-revolution</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/bastille-day-honors-rebellion-sparked-french-revolution</guid>
-            <pubDate>Tue, 14 Jul 2026 13:22:01 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/5e9e5db7-828f-433e-a8df-268ba6b43db9/bastille-day-og_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Surfing in Edinburgh? How to catch a wave in the Scottish capital]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/b21ac6d9-9a35-451b-b451-62317e2873c5/RSZsurf1L_16x9.jpg" alt="Surfing in Edinburgh? How to catch a wave in the Scottish capital" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/where-to-go-surfing-in-edinburgh-scotland</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/where-to-go-surfing-in-edinburgh-scotland</guid>
+            <pubDate>Wed, 15 Jul 2026 09:56:59 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/b21ac6d9-9a35-451b-b451-62317e2873c5/RSZsurf1L_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
