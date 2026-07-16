@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Jul 2026 21:05:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jul 2026 22:53:07 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 16 Jul 2026 21:05:12 GMT</pubDate>
+        <pubDate>Thu, 16 Jul 2026 22:53:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[The forgotten plan to make daylight saving time permanent]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/3ecb6cc6-1ec7-450d-b19a-cf4b3972c0f3/GettyImages-1080558320_16x9.jpg" alt="The forgotten plan to make daylight saving time permanent" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/history/article/america-daylight-saving-history</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/america-daylight-saving-history</guid>
-            <pubDate>Thu, 16 Jul 2026 21:05:12 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/3ecb6cc6-1ec7-450d-b19a-cf4b3972c0f3/GettyImages-1080558320_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Stones & Bones: A raptor in the snow and a helicopter escape]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/f7d23405-e60c-42b5-bb31-c8430e5be122/kankrender1_16x9.jpg" alt="Stones & Bones: A raptor in the snow and a helicopter escape" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/newsletters/article/stones-bones-raptor-in-snow-helicopter-escape</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/newsletters/article/stones-bones-raptor-in-snow-helicopter-escape</guid>
+            <pubDate>Thu, 16 Jul 2026 22:53:07 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/f7d23405-e60c-42b5-bb31-c8430e5be122/kankrender1_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
