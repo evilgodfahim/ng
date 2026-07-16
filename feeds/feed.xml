@@ -9,25 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Jul 2026 16:14:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jul 2026 18:01:36 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 16 Jul 2026 16:14:30 GMT</pubDate>
+        <pubDate>Thu, 16 Jul 2026 18:01:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[A literary pilgrimage through Mississippi]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/866bf5f2-572c-4ff8-bd35-e81c18ce37ef/1SquarebooksUpstairs_16x9.jpg" alt="A literary pilgrimage through Mississippi" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/mississippi-literary-travel</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/mississippi-literary-travel</guid>
-            <pubDate>Thu, 16 Jul 2026 16:14:30 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/866bf5f2-572c-4ff8-bd35-e81c18ce37ef/1SquarebooksUpstairs_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Why nutritionists say you should eat more tinned fish]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/40c1bd2a-ce24-457c-b04b-8eb212427622/MM10621_20260630_0071_16x9.jpg" alt="Why nutritionists say you should eat more tinned fish" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/health/article/tinned-fish-sardines-mackerel-salmon-superfoods-health-benefits</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/health/article/tinned-fish-sardines-mackerel-salmon-superfoods-health-benefits</guid>
-            <pubDate>Thu, 16 Jul 2026 16:14:30 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/40c1bd2a-ce24-457c-b04b-8eb212427622/MM10621_20260630_0071_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[What proposed changes to the Endangered Species Act mean for wildlife]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/e1ac8d21-0d5f-4f02-b505-070fcda73b94/SPI-2823174_16x9.jpg" alt="What proposed changes to the Endangered Species Act mean for wildlife" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/animals/article/endangered-species-act-changes-explainer</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/endangered-species-act-changes-explainer</guid>
+            <pubDate>Thu, 16 Jul 2026 18:01:36 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/e1ac8d21-0d5f-4f02-b505-070fcda73b94/SPI-2823174_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
