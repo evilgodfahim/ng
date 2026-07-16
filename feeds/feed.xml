@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Jul 2026 18:01:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jul 2026 21:05:12 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 16 Jul 2026 18:01:36 GMT</pubDate>
+        <pubDate>Thu, 16 Jul 2026 21:05:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[What proposed changes to the Endangered Species Act mean for wildlife]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/e1ac8d21-0d5f-4f02-b505-070fcda73b94/SPI-2823174_16x9.jpg" alt="What proposed changes to the Endangered Species Act mean for wildlife" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/animals/article/endangered-species-act-changes-explainer</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/endangered-species-act-changes-explainer</guid>
-            <pubDate>Thu, 16 Jul 2026 18:01:36 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/e1ac8d21-0d5f-4f02-b505-070fcda73b94/SPI-2823174_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[The forgotten plan to make daylight saving time permanent]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/3ecb6cc6-1ec7-450d-b19a-cf4b3972c0f3/GettyImages-1080558320_16x9.jpg" alt="The forgotten plan to make daylight saving time permanent" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/america-daylight-saving-history</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/america-daylight-saving-history</guid>
+            <pubDate>Thu, 16 Jul 2026 21:05:12 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/3ecb6cc6-1ec7-450d-b19a-cf4b3972c0f3/GettyImages-1080558320_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
