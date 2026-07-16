@@ -9,33 +9,25 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Jul 2026 12:17:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jul 2026 16:14:30 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 16 Jul 2026 12:17:14 GMT</pubDate>
+        <pubDate>Thu, 16 Jul 2026 16:14:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Explore Wyoming's most unusual badlands landscape]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/394cf02c-edd1-4309-a72d-9b430d46f81e/AdobeStock_364282424_16x9.jpeg" alt="Explore Wyoming's most unusual badlands landscape" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/hells-half-acre-natrona-county-wyoming</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/hells-half-acre-natrona-county-wyoming</guid>
-            <pubDate>Thu, 16 Jul 2026 12:17:14 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/394cf02c-edd1-4309-a72d-9b430d46f81e/AdobeStock_364282424_16x9.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[A literary pilgrimage through Mississippi]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/866bf5f2-572c-4ff8-bd35-e81c18ce37ef/1SquarebooksUpstairs_16x9.jpg" alt="A literary pilgrimage through Mississippi" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/mississippi-literary-travel</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/mississippi-literary-travel</guid>
+            <pubDate>Thu, 16 Jul 2026 16:14:30 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/866bf5f2-572c-4ff8-bd35-e81c18ce37ef/1SquarebooksUpstairs_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Inside the mystery forests of the marshlands]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/a026e501-adb8-4da9-ad31-f784d74aa2e2/STOCKPKG_MM10476_2635_16x9.jpg" alt="Inside the mystery forests of the marshlands" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/environment/article/cypress-domes-marsh-wetlands-florida</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/cypress-domes-marsh-wetlands-florida</guid>
-            <pubDate>Thu, 16 Jul 2026 12:17:14 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/a026e501-adb8-4da9-ad31-f784d74aa2e2/STOCKPKG_MM10476_2635_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[How cities are turning their polluted rivers into swimming havens]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/d77cacf4-c39a-46b5-bf43-9d4aa5bab6d2/AP26194516004886_16x9.jpg" alt="How cities are turning their polluted rivers into swimming havens" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/environment/article/cities-urban-polluted-rivers-clean-up-swimming</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/cities-urban-polluted-rivers-clean-up-swimming</guid>
-            <pubDate>Thu, 16 Jul 2026 12:17:14 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/d77cacf4-c39a-46b5-bf43-9d4aa5bab6d2/AP26194516004886_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Why nutritionists say you should eat more tinned fish]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/40c1bd2a-ce24-457c-b04b-8eb212427622/MM10621_20260630_0071_16x9.jpg" alt="Why nutritionists say you should eat more tinned fish" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/health/article/tinned-fish-sardines-mackerel-salmon-superfoods-health-benefits</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/health/article/tinned-fish-sardines-mackerel-salmon-superfoods-health-benefits</guid>
+            <pubDate>Thu, 16 Jul 2026 16:14:30 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/40c1bd2a-ce24-457c-b04b-8eb212427622/MM10621_20260630_0071_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
