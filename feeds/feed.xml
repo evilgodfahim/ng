@@ -9,25 +9,33 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Jul 2026 10:41:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jul 2026 12:04:36 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Jul 2026 10:41:36 GMT</pubDate>
+        <pubDate>Fri, 17 Jul 2026 12:04:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[How you can still explore the ancient city of Troy]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/1aab0149-15b2-429f-97a7-674f9f3afd5d/FA24HA_16x9.jpg" alt="How you can still explore the ancient city of Troy" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/how-to-visit-odyssey-ancient-city-of-troy</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/how-to-visit-odyssey-ancient-city-of-troy</guid>
-            <pubDate>Fri, 17 Jul 2026 10:41:36 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/1aab0149-15b2-429f-97a7-674f9f3afd5d/FA24HA_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Were these ancient Egyptian royals actually warrior princesses?]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/6ac13f43-fd7a-424b-9b0d-3ec3b9cad322/BKTFT2_16x9.jpg" alt="Were these ancient Egyptian royals actually warrior princesses?" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/egyptian-warrior-princess</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/egyptian-warrior-princess</guid>
+            <pubDate>Fri, 17 Jul 2026 12:04:36 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/6ac13f43-fd7a-424b-9b0d-3ec3b9cad322/BKTFT2_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[The Middle East's smallest state has some of the region's best food]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/56c3c2b0-f3c9-4a25-95ff-c55c72ac1185/bahrainoven_16x9.jpg" alt="The Middle East's smallest state has some of the region's best food" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/bahrain-middle-easts-smallest-state-best-food</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/bahrain-middle-easts-smallest-state-best-food</guid>
-            <pubDate>Fri, 17 Jul 2026 10:41:36 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/56c3c2b0-f3c9-4a25-95ff-c55c72ac1185/bahrainoven_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[See America’s most iconic rivers on these 5 scenic cruises]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/8910d4bf-98d7-43d5-b2da-1f02d81a752e/1ACL_Ship_Hudson-River1_16x9.jpg" alt="See America’s most iconic rivers on these 5 scenic cruises" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/best-river-cruises-united-states</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/best-river-cruises-united-states</guid>
+            <pubDate>Fri, 17 Jul 2026 12:04:36 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/8910d4bf-98d7-43d5-b2da-1f02d81a752e/1ACL_Ship_Hudson-River1_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The real science behind the myth in The Odyssey]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/0eff8102-f08e-4929-822c-921ec229c411/ART507003_16x9.jpg" alt="The real science behind the myth in The Odyssey" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/science/article/odyssey-myth-monsters-magic-science</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/odyssey-myth-monsters-magic-science</guid>
+            <pubDate>Fri, 17 Jul 2026 12:04:36 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/0eff8102-f08e-4929-822c-921ec229c411/ART507003_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
