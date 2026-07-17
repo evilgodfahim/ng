@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Jul 2026 14:28:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jul 2026 16:10:21 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Jul 2026 14:28:40 GMT</pubDate>
+        <pubDate>Fri, 17 Jul 2026 16:10:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[How breathing in wildfire smoke affects the body]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/2ab74ec7-0499-408a-8811-1bd74bbde94a/GettyImages-2285609475_16x9.jpg" alt="How breathing in wildfire smoke affects the body" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/science/article/how-breathing-wildfire-smoke-affects-the-body</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/how-breathing-wildfire-smoke-affects-the-body</guid>
-            <pubDate>Fri, 17 Jul 2026 14:28:40 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/2ab74ec7-0499-408a-8811-1bd74bbde94a/GettyImages-2285609475_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Could Pompeii happen again?]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/3708df31-33ce-4c18-ae36-ac46c20cf938/Darius_Arya_102_Eruption_PompeiiOutOfTimeWithTomHiddleston_019_16x9.jpg" alt="Could Pompeii happen again?" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/darius-arya-reader-pompeii-questions</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/darius-arya-reader-pompeii-questions</guid>
+            <pubDate>Fri, 17 Jul 2026 16:10:21 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/3708df31-33ce-4c18-ae36-ac46c20cf938/Darius_Arya_102_Eruption_PompeiiOutOfTimeWithTomHiddleston_019_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
