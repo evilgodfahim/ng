@@ -9,33 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Jul 2026 12:04:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jul 2026 14:28:40 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Jul 2026 12:04:36 GMT</pubDate>
+        <pubDate>Fri, 17 Jul 2026 14:28:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Were these ancient Egyptian royals actually warrior princesses?]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/6ac13f43-fd7a-424b-9b0d-3ec3b9cad322/BKTFT2_16x9.jpg" alt="Were these ancient Egyptian royals actually warrior princesses?" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/history/article/egyptian-warrior-princess</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/egyptian-warrior-princess</guid>
-            <pubDate>Fri, 17 Jul 2026 12:04:36 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/6ac13f43-fd7a-424b-9b0d-3ec3b9cad322/BKTFT2_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[See America’s most iconic rivers on these 5 scenic cruises]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/8910d4bf-98d7-43d5-b2da-1f02d81a752e/1ACL_Ship_Hudson-River1_16x9.jpg" alt="See America’s most iconic rivers on these 5 scenic cruises" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/best-river-cruises-united-states</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/best-river-cruises-united-states</guid>
-            <pubDate>Fri, 17 Jul 2026 12:04:36 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/8910d4bf-98d7-43d5-b2da-1f02d81a752e/1ACL_Ship_Hudson-River1_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[The real science behind the myth in The Odyssey]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/0eff8102-f08e-4929-822c-921ec229c411/ART507003_16x9.jpg" alt="The real science behind the myth in The Odyssey" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/science/article/odyssey-myth-monsters-magic-science</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/odyssey-myth-monsters-magic-science</guid>
-            <pubDate>Fri, 17 Jul 2026 12:04:36 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/0eff8102-f08e-4929-822c-921ec229c411/ART507003_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[How breathing in wildfire smoke affects the body]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/2ab74ec7-0499-408a-8811-1bd74bbde94a/GettyImages-2285609475_16x9.jpg" alt="How breathing in wildfire smoke affects the body" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/science/article/how-breathing-wildfire-smoke-affects-the-body</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/how-breathing-wildfire-smoke-affects-the-body</guid>
+            <pubDate>Fri, 17 Jul 2026 14:28:40 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/2ab74ec7-0499-408a-8811-1bd74bbde94a/GettyImages-2285609475_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
