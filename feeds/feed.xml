@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Jul 2026 11:50:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jul 2026 13:02:46 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 18 Jul 2026 11:50:14 GMT</pubDate>
+        <pubDate>Sat, 18 Jul 2026 13:02:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Who was Nelson Mandela?]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/714a154d-2b89-4606-8d78-10cad2aa1c62/nelson-mandela-09060209807_16x9.jpg" alt="Who was Nelson Mandela?" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/history/article/nelson-mandela-fought-apartheid-work-not-complete</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/nelson-mandela-fought-apartheid-work-not-complete</guid>
-            <pubDate>Sat, 18 Jul 2026 11:50:14 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/714a154d-2b89-4606-8d78-10cad2aa1c62/nelson-mandela-09060209807_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Follow Winnie-the-Pooh’s trail in the real Hundred Acre Wood]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/58ed06c3-53e8-4a89-b0f3-07bbcf94e4fa/GettyImages-1327155447_16x9.jpg" alt="Follow Winnie-the-Pooh’s trail in the real Hundred Acre Wood" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/follow-winnie-the-pooh-trail-in-the-real-hundred-acre-wood-ashdown-forest</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/follow-winnie-the-pooh-trail-in-the-real-hundred-acre-wood-ashdown-forest</guid>
+            <pubDate>Sat, 18 Jul 2026 13:02:46 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/58ed06c3-53e8-4a89-b0f3-07bbcf94e4fa/GettyImages-1327155447_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
