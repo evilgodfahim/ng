@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Jul 2026 19:21:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jul 2026 11:50:14 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Jul 2026 19:21:46 GMT</pubDate>
+        <pubDate>Sat, 18 Jul 2026 11:50:14 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[What classicists say most people get wrong about the 'Odyssey']]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/6a40e09b-083f-42c8-93a5-721f734f5c0c/BAL_5396899_16x9.JPG" alt="What classicists say most people get wrong about the 'Odyssey'" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/history/article/what-everybody-gets-wrong-about-the-odyssey</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/what-everybody-gets-wrong-about-the-odyssey</guid>
-            <pubDate>Fri, 17 Jul 2026 19:21:46 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/6a40e09b-083f-42c8-93a5-721f734f5c0c/BAL_5396899_16x9.JPG" length="0" type="image/jpeg"/>
+            <title><![CDATA[Who was Nelson Mandela?]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/714a154d-2b89-4606-8d78-10cad2aa1c62/nelson-mandela-09060209807_16x9.jpg" alt="Who was Nelson Mandela?" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/nelson-mandela-fought-apartheid-work-not-complete</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/nelson-mandela-fought-apartheid-work-not-complete</guid>
+            <pubDate>Sat, 18 Jul 2026 11:50:14 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/714a154d-2b89-4606-8d78-10cad2aa1c62/nelson-mandela-09060209807_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
