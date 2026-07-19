@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Jul 2026 13:02:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jul 2026 10:22:49 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 18 Jul 2026 13:02:46 GMT</pubDate>
+        <pubDate>Sun, 19 Jul 2026 10:22:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Follow Winnie-the-Pooh’s trail in the real Hundred Acre Wood]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/58ed06c3-53e8-4a89-b0f3-07bbcf94e4fa/GettyImages-1327155447_16x9.jpg" alt="Follow Winnie-the-Pooh’s trail in the real Hundred Acre Wood" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/follow-winnie-the-pooh-trail-in-the-real-hundred-acre-wood-ashdown-forest</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/follow-winnie-the-pooh-trail-in-the-real-hundred-acre-wood-ashdown-forest</guid>
-            <pubDate>Sat, 18 Jul 2026 13:02:46 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/58ed06c3-53e8-4a89-b0f3-07bbcf94e4fa/GettyImages-1327155447_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Where to eat in Sydney, according to a local chef]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/48590126-7af3-4136-b96b-16c7eddbaa28/tabletalkjulyaug_16x9.jpg" alt="Where to eat in Sydney, according to a local chef" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/where-to-eat-in-sydney-according-to-josh-niland</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/where-to-eat-in-sydney-according-to-josh-niland</guid>
+            <pubDate>Sun, 19 Jul 2026 10:22:49 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/48590126-7af3-4136-b96b-16c7eddbaa28/tabletalkjulyaug_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
