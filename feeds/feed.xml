@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Jul 2026 10:22:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jul 2026 09:54:43 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 19 Jul 2026 10:22:49 GMT</pubDate>
+        <pubDate>Mon, 20 Jul 2026 09:54:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Where to eat in Sydney, according to a local chef]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/48590126-7af3-4136-b96b-16c7eddbaa28/tabletalkjulyaug_16x9.jpg" alt="Where to eat in Sydney, according to a local chef" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/where-to-eat-in-sydney-according-to-josh-niland</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/where-to-eat-in-sydney-according-to-josh-niland</guid>
-            <pubDate>Sun, 19 Jul 2026 10:22:49 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/48590126-7af3-4136-b96b-16c7eddbaa28/tabletalkjulyaug_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Love books? This Polish city should be your next break]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/a81cc82c-9d08-47ba-b096-278325b54797/GettyImages-497569703_16x9.jpg" alt="Love books? This Polish city should be your next break" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/love-books-go-to-krakow-poland-literature-history</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/love-books-go-to-krakow-poland-literature-history</guid>
+            <pubDate>Mon, 20 Jul 2026 09:54:43 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/a81cc82c-9d08-47ba-b096-278325b54797/GettyImages-497569703_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
