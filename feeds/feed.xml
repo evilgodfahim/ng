@@ -9,25 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Jul 2026 15:06:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jul 2026 08:17:49 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 20 Jul 2026 15:06:59 GMT</pubDate>
+        <pubDate>Tue, 21 Jul 2026 08:17:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[A photographer walks the roof of the world]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/a6e71793-0ca6-4e4a-933d-00860f9c4443/040_Paley_16x9.jpg" alt="A photographer walks the roof of the world" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/photography/article/wakhan-corridor-afghanistan-exposure</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/photography/article/wakhan-corridor-afghanistan-exposure</guid>
-            <pubDate>Mon, 20 Jul 2026 15:06:59 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/a6e71793-0ca6-4e4a-933d-00860f9c4443/040_Paley_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Under the Tangerine Trees]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/cd8214e5-4dd1-4cd7-90f7-cc6f9e94dc3b/SPI-2803781_16x9.jpg" alt="Under the Tangerine Trees" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/photo-of-the-day/media-spotlight/mexericas-noiva-do-cordeiro-brazil</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/photo-of-the-day/media-spotlight/mexericas-noiva-do-cordeiro-brazil</guid>
-            <pubDate>Mon, 20 Jul 2026 15:06:59 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/cd8214e5-4dd1-4cd7-90f7-cc6f9e94dc3b/SPI-2803781_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Where to eat in Bangkok, from street food to fine dining]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/2111c7d8-e6bc-42cb-84f0-28b5d676b8a3/standbangkok_16x9.jpg" alt="Where to eat in Bangkok, from street food to fine dining" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/where-to-eat-in-bangkok</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/where-to-eat-in-bangkok</guid>
+            <pubDate>Tue, 21 Jul 2026 08:17:49 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/2111c7d8-e6bc-42cb-84f0-28b5d676b8a3/standbangkok_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
