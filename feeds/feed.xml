@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Jul 2026 15:39:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jul 2026 08:18:45 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Jul 2026 15:39:20 GMT</pubDate>
+        <pubDate>Wed, 22 Jul 2026 08:18:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[How to photograph the stars using your phone]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/97bdfbbd-1a77-4b08-931a-126d3e1a7b0f/Mobile_Phone_Star_Trails_2_16x9.jpg" alt="How to photograph the stars using your phone" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/photography/article/astrophotography-stars-night-sky-phone-tips</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/photography/article/astrophotography-stars-night-sky-phone-tips</guid>
-            <pubDate>Tue, 21 Jul 2026 15:39:20 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/97bdfbbd-1a77-4b08-931a-126d3e1a7b0f/Mobile_Phone_Star_Trails_2_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[This overlooked corner of Sardinia is made for family holidays]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/0dc70715-def4-4966-b592-6803f9e3a4e0/seasardinia_16x9.jpg" alt="This overlooked corner of Sardinia is made for family holidays" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/pula-the-overlooked-corner-of-sardinia-is-made-for-family-holidays</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/pula-the-overlooked-corner-of-sardinia-is-made-for-family-holidays</guid>
+            <pubDate>Wed, 22 Jul 2026 08:18:45 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/0dc70715-def4-4966-b592-6803f9e3a4e0/seasardinia_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
