@@ -9,17 +9,25 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 22 Jul 2026 08:18:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jul 2026 13:38:48 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 22 Jul 2026 08:18:45 GMT</pubDate>
+        <pubDate>Wed, 22 Jul 2026 13:38:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[This overlooked corner of Sardinia is made for family holidays]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/0dc70715-def4-4966-b592-6803f9e3a4e0/seasardinia_16x9.jpg" alt="This overlooked corner of Sardinia is made for family holidays" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/pula-the-overlooked-corner-of-sardinia-is-made-for-family-holidays</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/pula-the-overlooked-corner-of-sardinia-is-made-for-family-holidays</guid>
-            <pubDate>Wed, 22 Jul 2026 08:18:45 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/0dc70715-def4-4966-b592-6803f9e3a4e0/seasardinia_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[When ships are nearby, sperm whales change their calls]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/fc898796-53ed-450d-bae8-566d2815f825/SPI-2765132_16x9.jpg" alt="When ships are nearby, sperm whales change their calls" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/environment/article/sperm-whale-communication-near-ships</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/sperm-whale-communication-near-ships</guid>
+            <pubDate>Wed, 22 Jul 2026 13:38:48 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/fc898796-53ed-450d-bae8-566d2815f825/SPI-2765132_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[In Passing | Nat Geo Photo of the Day]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/5af52fe2-3402-4d6d-a8bd-27921a60aa14/SPI-750986-2_16x9.jpg" alt="In Passing | Nat Geo Photo of the Day" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/photo-of-the-day/media-spotlight/combines-wheat-harvest-kansas</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/photo-of-the-day/media-spotlight/combines-wheat-harvest-kansas</guid>
+            <pubDate>Wed, 22 Jul 2026 13:38:48 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/5af52fe2-3402-4d6d-a8bd-27921a60aa14/SPI-750986-2_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
