@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Jul 2026 13:44:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2026 15:51:27 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 23 Jul 2026 13:44:37 GMT</pubDate>
+        <pubDate>Thu, 23 Jul 2026 15:51:27 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Why urban safaris are on the rise and where to try one]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/8ff573c9-da83-4aa5-8458-2d7af4e0f69a/RSZLGettyImages-926974946_16x9.jpg" alt="Why urban safaris are on the rise and where to try one" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/urban-safaris-are-on-the-rise-and-where-to-try-the-best-ones</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/urban-safaris-are-on-the-rise-and-where-to-try-the-best-ones</guid>
-            <pubDate>Thu, 23 Jul 2026 13:44:37 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/8ff573c9-da83-4aa5-8458-2d7af4e0f69a/RSZLGettyImages-926974946_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Among the Ruins]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/4057ad3b-d0c0-47ed-a0c9-1749158a5e15/NatGeo-Silk-Extended067_Unison_16x9.jpg" alt="Among the Ruins" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/photo-of-the-day/media-spotlight/apamea-roman-city-syria</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/photo-of-the-day/media-spotlight/apamea-roman-city-syria</guid>
+            <pubDate>Thu, 23 Jul 2026 15:51:27 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/4057ad3b-d0c0-47ed-a0c9-1749158a5e15/NatGeo-Silk-Extended067_Unison_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
