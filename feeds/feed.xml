@@ -9,17 +9,49 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Jul 2026 05:49:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2026 11:05:48 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 23 Jul 2026 05:49:11 GMT</pubDate>
+        <pubDate>Thu, 23 Jul 2026 11:05:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Video shows orca smashing a sunfish into pieces]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/d2463190-8a1c-4722-9eef-1a23a3a685cd/2_16x9.jpg" alt="Video shows orca smashing a sunfish into pieces" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/animals/article/orcas-smash-sunfish</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/orcas-smash-sunfish</guid>
-            <pubDate>Thu, 23 Jul 2026 05:49:11 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/d2463190-8a1c-4722-9eef-1a23a3a685cd/2_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[How human behavior impacts these sex-changing fish]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/e6aeae63-107b-4426-a203-46c6763ccc3c/naturepl_01677991_16x9.jpg" alt="How human behavior impacts these sex-changing fish" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/animals/article/pearly-razorfish-social-lives</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/pearly-razorfish-social-lives</guid>
+            <pubDate>Thu, 23 Jul 2026 11:05:48 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/e6aeae63-107b-4426-a203-46c6763ccc3c/naturepl_01677991_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why Tom Hiddleston can’t stop thinking about Pompeii]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/df7b4ed4-81d0-4c75-996d-6058da4b2a26/SurvivingPompeii_110725_003065_RT_V3_16x9.jpg" alt="Why Tom Hiddleston can’t stop thinking about Pompeii" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/tom-hiddleston-pompeii-interview</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/tom-hiddleston-pompeii-interview</guid>
+            <pubDate>Thu, 23 Jul 2026 11:05:48 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/df7b4ed4-81d0-4c75-996d-6058da4b2a26/SurvivingPompeii_110725_003065_RT_V3_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Vesuvius revisited: a new story of the day the world exploded]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/1e6835eb-a315-467b-809d-61447696acf1/MM10354_260330_002928_16x9.jpg" alt="Vesuvius revisited: a new story of the day the world exploded" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/vesuvius-rome-oplontis-herculaneum-pompeii</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/vesuvius-rome-oplontis-herculaneum-pompeii</guid>
+            <pubDate>Thu, 23 Jul 2026 11:05:48 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/1e6835eb-a315-467b-809d-61447696acf1/MM10354_260330_002928_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Glimpsing the hidden highways of the night sky]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/fc8500eb-e34f-4ee6-b445-1b982875b9fd/STOCKPKG_MM10480_EPMauney_EWR_03-28-26_s5_T002_180mTo1f_V1_16x9.jpg" alt="Glimpsing the hidden highways of the night sky" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/photography/article/airplanes-night-sky-airspace-traffic</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/photography/article/airplanes-night-sky-airspace-traffic</guid>
+            <pubDate>Thu, 23 Jul 2026 11:05:48 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/fc8500eb-e34f-4ee6-b445-1b982875b9fd/STOCKPKG_MM10480_EPMauney_EWR_03-28-26_s5_T002_180mTo1f_V1_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Among the Ruins | Nat Geo Photo of the Day]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/4057ad3b-d0c0-47ed-a0c9-1749158a5e15/NatGeo-Silk-Extended067_Unison_16x9.jpg" alt="Among the Ruins | Nat Geo Photo of the Day" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/media-spotlight/apamea-roman-city-syria</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/media-spotlight/apamea-roman-city-syria</guid>
+            <pubDate>Thu, 23 Jul 2026 11:05:48 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/4057ad3b-d0c0-47ed-a0c9-1749158a5e15/NatGeo-Silk-Extended067_Unison_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
