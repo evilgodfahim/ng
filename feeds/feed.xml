@@ -9,33 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Jul 2026 12:22:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jul 2026 09:52:04 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 24 Jul 2026 12:22:14 GMT</pubDate>
+        <pubDate>Sat, 25 Jul 2026 09:52:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Saving the tiniest turtle in the United States]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/fb20dac1-adf5-4f11-b592-9fbc15cbbb0d/GettyImages-1229067614_16x9.jpg" alt="Saving the tiniest turtle in the United States" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/animals/article/bog-turtle-appalachia-hurricane-helene-conservation</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/bog-turtle-appalachia-hurricane-helene-conservation</guid>
-            <pubDate>Fri, 24 Jul 2026 12:22:14 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/fb20dac1-adf5-4f11-b592-9fbc15cbbb0d/GettyImages-1229067614_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Vera Rubin was the GOAT of dark matter]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/34dcc003-5bbd-4ff7-b6c0-67b492cf9c2d/NationalGeographic_387631_16x9.jpg" alt="Vera Rubin was the GOAT of dark matter" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/science/article/vera-rubin-dark-matter-legacy-astronomy</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/vera-rubin-dark-matter-legacy-astronomy</guid>
-            <pubDate>Fri, 24 Jul 2026 12:22:14 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/34dcc003-5bbd-4ff7-b6c0-67b492cf9c2d/NationalGeographic_387631_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Leap of Faith]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/4760396a-9ffa-4796-9db1-a8518b0aecf4/SPI-2697228_16x9.jpg" alt="Leap of Faith" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/photo-of-the-day/media-spotlight/southern-rockhopper-penguins-marion-island</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/photo-of-the-day/media-spotlight/southern-rockhopper-penguins-marion-island</guid>
-            <pubDate>Fri, 24 Jul 2026 12:22:14 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/4760396a-9ffa-4796-9db1-a8518b0aecf4/SPI-2697228_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Witches, vampires, ancient aliens—you'll find them all in Malta]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/dd0a180f-254c-4566-8bbd-a3870fed19c7/maltasea_16x9.jpg" alt="Witches, vampires, ancient aliens—you'll find them all in Malta" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/explore-folklore-in-malta-witches-vampires-ancient-aliens</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/explore-folklore-in-malta-witches-vampires-ancient-aliens</guid>
+            <pubDate>Sat, 25 Jul 2026 09:52:04 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/dd0a180f-254c-4566-8bbd-a3870fed19c7/maltasea_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
