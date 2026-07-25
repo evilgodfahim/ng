@@ -1,25 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[National Geographic – Latest]]></title>
-        <description><![CDATA[Latest articles from National Geographic]]></description>
+        <title><![CDATA[National Geographic (error fallback)]]></title>
+        <description><![CDATA[Feed could not be generated]]></description>
         <link>https://www.nationalgeographic.com</link>
-        <image>
-            <url>https://www.nationalgeographic.com/favicon.ico</url>
-            <title>National Geographic – Latest</title>
-            <link>https://www.nationalgeographic.com</link>
-        </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Jul 2026 09:52:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jul 2026 20:14:17 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 25 Jul 2026 09:52:04 GMT</pubDate>
+        <pubDate>Sat, 25 Jul 2026 20:14:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Witches, vampires, ancient aliens—you'll find them all in Malta]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/dd0a180f-254c-4566-8bbd-a3870fed19c7/maltasea_16x9.jpg" alt="Witches, vampires, ancient aliens—you'll find them all in Malta" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/explore-folklore-in-malta-witches-vampires-ancient-aliens</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/explore-folklore-in-malta-witches-vampires-ancient-aliens</guid>
-            <pubDate>Sat, 25 Jul 2026 09:52:04 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/dd0a180f-254c-4566-8bbd-a3870fed19c7/maltasea_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Feed generation failed]]></title>
+            <description><![CDATA[An error occurred. Check the console logs.]]></description>
+            <link>https://www.nationalgeographic.com</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com</guid>
+            <pubDate>Sat, 25 Jul 2026 20:14:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
