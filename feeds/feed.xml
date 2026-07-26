@@ -1,19 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[National Geographic (error fallback)]]></title>
-        <description><![CDATA[Feed could not be generated]]></description>
+        <title><![CDATA[National Geographic – Latest]]></title>
+        <description><![CDATA[Latest articles from National Geographic]]></description>
         <link>https://www.nationalgeographic.com</link>
+        <image>
+            <url>https://www.nationalgeographic.com/favicon.ico</url>
+            <title>National Geographic – Latest</title>
+            <link>https://www.nationalgeographic.com</link>
+        </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Jul 2026 20:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jul 2026 10:41:52 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 25 Jul 2026 20:14:17 GMT</pubDate>
+        <pubDate>Sun, 26 Jul 2026 10:41:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred. Check the console logs.]]></description>
-            <link>https://www.nationalgeographic.com</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com</guid>
-            <pubDate>Sat, 25 Jul 2026 20:14:17 GMT</pubDate>
+            <title><![CDATA[Why Poreč is Croatia’s most underrated Adriatic escape]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/cd0bf8fa-6f09-4304-896d-3d4cc0075342/porec-old-town_16x9.jpg" alt="Why Poreč is Croatia’s most underrated Adriatic escape" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/why-porec-is-croatias-most-underrated-adriatic-escape</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/why-porec-is-croatias-most-underrated-adriatic-escape</guid>
+            <pubDate>Sun, 26 Jul 2026 10:41:52 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/cd0bf8fa-6f09-4304-896d-3d4cc0075342/porec-old-town_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
