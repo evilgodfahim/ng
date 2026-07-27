@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Jul 2026 10:41:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jul 2026 10:37:23 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 26 Jul 2026 10:41:52 GMT</pubDate>
+        <pubDate>Mon, 27 Jul 2026 10:37:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Why Poreč is Croatia’s most underrated Adriatic escape]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/cd0bf8fa-6f09-4304-896d-3d4cc0075342/porec-old-town_16x9.jpg" alt="Why Poreč is Croatia’s most underrated Adriatic escape" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/why-porec-is-croatias-most-underrated-adriatic-escape</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/why-porec-is-croatias-most-underrated-adriatic-escape</guid>
-            <pubDate>Sun, 26 Jul 2026 10:41:52 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/cd0bf8fa-6f09-4304-896d-3d4cc0075342/porec-old-town_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Why Amsterdam locals are reviving the art of 'dusking']]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/acd96d79-86e4-4820-a47f-b9d2dcb7050a/dusking_16x9.jpg" alt="Why Amsterdam locals are reviving the art of 'dusking'" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/what-is-dusking-the-art-amsterdam-locals-are-reviving</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/what-is-dusking-the-art-amsterdam-locals-are-reviving</guid>
+            <pubDate>Mon, 27 Jul 2026 10:37:23 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/acd96d79-86e4-4820-a47f-b9d2dcb7050a/dusking_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
