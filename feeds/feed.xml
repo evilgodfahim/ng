@@ -9,33 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Jul 2026 11:12:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jul 2026 16:02:26 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 28 Jul 2026 11:12:27 GMT</pubDate>
+        <pubDate>Tue, 28 Jul 2026 16:02:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Thawing permafrost is threatening Svalbard's 'corpse point']]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/2c2de500-1c5f-49af-818b-298defe77b03/DJI_0351_16x9.JPG" alt="Thawing permafrost is threatening Svalbard's 'corpse point'" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/history/article/arctic-whalers-graves-and-climate-change</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/arctic-whalers-graves-and-climate-change</guid>
-            <pubDate>Tue, 28 Jul 2026 11:12:27 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/2c2de500-1c5f-49af-818b-298defe77b03/DJI_0351_16x9.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Paul Nicklen wants to inspire us to stop "thrashing the planet"]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/709ad43e-ca9c-45f3-8af2-0c0d62f5c61a/MM7747-072410-32163_KBG_V3_46INCH_16x9.jpg" alt="Paul Nicklen wants to inspire us to stop 'thrashing the planet'" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/photography/article/paul-nicklen-nature-photography-book-reverence</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/photography/article/paul-nicklen-nature-photography-book-reverence</guid>
-            <pubDate>Tue, 28 Jul 2026 11:12:27 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/709ad43e-ca9c-45f3-8af2-0c0d62f5c61a/MM7747-072410-32163_KBG_V3_46INCH_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Traveler's Tree]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/03635030-17d4-4f74-85aa-9b69a4dc39a3/Travellers_tree_Possible_Charlotte_Yonga_HD_Unison_16x9.jpg" alt="Traveler's Tree" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/photo-of-the-day/media-spotlight/travelers-tree-madagascar</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/photo-of-the-day/media-spotlight/travelers-tree-madagascar</guid>
-            <pubDate>Tue, 28 Jul 2026 11:12:27 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/03635030-17d4-4f74-85aa-9b69a4dc39a3/Travellers_tree_Possible_Charlotte_Yonga_HD_Unison_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[How wildfires can grow deadly overnight]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/7baa54a4-27f5-4d1d-a345-05c89e4c001a/h_31.RC2F5CA8JA10_16x9.jpg" alt="How wildfires can grow deadly overnight" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/environment/article/wildfires</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/wildfires</guid>
+            <pubDate>Tue, 28 Jul 2026 16:02:26 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/7baa54a4-27f5-4d1d-a345-05c89e4c001a/h_31.RC2F5CA8JA10_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
