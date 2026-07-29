@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Jul 2026 13:57:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2026 15:48:24 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 29 Jul 2026 13:57:12 GMT</pubDate>
+        <pubDate>Wed, 29 Jul 2026 15:48:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[‘The most beautiful burial ground in the world’: French Lorraine during WWI]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/9694383c-ec40-4cb5-9ff6-691f98e67f2b/01-harriet-chalmers-adams-france-archive_16x9.jpg" alt="‘The most beautiful burial ground in the world’: French Lorraine during WWI" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/history/article/french-lorraine-during-world-war-i</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/french-lorraine-during-world-war-i</guid>
-            <pubDate>Wed, 29 Jul 2026 13:57:12 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/9694383c-ec40-4cb5-9ff6-691f98e67f2b/01-harriet-chalmers-adams-france-archive_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Hamnet author Maggie O’Farrell on maps as rebellion]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/256b0eab-88cf-40d7-953e-918d2ce08fed/347A2169_16x9.jpg" alt="Hamnet author Maggie O’Farrell on maps as rebellion" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/culture/article/maggie-ofarrell-hamnet-land-ireland-mapmaking</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/culture/article/maggie-ofarrell-hamnet-land-ireland-mapmaking</guid>
+            <pubDate>Wed, 29 Jul 2026 15:48:24 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/256b0eab-88cf-40d7-953e-918d2ce08fed/347A2169_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
