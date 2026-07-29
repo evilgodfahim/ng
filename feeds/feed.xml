@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Jul 2026 15:48:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2026 20:49:21 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 29 Jul 2026 15:48:24 GMT</pubDate>
+        <pubDate>Wed, 29 Jul 2026 20:49:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Hamnet author Maggie O’Farrell on maps as rebellion]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/256b0eab-88cf-40d7-953e-918d2ce08fed/347A2169_16x9.jpg" alt="Hamnet author Maggie O’Farrell on maps as rebellion" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/culture/article/maggie-ofarrell-hamnet-land-ireland-mapmaking</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/culture/article/maggie-ofarrell-hamnet-land-ireland-mapmaking</guid>
-            <pubDate>Wed, 29 Jul 2026 15:48:24 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/256b0eab-88cf-40d7-953e-918d2ce08fed/347A2169_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[7 new UNESCO World Heritage Sites to explore this year]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/91ee8072-2064-4b5b-87f2-0e1e7b09821a/site_1765_0006_16x9.jpg" alt="7 new UNESCO World Heritage Sites to explore this year" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/new-unesco-world-heritage-sites-to-explore-this-year</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/new-unesco-world-heritage-sites-to-explore-this-year</guid>
+            <pubDate>Wed, 29 Jul 2026 20:49:21 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/91ee8072-2064-4b5b-87f2-0e1e7b09821a/site_1765_0006_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
