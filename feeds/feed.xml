@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Jul 2026 20:49:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jul 2026 11:02:48 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 29 Jul 2026 20:49:21 GMT</pubDate>
+        <pubDate>Thu, 30 Jul 2026 11:02:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[7 new UNESCO World Heritage Sites to explore this year]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/91ee8072-2064-4b5b-87f2-0e1e7b09821a/site_1765_0006_16x9.jpg" alt="7 new UNESCO World Heritage Sites to explore this year" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/new-unesco-world-heritage-sites-to-explore-this-year</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/new-unesco-world-heritage-sites-to-explore-this-year</guid>
-            <pubDate>Wed, 29 Jul 2026 20:49:21 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/91ee8072-2064-4b5b-87f2-0e1e7b09821a/site_1765_0006_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Here's where to get a good cup of coffee in Seattle]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/5e1868df-42a3-4b71-8010-5113f79a1f35/seattlecoffeestarbucksroasteryr_16x9.jpg" alt="Here's where to get a good cup of coffee in Seattle" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/seattle-best-coffee-shops</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/seattle-best-coffee-shops</guid>
+            <pubDate>Thu, 30 Jul 2026 11:02:48 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/5e1868df-42a3-4b71-8010-5113f79a1f35/seattlecoffeestarbucksroasteryr_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
