@@ -9,25 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 31 Jul 2026 19:16:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2026 20:59:17 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 31 Jul 2026 19:16:41 GMT</pubDate>
+        <pubDate>Fri, 31 Jul 2026 20:59:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Uncovering the secrets of ancient Greece at a forgotten temple]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/3ed832fa-7cdf-42d6-b335-b27d2ba88186/The_stoa_in_the_Sanctuary_of_Artemis_Brauronia_Photo_Ginny_Miglierina_16x9.jpg" alt="Uncovering the secrets of ancient Greece at a forgotten temple" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/newsletters/article/secret-lives-forgotten-ancient-greeks-stones-bones</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/newsletters/article/secret-lives-forgotten-ancient-greeks-stones-bones</guid>
-            <pubDate>Fri, 31 Jul 2026 19:16:41 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/3ed832fa-7cdf-42d6-b335-b27d2ba88186/The_stoa_in_the_Sanctuary_of_Artemis_Brauronia_Photo_Ginny_Miglierina_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Himalayan avalanche engulfs world-famous climber Nims Purja]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/dfdd0a33-8dc5-47d3-b8bf-615f92b33e3e/AP19303647867198_16x9.jpg" alt="Himalayan avalanche engulfs world-famous climber Nims Purja" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/adventure/article/nims-purja-avalanche-broad-peak-himalayas</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/adventure/article/nims-purja-avalanche-broad-peak-himalayas</guid>
-            <pubDate>Fri, 31 Jul 2026 19:16:41 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/dfdd0a33-8dc5-47d3-b8bf-615f92b33e3e/AP19303647867198_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[The surprising detour of the Silk Road, the world’s original superhighway]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/6a47fc57-5b08-483e-96ed-227b8a2be74e/MM10415_B_20250324_1043_16x9.jpg" alt="The surprising detour of the Silk Road, the world’s original superhighway" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/uzbekistan-silk-road</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/uzbekistan-silk-road</guid>
+            <pubDate>Fri, 31 Jul 2026 20:59:17 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/6a47fc57-5b08-483e-96ed-227b8a2be74e/MM10415_B_20250324_1043_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
