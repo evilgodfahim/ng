@@ -9,33 +9,25 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 31 Jul 2026 12:52:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2026 17:24:19 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 31 Jul 2026 12:52:33 GMT</pubDate>
+        <pubDate>Fri, 31 Jul 2026 17:24:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Archaeologists found 37 people buried in one giant 'death jar']]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/2f659f69-a3af-4480-bc27-6429f1cc6a55/L1000159_16x9.jpg" alt="Archaeologists found 37 people buried in one giant 'death jar'" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/history/article/laos-giant-stone-death-jars</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/laos-giant-stone-death-jars</guid>
-            <pubDate>Fri, 31 Jul 2026 12:52:33 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/2f659f69-a3af-4480-bc27-6429f1cc6a55/L1000159_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Following the waterways of Maine]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/60de06c3-e603-4aa5-b429-11ce12f2d974/YUYAN-260624-NGCWMAINE-03393_16x9.jpg" alt="Following the waterways of Maine" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/paid-content-following-the-waterways-of-maine-from-coast-to-mountains</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/paid-content-following-the-waterways-of-maine-from-coast-to-mountains</guid>
+            <pubDate>Fri, 31 Jul 2026 17:24:19 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/60de06c3-e603-4aa5-b429-11ce12f2d974/YUYAN-260624-NGCWMAINE-03393_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Explore an underwater kelp paradise in this 360-degree video]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/5416cb9e-498b-43f5-afc7-fa75a56cf662/0848b6ea-4692-431f-9b6b-b389cf283f85_16x9.png" alt="Explore an underwater kelp paradise in this 360-degree video" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/environment/article/archives-reveal-salish-sea-kelp-forest</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/archives-reveal-salish-sea-kelp-forest</guid>
-            <pubDate>Fri, 31 Jul 2026 12:52:33 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/5416cb9e-498b-43f5-afc7-fa75a56cf662/0848b6ea-4692-431f-9b6b-b389cf283f85_16x9.png" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Up Close]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/9dcd49c7-ee7b-496b-b42b-a8ea8ddac38b/TerriaClay_16x9.jpg" alt="Up Close" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/photo-of-the-day/media-spotlight/toco-toucan-bronx-zoo-new-york</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/photo-of-the-day/media-spotlight/toco-toucan-bronx-zoo-new-york</guid>
-            <pubDate>Fri, 31 Jul 2026 12:52:33 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/9dcd49c7-ee7b-496b-b42b-a8ea8ddac38b/TerriaClay_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[This charming college town is one of Ohio’s best-kept secrets]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/560e9228-0af9-47b0-a2e3-6d5583bff301/shutterstock_1441789643_16x9.jpg" alt="This charming college town is one of Ohio’s best-kept secrets" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/small-town-ohio-toni-morrison</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/small-town-ohio-toni-morrison</guid>
+            <pubDate>Fri, 31 Jul 2026 17:24:19 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/560e9228-0af9-47b0-a2e3-6d5583bff301/shutterstock_1441789643_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
