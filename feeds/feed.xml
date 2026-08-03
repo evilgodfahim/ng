@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 02 Aug 2026 10:36:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Aug 2026 10:37:06 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 02 Aug 2026 10:36:01 GMT</pubDate>
+        <pubDate>Mon, 03 Aug 2026 10:37:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[8 music trips that will sing to travelers with a taste for rhythm]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/8235c957-317c-41cc-b6a4-d8fe1fb9f88d/musictrips3_16x9.jpg" alt="8 music trips that will sing to travelers with a taste for rhythm" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/best-music-trips-experiences-around-the-world</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/best-music-trips-experiences-around-the-world</guid>
-            <pubDate>Sun, 02 Aug 2026 10:36:01 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/8235c957-317c-41cc-b6a4-d8fe1fb9f88d/musictrips3_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Why this Sicilian town is Italy's newest art capital]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/ca056f29-fd84-430a-b44d-9c84f4640fba/gibellina2_16x9.jpg" alt="Why this Sicilian town is Italy's newest art capital" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/why-gibellina-sicily-is-italys-newest-art-capital</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/why-gibellina-sicily-is-italys-newest-art-capital</guid>
+            <pubDate>Mon, 03 Aug 2026 10:37:06 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/ca056f29-fd84-430a-b44d-9c84f4640fba/gibellina2_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
