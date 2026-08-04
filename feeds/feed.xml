@@ -1,19 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[National Geographic (error fallback)]]></title>
-        <description><![CDATA[Feed could not be generated]]></description>
+        <title><![CDATA[National Geographic – Latest]]></title>
+        <description><![CDATA[Latest articles from National Geographic]]></description>
         <link>https://www.nationalgeographic.com</link>
+        <image>
+            <url>https://www.nationalgeographic.com/favicon.ico</url>
+            <title>National Geographic – Latest</title>
+            <link>https://www.nationalgeographic.com</link>
+        </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 04 Aug 2026 10:33:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Aug 2026 15:22:18 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 04 Aug 2026 10:33:09 GMT</pubDate>
+        <pubDate>Tue, 04 Aug 2026 15:22:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred. Check the console logs.]]></description>
-            <link>https://www.nationalgeographic.com</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com</guid>
-            <pubDate>Tue, 04 Aug 2026 10:33:09 GMT</pubDate>
+            <title><![CDATA[The extraordinary comeback of Zimbabwe's endangered black rhinos]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/e9278fd7-2393-431c-9a23-d8ea8ac90825/Marcus-Rhinos-Zimbabwe-00163_16x9.jpg" alt="The extraordinary comeback of Zimbabwe's endangered black rhinos" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/animals/article/black-rhino-reintroduction-matusadona</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/black-rhino-reintroduction-matusadona</guid>
+            <pubDate>Tue, 04 Aug 2026 15:22:18 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/e9278fd7-2393-431c-9a23-d8ea8ac90825/Marcus-Rhinos-Zimbabwe-00163_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[French wildfires are devastating for animals]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/5097d69c-6095-471e-b6d0-47137be524cb/AP26206393940693_16x9.jpg" alt="French wildfires are devastating for animals" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/animals/article/french-wildfires-animals</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/french-wildfires-animals</guid>
+            <pubDate>Tue, 04 Aug 2026 15:22:18 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/5097d69c-6095-471e-b6d0-47137be524cb/AP26206393940693_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[What yellowjacket stings reveal about how scientists measure pain]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/a84a0ef8-862a-4b0e-a683-ba299fb10cac/naturepl_01420501_16x9.jpg" alt="What yellowjacket stings reveal about how scientists measure pain" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/animals/article/yellowjacket-schmidt-sting-pain-index</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/yellowjacket-schmidt-sting-pain-index</guid>
+            <pubDate>Tue, 04 Aug 2026 15:22:18 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/a84a0ef8-862a-4b0e-a683-ba299fb10cac/naturepl_01420501_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The best Italian islands to visit in 2026]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/46ae9a39-2901-46c8-93cb-dad724ea59f9/italylist6_16x9.jpg" alt="The best Italian islands to visit in 2026" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/best-italian-islands-to-visit-this-year</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/best-italian-islands-to-visit-this-year</guid>
+            <pubDate>Tue, 04 Aug 2026 15:22:18 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/46ae9a39-2901-46c8-93cb-dad724ea59f9/italylist6_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Father and Son]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/cfa959d8-d656-41dc-9a76-a1cd81df97bb/STOCK_MD0826_IF_20260414__POS8143_16x9.jpg" alt="Father and Son" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/photo-of-the-day/media-spotlight/father-and-son-malta</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/photo-of-the-day/media-spotlight/father-and-son-malta</guid>
+            <pubDate>Tue, 04 Aug 2026 15:22:18 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/cfa959d8-d656-41dc-9a76-a1cd81df97bb/STOCK_MD0826_IF_20260414__POS8143_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
