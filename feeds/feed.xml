@@ -9,17 +9,25 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 04 Aug 2026 19:23:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2026 09:32:14 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 04 Aug 2026 19:23:41 GMT</pubDate>
+        <pubDate>Wed, 05 Aug 2026 09:32:14 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Quiz: How well do you know these weird and wonderful species?]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/198acda4-fe0d-457a-8cd6-18706e339535/09_four-eyed%20fish%20white%20bg_cr%20Joel%20Sartore%20National%20Geographic%20Photo%20Ark_SPI-1976806_16x9.jpg" alt="Quiz: How well do you know these weird and wonderful species?" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/impact/article/how-well-do-you-know-these-weird-and-wonderful-species</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/impact/article/how-well-do-you-know-these-weird-and-wonderful-species</guid>
-            <pubDate>Tue, 04 Aug 2026 19:23:41 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/198acda4-fe0d-457a-8cd6-18706e339535/09_four-eyed%20fish%20white%20bg_cr%20Joel%20Sartore%20National%20Geographic%20Photo%20Ark_SPI-1976806_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Can you overcome a fear of flying?]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/df218fda-62e3-4630-81bd-19e9934a6d27/ET_lowdown_GettyImages-2193515508_ukHR_16x9.jpg" alt="Can you overcome a fear of flying?" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/can-you-overcome-a-fear-of-flying-experiences-tips-courses</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/can-you-overcome-a-fear-of-flying-experiences-tips-courses</guid>
+            <pubDate>Wed, 05 Aug 2026 09:32:14 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/df218fda-62e3-4630-81bd-19e9934a6d27/ET_lowdown_GettyImages-2193515508_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Everything to know about Guadalupe Mountains National Park]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/140b98a6-548f-411f-98ca-783d5d930c99/ABP_El-Capitan-Moonset_16x9.jpg" alt="Everything to know about Guadalupe Mountains National Park" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/national-parks/article/guadalupe-mountains-national-park</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/national-parks/article/guadalupe-mountains-national-park</guid>
+            <pubDate>Wed, 05 Aug 2026 09:32:14 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/140b98a6-548f-411f-98ca-783d5d930c99/ABP_El-Capitan-Moonset_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
