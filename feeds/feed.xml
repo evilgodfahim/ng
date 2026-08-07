@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Aug 2026 11:41:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 15:51:00 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 07 Aug 2026 11:41:13 GMT</pubDate>
+        <pubDate>Fri, 07 Aug 2026 15:51:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Birds of a Feather]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/ad2cc880-5c2f-47d3-8b1c-636cef8dc473/AlexanderLey_05_LesserFlamingos_Flight_LakeLogipi_Unison_16x9.jpg" alt="Birds of a Feather" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/photo-of-the-day/media-spotlight/flamingos-lake-logipi-kenya</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/photo-of-the-day/media-spotlight/flamingos-lake-logipi-kenya</guid>
-            <pubDate>Fri, 07 Aug 2026 11:41:13 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/ad2cc880-5c2f-47d3-8b1c-636cef8dc473/AlexanderLey_05_LesserFlamingos_Flight_LakeLogipi_Unison_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[An eclipse-inspired trip to Iceland’s most remote region]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/f7e96b11-ea0c-4341-bb79-4632e66bfb61/Isley_Reust-8261_16x9.jpg" alt="An eclipse-inspired trip to Iceland’s most remote region" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/eclipse-iceland-2026</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/eclipse-iceland-2026</guid>
+            <pubDate>Fri, 07 Aug 2026 15:51:00 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/f7e96b11-ea0c-4341-bb79-4632e66bfb61/Isley_Reust-8261_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
