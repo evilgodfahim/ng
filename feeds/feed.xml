@@ -9,25 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 06 Aug 2026 22:26:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 08:52:25 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 06 Aug 2026 22:26:05 GMT</pubDate>
+        <pubDate>Fri, 07 Aug 2026 08:52:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Bridge to Breakthrough: Preventing HIV infections in Kenya]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/5d6e6c40-f2d7-461d-ab38-d7f569285be6/DSCF7286_0017_0004_16x9.jpg" alt="Bridge to Breakthrough: Preventing HIV infections in Kenya" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/health/article/paid-content-bridge-to-breakthrough-preventing-hiv-infections-in-kenya-one-conversation-at-a-time</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/health/article/paid-content-bridge-to-breakthrough-preventing-hiv-infections-in-kenya-one-conversation-at-a-time</guid>
-            <pubDate>Thu, 06 Aug 2026 22:26:05 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/5d6e6c40-f2d7-461d-ab38-d7f569285be6/DSCF7286_0017_0004_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Are We on the Brink of Ending Aging?]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/d93a7855-e33b-4c27-b0f2-79ea4b861c39/GRATIS_MM10574_SCs-hires_16x9.jpg" alt="Are We on the Brink of Ending Aging?" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/health/article/end-of-aging-cellular-reprogramming-longevity</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/health/article/end-of-aging-cellular-reprogramming-longevity</guid>
-            <pubDate>Thu, 06 Aug 2026 22:26:05 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/d93a7855-e33b-4c27-b0f2-79ea4b861c39/GRATIS_MM10574_SCs-hires_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Could this wild rainforest be Patagonia's best-kept secret?]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/b63588d9-4518-4399-9fc2-b767d71ba0c1/patagonia_GettyImages-758282303_ukHR_16x9.jpg" alt="Could this wild rainforest be Patagonia's best-kept secret?" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/could-this-wild-rainforest-be-patagonias-best-kept-secret</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/could-this-wild-rainforest-be-patagonias-best-kept-secret</guid>
+            <pubDate>Fri, 07 Aug 2026 08:52:25 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/b63588d9-4518-4399-9fc2-b767d71ba0c1/patagonia_GettyImages-758282303_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
