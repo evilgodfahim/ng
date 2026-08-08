@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Aug 2026 15:51:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Aug 2026 09:32:07 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 07 Aug 2026 15:51:00 GMT</pubDate>
+        <pubDate>Sat, 08 Aug 2026 09:32:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[An eclipse-inspired trip to Iceland’s most remote region]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/f7e96b11-ea0c-4341-bb79-4632e66bfb61/Isley_Reust-8261_16x9.jpg" alt="An eclipse-inspired trip to Iceland’s most remote region" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/eclipse-iceland-2026</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/eclipse-iceland-2026</guid>
-            <pubDate>Fri, 07 Aug 2026 15:51:00 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/f7e96b11-ea0c-4341-bb79-4632e66bfb61/Isley_Reust-8261_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[This Santorini sister island is Greece's best-kept secret]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/8e513213-0b39-41af-8f4e-991883e6e64c/GettyImages-2274515633_16x9.jpg" alt="This Santorini sister island is Greece's best-kept secret" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/how-to-visit-therasia-santorini-sister-island-greece</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/how-to-visit-therasia-santorini-sister-island-greece</guid>
+            <pubDate>Sat, 08 Aug 2026 09:32:07 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/8e513213-0b39-41af-8f4e-991883e6e64c/GettyImages-2274515633_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
