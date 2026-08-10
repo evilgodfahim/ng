@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Aug 2026 11:02:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 12:55:38 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 10 Aug 2026 11:02:45 GMT</pubDate>
+        <pubDate>Mon, 10 Aug 2026 12:55:38 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Cooler homes, smarter cities]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/cfb14cfc-ee4b-435e-afdf-9fe5848c7034/bd6c5d5a-7efa-463d-a737-e07a4bfeb30e_16x9.jpg" alt="Cooler homes, smarter cities" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/science/article/paid-content-cooler-homes-smarter-cities</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/paid-content-cooler-homes-smarter-cities</guid>
-            <pubDate>Mon, 10 Aug 2026 11:02:45 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/cfb14cfc-ee4b-435e-afdf-9fe5848c7034/bd6c5d5a-7efa-463d-a737-e07a4bfeb30e_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Swan Lake]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/04daa540-a47a-44a7-bad0-35e2c6d80ca9/Marian_Marin_Swan_LakeBalaton_Unison_16x9.jpg" alt="Swan Lake" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/photo-of-the-day/media-spotlight/swan-lake-balaton-hungary</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/photo-of-the-day/media-spotlight/swan-lake-balaton-hungary</guid>
+            <pubDate>Mon, 10 Aug 2026 12:55:38 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/04daa540-a47a-44a7-bad0-35e2c6d80ca9/Marian_Marin_Swan_LakeBalaton_Unison_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
