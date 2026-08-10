@@ -9,25 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Aug 2026 15:55:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 17:46:48 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 10 Aug 2026 15:55:19 GMT</pubDate>
+        <pubDate>Mon, 10 Aug 2026 17:46:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[The ‘Coolcation’ is Trending—Here’s Where You Should Go in Europe]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/e5c59712-60af-4901-bc16-d7086620f7a4/cool3_16x9.jpg" alt="The ‘Coolcation’ is Trending—Here’s Where You Should Go in Europe" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/what-is-coolcation-best-places-in-europe</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/what-is-coolcation-best-places-in-europe</guid>
-            <pubDate>Mon, 10 Aug 2026 15:55:19 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/e5c59712-60af-4901-bc16-d7086620f7a4/cool3_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Why Some People Are Better At Handling Stress]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/4f6e75e0-c1b9-41df-8dd6-84b8c7038d8e/Stress_Mhari_Orange_16x9.gif" alt="Why Some People Are Better At Handling Stress" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/health/article/gut-microbiome-stress-response</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/health/article/gut-microbiome-stress-response</guid>
-            <pubDate>Mon, 10 Aug 2026 15:55:19 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/4f6e75e0-c1b9-41df-8dd6-84b8c7038d8e/Stress_Mhari_Orange_16x9.gif" length="0" type="image/jpeg"/>
+            <title><![CDATA[Dispatch From a World on Fire]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/e8c0a44c-55e5-4eac-8693-984e9c4a0d09/McBride_MM10630_26_07_13_280_16x9.jpg" alt="Dispatch From a World on Fire" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/environment/article/colorado-gold-mountain-fire-wildfires-west-pete-mcbride</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/colorado-gold-mountain-fire-wildfires-west-pete-mcbride</guid>
+            <pubDate>Mon, 10 Aug 2026 17:46:48 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/e8c0a44c-55e5-4eac-8693-984e9c4a0d09/McBride_MM10630_26_07_13_280_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
