@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Aug 2026 17:46:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 19:51:41 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 10 Aug 2026 17:46:48 GMT</pubDate>
+        <pubDate>Mon, 10 Aug 2026 19:51:41 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Dispatch From a World on Fire]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/e8c0a44c-55e5-4eac-8693-984e9c4a0d09/McBride_MM10630_26_07_13_280_16x9.jpg" alt="Dispatch From a World on Fire" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/environment/article/colorado-gold-mountain-fire-wildfires-west-pete-mcbride</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/colorado-gold-mountain-fire-wildfires-west-pete-mcbride</guid>
-            <pubDate>Mon, 10 Aug 2026 17:46:48 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/e8c0a44c-55e5-4eac-8693-984e9c4a0d09/McBride_MM10630_26_07_13_280_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[How Heinrich Schliemann Rediscovered Troy—and Destroyed It]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/ff60e8d3-c4ba-4a16-a429-1efd7f2f28c4/GettyImages-541078205_16x9.jpg" alt="How Heinrich Schliemann Rediscovered Troy—and Destroyed It" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/how-heinrich-schliemann-rediscovered-troyand-then-destroyed-it</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/how-heinrich-schliemann-rediscovered-troyand-then-destroyed-it</guid>
+            <pubDate>Mon, 10 Aug 2026 19:51:41 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/ff60e8d3-c4ba-4a16-a429-1efd7f2f28c4/GettyImages-541078205_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
