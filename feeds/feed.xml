@@ -9,17 +9,33 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 11 Aug 2026 09:55:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 11:39:52 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 11 Aug 2026 09:55:36 GMT</pubDate>
+        <pubDate>Tue, 11 Aug 2026 11:39:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[10 best English farm stays to escape the city]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/adba2ca4-f1bd-4ca9-98e7-02de5571ed92/LEAD_BertioliTomatoVine_cr_Maureen_Evans_16x9.jpg" alt="10 best English farm stays to escape the city" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/best-farm-stays-england-to-escape-the-city</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/best-farm-stays-england-to-escape-the-city</guid>
-            <pubDate>Tue, 11 Aug 2026 09:55:36 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/adba2ca4-f1bd-4ca9-98e7-02de5571ed92/LEAD_BertioliTomatoVine_cr_Maureen_Evans_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[The Helium-Powered Ride that Changed Readers’ Perspective]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/e3ffff6c-c09c-4aec-ae4c-c9758c836341/SPI-1577750_16x9.jpg" alt="The Helium-Powered Ride that Changed Readers’ Perspective" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/photography/article/statue-of-liberty-aerial-photograph</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/photography/article/statue-of-liberty-aerial-photograph</guid>
+            <pubDate>Tue, 11 Aug 2026 11:39:52 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/e3ffff6c-c09c-4aec-ae4c-c9758c836341/SPI-1577750_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Everything to know about Pinnacles National Park]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/413b4cb2-2c4e-4cea-8cab-43760dcbfef8/GettyImages-1690966090_16x9.jpg" alt="Everything to know about Pinnacles National Park" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/national-parks/article/pinnacles-national-park</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/national-parks/article/pinnacles-national-park</guid>
+            <pubDate>Tue, 11 Aug 2026 11:39:52 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/413b4cb2-2c4e-4cea-8cab-43760dcbfef8/GettyImages-1690966090_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Life in Color]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/2096ce57-87b2-48e5-99fe-04e055c446b9/El_Alto_Market_Forrest_Walker_NGM-1_16x9.jpg" alt="Life in Color" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/photo-of-the-day/media-spotlight/urban-market-el-alto-bolivia</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/photo-of-the-day/media-spotlight/urban-market-el-alto-bolivia</guid>
+            <pubDate>Tue, 11 Aug 2026 11:39:52 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/2096ce57-87b2-48e5-99fe-04e055c446b9/El_Alto_Market_Forrest_Walker_NGM-1_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
