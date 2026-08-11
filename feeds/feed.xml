@@ -9,17 +9,25 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 11 Aug 2026 16:53:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 20:44:58 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 11 Aug 2026 16:53:31 GMT</pubDate>
+        <pubDate>Tue, 11 Aug 2026 20:44:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Strange stone circles in the Sahara may reveal ancient secrets]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/d223bc80-767f-40ce-bfc5-c662b882f8ef/C23_16x9.jpg" alt="Strange stone circles in the Sahara may reveal ancient secrets" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/history/article/sahara-desert-nomad-stone-circles</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/sahara-desert-nomad-stone-circles</guid>
-            <pubDate>Tue, 11 Aug 2026 16:53:31 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/d223bc80-767f-40ce-bfc5-c662b882f8ef/C23_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Why Germany Sank the WWII Ships Now Emerging From the Danube]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/2a433ae9-ef56-4ddf-8235-8ff7131a7e03/AP26216433059933_16x9.jpg" alt="Why Germany Sank the WWII Ships Now Emerging From the Danube" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/environment/article/drought-heat-danube-river-wwii-shipwrecks</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/drought-heat-danube-river-wwii-shipwrecks</guid>
+            <pubDate>Tue, 11 Aug 2026 20:44:58 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/2a433ae9-ef56-4ddf-8235-8ff7131a7e03/AP26216433059933_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[How Do Hurricanes Form?]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/acfc7060-65d7-4511-bac6-2159c87ea3c0/NationalGeographic_2781401_16x9.jpg" alt="How Do Hurricanes Form?" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/environment/article/hurricanes-typhoons-cyclones</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/hurricanes-typhoons-cyclones</guid>
+            <pubDate>Tue, 11 Aug 2026 20:44:58 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/acfc7060-65d7-4511-bac6-2159c87ea3c0/NationalGeographic_2781401_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
