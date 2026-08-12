@@ -1,19 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[National Geographic (error fallback)]]></title>
-        <description><![CDATA[Feed could not be generated]]></description>
+        <title><![CDATA[National Geographic – Latest]]></title>
+        <description><![CDATA[Latest articles from National Geographic]]></description>
         <link>https://www.nationalgeographic.com</link>
+        <image>
+            <url>https://www.nationalgeographic.com/favicon.ico</url>
+            <title>National Geographic – Latest</title>
+            <link>https://www.nationalgeographic.com</link>
+        </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 12 Aug 2026 11:49:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 12:56:18 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 12 Aug 2026 11:49:22 GMT</pubDate>
+        <pubDate>Wed, 12 Aug 2026 12:56:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred. Check the console logs.]]></description>
-            <link>https://www.nationalgeographic.com</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com</guid>
-            <pubDate>Wed, 12 Aug 2026 11:49:22 GMT</pubDate>
+            <title><![CDATA[Making Way for the Giant Anteaters of Brazil]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/56470b20-654b-4834-ae5d-d9b25e29df4e/STOCKPKG_MM10540_FJF_230819_1556_DSC_2950_16x9.jpeg" alt="Making Way for the Giant Anteaters of Brazil" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/animals/article/brazil-roads-giant-anteaters</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/brazil-roads-giant-anteaters</guid>
+            <pubDate>Wed, 12 Aug 2026 12:56:18 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/56470b20-654b-4834-ae5d-d9b25e29df4e/STOCKPKG_MM10540_FJF_230819_1556_DSC_2950_16x9.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[8 of the Best Things to Do in Seattle With Kids]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/3d399162-1f2d-4dd7-a590-9c45dc4c94f8/shutterstock_2527895455%20(1)_16x9.jpg" alt="8 of the Best Things to Do in Seattle With Kids" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/seattle-best-things-to-do-family-friendly</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/seattle-best-things-to-do-family-friendly</guid>
+            <pubDate>Wed, 12 Aug 2026 12:56:18 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/3d399162-1f2d-4dd7-a590-9c45dc4c94f8/shutterstock_2527895455%20(1)_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Lizard That Inherited Earth After Its Worst Apocalypse]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/fba1255d-7af1-40b9-b1a2-eff700dbbf2c/1_16x9.jpeg" alt="The Lizard That Inherited Earth After Its Worst Apocalypse" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/science/article/giant-triassic-croc</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/giant-triassic-croc</guid>
+            <pubDate>Wed, 12 Aug 2026 12:56:18 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/fba1255d-7af1-40b9-b1a2-eff700dbbf2c/1_16x9.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Connecting the Past and the Future]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/628a45d2-7a5b-4722-8bcf-3b7010c43c3f/9d6a104e-50de-460b-bc1b-90615e8b0942_16x9.jpg" alt="Connecting the Past and the Future" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/science/article/paid-content-connecting-the-past-and-the-future</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/paid-content-connecting-the-past-and-the-future</guid>
+            <pubDate>Wed, 12 Aug 2026 12:56:18 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/628a45d2-7a5b-4722-8bcf-3b7010c43c3f/9d6a104e-50de-460b-bc1b-90615e8b0942_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fresh Catch]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/14328f76-0127-4041-b7f0-4ab22e01b594/SRNG_glass_eels_DSC03519-Enhanced-NR_16x9.jpg" alt="Fresh Catch" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/photo-of-the-day/media-spotlight/glass-eels-auckland-new-zealand</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/photo-of-the-day/media-spotlight/glass-eels-auckland-new-zealand</guid>
+            <pubDate>Wed, 12 Aug 2026 12:56:18 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/14328f76-0127-4041-b7f0-4ab22e01b594/SRNG_glass_eels_DSC03519-Enhanced-NR_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
