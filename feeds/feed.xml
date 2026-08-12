@@ -9,25 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 11 Aug 2026 20:44:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 08:12:08 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 11 Aug 2026 20:44:58 GMT</pubDate>
+        <pubDate>Wed, 12 Aug 2026 08:12:08 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Why Germany Sank the WWII Ships Now Emerging From the Danube]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/2a433ae9-ef56-4ddf-8235-8ff7131a7e03/AP26216433059933_16x9.jpg" alt="Why Germany Sank the WWII Ships Now Emerging From the Danube" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/environment/article/drought-heat-danube-river-wwii-shipwrecks</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/drought-heat-danube-river-wwii-shipwrecks</guid>
-            <pubDate>Tue, 11 Aug 2026 20:44:58 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/2a433ae9-ef56-4ddf-8235-8ff7131a7e03/AP26216433059933_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[How Do Hurricanes Form?]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/acfc7060-65d7-4511-bac6-2159c87ea3c0/NationalGeographic_2781401_16x9.jpg" alt="How Do Hurricanes Form?" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/environment/article/hurricanes-typhoons-cyclones</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/hurricanes-typhoons-cyclones</guid>
-            <pubDate>Tue, 11 Aug 2026 20:44:58 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/acfc7060-65d7-4511-bac6-2159c87ea3c0/NationalGeographic_2781401_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Sleep in the Shadow of Uluru on This new Australian Great Walk]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/c3f805b7-5f6d-4c03-9ac4-7137d786d968/uluru_DSCF1306_ukHR_16x9.jpg" alt="Sleep in the Shadow of Uluru on This new Australian Great Walk" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/sleep-in-the-shadow-of-uluru-on-this-new-australian-great-walk</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/sleep-in-the-shadow-of-uluru-on-this-new-australian-great-walk</guid>
+            <pubDate>Wed, 12 Aug 2026 08:12:08 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/c3f805b7-5f6d-4c03-9ac4-7137d786d968/uluru_DSCF1306_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
