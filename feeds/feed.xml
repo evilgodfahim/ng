@@ -9,17 +9,25 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 12 Aug 2026 20:49:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 21:39:36 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 12 Aug 2026 20:49:44 GMT</pubDate>
+        <pubDate>Wed, 12 Aug 2026 21:39:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Stunning Images of the Solar Eclipse From Nat Geo Photographers]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/cef0a677-12fd-4a83-ad5e-30945e276804/DSC_0070_16x9.jpg" alt="Stunning Images of the Solar Eclipse From Nat Geo Photographers" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/photography/article/total-solar-eclipse-europe-2026-photos</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/photography/article/total-solar-eclipse-europe-2026-photos</guid>
-            <pubDate>Wed, 12 Aug 2026 20:49:44 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/cef0a677-12fd-4a83-ad5e-30945e276804/DSC_0070_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Should you still squash spotted lanternflies? Here’s what to know]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/45eb21a7-a591-4dd2-9804-019aeddd75b7/h_15618182_16x9.jpg" alt="Should you still squash spotted lanternflies? Here’s what to know" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/animals/article/invasive-spotted-latternfly-summer-return</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/invasive-spotted-latternfly-summer-return</guid>
+            <pubDate>Wed, 12 Aug 2026 21:39:36 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/45eb21a7-a591-4dd2-9804-019aeddd75b7/h_15618182_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[They mummified a human with ancient tools. It got messy.]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/1a93382c-586f-4e10-a5c1-f8a1d9728d9b/NationalGeographic_1347925_16x9.jpg" alt="They mummified a human with ancient tools. It got messy." style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/sam-kean-book-dinner-with-king-tut-modern-mummy-ancient-egypt</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/sam-kean-book-dinner-with-king-tut-modern-mummy-ancient-egypt</guid>
+            <pubDate>Wed, 12 Aug 2026 21:39:36 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/1a93382c-586f-4e10-a5c1-f8a1d9728d9b/NationalGeographic_1347925_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
