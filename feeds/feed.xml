@@ -9,25 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 12 Aug 2026 21:39:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 08:15:32 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 12 Aug 2026 21:39:36 GMT</pubDate>
+        <pubDate>Thu, 13 Aug 2026 08:15:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Should you still squash spotted lanternflies? Here’s what to know]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/45eb21a7-a591-4dd2-9804-019aeddd75b7/h_15618182_16x9.jpg" alt="Should you still squash spotted lanternflies? Here’s what to know" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/animals/article/invasive-spotted-latternfly-summer-return</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/invasive-spotted-latternfly-summer-return</guid>
-            <pubDate>Wed, 12 Aug 2026 21:39:36 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/45eb21a7-a591-4dd2-9804-019aeddd75b7/h_15618182_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[They mummified a human with ancient tools. It got messy.]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/1a93382c-586f-4e10-a5c1-f8a1d9728d9b/NationalGeographic_1347925_16x9.jpg" alt="They mummified a human with ancient tools. It got messy." style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/history/article/sam-kean-book-dinner-with-king-tut-modern-mummy-ancient-egypt</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/sam-kean-book-dinner-with-king-tut-modern-mummy-ancient-egypt</guid>
-            <pubDate>Wed, 12 Aug 2026 21:39:36 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/1a93382c-586f-4e10-a5c1-f8a1d9728d9b/NationalGeographic_1347925_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[8 Exciting Experiences to Have in Budapest Right Now]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/bea75137-103a-465f-9353-f5598f650696/whenin1_16x9.jpg" alt="8 Exciting Experiences to Have in Budapest Right Now" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/most-exciting-experiences-in-budapest</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/most-exciting-experiences-in-budapest</guid>
+            <pubDate>Thu, 13 Aug 2026 08:15:32 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/bea75137-103a-465f-9353-f5598f650696/whenin1_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
