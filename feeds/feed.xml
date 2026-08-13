@@ -9,17 +9,33 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 13 Aug 2026 08:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 12:57:23 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 13 Aug 2026 08:15:32 GMT</pubDate>
+        <pubDate>Thu, 13 Aug 2026 12:57:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[8 Exciting Experiences to Have in Budapest Right Now]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/bea75137-103a-465f-9353-f5598f650696/whenin1_16x9.jpg" alt="8 Exciting Experiences to Have in Budapest Right Now" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/most-exciting-experiences-in-budapest</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/most-exciting-experiences-in-budapest</guid>
-            <pubDate>Thu, 13 Aug 2026 08:15:32 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/bea75137-103a-465f-9353-f5598f650696/whenin1_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[What We Can Learn From These World War II Incarceration Camp Relics]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/69e38981-ca12-4f4a-9cd9-5b0a582a13ae/STOCKPKG_MF4210_NGM_CampObjects-11_16x9.jpg" alt="What We Can Learn From These World War II Incarceration Camp Relics" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/world-war-ii-incarceration-camps-wooden-birds</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/world-war-ii-incarceration-camps-wooden-birds</guid>
+            <pubDate>Thu, 13 Aug 2026 12:57:23 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/69e38981-ca12-4f4a-9cd9-5b0a582a13ae/STOCKPKG_MF4210_NGM_CampObjects-11_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[23 Incredible Pictures Nat Geo Photo Editors Loved This Month]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/2e63e5ed-8591-46cb-8d03-8584d626f444/STOCK_MD0726_PG_Icarus_16x9.jpg" alt="23 Incredible Pictures Nat Geo Photo Editors Loved This Month" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/photography/article/photo-of-the-day-july-2026-skydiving-baby-seal-planting</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/photography/article/photo-of-the-day-july-2026-skydiving-baby-seal-planting</guid>
+            <pubDate>Thu, 13 Aug 2026 12:57:23 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/2e63e5ed-8591-46cb-8d03-8584d626f444/STOCK_MD0726_PG_Icarus_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[All Aboard]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/bde92378-d4a1-4c8e-8019-64d170c0e81b/AlexBurke_SuncorBigBoy4014_16x9.jpg" alt="All Aboard" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/photo-of-the-day/media-spotlight/big-boy-steam-locomotive-colorado</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/photo-of-the-day/media-spotlight/big-boy-steam-locomotive-colorado</guid>
+            <pubDate>Thu, 13 Aug 2026 12:57:23 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/bde92378-d4a1-4c8e-8019-64d170c0e81b/AlexBurke_SuncorBigBoy4014_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
