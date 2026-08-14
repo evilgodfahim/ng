@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Aug 2026 16:48:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2026 21:19:41 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 14 Aug 2026 16:48:59 GMT</pubDate>
+        <pubDate>Fri, 14 Aug 2026 21:19:41 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[The dinosaurs that went extinct ... twice]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/bbcff201-f403-4c31-8045-b6b1b1a89f51/Reconstruction_of_the_Bahariya_Oasis_95_million_years_ago_16x9.jpg" alt="The dinosaurs that went extinct ... twice" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/newsletters/article/stones-bones-dinosaurs-extinct-twice-world-war-ii</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/newsletters/article/stones-bones-dinosaurs-extinct-twice-world-war-ii</guid>
-            <pubDate>Fri, 14 Aug 2026 16:48:59 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/bbcff201-f403-4c31-8045-b6b1b1a89f51/Reconstruction_of_the_Bahariya_Oasis_95_million_years_ago_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[How I Got the Shot: Total Solar Eclipse]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/504f8d75-9d7a-421b-8a19-ca6ac8f00a31/DSC02811-4_16x9.jpg" alt="How I Got the Shot: Total Solar Eclipse" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/photography/article/reuben-wu-total-solar-eclipse-photography</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/photography/article/reuben-wu-total-solar-eclipse-photography</guid>
+            <pubDate>Fri, 14 Aug 2026 21:19:41 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/504f8d75-9d7a-421b-8a19-ca6ac8f00a31/DSC02811-4_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
