@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Aug 2026 21:19:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Aug 2026 08:21:00 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 14 Aug 2026 21:19:41 GMT</pubDate>
+        <pubDate>Sat, 15 Aug 2026 08:21:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[How I Got the Shot: Total Solar Eclipse]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/504f8d75-9d7a-421b-8a19-ca6ac8f00a31/DSC02811-4_16x9.jpg" alt="How I Got the Shot: Total Solar Eclipse" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/photography/article/reuben-wu-total-solar-eclipse-photography</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/photography/article/reuben-wu-total-solar-eclipse-photography</guid>
-            <pubDate>Fri, 14 Aug 2026 21:19:41 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/504f8d75-9d7a-421b-8a19-ca6ac8f00a31/DSC02811-4_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[7 of the Best Summer Hiking Shoes]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/adcbda8d-78d2-4b9f-968b-90d0af7df5a3/Kitlist_16x9.jpg" alt="7 of the Best Summer Hiking Shoes" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/best-hiking-shoe-for-summer</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/best-hiking-shoe-for-summer</guid>
+            <pubDate>Sat, 15 Aug 2026 08:21:00 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/adcbda8d-78d2-4b9f-968b-90d0af7df5a3/Kitlist_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
