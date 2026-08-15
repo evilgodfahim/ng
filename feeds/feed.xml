@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Aug 2026 08:21:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Aug 2026 12:26:32 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 15 Aug 2026 08:21:00 GMT</pubDate>
+        <pubDate>Sat, 15 Aug 2026 12:26:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[7 of the Best Summer Hiking Shoes]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/adcbda8d-78d2-4b9f-968b-90d0af7df5a3/Kitlist_16x9.jpg" alt="7 of the Best Summer Hiking Shoes" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/best-hiking-shoe-for-summer</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/best-hiking-shoe-for-summer</guid>
-            <pubDate>Sat, 15 Aug 2026 08:21:00 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/adcbda8d-78d2-4b9f-968b-90d0af7df5a3/Kitlist_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Walk the Streets of Panama City Like a Local—Here's How]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/ba6804eb-481d-4aeb-8a4f-8b521e07e0f1/panama3_16x9.jpg" alt="Walk the Streets of Panama City Like a Local—Here's How" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/walk-the-streets-of-panama-city-like-a-local</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/walk-the-streets-of-panama-city-like-a-local</guid>
+            <pubDate>Sat, 15 Aug 2026 12:26:32 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/ba6804eb-481d-4aeb-8a4f-8b521e07e0f1/panama3_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
