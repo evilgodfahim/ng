@@ -9,33 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Aug 2026 11:20:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 12:33:00 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Aug 2026 11:20:17 GMT</pubDate>
+        <pubDate>Mon, 17 Aug 2026 12:33:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[How You Can Help Bees Stay Cool on a Hot Day]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/2fa0e7a1-db8b-4a64-a02b-987b6571c80f/bee-000095280011-2_16x9.jpg" alt="How You Can Help Bees Stay Cool on a Hot Day" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/animals/article/bees-heat-temperature-regulation</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/bees-heat-temperature-regulation</guid>
-            <pubDate>Mon, 17 Aug 2026 11:20:17 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/2fa0e7a1-db8b-4a64-a02b-987b6571c80f/bee-000095280011-2_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Could Electricity Zap Away Chronic Disease?]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/cf0ac96d-02c0-42ed-bdef-15db883622ab/VAGUS_NATGEO-v1_16x9.jpg" alt="Could Electricity Zap Away Chronic Disease?" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/health/article/bioelectronic-medicine-vagus-nerve-chronic-disease</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/health/article/bioelectronic-medicine-vagus-nerve-chronic-disease</guid>
-            <pubDate>Mon, 17 Aug 2026 11:20:17 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/cf0ac96d-02c0-42ed-bdef-15db883622ab/VAGUS_NATGEO-v1_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Up in the Air]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/62460296-8357-413f-93da-c2020da54e88/QURNAWI_ANDRAS_ZOLTAI_previews017_16x9.jpg" alt="Up in the Air" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/photo-of-the-day/media-spotlight/hot-air-balloons-luxor-egypt</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/photo-of-the-day/media-spotlight/hot-air-balloons-luxor-egypt</guid>
-            <pubDate>Mon, 17 Aug 2026 11:20:17 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/62460296-8357-413f-93da-c2020da54e88/QURNAWI_ANDRAS_ZOLTAI_previews017_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[In Search of Germany’s Best Pickles by Bike]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/5837c7c5-45e1-4f6a-a209-7d93466d85d6/GettyImages-2232422466_16x9.jpg" alt="In Search of Germany’s Best Pickles by Bike" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/cycling-germany-pickles</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/cycling-germany-pickles</guid>
+            <pubDate>Mon, 17 Aug 2026 12:33:00 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/5837c7c5-45e1-4f6a-a209-7d93466d85d6/GettyImages-2232422466_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
