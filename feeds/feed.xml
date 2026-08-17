@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Aug 2026 08:21:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 10:26:02 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Aug 2026 08:21:47 GMT</pubDate>
+        <pubDate>Mon, 17 Aug 2026 10:26:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Join a Spanish Wine Harvest in the Basque Country]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/56746b82-2521-4994-91a3-358f84db27dd/stayanddo2_16x9.jpg" alt="Join a Spanish Wine Harvest in the Basque Country" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/join-a-spanish-wine-harvest-in-the-basque-country</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/join-a-spanish-wine-harvest-in-the-basque-country</guid>
-            <pubDate>Sun, 16 Aug 2026 08:21:47 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/56746b82-2521-4994-91a3-358f84db27dd/stayanddo2_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Closing the Loop on Spinal Surgery]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/0aa698b7-59ad-49ac-92e0-acaaaa70f3eb/34ba580b-1fc5-4fcd-8b55-514f65a8507a_16x9.jpg" alt="Closing the Loop on Spinal Surgery" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/science/article/paid-content-closing-the-loop-on-spinal-surgery</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/paid-content-closing-the-loop-on-spinal-surgery</guid>
+            <pubDate>Mon, 17 Aug 2026 10:26:02 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/0aa698b7-59ad-49ac-92e0-acaaaa70f3eb/34ba580b-1fc5-4fcd-8b55-514f65a8507a_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
