@@ -9,17 +9,33 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Aug 2026 10:26:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 11:20:17 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Aug 2026 10:26:02 GMT</pubDate>
+        <pubDate>Mon, 17 Aug 2026 11:20:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Closing the Loop on Spinal Surgery]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/0aa698b7-59ad-49ac-92e0-acaaaa70f3eb/34ba580b-1fc5-4fcd-8b55-514f65a8507a_16x9.jpg" alt="Closing the Loop on Spinal Surgery" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/science/article/paid-content-closing-the-loop-on-spinal-surgery</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/paid-content-closing-the-loop-on-spinal-surgery</guid>
-            <pubDate>Mon, 17 Aug 2026 10:26:02 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/0aa698b7-59ad-49ac-92e0-acaaaa70f3eb/34ba580b-1fc5-4fcd-8b55-514f65a8507a_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[How You Can Help Bees Stay Cool on a Hot Day]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/2fa0e7a1-db8b-4a64-a02b-987b6571c80f/bee-000095280011-2_16x9.jpg" alt="How You Can Help Bees Stay Cool on a Hot Day" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/animals/article/bees-heat-temperature-regulation</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/bees-heat-temperature-regulation</guid>
+            <pubDate>Mon, 17 Aug 2026 11:20:17 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/2fa0e7a1-db8b-4a64-a02b-987b6571c80f/bee-000095280011-2_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Could Electricity Zap Away Chronic Disease?]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/cf0ac96d-02c0-42ed-bdef-15db883622ab/VAGUS_NATGEO-v1_16x9.jpg" alt="Could Electricity Zap Away Chronic Disease?" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/health/article/bioelectronic-medicine-vagus-nerve-chronic-disease</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/health/article/bioelectronic-medicine-vagus-nerve-chronic-disease</guid>
+            <pubDate>Mon, 17 Aug 2026 11:20:17 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/cf0ac96d-02c0-42ed-bdef-15db883622ab/VAGUS_NATGEO-v1_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Up in the Air]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/62460296-8357-413f-93da-c2020da54e88/QURNAWI_ANDRAS_ZOLTAI_previews017_16x9.jpg" alt="Up in the Air" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/photo-of-the-day/media-spotlight/hot-air-balloons-luxor-egypt</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/photo-of-the-day/media-spotlight/hot-air-balloons-luxor-egypt</guid>
+            <pubDate>Mon, 17 Aug 2026 11:20:17 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/62460296-8357-413f-93da-c2020da54e88/QURNAWI_ANDRAS_ZOLTAI_previews017_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
