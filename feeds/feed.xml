@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Aug 2026 16:24:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 19:23:03 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Aug 2026 16:24:04 GMT</pubDate>
+        <pubDate>Tue, 18 Aug 2026 19:23:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[How Did These Dinosaurs Become ‘Mummies’?]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/ca96de04-83b3-42d5-a002-6008f7d9d702/MM10344_20250203_0231_16x9.jpg" alt="How Did These Dinosaurs Become ‘Mummies’?" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/science/article/dinosaur-mummy-hoof-edmontosaurus-fossils-skin</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/dinosaur-mummy-hoof-edmontosaurus-fossils-skin</guid>
-            <pubDate>Tue, 18 Aug 2026 16:24:04 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/ca96de04-83b3-42d5-a002-6008f7d9d702/MM10344_20250203_0231_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[The Science Behind How Animals Change Color]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/d47d377d-41bf-4c90-b45e-6214d967879b/01-animal-color-change-nationalgeographic_2427453_16x9.jpg" alt="The Science Behind How Animals Change Color" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/animals/article/color-change-camouflage-animals-explained</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/color-change-camouflage-animals-explained</guid>
+            <pubDate>Tue, 18 Aug 2026 19:23:03 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/d47d377d-41bf-4c90-b45e-6214d967879b/01-animal-color-change-nationalgeographic_2427453_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
