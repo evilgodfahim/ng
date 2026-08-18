@@ -9,17 +9,33 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Aug 2026 16:20:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 09:26:26 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Aug 2026 16:20:50 GMT</pubDate>
+        <pubDate>Tue, 18 Aug 2026 09:26:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[All Kids Magazines on Sale!]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/02ba609e-c93b-4b5b-a3a2-167d9fea8f5f/NGKNGLK16535300400_16x9.jpg" alt="All Kids Magazines on Sale!" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/subscribe/kids-magazines?cmpid=int_org=ngp::int_src=ngp::int_cmp=2026-back-to-school-sale::int_add=top-nav</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/subscribe/kids-magazines?cmpid=int_org=ngp::int_src=ngp::int_cmp=2026-back-to-school-sale::int_add=top-nav</guid>
-            <pubDate>Mon, 17 Aug 2026 16:20:50 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/02ba609e-c93b-4b5b-a3a2-167d9fea8f5f/NGKNGLK16535300400_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Follow Somerset's Cider Trail for England's Best Pours]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/49c3f222-d5a1-4641-981e-b82687a5bc28/Somerset_cider_farms__076_16x9.jpg" alt="Follow Somerset's Cider Trail for England's Best Pours" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/follow-somersets-cider-trail-for-englands-best-pours</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/follow-somersets-cider-trail-for-englands-best-pours</guid>
+            <pubDate>Tue, 18 Aug 2026 09:26:26 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/49c3f222-d5a1-4641-981e-b82687a5bc28/Somerset_cider_farms__076_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Vanessa Williams on her Most Adventurous Experiences Around the World]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/a87f58a0-f240-45b7-8394-40ee3714acd2/ET_mytravels_Cr_Alexis_Saint_Pete_HR_16x9.jpg" alt="Vanessa Williams on her Most Adventurous Experiences Around the World" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/vanessa-williams-actor-singer-adventurous-experiences-around-the-world</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/vanessa-williams-actor-singer-adventurous-experiences-around-the-world</guid>
+            <pubDate>Tue, 18 Aug 2026 09:26:26 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/a87f58a0-f240-45b7-8394-40ee3714acd2/ET_mytravels_Cr_Alexis_Saint_Pete_HR_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Where to Travel in September]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/77c3ddaf-7ae6-4b10-9d00-0f6b1ba23f3a/GettyImages-2181201272_16x9.jpg" alt="Where to Travel in September" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/travel-september-best-destinations</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/travel-september-best-destinations</guid>
+            <pubDate>Tue, 18 Aug 2026 09:26:26 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/77c3ddaf-7ae6-4b10-9d00-0f6b1ba23f3a/GettyImages-2181201272_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
