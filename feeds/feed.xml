@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Aug 2026 15:25:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 16:24:04 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Aug 2026 15:25:40 GMT</pubDate>
+        <pubDate>Tue, 18 Aug 2026 16:24:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[The Future of Space Travel Could Come Down to This Potato]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/fdefe70e-63b2-4cbf-a4c1-ec474b2d21e6/Batata-doce_BRS_Anembe_e_grao-de-bico_BRS_Aleppo_credito_Paula_Rodrig_6_16x9.jpg" alt="The Future of Space Travel Could Come Down to This Potato" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/science/article/brazil-space-farming-plants-moon-mars</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/brazil-space-farming-plants-moon-mars</guid>
-            <pubDate>Tue, 18 Aug 2026 15:25:40 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/fdefe70e-63b2-4cbf-a4c1-ec474b2d21e6/Batata-doce_BRS_Anembe_e_grao-de-bico_BRS_Aleppo_credito_Paula_Rodrig_6_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[How Did These Dinosaurs Become ‘Mummies’?]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/ca96de04-83b3-42d5-a002-6008f7d9d702/MM10344_20250203_0231_16x9.jpg" alt="How Did These Dinosaurs Become ‘Mummies’?" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/science/article/dinosaur-mummy-hoof-edmontosaurus-fossils-skin</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/dinosaur-mummy-hoof-edmontosaurus-fossils-skin</guid>
+            <pubDate>Tue, 18 Aug 2026 16:24:04 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/ca96de04-83b3-42d5-a002-6008f7d9d702/MM10344_20250203_0231_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
