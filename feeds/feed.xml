@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Aug 2026 19:23:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 08:30:20 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Aug 2026 19:23:03 GMT</pubDate>
+        <pubDate>Wed, 19 Aug 2026 08:30:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[The Science Behind How Animals Change Color]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/d47d377d-41bf-4c90-b45e-6214d967879b/01-animal-color-change-nationalgeographic_2427453_16x9.jpg" alt="The Science Behind How Animals Change Color" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/animals/article/color-change-camouflage-animals-explained</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/color-change-camouflage-animals-explained</guid>
-            <pubDate>Tue, 18 Aug 2026 19:23:03 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/d47d377d-41bf-4c90-b45e-6214d967879b/01-animal-color-change-nationalgeographic_2427453_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Inside the World's Largest Model Railway in Germany]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/ebee4221-bb6c-4c20-9dfe-ba5f9b2d43a1/modelrail1_16x9.jpg" alt="Inside the World's Largest Model Railway in Germany" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/worlds-largest-model-railway-germany</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/worlds-largest-model-railway-germany</guid>
+            <pubDate>Wed, 19 Aug 2026 08:30:20 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/ebee4221-bb6c-4c20-9dfe-ba5f9b2d43a1/modelrail1_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
