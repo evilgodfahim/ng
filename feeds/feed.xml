@@ -9,17 +9,57 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 20 Aug 2026 08:31:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 11:20:58 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 20 Aug 2026 08:31:11 GMT</pubDate>
+        <pubDate>Thu, 20 Aug 2026 11:20:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[How to Explore Cartagena's Secret Islands]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/62e74834-4bed-4a6a-9fb5-47f0df118a8c/cartagena-lead_16x9.jpg" alt="How to Explore Cartagena's Secret Islands" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/how-to-explore-cartagenas-secret-islands</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/how-to-explore-cartagenas-secret-islands</guid>
-            <pubDate>Thu, 20 Aug 2026 08:31:11 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/62e74834-4bed-4a6a-9fb5-47f0df118a8c/cartagena-lead_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[The Hard Reign of Africa’s Last Lions]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/eb91be52-da60-408c-b48e-c79fb44e3e86/Lion_Digital_Cubs_thumbnail_02_16x9.jpg" alt="The Hard Reign of Africa’s Last Lions" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/animals/graphics/african-lions-adapt-savanna</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/graphics/african-lions-adapt-savanna</guid>
+            <pubDate>Thu, 20 Aug 2026 11:20:58 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/eb91be52-da60-408c-b48e-c79fb44e3e86/Lion_Digital_Cubs_thumbnail_02_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Surprising History of Loco Moco]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/f038b73e-5667-40b1-a240-ff98c3d3afa5/MF4197_260224_0119_16x9.jpg" alt="The Surprising History of Loco Moco" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/culture/article/loco-moco-hawaii-food-history</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/culture/article/loco-moco-hawaii-food-history</guid>
+            <pubDate>Thu, 20 Aug 2026 11:20:58 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/f038b73e-5667-40b1-a240-ff98c3d3afa5/MF4197_260224_0119_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Inherited Diseases Aren’t as Inevitable as We Once Thought]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/677645dd-9b72-45c1-9458-56362ade5c92/MM10657_20260819_0080_16x9.jpg" alt="Inherited Diseases Aren’t as Inevitable as We Once Thought" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/health/article/genetic-mutation-inherited-disease-dna</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/health/article/genetic-mutation-inherited-disease-dna</guid>
+            <pubDate>Thu, 20 Aug 2026 11:20:58 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/677645dd-9b72-45c1-9458-56362ade5c92/MM10657_20260819_0080_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The 'Summer Triangle' Stars Can Help You Navigate the Night Sky]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/143777ab-48bd-4232-a486-6e7f52f1ef01/SPI-2187587_16x9.jpg" alt="The 'Summer Triangle' Stars Can Help You Navigate the Night Sky" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/science/article/summer-triangle-stargazing-guide</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/summer-triangle-stargazing-guide</guid>
+            <pubDate>Thu, 20 Aug 2026 11:20:58 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/143777ab-48bd-4232-a486-6e7f52f1ef01/SPI-2187587_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Sun's Magnetic Field Is Behaving Oddly]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/bce795e2-8bb7-44d5-a961-85bea1b1905f/SPI-1474476_16x9.jpg" alt="The Sun's Magnetic Field Is Behaving Oddly" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/science/article/sun-star-magnetic-field-dynamo-collapse-life</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/sun-star-magnetic-field-dynamo-collapse-life</guid>
+            <pubDate>Thu, 20 Aug 2026 11:20:58 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/bce795e2-8bb7-44d5-a961-85bea1b1905f/SPI-1474476_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[One With the Earth]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/33f479e5-1c71-4457-a9ec-2f9cce1bc686/Icelandic_Chapel_16x9.jpg" alt="One With the Earth" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/photo-of-the-day/media-spotlight/church-fagurholsmyri-iceland</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/photo-of-the-day/media-spotlight/church-fagurholsmyri-iceland</guid>
+            <pubDate>Thu, 20 Aug 2026 11:20:58 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/33f479e5-1c71-4457-a9ec-2f9cce1bc686/Icelandic_Chapel_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
