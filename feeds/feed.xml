@@ -9,17 +9,49 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Aug 2026 09:31:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 11:19:58 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Aug 2026 09:31:01 GMT</pubDate>
+        <pubDate>Fri, 21 Aug 2026 11:19:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Could This City-Beach Break be Morocco's Next Big Hit?]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/46936f21-6fc3-4de5-b69e-633ed0f6ac3d/TG_longweekend_GettyImages-1267762346_ukHR_16x9.jpg" alt="Could This City-Beach Break be Morocco's Next Big Hit?" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/moroccos-next-big-hit-tetouan-guide-to-beach-city</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/moroccos-next-big-hit-tetouan-guide-to-beach-city</guid>
-            <pubDate>Fri, 21 Aug 2026 09:31:01 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/46936f21-6fc3-4de5-b69e-633ed0f6ac3d/TG_longweekend_GettyImages-1267762346_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[A Million Falcons Went Missing. Here’s How They Were Found]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/0b86659f-1722-476d-ad3f-b08e899e4d1d/EC-96381S-22_230321_095a2619_16x9.jpg" alt="A Million Falcons Went Missing. Here’s How They Were Found" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/animals/article/falcons-migration-angola-falcopolis</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/falcons-migration-angola-falcopolis</guid>
+            <pubDate>Fri, 21 Aug 2026 11:19:58 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/0b86659f-1722-476d-ad3f-b08e899e4d1d/EC-96381S-22_230321_095a2619_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[How to See Pacific Salmon Make Their Epic Annual Migration]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/610a333e-dc63-4024-bf8b-52b510271c9b/FlightSchool_16x9.jpg" alt="How to See Pacific Salmon Make Their Epic Annual Migration" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/animals/article/pacific-northwest-salmon-run</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/pacific-northwest-salmon-run</guid>
+            <pubDate>Fri, 21 Aug 2026 11:19:58 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/610a333e-dc63-4024-bf8b-52b510271c9b/FlightSchool_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why Did Polynesians Return to the Sea After a 1,700-Year Hiatus?]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/d6da12e7-b0ef-4122-ac52-29f4d91b21bc/20220913-DSC_7747_16x9.jpg" alt="Why Did Polynesians Return to the Sea After a 1,700-Year Hiatus?" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/ancient-polynesian-voyage-east</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/ancient-polynesian-voyage-east</guid>
+            <pubDate>Fri, 21 Aug 2026 11:19:58 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/d6da12e7-b0ef-4122-ac52-29f4d91b21bc/20220913-DSC_7747_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Hidden Toll of Extreme Heat on Pregnancy]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/ec52290a-ecd0-46ca-a9ec-81a8bf716028/NGS-103577S-24_251015_08442_16x9.jpg" alt="The Hidden Toll of Extreme Heat on Pregnancy" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/health/article/extreme-heat-pregnancy</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/health/article/extreme-heat-pregnancy</guid>
+            <pubDate>Fri, 21 Aug 2026 11:19:58 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/ec52290a-ecd0-46ca-a9ec-81a8bf716028/NGS-103577S-24_251015_08442_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Snacks Galore]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/b18a0abb-30c5-4d05-a7d7-538c6fa7b0da/FF_HongKong_5068_16x9.jpg" alt="Snacks Galore" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/photo-of-the-day/media-spotlight/aji-ichiban-kowloon-hong-kong</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/photo-of-the-day/media-spotlight/aji-ichiban-kowloon-hong-kong</guid>
+            <pubDate>Fri, 21 Aug 2026 11:19:58 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/b18a0abb-30c5-4d05-a7d7-538c6fa7b0da/FF_HongKong_5068_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
