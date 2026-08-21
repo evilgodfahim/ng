@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 20 Aug 2026 15:27:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 09:31:01 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 20 Aug 2026 15:27:34 GMT</pubDate>
+        <pubDate>Fri, 21 Aug 2026 09:31:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Five Ways We Can Save Our Soil]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/35c8272d-ae62-4033-ac63-5827747d4a94/DJI_20260512202831_0176_D_16x9.jpg" alt="Five Ways We Can Save Our Soil" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/environment/article/paid-content-regenerative-agriculture-five-ways-we-can-save-our-soil</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/paid-content-regenerative-agriculture-five-ways-we-can-save-our-soil</guid>
-            <pubDate>Thu, 20 Aug 2026 15:27:34 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/35c8272d-ae62-4033-ac63-5827747d4a94/DJI_20260512202831_0176_D_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Could This City-Beach Break be Morocco's Next Big Hit?]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/46936f21-6fc3-4de5-b69e-633ed0f6ac3d/TG_longweekend_GettyImages-1267762346_ukHR_16x9.jpg" alt="Could This City-Beach Break be Morocco's Next Big Hit?" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/moroccos-next-big-hit-tetouan-guide-to-beach-city</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/moroccos-next-big-hit-tetouan-guide-to-beach-city</guid>
+            <pubDate>Fri, 21 Aug 2026 09:31:01 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/46936f21-6fc3-4de5-b69e-633ed0f6ac3d/TG_longweekend_GettyImages-1267762346_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
