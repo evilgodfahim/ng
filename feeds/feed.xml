@@ -9,17 +9,31 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 24 Aug 2026 07:53:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 11:21:46 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 24 Aug 2026 07:53:09 GMT</pubDate>
+        <pubDate>Mon, 24 Aug 2026 11:21:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Forget the Buffet—Hotel Breakfast is Having a Gourmet Makeover]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/f43d0d89-ca90-4a5c-a89e-d4bbb041dc88/Breakfast_Letizia_Cigliutti_3_16x9.jpg" alt="Forget the Buffet—Hotel Breakfast is Having a Gourmet Makeover" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/hotel-breakfast-buffets-are-having-a-gourmet-makeover-here-s-how</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/hotel-breakfast-buffets-are-having-a-gourmet-makeover-here-s-how</guid>
-            <pubDate>Mon, 24 Aug 2026 07:53:09 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/f43d0d89-ca90-4a5c-a89e-d4bbb041dc88/Breakfast_Letizia_Cigliutti_3_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[We’re Still Not Sure What a Planet Really Is]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/a4b8b29b-3009-491a-a412-c0df2d7ca6ea/PLUTO_ILLO_16x9.jpg" alt="We’re Still Not Sure What a Planet Really Is" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/science/article/pluto-demotion-planet-exoplanet-definition</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/pluto-demotion-planet-exoplanet-definition</guid>
+            <pubDate>Mon, 24 Aug 2026 11:21:46 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/a4b8b29b-3009-491a-a412-c0df2d7ca6ea/PLUTO_ILLO_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Is a Scientist Hitching a Ride on Your Next Cruise?]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/08a3143d-3ca1-4a02-bb7a-2b032ae16864/IvoryGull_16x9.jpg" alt="Is a Scientist Hitching a Ride on Your Next Cruise?" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/science/article/cruise-ships-of-opportunity-science-climate</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/cruise-ships-of-opportunity-science-climate</guid>
+            <pubDate>Mon, 24 Aug 2026 11:21:46 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/08a3143d-3ca1-4a02-bb7a-2b032ae16864/IvoryGull_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Alaska Man Saving His House Inch by Inch From a Cliff]]></title>
+            <link>https://www.nationalgeographic.com/environment/article/alaska-extreme-home-cliff-evasion</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/alaska-extreme-home-cliff-evasion</guid>
+            <pubDate>Mon, 24 Aug 2026 11:21:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
