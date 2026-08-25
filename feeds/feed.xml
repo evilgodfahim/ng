@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Aug 2026 14:38:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 16:29:55 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Aug 2026 14:38:41 GMT</pubDate>
+        <pubDate>Tue, 25 Aug 2026 16:29:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Island Hopping in the Seychelles]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/ad5a58f9-8143-4fa9-8956-800af33f5511/_B6A9181_16x9.jpg" alt="Island Hopping in the Seychelles" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/paid-content-adventure-seychelles-africa-island-hopping</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/paid-content-adventure-seychelles-africa-island-hopping</guid>
-            <pubDate>Tue, 25 Aug 2026 14:38:41 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/ad5a58f9-8143-4fa9-8956-800af33f5511/_B6A9181_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[What It's Like To Spend 3 Years With Giant Anteaters]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/f9d581ee-9362-481b-854e-ed03beebf276/FJF_250504_1634_D855327_16x9.jpg" alt="What It's Like To Spend 3 Years With Giant Anteaters" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/animals/article/brazil-giant-anteater-road-collision-behind-the-scenes</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/brazil-giant-anteater-road-collision-behind-the-scenes</guid>
+            <pubDate>Tue, 25 Aug 2026 16:29:55 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/f9d581ee-9362-481b-854e-ed03beebf276/FJF_250504_1634_D855327_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
