@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Aug 2026 21:21:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 22:20:29 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Aug 2026 21:21:50 GMT</pubDate>
+        <pubDate>Tue, 25 Aug 2026 22:20:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[National Geographic’s Vintage Photos of a Young Dolly Parton]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/88cfe394-09ea-4b80-84ef-b4043a836876/SPI-168_16x9.jpg" alt="National Geographic’s Vintage Photos of a Young Dolly Parton" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/photography/article/dolly-parton-death-archival-photos</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/photography/article/dolly-parton-death-archival-photos</guid>
-            <pubDate>Tue, 25 Aug 2026 21:21:50 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/88cfe394-09ea-4b80-84ef-b4043a836876/SPI-168_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Dolly Parton on What Makes the Great Smoky Mountains So Special]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/665cf12d-c408-459a-93c7-cd5f67a35693/0000017f-f9e2-d730-abff-fbff52240000_16x9.jpg" alt="Dolly Parton on What Makes the Great Smoky Mountains So Special" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/culture/article/dolly-parton-smoky-mountains-interview</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/culture/article/dolly-parton-smoky-mountains-interview</guid>
+            <pubDate>Tue, 25 Aug 2026 22:20:29 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/665cf12d-c408-459a-93c7-cd5f67a35693/0000017f-f9e2-d730-abff-fbff52240000_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
