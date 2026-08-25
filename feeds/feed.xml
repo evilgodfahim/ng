@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Aug 2026 16:29:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 21:21:50 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Aug 2026 16:29:55 GMT</pubDate>
+        <pubDate>Tue, 25 Aug 2026 21:21:50 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[What It's Like To Spend 3 Years With Giant Anteaters]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/f9d581ee-9362-481b-854e-ed03beebf276/FJF_250504_1634_D855327_16x9.jpg" alt="What It's Like To Spend 3 Years With Giant Anteaters" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/animals/article/brazil-giant-anteater-road-collision-behind-the-scenes</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/brazil-giant-anteater-road-collision-behind-the-scenes</guid>
-            <pubDate>Tue, 25 Aug 2026 16:29:55 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/f9d581ee-9362-481b-854e-ed03beebf276/FJF_250504_1634_D855327_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[National Geographic’s Vintage Photos of a Young Dolly Parton]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/88cfe394-09ea-4b80-84ef-b4043a836876/SPI-168_16x9.jpg" alt="National Geographic’s Vintage Photos of a Young Dolly Parton" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/photography/article/dolly-parton-death-archival-photos</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/photography/article/dolly-parton-death-archival-photos</guid>
+            <pubDate>Tue, 25 Aug 2026 21:21:50 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/88cfe394-09ea-4b80-84ef-b4043a836876/SPI-168_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
