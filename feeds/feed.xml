@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Aug 2026 12:40:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 16:13:21 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 26 Aug 2026 12:40:29 GMT</pubDate>
+        <pubDate>Wed, 26 Aug 2026 16:13:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[9 of the Best Harvest Festivals in Europe]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/a83d14f6-b488-4726-9d6a-612d3eed80c4/weimar_16x9.jpg" alt="9 of the Best Harvest Festivals in Europe" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/best-harvest-festivals-in-europe</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/best-harvest-festivals-in-europe</guid>
-            <pubDate>Wed, 26 Aug 2026 12:40:29 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/a83d14f6-b488-4726-9d6a-612d3eed80c4/weimar_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[America’s National Parks Are Entering a New Era]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/c7559af4-93b9-4392-b62a-a09bdcf46d36/SPI-605163_16x9.jpg" alt="America’s National Parks Are Entering a New Era" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/national-park-service-anniversary-protecting-parks</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/national-park-service-anniversary-protecting-parks</guid>
+            <pubDate>Wed, 26 Aug 2026 16:13:21 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/c7559af4-93b9-4392-b62a-a09bdcf46d36/SPI-605163_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
