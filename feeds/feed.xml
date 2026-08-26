@@ -9,25 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Aug 2026 11:23:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 12:40:29 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 26 Aug 2026 11:23:38 GMT</pubDate>
+        <pubDate>Wed, 26 Aug 2026 12:40:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Can Humans Get Pregnant in Space?]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/c20938de-aae6-452a-bdc8-450e5cb7e57a/Space-Pregnancy-Gif_Crop_16x9.gif" alt="Can Humans Get Pregnant in Space?" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/science/article/pregnancy-human-reproduction-space</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/pregnancy-human-reproduction-space</guid>
-            <pubDate>Wed, 26 Aug 2026 11:23:38 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/c20938de-aae6-452a-bdc8-450e5cb7e57a/Space-Pregnancy-Gif_Crop_16x9.gif" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Horseback Riders]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/aa2c28e1-e77e-4b0a-88f4-c769415b6b58/The_Horseback_Riders_Nat_Segebre_16x9.jpg" alt="The Horseback Riders" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/photo-of-the-day/media-spotlight/horse-shows-three-county-fair-massachusetts</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/photo-of-the-day/media-spotlight/horse-shows-three-county-fair-massachusetts</guid>
-            <pubDate>Wed, 26 Aug 2026 11:23:38 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/aa2c28e1-e77e-4b0a-88f4-c769415b6b58/The_Horseback_Riders_Nat_Segebre_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[9 of the Best Harvest Festivals in Europe]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/a83d14f6-b488-4726-9d6a-612d3eed80c4/weimar_16x9.jpg" alt="9 of the Best Harvest Festivals in Europe" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/best-harvest-festivals-in-europe</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/best-harvest-festivals-in-europe</guid>
+            <pubDate>Wed, 26 Aug 2026 12:40:29 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/a83d14f6-b488-4726-9d6a-612d3eed80c4/weimar_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
