@@ -9,17 +9,41 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 31 Aug 2026 10:23:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Aug 2026 17:48:14 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 31 Aug 2026 10:23:13 GMT</pubDate>
+        <pubDate>Mon, 31 Aug 2026 17:48:14 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[The Best Hotels in Majorca, From Rural Escapes to City Hideaways]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/38856b05-3a85-4039-b1d6-fbf65164f644/5_16x9.jpg" alt="The Best Hotels in Majorca, From Rural Escapes to City Hideaways" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/best-hotels-in-majorca-spain-rural-escapes-city-hideaways</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/best-hotels-in-majorca-spain-rural-escapes-city-hideaways</guid>
-            <pubDate>Mon, 31 Aug 2026 10:23:13 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/38856b05-3a85-4039-b1d6-fbf65164f644/5_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[The Priceless Bronze Age Treasures Stolen in a Museum Heist]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/db503e48-0c9b-4431-bb35-876ccdc0ed30/20170226_zga_a118_5096_16x9.jpg" alt="The Priceless Bronze Age Treasures Stolen in a Museum Heist" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/villena-treasure-spain-bronze-age</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/villena-treasure-spain-bronze-age</guid>
+            <pubDate>Mon, 31 Aug 2026 17:48:14 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/db503e48-0c9b-4431-bb35-876ccdc0ed30/20170226_zga_a118_5096_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Take the Scenic Route in Seattle]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/059e3298-7a1f-4af3-be39-666f764076b6/Huey_Visit_Seattle_2026_0504%20copy_16x9.JPG" alt="Take the Scenic Route in Seattle" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/paid-content-take-the-scenic-route-in-seattle</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/paid-content-take-the-scenic-route-in-seattle</guid>
+            <pubDate>Mon, 31 Aug 2026 17:48:14 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/059e3298-7a1f-4af3-be39-666f764076b6/Huey_Visit_Seattle_2026_0504%20copy_16x9.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[We Took Our Kid to All 7 Continents. Here’s What It Taught Us.]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/5f745a41-2b88-4ac4-8ddd-2d46a1472814/4543b687-f77d-4c1d-841f-f1c28db48367_16x9.jpg" alt="We Took Our Kid to All 7 Continents. Here’s What It Taught Us." style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/seven-continents-family-travel</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/seven-continents-family-travel</guid>
+            <pubDate>Mon, 31 Aug 2026 17:48:14 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/5f745a41-2b88-4ac4-8ddd-2d46a1472814/4543b687-f77d-4c1d-841f-f1c28db48367_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[How Brain Implants Helped Restore a Man's Sense of Touch]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/c8e2946d-0cd3-4d68-9383-27b898ae7cc7/h_16.00085479_16x9.jpg" alt="How Brain Implants Helped Restore a Man's Sense of Touch" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/health/article/brain-implants-restore-touch-spinal-cord-injury</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/health/article/brain-implants-restore-touch-spinal-cord-injury</guid>
+            <pubDate>Mon, 31 Aug 2026 17:48:14 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/c8e2946d-0cd3-4d68-9383-27b898ae7cc7/h_16.00085479_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
