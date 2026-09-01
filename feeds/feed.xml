@@ -9,25 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 01 Sep 2026 17:14:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Sep 2026 20:25:22 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 01 Sep 2026 17:14:44 GMT</pubDate>
+        <pubDate>Tue, 01 Sep 2026 20:25:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[The Best Way to See the Nile? Cruise Aboard a Dahabiya]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/2edbf415-52de-4cfc-a7fd-f02b1180693b/coverstory_egypt_CT_EGYPT_12MAY26_4625_ukHR_16x9.jpg" alt="The Best Way to See the Nile? Cruise Aboard a Dahabiya" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/the-best-way-to-see-the-nile-take-a-slow-cruise-aboard-a-dahabiya</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/the-best-way-to-see-the-nile-take-a-slow-cruise-aboard-a-dahabiya</guid>
-            <pubDate>Tue, 01 Sep 2026 17:14:44 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/2edbf415-52de-4cfc-a7fd-f02b1180693b/coverstory_egypt_CT_EGYPT_12MAY26_4625_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Scientists Create Detailed Map of Proteins Linked to Autism]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/095bfb1c-7be6-432f-9169-21c792f7d06e/Organoid_3_16x9.jpg" alt="Scientists Create Detailed Map of Proteins Linked to Autism" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/health/article/autism-proteins-genes-map-treatment</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/health/article/autism-proteins-genes-map-treatment</guid>
-            <pubDate>Tue, 01 Sep 2026 17:14:44 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/095bfb1c-7be6-432f-9169-21c792f7d06e/Organoid_3_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Why a Mysterious Floating Forest Appeared in Canada]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/fe6eb684-8be2-4a37-9705-b4109db26c78/GettyImages-494673420_16x9.jpg" alt="Why a Mysterious Floating Forest Appeared in Canada" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/environment/article/floating-island-canada-scientists-explain</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/floating-island-canada-scientists-explain</guid>
+            <pubDate>Tue, 01 Sep 2026 20:25:22 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/fe6eb684-8be2-4a37-9705-b4109db26c78/GettyImages-494673420_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
