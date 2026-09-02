@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 02 Sep 2026 18:21:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Sep 2026 21:31:11 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 02 Sep 2026 18:21:54 GMT</pubDate>
+        <pubDate>Wed, 02 Sep 2026 21:31:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Inside the Sacred Valley of the Inca]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/97d843e0-64ca-4c27-9aa3-991f6f4f2095/fototeca9x12_20719731-1_16x9.png" alt="Inside the Sacred Valley of the Inca" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/history/article/inca-sacred-valley</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/inca-sacred-valley</guid>
-            <pubDate>Wed, 02 Sep 2026 18:21:54 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/97d843e0-64ca-4c27-9aa3-991f6f4f2095/fototeca9x12_20719731-1_16x9.png" length="0" type="image/jpeg"/>
+            <title><![CDATA[Did Scientists Just Spot Dark Matter?]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/c2cda1fb-605c-43cc-b836-229705453741/mod-190124LZlowerPMTarray0104Pano-HDREdit59535953px_16x9.jpg" alt="Did Scientists Just Spot Dark Matter?" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/science/article/dark-matter-particle-detection-wimps</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/dark-matter-particle-detection-wimps</guid>
+            <pubDate>Wed, 02 Sep 2026 21:31:11 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/c2cda1fb-605c-43cc-b836-229705453741/mod-190124LZlowerPMTarray0104Pano-HDREdit59535953px_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
