@@ -9,25 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 04 Sep 2026 14:42:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Sep 2026 18:00:01 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 04 Sep 2026 14:42:56 GMT</pubDate>
+        <pubDate>Fri, 04 Sep 2026 18:00:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[A Man Who Lived Through the Norman Conquest Gets a New Face]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/235b3d2c-7171-44ef-8195-8f0274b1fc0c/EH_Conquest_Man_001_16x9.JPG" alt="A Man Who Lived Through the Norman Conquest Gets a New Face" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/history/article/conquered-man-facial-reconstruction</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/conquered-man-facial-reconstruction</guid>
-            <pubDate>Fri, 04 Sep 2026 14:42:56 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/235b3d2c-7171-44ef-8195-8f0274b1fc0c/EH_Conquest_Man_001_16x9.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[7 Science-Backed Ways to Curb Your Appetite]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/c944c8ba-8260-41e9-9dfd-60804c0d0408/MM10659_20260831_013_V3_16x9.jpg" alt="7 Science-Backed Ways to Curb Your Appetite" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/health/article/curbing-appetite-losing-weight</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/health/article/curbing-appetite-losing-weight</guid>
-            <pubDate>Fri, 04 Sep 2026 14:42:56 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/c944c8ba-8260-41e9-9dfd-60804c0d0408/MM10659_20260831_013_V3_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[DNA Reveals the ‘American Cheetah’ Wasn’t Actually a Cheetah]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/9a807aa1-2f91-4a48-ab36-4c2996eb6df2/Miracinonyx_Profile_01_202202210101_16x9.jpg" alt="DNA Reveals the ‘American Cheetah’ Wasn’t Actually a Cheetah" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/science/article/american-cheetah-was-not-cheetah</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/american-cheetah-was-not-cheetah</guid>
+            <pubDate>Fri, 04 Sep 2026 18:00:01 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/9a807aa1-2f91-4a48-ab36-4c2996eb6df2/Miracinonyx_Profile_01_202202210101_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
