@@ -1,57 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[National Geographic – Latest]]></title>
-        <description><![CDATA[Latest articles from National Geographic]]></description>
+        <title><![CDATA[National Geographic (error fallback)]]></title>
+        <description><![CDATA[Feed could not be generated]]></description>
         <link>https://www.nationalgeographic.com</link>
-        <image>
-            <url>https://www.nationalgeographic.com/favicon.ico</url>
-            <title>National Geographic – Latest</title>
-            <link>https://www.nationalgeographic.com</link>
-        </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 03 Sep 2026 12:29:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Sep 2026 00:41:48 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 03 Sep 2026 12:29:54 GMT</pubDate>
+        <pubDate>Fri, 04 Sep 2026 00:41:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[How This Orphaned Elephant Defied the Odds]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/901bfe84-a108-4e95-a881-7feadb428a59/Devlin_Agbaibor_19_16x9.jpg" alt="How This Orphaned Elephant Defied the Odds" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/animals/article/nigeria-orphaned-elephant</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/nigeria-orphaned-elephant</guid>
-            <pubDate>Thu, 03 Sep 2026 12:29:54 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/901bfe84-a108-4e95-a881-7feadb428a59/Devlin_Agbaibor_19_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Taste the Spirit of the Azores on a Food Tour of its Islands]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/6fe596db-ee93-429b-b881-4d35e7143047/azores_RestauranteBanhosFerreos2_ukHR_16x9.jpg" alt="Taste the Spirit of the Azores on a Food Tour of its Islands" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/taste-the-spirit-of-the-azores-on-a-food-tour-of-its-islands</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/taste-the-spirit-of-the-azores-on-a-food-tour-of-its-islands</guid>
-            <pubDate>Thu, 03 Sep 2026 12:29:54 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/6fe596db-ee93-429b-b881-4d35e7143047/azores_RestauranteBanhosFerreos2_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Why Asthma Is Worse for Women]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/dc425edf-a10d-4ae5-bdc1-94bf8fced334/MM10650_20260826_0203_2_16x9.jpg" alt="Why Asthma Is Worse for Women" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/health/article/asthma-in-women-worse</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/health/article/asthma-in-women-worse</guid>
-            <pubDate>Thu, 03 Sep 2026 12:29:54 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/dc425edf-a10d-4ae5-bdc1-94bf8fced334/MM10650_20260826_0203_2_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Most Post-Workout Recovery Hacks Don’t Work. Here’s What Does.]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/af266b23-7f81-482e-9380-7074d72e34fb/RecoveryRoutine_16x9.jpg" alt="Most Post-Workout Recovery Hacks Don’t Work. Here’s What Does." style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/health/article/post-workout-recovery-cold-plunges-stretching</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/health/article/post-workout-recovery-cold-plunges-stretching</guid>
-            <pubDate>Thu, 03 Sep 2026 12:29:54 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/af266b23-7f81-482e-9380-7074d72e34fb/RecoveryRoutine_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Inside the Longshot Experiment to Resurrect Elm Trees]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/f5e9130c-05cb-43e4-a7b6-9cdf3df21704/IMG_E6948_16x9.jpg" alt="Inside the Longshot Experiment to Resurrect Elm Trees" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/environment/article/dutch-elm-disease-trees-restoration-breeding</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/dutch-elm-disease-trees-restoration-breeding</guid>
-            <pubDate>Thu, 03 Sep 2026 12:29:54 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/f5e9130c-05cb-43e4-a7b6-9cdf3df21704/IMG_E6948_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Feed generation failed]]></title>
+            <description><![CDATA[An error occurred. Check the console logs.]]></description>
+            <link>https://www.nationalgeographic.com</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com</guid>
+            <pubDate>Fri, 04 Sep 2026 00:41:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
