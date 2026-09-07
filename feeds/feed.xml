@@ -9,17 +9,33 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 07 Sep 2026 07:48:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Sep 2026 13:53:25 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 07 Sep 2026 07:48:32 GMT</pubDate>
+        <pubDate>Mon, 07 Sep 2026 13:53:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Where to Have the Best Pintxos in San Sebastián]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/26b3e30b-f92b-417a-97a7-22bae74bed35/2YRPR6A_16x9.jpg" alt="Where to Have the Best Pintxos in San Sebastián" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/where-to-have-the-best-pintxos-in-san-sebastian</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/where-to-have-the-best-pintxos-in-san-sebastian</guid>
-            <pubDate>Mon, 07 Sep 2026 07:48:32 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/26b3e30b-f92b-417a-97a7-22bae74bed35/2YRPR6A_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Finding Authenticity in Photography]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/be6ae00c-8443-43d7-8871-dd32e5bbfbe5/DSC_0978_16x9.jpg" alt="Finding Authenticity in Photography" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/paid-content-finding-authenticity-in-photography</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/paid-content-finding-authenticity-in-photography</guid>
+            <pubDate>Mon, 07 Sep 2026 13:53:25 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/be6ae00c-8443-43d7-8871-dd32e5bbfbe5/DSC_0978_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[A brief history of Labor Day—and the strike that inspired it]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/8b8d2c49-1f6d-4587-8883-45bc61a18848/labor-day-parade-515460848_16x9.jpg" alt="A brief history of Labor Day—and the strike that inspired it" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/history-labor-day</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/history-labor-day</guid>
+            <pubDate>Mon, 07 Sep 2026 13:53:25 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/8b8d2c49-1f6d-4587-8883-45bc61a18848/labor-day-parade-515460848_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[A Second Life]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/e6883954-b6aa-4c3c-9533-640f6b8b9bcb/IR_MountainBlackHeart10_16x9.jpg" alt="A Second Life" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/photography</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/photography</guid>
+            <pubDate>Mon, 07 Sep 2026 13:53:25 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/e6883954-b6aa-4c3c-9533-640f6b8b9bcb/IR_MountainBlackHeart10_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
