@@ -9,41 +9,25 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 08 Sep 2026 12:32:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Sep 2026 17:01:09 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 08 Sep 2026 12:32:44 GMT</pubDate>
+        <pubDate>Tue, 08 Sep 2026 17:01:09 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[How an Unlikely Fossil Hunter Found a Tyrannosaurus Trail]]></title>
             <description><![CDATA[<img src="https://i.natgeofe.com/n/9324f910-183d-48d6-9b78-4646602cec98/AWEN9262_16x9.jpg" alt="How an Unlikely Fossil Hunter Found a Tyrannosaurus Trail" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/animals/article/tyrannosaurus-rex-footprints-dakota-badlands</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/tyrannosaurus-rex-footprints-dakota-badlands</guid>
-            <pubDate>Tue, 08 Sep 2026 12:32:44 GMT</pubDate>
+            <link>https://www.nationalgeographic.com/science/article/tyrannosaurus-rex-footprints-dakota-badlands</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/tyrannosaurus-rex-footprints-dakota-badlands</guid>
+            <pubDate>Tue, 08 Sep 2026 17:01:09 GMT</pubDate>
             <enclosure url="https://i.natgeofe.com/n/9324f910-183d-48d6-9b78-4646602cec98/AWEN9262_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[The Forgotten Princess Who Crushed Her Enemies With Poems]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/9a7191aa-c7e9-4d24-8ba7-b960d3498dfd/Sumerian_Princess_Collage_V3_16x9.jpg" alt="The Forgotten Princess Who Crushed Her Enemies With Poems" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/history/article/enheduanna-princess-first-author</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/enheduanna-princess-first-author</guid>
-            <pubDate>Tue, 08 Sep 2026 12:32:44 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/9a7191aa-c7e9-4d24-8ba7-b960d3498dfd/Sumerian_Princess_Collage_V3_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[How to Explore Kenya’s Swahili Coast]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/702c753d-7a35-4bdb-9809-cc64baaab982/kenya_AWL_KEN11379_ukHR_16x9.jpg" alt="How to Explore Kenya’s Swahili Coast" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/how-to-explore-kenyas-swahili-coast</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/how-to-explore-kenyas-swahili-coast</guid>
-            <pubDate>Tue, 08 Sep 2026 12:32:44 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/702c753d-7a35-4bdb-9809-cc64baaab982/kenya_AWL_KEN11379_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Why GLP-1s Could Be an Anti-Aging Breakthrough]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/613228ea-428e-4d46-84eb-925a096b7cfb/MM10523_20251103_0248_16x9.jpg" alt="Why GLP-1s Could Be an Anti-Aging Breakthrough" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/health/article/glp-1-drugs-aging-longevity</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/health/article/glp-1-drugs-aging-longevity</guid>
-            <pubDate>Tue, 08 Sep 2026 12:32:44 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/613228ea-428e-4d46-84eb-925a096b7cfb/MM10523_20251103_0248_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Is the Grand Canyon Too Popular for its Own Good?]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/9b739f38-9526-4b08-aa44-40481d8402a7/26-barbara-washburn-sidebar_16x9.jpg" alt="Is the Grand Canyon Too Popular for its Own Good?" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/grand-canyon-too-popular-own-good</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/grand-canyon-too-popular-own-good</guid>
+            <pubDate>Tue, 08 Sep 2026 17:01:09 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/9b739f38-9526-4b08-aa44-40481d8402a7/26-barbara-washburn-sidebar_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
