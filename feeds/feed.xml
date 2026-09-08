@@ -9,25 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 08 Sep 2026 17:01:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Sep 2026 20:36:26 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 08 Sep 2026 17:01:09 GMT</pubDate>
+        <pubDate>Tue, 08 Sep 2026 20:36:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[How an Unlikely Fossil Hunter Found a Tyrannosaurus Trail]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/9324f910-183d-48d6-9b78-4646602cec98/AWEN9262_16x9.jpg" alt="How an Unlikely Fossil Hunter Found a Tyrannosaurus Trail" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/science/article/tyrannosaurus-rex-footprints-dakota-badlands</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/tyrannosaurus-rex-footprints-dakota-badlands</guid>
-            <pubDate>Tue, 08 Sep 2026 17:01:09 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/9324f910-183d-48d6-9b78-4646602cec98/AWEN9262_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Is the Grand Canyon Too Popular for its Own Good?]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/9b739f38-9526-4b08-aa44-40481d8402a7/26-barbara-washburn-sidebar_16x9.jpg" alt="Is the Grand Canyon Too Popular for its Own Good?" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/history/article/grand-canyon-too-popular-own-good</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/grand-canyon-too-popular-own-good</guid>
-            <pubDate>Tue, 08 Sep 2026 17:01:09 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/9b739f38-9526-4b08-aa44-40481d8402a7/26-barbara-washburn-sidebar_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[23 Classic Nat Geo Images Our Editors Loved This Month]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/eb14b14c-aafd-4371-83b4-3d70f3da0881/northlandscapes-germany-moorlands-abstract-macro-views-02_16x9.jpg" alt="23 Classic Nat Geo Images Our Editors Loved This Month" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/photography/article/photo-of-the-day-august-2026-air-bubbles-northern-lights-seals</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/photography/article/photo-of-the-day-august-2026-air-bubbles-northern-lights-seals</guid>
+            <pubDate>Tue, 08 Sep 2026 20:36:26 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/eb14b14c-aafd-4371-83b4-3d70f3da0881/northlandscapes-germany-moorlands-abstract-macro-views-02_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
