@@ -9,17 +9,25 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 08 Sep 2026 20:36:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Sep 2026 12:38:42 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 08 Sep 2026 20:36:26 GMT</pubDate>
+        <pubDate>Wed, 09 Sep 2026 12:38:42 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[23 Classic Nat Geo Images Our Editors Loved This Month]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/eb14b14c-aafd-4371-83b4-3d70f3da0881/northlandscapes-germany-moorlands-abstract-macro-views-02_16x9.jpg" alt="23 Classic Nat Geo Images Our Editors Loved This Month" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/photography/article/photo-of-the-day-august-2026-air-bubbles-northern-lights-seals</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/photography/article/photo-of-the-day-august-2026-air-bubbles-northern-lights-seals</guid>
-            <pubDate>Tue, 08 Sep 2026 20:36:26 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/eb14b14c-aafd-4371-83b4-3d70f3da0881/northlandscapes-germany-moorlands-abstract-macro-views-02_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[The Uncanny Spectacle of Millions of Mullet Swarming in the Atlantic]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/12028f5c-e835-4111-9ba0-73dd6c1ec2c5/STOCKPKG_MM10550_S8A6787_16x9.jpg" alt="The Uncanny Spectacle of Millions of Mullet Swarming in the Atlantic" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/animals/article/striped-mullet-fish-migration</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/striped-mullet-fish-migration</guid>
+            <pubDate>Wed, 09 Sep 2026 12:38:42 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/12028f5c-e835-4111-9ba0-73dd6c1ec2c5/STOCKPKG_MM10550_S8A6787_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[This French Village is Surrounded by the World’s Largest Interconnected Ski Area]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/d0c1750c-7b25-4689-81ca-7b46cde7fa03/Chutes_de_neige_a_Saint_Martin-Vincent_LOTTENBERG-25654_16x9.jpg" alt="This French Village is Surrounded by the World’s Largest Interconnected Ski Area" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/visit-worlds-largest-interconnected-ski-area-in-saint-martin-de-belleville-france</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/visit-worlds-largest-interconnected-ski-area-in-saint-martin-de-belleville-france</guid>
+            <pubDate>Wed, 09 Sep 2026 12:38:42 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/d0c1750c-7b25-4689-81ca-7b46cde7fa03/Chutes_de_neige_a_Saint_Martin-Vincent_LOTTENBERG-25654_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
