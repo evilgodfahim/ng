@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 11 Sep 2026 00:47:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Sep 2026 10:28:33 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 11 Sep 2026 00:47:15 GMT</pubDate>
+        <pubDate>Fri, 11 Sep 2026 10:28:33 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Can You Draw a T. Rex Correctly?]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/36c76f01-fdf9-480f-98f4-717223aad9be/F0029057-Tyrannosaurus_rex_dinosaur_16x9.jpg" alt="Can You Draw a T. Rex Correctly?" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/newsletters/article/draw-t-rex-correctly-stones-bones</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/newsletters/article/draw-t-rex-correctly-stones-bones</guid>
-            <pubDate>Fri, 11 Sep 2026 00:47:15 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/36c76f01-fdf9-480f-98f4-717223aad9be/F0029057-Tyrannosaurus_rex_dinosaur_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Can AI Save the Maldives’ Coral Reefs?]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/b21f5f1c-a429-4020-b56b-e55c7c2b5466/maldives_GettyImages-1781426259_ukHR_16x9.jpg" alt="Can AI Save the Maldives’ Coral Reefs?" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/can-ai-save-the-maldives-coral-reefs</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/can-ai-save-the-maldives-coral-reefs</guid>
+            <pubDate>Fri, 11 Sep 2026 10:28:33 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/b21f5f1c-a429-4020-b56b-e55c7c2b5466/maldives_GettyImages-1781426259_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
