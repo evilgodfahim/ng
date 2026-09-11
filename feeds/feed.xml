@@ -9,25 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 10 Sep 2026 17:59:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Sep 2026 00:47:15 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 10 Sep 2026 17:59:55 GMT</pubDate>
+        <pubDate>Fri, 11 Sep 2026 00:47:15 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Captain Jacques Cousteau’s Dangerous Quest to Live Underwater]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/e166d348-b555-4a25-b6f0-b63fe237bb63/SPI-114058_16x9.jpg" alt="Captain Jacques Cousteau’s Dangerous Quest to Live Underwater" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/history/article/jacques-cousteau-underwater-living</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/jacques-cousteau-underwater-living</guid>
-            <pubDate>Thu, 10 Sep 2026 17:59:55 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/e166d348-b555-4a25-b6f0-b63fe237bb63/SPI-114058_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[A Tyrannosaur Ate a Feathery Meal—and It Was Frozen in Time]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/e32038f4-a6b3-4454-b08a-3915daff2c47/Topsectionscale_16x9.jpg" alt="A Tyrannosaur Ate a Feathery Meal—and It Was Frozen in Time" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/science/article/feather-fossil-dinosaur-poop-</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/feather-fossil-dinosaur-poop-</guid>
-            <pubDate>Thu, 10 Sep 2026 17:59:55 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/e32038f4-a6b3-4454-b08a-3915daff2c47/Topsectionscale_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Can You Draw a T. Rex Correctly?]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/36c76f01-fdf9-480f-98f4-717223aad9be/F0029057-Tyrannosaurus_rex_dinosaur_16x9.jpg" alt="Can You Draw a T. Rex Correctly?" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/newsletters/article/draw-t-rex-correctly-stones-bones</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/newsletters/article/draw-t-rex-correctly-stones-bones</guid>
+            <pubDate>Fri, 11 Sep 2026 00:47:15 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/36c76f01-fdf9-480f-98f4-717223aad9be/F0029057-Tyrannosaurus_rex_dinosaur_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
