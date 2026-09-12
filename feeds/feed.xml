@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 11 Sep 2026 21:31:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Sep 2026 11:54:59 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 11 Sep 2026 21:31:13 GMT</pubDate>
+        <pubDate>Sat, 12 Sep 2026 11:54:59 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Can’t Hit 10,000 Steps? How Fast You Walk May Matter More]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/dde43d51-6c73-4a67-80eb-b9207771264c/gettyimages-2236707352-170667a_16x9.jpg" alt="Can’t Hit 10,000 Steps? How Fast You Walk May Matter More" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/health/article/walking-pace-step-count-health</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/health/article/walking-pace-step-count-health</guid>
-            <pubDate>Fri, 11 Sep 2026 21:31:13 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/dde43d51-6c73-4a67-80eb-b9207771264c/gettyimages-2236707352-170667a_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Take a Sleeper Train to This Sustainable French Ski Resort]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/2fd3466d-a9cf-4f72-819f-6ba2636569c0/Belle_Plagne-BrendanLePeru-La_Plagne-39880_RESIZED_16x9.jpg" alt="Take a Sleeper Train to This Sustainable French Ski Resort" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/take-a-sleeper-train-to-this-sustainable-french-ski-resort-la-plagne</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/take-a-sleeper-train-to-this-sustainable-french-ski-resort-la-plagne</guid>
+            <pubDate>Sat, 12 Sep 2026 11:54:59 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/2fd3466d-a9cf-4f72-819f-6ba2636569c0/Belle_Plagne-BrendanLePeru-La_Plagne-39880_RESIZED_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
