@@ -9,17 +9,41 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 13 Sep 2026 10:58:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Sep 2026 11:33:00 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 13 Sep 2026 10:58:18 GMT</pubDate>
+        <pubDate>Mon, 14 Sep 2026 11:33:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[5 Highlights of Egypt's New Grand Egyptian Museum]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/cf9dc581-2176-46e3-a3af-607339df64f6/3E46KG1_16x9.jpg" alt="5 Highlights of Egypt's New Grand Egyptian Museum" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/highlights-of-egypts-new-grand-egyptian-museum</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/highlights-of-egypts-new-grand-egyptian-museum</guid>
-            <pubDate>Sun, 13 Sep 2026 10:58:18 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/cf9dc581-2176-46e3-a3af-607339df64f6/3E46KG1_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[This Synagogue Held One of the Oldest Versions of the Bible in Greek]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/06f051da-9750-49f6-ab9d-279bb4316355/GettyImages-590537766_16x9.png" alt="This Synagogue Held One of the Oldest Versions of the Bible in Greek" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/ben-ezra-synagogue</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/ben-ezra-synagogue</guid>
+            <pubDate>Mon, 14 Sep 2026 11:33:00 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/06f051da-9750-49f6-ab9d-279bb4316355/GettyImages-590537766_16x9.png" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[What Happened to Cleopatra’s Children With Marc Antony?]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/7fac1d21-7cc9-4ed6-85a2-bd9704dd44ce/BAL_5975297_16x9.JPG" alt="What Happened to Cleopatra’s Children With Marc Antony?" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/uncovering-the-life-of-cleopatras-daughter</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/uncovering-the-life-of-cleopatras-daughter</guid>
+            <pubDate>Mon, 14 Sep 2026 11:33:00 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/7fac1d21-7cc9-4ed6-85a2-bd9704dd44ce/BAL_5975297_16x9.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Time Traveler's Guide to London]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/c9f72bdc-7b6e-4148-a7c0-507251e99cbd/London_NatGeoTraveller-23032026-HighRes-7398-2_HR_16x9.jpg" alt="The Time Traveler's Guide to London" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/the-time-travelers-guide-to-london</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/the-time-travelers-guide-to-london</guid>
+            <pubDate>Mon, 14 Sep 2026 11:33:00 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/c9f72bdc-7b6e-4148-a7c0-507251e99cbd/London_NatGeoTraveller-23032026-HighRes-7398-2_HR_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Do planets need stars?]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/90427f10-b0d4-4d58-93b0-455a10962ccd/C0334647-Rogue_Planet_16x9.jpg" alt="Do planets need stars?" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/science/article/rogue-planets-stars-life</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/rogue-planets-stars-life</guid>
+            <pubDate>Mon, 14 Sep 2026 11:33:00 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/90427f10-b0d4-4d58-93b0-455a10962ccd/C0334647-Rogue_Planet_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
