@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 14 Sep 2026 17:28:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Sep 2026 00:10:47 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 14 Sep 2026 17:28:47 GMT</pubDate>
+        <pubDate>Tue, 15 Sep 2026 00:10:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Try a 'Coolcation' on Sweden's Lesser Known UNESCO Trail]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/de6ef06c-82ca-4c2b-8641-c76a41f37492/D2Y5PY_16x9.jpg" alt="Try a 'Coolcation' on Sweden's Lesser Known UNESCO Trail" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/swedens-unesco-trail-fabodleden</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/swedens-unesco-trail-fabodleden</guid>
-            <pubDate>Mon, 14 Sep 2026 17:28:47 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/de6ef06c-82ca-4c2b-8641-c76a41f37492/D2Y5PY_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[SEE SUBSCRIPTION OPTIONS]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/5c55bbf6-979f-475b-b101-b0025e974452/NGM-16682-300x400-1_16x9.jpg" alt="SEE SUBSCRIPTION OPTIONS" style="max-width:100%;"/>]]></description>
+            <link>https://ngmdomsubs.nationalgeographic.com/servlet/OrdersGateway?cds_mag_code=NGM&amp;cds_page_id=283562&amp;cmpid=int_org=ngp::int_mc=website::int_src=ngp::int_cmp=2026-anniversary-sale::int_add=top-nav-non-subs</link>
+            <guid isPermaLink="true">https://ngmdomsubs.nationalgeographic.com/servlet/OrdersGateway?cds_mag_code=NGM&amp;cds_page_id=283562&amp;cmpid=int_org=ngp::int_mc=website::int_src=ngp::int_cmp=2026-anniversary-sale::int_add=top-nav-non-subs</guid>
+            <pubDate>Tue, 15 Sep 2026 00:10:47 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/5c55bbf6-979f-475b-b101-b0025e974452/NGM-16682-300x400-1_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
