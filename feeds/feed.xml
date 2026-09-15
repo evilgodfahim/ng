@@ -9,25 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 15 Sep 2026 15:24:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Sep 2026 19:27:25 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 15 Sep 2026 15:24:38 GMT</pubDate>
+        <pubDate>Tue, 15 Sep 2026 19:27:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[How a Colonial Hoard of Gold Ended Up as Buried Treasure]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/cb8c5119-f2ce-4840-a4b4-0098d1f2d33d/BAL_291612_16x9.jpg" alt="How a Colonial Hoard of Gold Ended Up as Buried Treasure" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/history/article/treasure-of-lima-lost-gold-cocos-island</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/treasure-of-lima-lost-gold-cocos-island</guid>
-            <pubDate>Tue, 15 Sep 2026 15:24:38 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/cb8c5119-f2ce-4840-a4b4-0098d1f2d33d/BAL_291612_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Food Poisoning Can Cause Symptoms That Last for Years]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/3179105f-32b2-4a43-83c3-719572634d5a/3F39ACK_16x9.jpg" alt="Food Poisoning Can Cause Symptoms That Last for Years" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/health/article/food-poisoning-post-infectious-ibs-gut-symptoms</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/health/article/food-poisoning-post-infectious-ibs-gut-symptoms</guid>
-            <pubDate>Tue, 15 Sep 2026 15:24:38 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/3179105f-32b2-4a43-83c3-719572634d5a/3F39ACK_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[See the Bayeaux Tapestry, Scene by Scene]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/3e571d58-20f6-43fa-b866-034b9c859a69/SPI-567176_16x9.jpg" alt="See the Bayeaux Tapestry, Scene by Scene" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/bayeux-tapestry-norman-conquest-archival</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/bayeux-tapestry-norman-conquest-archival</guid>
+            <pubDate>Tue, 15 Sep 2026 19:27:25 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/3e571d58-20f6-43fa-b866-034b9c859a69/SPI-567176_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
