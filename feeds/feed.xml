@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 15 Sep 2026 00:10:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Sep 2026 10:53:18 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 15 Sep 2026 00:10:47 GMT</pubDate>
+        <pubDate>Tue, 15 Sep 2026 10:53:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[SEE SUBSCRIPTION OPTIONS]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/5c55bbf6-979f-475b-b101-b0025e974452/NGM-16682-300x400-1_16x9.jpg" alt="SEE SUBSCRIPTION OPTIONS" style="max-width:100%;"/>]]></description>
-            <link>https://ngmdomsubs.nationalgeographic.com/servlet/OrdersGateway?cds_mag_code=NGM&amp;cds_page_id=283562&amp;cmpid=int_org=ngp::int_mc=website::int_src=ngp::int_cmp=2026-anniversary-sale::int_add=top-nav-non-subs</link>
-            <guid isPermaLink="true">https://ngmdomsubs.nationalgeographic.com/servlet/OrdersGateway?cds_mag_code=NGM&amp;cds_page_id=283562&amp;cmpid=int_org=ngp::int_mc=website::int_src=ngp::int_cmp=2026-anniversary-sale::int_add=top-nav-non-subs</guid>
-            <pubDate>Tue, 15 Sep 2026 00:10:47 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/5c55bbf6-979f-475b-b101-b0025e974452/NGM-16682-300x400-1_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[This Hike Takes in Sparkling Views of Italy's Prosecco Hills]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/aba53b86-dc73-4277-b768-b4736acc72c1/Prosecco_SanpietrodiBarbozza_HighRes_HR_16x9.jpg" alt="This Hike Takes in Sparkling Views of Italy's Prosecco Hills" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/this-hike-takes-in-sparkling-views-of-italys-prosecco-hills</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/this-hike-takes-in-sparkling-views-of-italys-prosecco-hills</guid>
+            <pubDate>Tue, 15 Sep 2026 10:53:18 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/aba53b86-dc73-4277-b768-b4736acc72c1/Prosecco_SanpietrodiBarbozza_HighRes_HR_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
