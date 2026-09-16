@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 15 Sep 2026 19:27:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Sep 2026 10:42:48 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 15 Sep 2026 19:27:25 GMT</pubDate>
+        <pubDate>Wed, 16 Sep 2026 10:42:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[See the Bayeaux Tapestry, Scene by Scene]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/3e571d58-20f6-43fa-b866-034b9c859a69/SPI-567176_16x9.jpg" alt="See the Bayeaux Tapestry, Scene by Scene" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/history/article/bayeux-tapestry-norman-conquest-archival</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/bayeux-tapestry-norman-conquest-archival</guid>
-            <pubDate>Tue, 15 Sep 2026 19:27:25 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/3e571d58-20f6-43fa-b866-034b9c859a69/SPI-567176_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Where to Travel in the World in October]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/7c7f2fd6-f5ac-47f8-9899-a4629dd0fc56/GettyImages-1437339341_16x9.jpg" alt="Where to Travel in the World in October" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/travel-october-best-destinations</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/travel-october-best-destinations</guid>
+            <pubDate>Wed, 16 Sep 2026 10:42:48 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/7c7f2fd6-f5ac-47f8-9899-a4629dd0fc56/GettyImages-1437339341_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
