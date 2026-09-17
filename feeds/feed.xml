@@ -9,17 +9,33 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 17 Sep 2026 01:02:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Sep 2026 12:58:34 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 17 Sep 2026 01:02:31 GMT</pubDate>
+        <pubDate>Thu, 17 Sep 2026 12:58:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[If Climate Change Contributed to Nepal’s Floods, Should Polluters Pay?]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/0d740715-0975-4c23-9708-624850198524/20260912_zip_d164_016_16x9.jpg" alt="If Climate Change Contributed to Nepal’s Floods, Should Polluters Pay?" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/environment/article/nepal-floods-climate-change-justice-funds-attribution-science</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/nepal-floods-climate-change-justice-funds-attribution-science</guid>
-            <pubDate>Thu, 17 Sep 2026 01:02:31 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/0d740715-0975-4c23-9708-624850198524/20260912_zip_d164_016_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Did This Ring Belong to the Man Who Sentenced Jesus to Die?]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/89e6106c-ff39-4ab5-8a0f-981274dbcd0b/Lead_1_16x9.jpg" alt="Did This Ring Belong to the Man Who Sentenced Jesus to Die?" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/pontius-pilate-ring</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/pontius-pilate-ring</guid>
+            <pubDate>Thu, 17 Sep 2026 12:58:34 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/89e6106c-ff39-4ab5-8a0f-981274dbcd0b/Lead_1_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[5 of the Best Dark Sky Destinations in Europe for Stargazing]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/be251a82-1cc3-408f-afa1-52c3ca02f7e8/W4N2R9_16x9.jpg" alt="5 of the Best Dark Sky Destinations in Europe for Stargazing" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/best-dark-sky-destinations-in-europe</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/best-dark-sky-destinations-in-europe</guid>
+            <pubDate>Thu, 17 Sep 2026 12:58:34 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/be251a82-1cc3-408f-afa1-52c3ca02f7e8/W4N2R9_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Venus Is Putting on a Dazzling Show This Month]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/33238ae0-8678-4fe4-8af6-0f31cf075610/SPI-1930107_16x9.jpg" alt="Venus Is Putting on a Dazzling Show This Month" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/science/article/venus-brightest-planet</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/venus-brightest-planet</guid>
+            <pubDate>Thu, 17 Sep 2026 12:58:34 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/33238ae0-8678-4fe4-8af6-0f31cf075610/SPI-1930107_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
