@@ -9,33 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 17 Sep 2026 17:32:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Sep 2026 23:20:08 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 17 Sep 2026 17:32:15 GMT</pubDate>
+        <pubDate>Thu, 17 Sep 2026 23:20:08 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Meet the First New Cat Species Discovered in 100 Years]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/263400d2-00dc-4db0-9f61-3a71a9a35b9f/ANI100_00213_HR__16x9.jpg" alt="Meet the First New Cat Species Discovered in 100 Years" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years</guid>
-            <pubDate>Thu, 17 Sep 2026 17:32:15 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/263400d2-00dc-4db0-9f61-3a71a9a35b9f/ANI100_00213_HR__16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[In Michigan, Every City Tells a Story]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/ec573554-16a9-4c75-bd6d-06d2c0c68a90/DSC06022_16x9.jpg" alt="In Michigan, Every City Tells a Story" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/paid-content-in-michigan-every-city-tells-a-story</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/paid-content-in-michigan-every-city-tells-a-story</guid>
-            <pubDate>Thu, 17 Sep 2026 17:32:15 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/ec573554-16a9-4c75-bd6d-06d2c0c68a90/DSC06022_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[On Mexico’s Riviera Maya, Nature and Humanity Intertwine]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/39f62cb6-611e-4cb7-9fa4-8d59b0424358/Belmond_Maroma_OnMexicosRivieraMaya_16x9.jpg" alt="On Mexico’s Riviera Maya, Nature and Humanity Intertwine" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/promo/paid-content-on-mexico-riviera-maya-nature-and-humanity-intertwine/</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/promo/paid-content-on-mexico-riviera-maya-nature-and-humanity-intertwine/</guid>
-            <pubDate>Thu, 17 Sep 2026 17:32:15 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/39f62cb6-611e-4cb7-9fa4-8d59b0424358/Belmond_Maroma_OnMexicosRivieraMaya_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Bombshell Discovery Sheds Light on the Incan Empire's Greatest Rivals]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/3820843c-f2db-40f7-91f9-801d60765a9f/2026-09-10T000000Z_321354136_MT1LTANA000XESQZN_RTRMADP_3_AMERICA-LATIN-AMERICA-PERU_16x9.jpg" alt="Bombshell Discovery Sheds Light on the Incan Empire's Greatest Rivals" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/peru-tomb-chimu-chan-chan</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/peru-tomb-chimu-chan-chan</guid>
+            <pubDate>Thu, 17 Sep 2026 23:20:08 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/3820843c-f2db-40f7-91f9-801d60765a9f/2026-09-10T000000Z_321354136_MT1LTANA000XESQZN_RTRMADP_3_AMERICA-LATIN-AMERICA-PERU_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
