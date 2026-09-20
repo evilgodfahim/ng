@@ -9,25 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 19 Sep 2026 14:07:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Sep 2026 10:28:56 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 19 Sep 2026 14:07:51 GMT</pubDate>
+        <pubDate>Sun, 20 Sep 2026 10:28:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[How to Explore the Indian Ocean Through Its Spices]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/fe703996-455e-402c-b689-8afcd10b2c8b/spices_Xtra2_ukHR_16x9.jpg" alt="How to Explore the Indian Ocean Through Its Spices" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/how-to-explore-the-indian-ocean-through-its-spices</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/how-to-explore-the-indian-ocean-through-its-spices</guid>
-            <pubDate>Sat, 19 Sep 2026 14:07:51 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/fe703996-455e-402c-b689-8afcd10b2c8b/spices_Xtra2_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[For a New Perspective on Luxor's West Bank, Hop on a Bike]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/38cb65b6-1570-49e4-975b-550661b6bcff/coverstory_egypt_CT_EGYPT_11MAY26_1965_ukHR_16x9.jpg" alt="For a New Perspective on Luxor's West Bank, Hop on a Bike" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/explore-luxors-west-bank-on-a-bike</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/explore-luxors-west-bank-on-a-bike</guid>
-            <pubDate>Sat, 19 Sep 2026 14:07:51 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/38cb65b6-1570-49e4-975b-550661b6bcff/coverstory_egypt_CT_EGYPT_11MAY26_1965_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Watch the Seasons Unfold on a Journey Through Nikko, Japan]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/c630f3e7-045d-4f5f-b659-d7cf8a57f126/Nikko_Japan_JTN6411_MPT_HR_16x9.jpg" alt="Watch the Seasons Unfold on a Journey Through Nikko, Japan" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/watch-the-seasons-unfold-on-a-journey-through-nikko-japan</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/watch-the-seasons-unfold-on-a-journey-through-nikko-japan</guid>
+            <pubDate>Sun, 20 Sep 2026 10:28:56 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/c630f3e7-045d-4f5f-b659-d7cf8a57f126/Nikko_Japan_JTN6411_MPT_HR_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
