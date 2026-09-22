@@ -9,17 +9,25 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 22 Sep 2026 10:49:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Sep 2026 15:21:54 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 22 Sep 2026 10:49:10 GMT</pubDate>
+        <pubDate>Tue, 22 Sep 2026 15:21:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[The Ultimate Guide to Egypt in 15 Experiences]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/6c9b59bd-e662-4f7d-84bb-135d5f48eec8/coverstory_egypt_CT_EGYPT_16APR15_9008_ukHR_16x9.jpg" alt="The Ultimate Guide to Egypt in 15 Experiences" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/the-ultimate-guide-to-egypt-best-experiences</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/the-ultimate-guide-to-egypt-best-experiences</guid>
-            <pubDate>Tue, 22 Sep 2026 10:49:10 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/6c9b59bd-e662-4f7d-84bb-135d5f48eec8/coverstory_egypt_CT_EGYPT_16APR15_9008_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[How Stress Can Scramble the Signals Between Your Gut and Brain]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/11c92049-5072-44ae-8df5-cdb4bc4d92ca/Dishes_Nat_Geo_Eric_Helgas_16x9.jpg" alt="How Stress Can Scramble the Signals Between Your Gut and Brain" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/health/article/stress-gut-brain-fullness</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/health/article/stress-gut-brain-fullness</guid>
+            <pubDate>Tue, 22 Sep 2026 15:21:54 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/11c92049-5072-44ae-8df5-cdb4bc4d92ca/Dishes_Nat_Geo_Eric_Helgas_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Can This Army of Drones Solve the West’s Water Crisis?]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/69340ffc-86f3-4414-836c-2c79516a62d1/GettyImages-911892474_16x9.jpg" alt="Can This Army of Drones Solve the West’s Water Crisis?" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/environment/article/cloud-seeding-rain-snow-drought-water-crisis</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/cloud-seeding-rain-snow-drought-water-crisis</guid>
+            <pubDate>Tue, 22 Sep 2026 15:21:54 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/69340ffc-86f3-4414-836c-2c79516a62d1/GettyImages-911892474_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
