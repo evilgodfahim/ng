@@ -9,25 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 22 Sep 2026 15:21:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Sep 2026 19:30:15 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 22 Sep 2026 15:21:54 GMT</pubDate>
+        <pubDate>Tue, 22 Sep 2026 19:30:15 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[How Stress Can Scramble the Signals Between Your Gut and Brain]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/11c92049-5072-44ae-8df5-cdb4bc4d92ca/Dishes_Nat_Geo_Eric_Helgas_16x9.jpg" alt="How Stress Can Scramble the Signals Between Your Gut and Brain" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/health/article/stress-gut-brain-fullness</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/health/article/stress-gut-brain-fullness</guid>
-            <pubDate>Tue, 22 Sep 2026 15:21:54 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/11c92049-5072-44ae-8df5-cdb4bc4d92ca/Dishes_Nat_Geo_Eric_Helgas_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Can This Army of Drones Solve the West’s Water Crisis?]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/69340ffc-86f3-4414-836c-2c79516a62d1/GettyImages-911892474_16x9.jpg" alt="Can This Army of Drones Solve the West’s Water Crisis?" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/environment/article/cloud-seeding-rain-snow-drought-water-crisis</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/cloud-seeding-rain-snow-drought-water-crisis</guid>
-            <pubDate>Tue, 22 Sep 2026 15:21:54 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/69340ffc-86f3-4414-836c-2c79516a62d1/GettyImages-911892474_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[The Expert's Guide to Helping Injured Birds During the Fall Migration]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/d718d93d-7033-43ae-b76f-b2708600effc/Indigo_Bunting_2003_Barbara_Bosworth_16x9.jpg" alt="The Expert's Guide to Helping Injured Birds During the Fall Migration" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/animals/article/how-to-save-injured-birds-during-fall-migration</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/how-to-save-injured-birds-during-fall-migration</guid>
+            <pubDate>Tue, 22 Sep 2026 19:30:15 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/d718d93d-7033-43ae-b76f-b2708600effc/Indigo_Bunting_2003_Barbara_Bosworth_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
