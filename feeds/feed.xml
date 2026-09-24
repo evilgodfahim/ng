@@ -9,17 +9,41 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 24 Sep 2026 10:58:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Sep 2026 15:44:28 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 24 Sep 2026 10:58:22 GMT</pubDate>
+        <pubDate>Thu, 24 Sep 2026 15:44:27 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Meet the Philippines' Islanders Reclaiming Their Heritage]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/a5aca8ff-da4e-46c6-bb43-cd740e155d7e/Philippines__Z8N2993_ukHR_16x9.jpg" alt="Meet the Philippines' Islanders Reclaiming Their Heritage" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/meet-the-philippines-islanders-reclaiming-their-heritage</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/meet-the-philippines-islanders-reclaiming-their-heritage</guid>
-            <pubDate>Thu, 24 Sep 2026 10:58:22 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/a5aca8ff-da4e-46c6-bb43-cd740e155d7e/Philippines__Z8N2993_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[A Filmmaker on What it Takes to Spend Four Years With Lions]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/2dabb7f8-020e-4af0-9bf6-ffc40db58ba9/Sophie_Darlington_Ep107_BehindTheQueens_Queens_0018_16x9.jpg" alt="A Filmmaker on What it Takes to Spend Four Years With Lions" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/animals/article/lion-sophie-darlington-reader-questions-ask-the-expert</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/lion-sophie-darlington-reader-questions-ask-the-expert</guid>
+            <pubDate>Thu, 24 Sep 2026 15:44:28 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/2dabb7f8-020e-4af0-9bf6-ffc40db58ba9/Sophie_Darlington_Ep107_BehindTheQueens_Queens_0018_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Treasures Emerging From Turkey’s Dying Lakes]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/36bfdcf9-0e67-4244-b0cd-0a278b3a4f25/GettyImages-2163182619_16x9.jpg" alt="The Treasures Emerging From Turkey’s Dying Lakes" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/turkey-lakes-drought-archaeology-basilica-saint-neophytos</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/turkey-lakes-drought-archaeology-basilica-saint-neophytos</guid>
+            <pubDate>Thu, 24 Sep 2026 15:44:28 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/36bfdcf9-0e67-4244-b0cd-0a278b3a4f25/GettyImages-2163182619_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[8 Night Sky Events to See in October, From Fiery Meteors to a Vanishing Star Cluster]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/7307b25d-7148-4a79-abcb-590ade0caa08/joshua-Tree-Star-Trail_16x9.jpg" alt="8 Night Sky Events to See in October, From Fiery Meteors to a Vanishing Star Cluster" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/science/article/october-night-sky-events-2026</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/october-night-sky-events-2026</guid>
+            <pubDate>Thu, 24 Sep 2026 15:44:28 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/7307b25d-7148-4a79-abcb-590ade0caa08/joshua-Tree-Star-Trail_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[A Race to the Top of the World]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/a9ea99e9-7eb9-4825-a45d-6b49dd40c281/SPI-429801_16x9.jpg" alt="A Race to the Top of the World" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/adventure/article/north-pole-expedition-will-steger-ann-bancroft</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/adventure/article/north-pole-expedition-will-steger-ann-bancroft</guid>
+            <pubDate>Thu, 24 Sep 2026 15:44:28 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/a9ea99e9-7eb9-4825-a45d-6b49dd40c281/SPI-429801_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
