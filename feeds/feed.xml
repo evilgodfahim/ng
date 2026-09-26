@@ -9,25 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 25 Sep 2026 18:11:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Sep 2026 10:40:46 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 25 Sep 2026 18:11:13 GMT</pubDate>
+        <pubDate>Sat, 26 Sep 2026 10:40:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[The Reconnaissance Plane That Helped Win World War II]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/83949764-7a23-4f71-b998-be8df23bcbf6/58-59_GettyImages-1475582556_16x9.jpg" alt="The Reconnaissance Plane That Helped Win World War II" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/history/article/reconnaissance-spitfire-plane-world-war-ii</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/reconnaissance-spitfire-plane-world-war-ii</guid>
-            <pubDate>Fri, 25 Sep 2026 18:11:13 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/83949764-7a23-4f71-b998-be8df23bcbf6/58-59_GettyImages-1475582556_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[A New Way of Looking at a Very Old Skull]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/e17e6515-e977-4ac2-b2ff-706665b8beb2/MM10608_20260623_0174_16x9.jpg" alt="A New Way of Looking at a Very Old Skull" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/history/article/taung-child-skull-holographic-magazine-cover</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/taung-child-skull-holographic-magazine-cover</guid>
-            <pubDate>Fri, 25 Sep 2026 18:11:13 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/e17e6515-e977-4ac2-b2ff-706665b8beb2/MM10608_20260623_0174_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Meet the Women Transforming Zanzibar’s Seaweed Industry]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/a2dd86b3-fead-440d-ae59-b0d5efa87389/photostory_Mwani_Zanzibar_10_16x9.jpg" alt="Meet the Women Transforming Zanzibar’s Seaweed Industry" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/meet-the-women-transforming-zanzibars-seaweed-industry</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/meet-the-women-transforming-zanzibars-seaweed-industry</guid>
+            <pubDate>Sat, 26 Sep 2026 10:40:46 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/a2dd86b3-fead-440d-ae59-b0d5efa87389/photostory_Mwani_Zanzibar_10_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
