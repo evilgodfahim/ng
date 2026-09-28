@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 27 Sep 2026 12:38:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Sep 2026 10:25:23 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 27 Sep 2026 12:38:55 GMT</pubDate>
+        <pubDate>Mon, 28 Sep 2026 10:25:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Where and What to Eat on the Streets of Cairo]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/511ac98c-103f-4935-91f5-007d55ac854c/coverstory_egypt_2M6M868_ukHR_16x9.jpg" alt="Where and What to Eat on the Streets of Cairo" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/where-and-what-to-eat-on-the-streets-of-cairo</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/where-and-what-to-eat-on-the-streets-of-cairo</guid>
-            <pubDate>Sun, 27 Sep 2026 12:38:55 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/511ac98c-103f-4935-91f5-007d55ac854c/coverstory_egypt_2M6M868_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Experience the Best of Mexico’s Playa del Carmen]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/2f704286-df9a-484f-a41f-f1dc9d5aa384/beachplayadelcarmen_16x9.jpg" alt="Experience the Best of Mexico’s Playa del Carmen" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/paid-content-how-to-experience-the-best-of-mexicos-playa-del-carmen</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/paid-content-how-to-experience-the-best-of-mexicos-playa-del-carmen</guid>
+            <pubDate>Mon, 28 Sep 2026 10:25:23 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/2f704286-df9a-484f-a41f-f1dc9d5aa384/beachplayadelcarmen_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
