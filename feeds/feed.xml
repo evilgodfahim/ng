@@ -9,17 +9,33 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 29 Sep 2026 10:20:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Sep 2026 16:44:06 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 29 Sep 2026 10:20:19 GMT</pubDate>
+        <pubDate>Tue, 29 Sep 2026 16:44:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Visit England's Ambitious Woodland Restoration Project]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/c82c4053-88b3-4373-be0e-1ba4234f5b43/TE_ukbreak_RKP_Murmuration_Derbyshire_003_HR_16x9.jpg" alt="Visit England's Ambitious Woodland Restoration Project" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/visit-ambitious-woodland-restoration-project-national-forest-england</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/visit-ambitious-woodland-restoration-project-national-forest-england</guid>
-            <pubDate>Tue, 29 Sep 2026 10:20:19 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/c82c4053-88b3-4373-be0e-1ba4234f5b43/TE_ukbreak_RKP_Murmuration_Derbyshire_003_HR_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[The Ancient Romans Had a Strange Ritual After Thunderstorms]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/f0fb4ca9-0d59-43d8-9b66-44b841c8e29f/ART63130_16x9.jpg" alt="The Ancient Romans Had a Strange Ritual After Thunderstorms" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/lightning-inscription-ancient-rome</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/lightning-inscription-ancient-rome</guid>
+            <pubDate>Tue, 29 Sep 2026 16:44:06 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/f0fb4ca9-0d59-43d8-9b66-44b841c8e29f/ART63130_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why Some People Don’t Need as Much Sleep to Feel Refreshed]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/5ef42b55-d0b6-440c-b644-7f3b39dfb81b/MM10670_20260923_106copy_16x9.jpg" alt="Why Some People Don’t Need as Much Sleep to Feel Refreshed" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/health/article/natural-short-sleepers-genetics-sleep-need</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/health/article/natural-short-sleepers-genetics-sleep-need</guid>
+            <pubDate>Tue, 29 Sep 2026 16:44:06 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/5ef42b55-d0b6-440c-b644-7f3b39dfb81b/MM10670_20260923_106copy_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[When Picky Eating is Actually a Psychiatric Disorder]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/60b87b09-0f7b-444c-b904-6377f365f1c0/GettyImages-88305935_16x9.jpg" alt="When Picky Eating is Actually a Psychiatric Disorder" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/health/article/arfid-avoidant-restrictive-eating-disorder</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/health/article/arfid-avoidant-restrictive-eating-disorder</guid>
+            <pubDate>Tue, 29 Sep 2026 16:44:06 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/60b87b09-0f7b-444c-b904-6377f365f1c0/GettyImages-88305935_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
