@@ -9,17 +9,49 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 30 Sep 2026 18:46:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Oct 2026 15:55:39 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 30 Sep 2026 18:46:11 GMT</pubDate>
+        <pubDate>Thu, 01 Oct 2026 15:55:39 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Who’s Afraid of the Big Bad Danish Wolf?]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/dbb0a044-1a18-4bc2-aeb5-882da7d29804/20241018-_Q9A4904-CR3-crop_16x9.jpg" alt="Who’s Afraid of the Big Bad Danish Wolf?" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/animals/article/wolves-rewilding-denmark</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/wolves-rewilding-denmark</guid>
-            <pubDate>Wed, 30 Sep 2026 18:46:11 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/dbb0a044-1a18-4bc2-aeb5-882da7d29804/20241018-_Q9A4904-CR3-crop_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Dian Fossey's Original Story on Life With the Gorillas]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/8d949d27-9af8-47a8-9eea-76bf14418679/SPI-617905_16x9.jpg" alt="Dian Fossey's Original Story on Life With the Gorillas" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/animals/article/dian-fossey-mountain-gorillas-primates-apes</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/dian-fossey-mountain-gorillas-primates-apes</guid>
+            <pubDate>Thu, 01 Oct 2026 15:55:39 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/8d949d27-9af8-47a8-9eea-76bf14418679/SPI-617905_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[See a Great White Shark Snatch a Fish From a Line]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/f4a50e0b-24a4-4761-a764-d765c8151e13/Great_white_shark_depredation_moment_16x9.jpg" alt="See a Great White Shark Snatch a Fish From a Line" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/animals/article/great-white-shark-behavior-depredation-cape-cod-fish</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/great-white-shark-behavior-depredation-cape-cod-fish</guid>
+            <pubDate>Thu, 01 Oct 2026 15:55:39 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/f4a50e0b-24a4-4761-a764-d765c8151e13/Great_white_shark_depredation_moment_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[This Swedish Hotel Has an Underwater Sauna—and a Vineyard]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/d9d2ee89-f701-40cf-8875-807cc6c82d28/TE_uniquesleep_DSCF5015_HR_16x9.jpg" alt="This Swedish Hotel Has an Underwater Sauna—and a Vineyard" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/this-swedish-hotel-has-an-underwater-sauna-and-a-vineyard</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/this-swedish-hotel-has-an-underwater-sauna-and-a-vineyard</guid>
+            <pubDate>Thu, 01 Oct 2026 15:55:39 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/d9d2ee89-f701-40cf-8875-807cc6c82d28/TE_uniquesleep_DSCF5015_HR_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hacking Mushrooms to Make Them Healthier]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/50c5a4ab-5a17-467a-b57d-05ce62ae9867/MM10663_20260921_200_Crop_V2_16x9.jpg" alt="Hacking Mushrooms to Make Them Healthier" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/health/article/mushroom-health-benefits-lions-mane-chaga-oyster-reishi</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/health/article/mushroom-health-benefits-lions-mane-chaga-oyster-reishi</guid>
+            <pubDate>Thu, 01 Oct 2026 15:55:39 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/50c5a4ab-5a17-467a-b57d-05ce62ae9867/MM10663_20260921_200_Crop_V2_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Get a Glimpse of Saturn's Rings This Week]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/ed3978c0-de38-4d6e-b6a5-df86451576ad/PIA08358orig_16x9.jpg" alt="Get a Glimpse of Saturn's Rings This Week" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/science/article/how-to-see-saturn-rings</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/how-to-see-saturn-rings</guid>
+            <pubDate>Thu, 01 Oct 2026 15:55:39 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/ed3978c0-de38-4d6e-b6a5-df86451576ad/PIA08358orig_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
