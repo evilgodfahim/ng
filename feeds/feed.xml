@@ -9,33 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 02 Oct 2026 13:29:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Oct 2026 18:56:40 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 02 Oct 2026 13:29:12 GMT</pubDate>
+        <pubDate>Fri, 02 Oct 2026 18:56:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[A Guide to Birding in La La Land]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/4220eb7c-bc94-4133-9b0e-d3eb7e24fb3b/DavidBillet_SunsetAtDebs_2026_16x9.jpg" alt="A Guide to Birding in La La Land" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/animals/article/birding-guide-los-angeles</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/birding-guide-los-angeles</guid>
-            <pubDate>Fri, 02 Oct 2026 13:29:12 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/4220eb7c-bc94-4133-9b0e-d3eb7e24fb3b/DavidBillet_SunsetAtDebs_2026_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tracing a Mysterious Rabies Outbreak to a Surprising Source]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/14cb67e9-a9f0-44fe-9c84-849c95baddb9/naturepl_01779038_16x9.jpg" alt="Tracing a Mysterious Rabies Outbreak to a Surprising Source" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/animals/article/rabies-fur-seals</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/rabies-fur-seals</guid>
-            <pubDate>Fri, 02 Oct 2026 13:29:12 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/14cb67e9-a9f0-44fe-9c84-849c95baddb9/naturepl_01779038_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[A New Expedition to Find Amelia Earhart's Plane]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/24231dec-a645-4aa8-87d8-8933f5666870/GettyImages-515396050_16x9.jpg" alt="A New Expedition to Find Amelia Earhart's Plane" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/adventure/article/amelia-earhart-plane-taraia-object-expedition</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/adventure/article/amelia-earhart-plane-taraia-object-expedition</guid>
-            <pubDate>Fri, 02 Oct 2026 13:29:12 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/24231dec-a645-4aa8-87d8-8933f5666870/GettyImages-515396050_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Where To Go For a Fall Leaf-Peeping Road Trip]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/0cb58da8-5f95-4ec9-9fa5-4d5e88609d6a/GettyImages-1403895211_16x9.jpg" alt="Where To Go For a Fall Leaf-Peeping Road Trip" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/where-to-go-for-a-fall-leaf-peeping-road-trip</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/where-to-go-for-a-fall-leaf-peeping-road-trip</guid>
+            <pubDate>Fri, 02 Oct 2026 18:56:40 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/0cb58da8-5f95-4ec9-9fa5-4d5e88609d6a/GettyImages-1403895211_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
