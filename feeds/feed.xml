@@ -9,17 +9,25 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 03 Oct 2026 12:58:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Oct 2026 15:37:01 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 03 Oct 2026 12:58:08 GMT</pubDate>
+        <pubDate>Sun, 04 Oct 2026 15:37:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Take a Peek Behind the Curtain in North Korea]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/ce94ca72-c9d9-4cb1-86de-cb7076af1942/koreafeatureimage_16x9.jpg" alt="Take a Peek Behind the Curtain in North Korea" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/take-a-peek-behind-the-curtain-in-north-korea</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/take-a-peek-behind-the-curtain-in-north-korea</guid>
-            <pubDate>Sat, 03 Oct 2026 12:58:08 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/ce94ca72-c9d9-4cb1-86de-cb7076af1942/koreafeatureimage_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[In Bangkok, Disused Shophouses Are the City's New Hotspots]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/22a411cf-0a26-4a7e-bd77-0c72a672977b/microtrendthaishophouse_16x9.jpg" alt="In Bangkok, Disused Shophouses Are the City's New Hotspots" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/new-trend-in-bangkok-disused-shophouses-are-the-citys-new-hotspots</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/new-trend-in-bangkok-disused-shophouses-are-the-citys-new-hotspots</guid>
+            <pubDate>Sun, 04 Oct 2026 15:37:01 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/22a411cf-0a26-4a7e-bd77-0c72a672977b/microtrendthaishophouse_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Where to Take a Day Trip From Amsterdam]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/a05cc77a-e01c-466d-890a-c6b59c0ea98f/AdobeStock_201339424_16x9.jpg" alt="Where to Take a Day Trip From Amsterdam" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/where-to-take-a-day-trip-from-amsterdam</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/where-to-take-a-day-trip-from-amsterdam</guid>
+            <pubDate>Sun, 04 Oct 2026 15:37:01 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/a05cc77a-e01c-466d-890a-c6b59c0ea98f/AdobeStock_201339424_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
