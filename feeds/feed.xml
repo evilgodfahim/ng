@@ -9,17 +9,33 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 05 Oct 2026 08:09:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Oct 2026 17:45:00 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 05 Oct 2026 08:09:04 GMT</pubDate>
+        <pubDate>Mon, 05 Oct 2026 17:45:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[There's a New Blue Zone With a Clue to Women's Longevity]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/d6979231-ab6b-43ea-ae5a-ed1c50267d70/a7RV05766_16x9.jpg" alt="There's a New Blue Zone With a Clue to Women's Longevity" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/health/article/dan-buettner-blue-zone-bolotana-sardinia</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/health/article/dan-buettner-blue-zone-bolotana-sardinia</guid>
-            <pubDate>Mon, 05 Oct 2026 08:09:04 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/d6979231-ab6b-43ea-ae5a-ed1c50267d70/a7RV05766_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[How A Generation of Stunt Pilots Thrilled America]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/ba4a0005-8eb5-4132-b6c6-a5472dface4f/26-27_BAL_1688021_16x9.JPG" alt="How A Generation of Stunt Pilots Thrilled America" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/aerobatics-stunt-pilots-barnstormer-america</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/aerobatics-stunt-pilots-barnstormer-america</guid>
+            <pubDate>Mon, 05 Oct 2026 17:45:00 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/ba4a0005-8eb5-4132-b6c6-a5472dface4f/26-27_BAL_1688021_16x9.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[What to Do in Italy's Prosecco Region—Beyond the Wine]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/ab5328f1-0536-4c61-a5ca-141d4cf80538/MassimoDallaBetta_HighRes_16x9.jpg" alt="What to Do in Italy's Prosecco Region—Beyond the Wine" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/what-to-do-in-italys-prosecco-region-beyond-the-wine</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/what-to-do-in-italys-prosecco-region-beyond-the-wine</guid>
+            <pubDate>Mon, 05 Oct 2026 17:45:00 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/ab5328f1-0536-4c61-a5ca-141d4cf80538/MassimoDallaBetta_HighRes_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[6 Unusual Wellness Experiences in the Indian Ocean]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/d7184d3e-a0b5-4338-9039-e68e05e05a7c/SurfboardOceanPhoto_16x9.jpg" alt="6 Unusual Wellness Experiences in the Indian Ocean" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/6-unusual-wellness-experiences-in-the-indian-ocean</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/6-unusual-wellness-experiences-in-the-indian-ocean</guid>
+            <pubDate>Mon, 05 Oct 2026 17:45:00 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/d7184d3e-a0b5-4338-9039-e68e05e05a7c/SurfboardOceanPhoto_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
