@@ -9,25 +9,25 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 06 Oct 2026 11:42:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Oct 2026 17:47:30 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 06 Oct 2026 11:42:06 GMT</pubDate>
+        <pubDate>Tue, 06 Oct 2026 17:47:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[How a Nat Geo Photographer Captured Iconic Photos of Big Cats]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/18f6b6bc-75e6-48e2-9e39-56f8bc4bb3e0/p010-p011_MG_5310_rev_B_SWcopy2_16x9.jpg" alt="How a Nat Geo Photographer Captured Iconic Photos of Big Cats" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/photography/article/big-cat-photography-steve-winter</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/photography/article/big-cat-photography-steve-winter</guid>
-            <pubDate>Tue, 06 Oct 2026 11:42:06 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/18f6b6bc-75e6-48e2-9e39-56f8bc4bb3e0/p010-p011_MG_5310_rev_B_SWcopy2_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Nathaniel Philbrick's New Book Could Give You Whiplash]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/f6b618b4-3e21-486c-ae27-3032b9334340/master-pnp-ds-04400-04487u_16x9.jpg" alt="Nathaniel Philbrick's New Book Could Give You Whiplash" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/nathaniel-philbrick-gold-rush-san-francisco-interview</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/nathaniel-philbrick-gold-rush-san-francisco-interview</guid>
+            <pubDate>Tue, 06 Oct 2026 17:47:30 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/f6b618b4-3e21-486c-ae27-3032b9334340/master-pnp-ds-04400-04487u_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[How to Plan a Trip to Cyprus's Vine-Clad Troodos Mountains]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/1e4f5167-9fcb-4fb6-b179-5de50138f81b/cyrpus2_16x9.jpg" alt="How to Plan a Trip to Cyprus's Vine-Clad Troodos Mountains" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/what-to-do-in-cyprus-troodos-mountains-guide</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/what-to-do-in-cyprus-troodos-mountains-guide</guid>
-            <pubDate>Tue, 06 Oct 2026 11:42:06 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/1e4f5167-9fcb-4fb6-b179-5de50138f81b/cyrpus2_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[These European Islands Are Open for Winter]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/a56717f6-d032-479c-9574-79e48b111c10/GettyImages-505637836_16x9.jpg" alt="These European Islands Are Open for Winter" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/best-european-islands-to-visit-in-winter</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/best-european-islands-to-visit-in-winter</guid>
+            <pubDate>Tue, 06 Oct 2026 17:47:30 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/a56717f6-d032-479c-9574-79e48b111c10/GettyImages-505637836_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
