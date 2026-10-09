@@ -9,25 +9,33 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 09 Oct 2026 15:45:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2026 20:29:14 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 09 Oct 2026 15:45:49 GMT</pubDate>
+        <pubDate>Fri, 09 Oct 2026 20:29:14 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[How We Fell Out of Love With Pigeons]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/6bcbf5bd-cd0f-4f87-a203-186eaf3ef626/GettyImages-1408313947copy_16x9.jpg" alt="How We Fell Out of Love With Pigeons" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/animals/article/history-of-pigeons</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/history-of-pigeons</guid>
-            <pubDate>Fri, 09 Oct 2026 15:45:49 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/6bcbf5bd-cd0f-4f87-a203-186eaf3ef626/GettyImages-1408313947copy_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Thinking About Plague? Consider the Marmot.]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/4dbe4bdc-80ef-465b-81f8-5e4ee89d4ac6/2WMYET6_16x9.jpg" alt="Thinking About Plague? Consider the Marmot." style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/animals/article/marmots-plague</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/marmots-plague</guid>
+            <pubDate>Fri, 09 Oct 2026 20:29:14 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/4dbe4bdc-80ef-465b-81f8-5e4ee89d4ac6/2WMYET6_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Justice for Neanderthals!]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/34edf14b-9764-45d2-9d3d-5db209b4289a/Main_1_The_Man_of_La_Chapelle-aux-Saints_Kupka_1909_16x9.jpg" alt="Justice for Neanderthals!" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/newsletters/article/justice-neanderthals-stones-bones</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/newsletters/article/justice-neanderthals-stones-bones</guid>
-            <pubDate>Fri, 09 Oct 2026 15:45:49 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/34edf14b-9764-45d2-9d3d-5db209b4289a/Main_1_The_Man_of_La_Chapelle-aux-Saints_Kupka_1909_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[This Toad Is Fighting for Survival—and It Has a Lawyer]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/bee6ed81-8365-48a1-8d9d-a52aa44374e3/AmandaQuezada_Alianza_Jambato_Atelopusignescens_16x9.jpg" alt="This Toad Is Fighting for Survival—and It Has a Lawyer" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/environment/article/jambato-harlequin-toad-rights-of-nature-ecuador</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/jambato-harlequin-toad-rights-of-nature-ecuador</guid>
+            <pubDate>Fri, 09 Oct 2026 20:29:14 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/bee6ed81-8365-48a1-8d9d-a52aa44374e3/AmandaQuezada_Alianza_Jambato_Atelopusignescens_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Take a Closer Look at Bears, Birds, and Blooms From Nat Geo’s Photo Editors]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/6a1064fd-0be1-41a7-86db-98f8b884b3b6/Rigney_Brown_Bear_Salmon_Jump_2026_16x9.jpg" alt="Take a Closer Look at Bears, Birds, and Blooms From Nat Geo’s Photo Editors" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/photography/article/photo-of-the-day-september-2026-birds-bears-farmers-cows-cats</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/photography/article/photo-of-the-day-september-2026-birds-bears-farmers-cows-cats</guid>
+            <pubDate>Fri, 09 Oct 2026 20:29:14 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/6a1064fd-0be1-41a7-86db-98f8b884b3b6/Rigney_Brown_Bear_Salmon_Jump_2026_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
