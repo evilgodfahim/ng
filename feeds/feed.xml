@@ -9,17 +9,25 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 09 Oct 2026 08:21:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2026 15:45:49 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 09 Oct 2026 08:21:47 GMT</pubDate>
+        <pubDate>Fri, 09 Oct 2026 15:45:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[From Big Cats to Small Wonders—Why This Park Is Sri Lanka's Safari Star]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/c5a22e57-a80c-4791-9062-bd02e595cf66/srilanka4_16x9.jpg" alt="From Big Cats to Small Wonders—Why This Park Is Sri Lanka's Safari Star" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/why-yala-national-park-is-sri-lankas-safari-star</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/why-yala-national-park-is-sri-lankas-safari-star</guid>
-            <pubDate>Fri, 09 Oct 2026 08:21:47 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/c5a22e57-a80c-4791-9062-bd02e595cf66/srilanka4_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[How We Fell Out of Love With Pigeons]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/6bcbf5bd-cd0f-4f87-a203-186eaf3ef626/GettyImages-1408313947copy_16x9.jpg" alt="How We Fell Out of Love With Pigeons" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/animals/article/history-of-pigeons</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/history-of-pigeons</guid>
+            <pubDate>Fri, 09 Oct 2026 15:45:49 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/6bcbf5bd-cd0f-4f87-a203-186eaf3ef626/GettyImages-1408313947copy_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Justice for Neanderthals!]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/34edf14b-9764-45d2-9d3d-5db209b4289a/Main_1_The_Man_of_La_Chapelle-aux-Saints_Kupka_1909_16x9.jpg" alt="Justice for Neanderthals!" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/newsletters/article/justice-neanderthals-stones-bones</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/newsletters/article/justice-neanderthals-stones-bones</guid>
+            <pubDate>Fri, 09 Oct 2026 15:45:49 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/34edf14b-9764-45d2-9d3d-5db209b4289a/Main_1_The_Man_of_La_Chapelle-aux-Saints_Kupka_1909_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
