@@ -9,17 +9,33 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 11 Oct 2026 15:17:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Oct 2026 11:37:49 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 11 Oct 2026 15:17:00 GMT</pubDate>
+        <pubDate>Mon, 12 Oct 2026 11:37:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[How Indigenous Communities Are Reclaiming the Travel Experience]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/2bd13bf5-60a9-47b6-863c-70b30c525620/melbourne2_16x9.jpg" alt="How Indigenous Communities Are Reclaiming the Travel Experience" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/indigenous-communities-reclaiming-the-travel-experience</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/indigenous-communities-reclaiming-the-travel-experience</guid>
-            <pubDate>Sun, 11 Oct 2026 15:17:00 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/2bd13bf5-60a9-47b6-863c-70b30c525620/melbourne2_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[It's Festival Time in Venice—Here's What Locals Are Doing Right Now]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/e0d51168-0c9b-4be3-8039-8a42bc20a3bc/13_Ph_Irene_Fanizza_16x9.jpg" alt="It's Festival Time in Venice—Here's What Locals Are Doing Right Now" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/what-locals-are-doing-in-venice-during-festival-season</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/what-locals-are-doing-in-venice-during-festival-season</guid>
+            <pubDate>Mon, 12 Oct 2026 11:37:49 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/e0d51168-0c9b-4be3-8039-8a42bc20a3bc/13_Ph_Irene_Fanizza_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Unlocking the Mysteries of the ‘Mini Brain’ Inside Your Heart]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/276dae14-40fa-49b2-ab65-fca0ee61ab66/gr3_lrgmerge_16x9.jpg" alt="Unlocking the Mysteries of the ‘Mini Brain’ Inside Your Heart" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/health/article/intrinsic-cardiac-nervous-system-mini-brain</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/health/article/intrinsic-cardiac-nervous-system-mini-brain</guid>
+            <pubDate>Mon, 12 Oct 2026 11:37:49 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/276dae14-40fa-49b2-ab65-fca0ee61ab66/gr3_lrgmerge_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Next Big Conversation in Fertility Medicine]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/a18f19f5-7497-4c2e-af1c-33db3359d71a/GettyImages-1795278714_16x9.jpg" alt="The Next Big Conversation in Fertility Medicine" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/health/article/fertility-treatment-mental-health-men-stigma</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/health/article/fertility-treatment-mental-health-men-stigma</guid>
+            <pubDate>Mon, 12 Oct 2026 11:37:49 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/a18f19f5-7497-4c2e-af1c-33db3359d71a/GettyImages-1795278714_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
