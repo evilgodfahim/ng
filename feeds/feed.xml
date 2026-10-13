@@ -9,25 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 12 Oct 2026 20:47:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Oct 2026 10:00:44 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 12 Oct 2026 20:47:30 GMT</pubDate>
+        <pubDate>Tue, 13 Oct 2026 10:00:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[How Vienna's Ball Scene Has Evolved in the Digital Age]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/be3fb5e7-c26f-4dc9-beb8-960c324b11b7/52229_16x9.jpg" alt="How Vienna's Ball Scene Has Evolved in the Digital Age" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/how-viennas-ball-scene-has-evolved-in-the-digital-age</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/how-viennas-ball-scene-has-evolved-in-the-digital-age</guid>
-            <pubDate>Mon, 12 Oct 2026 20:47:30 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/be3fb5e7-c26f-4dc9-beb8-960c324b11b7/52229_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[SEE SUBSCRIPTION OPTIONS]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/422693a8-7a11-496d-b478-9c809fea84fc/NGMALLTITLES16823300X400_16x9.jpg" alt="SEE SUBSCRIPTION OPTIONS" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/subscribe/topic/give-a-gift?cmpid=int_org=ngp::int_src=ngp::int_cmp=holiday-2026::int_add=alltitles-pgs-topnav</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/subscribe/topic/give-a-gift?cmpid=int_org=ngp::int_src=ngp::int_cmp=holiday-2026::int_add=alltitles-pgs-topnav</guid>
-            <pubDate>Mon, 12 Oct 2026 20:47:30 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/422693a8-7a11-496d-b478-9c809fea84fc/NGMALLTITLES16823300X400_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[In Search of Hygge in the Danish City of Odense]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/6490ba9c-87f3-4353-9798-1df03c996c31/GettyImages-2260166007_16x9.jpg" alt="In Search of Hygge in the Danish City of Odense" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/in-search-of-hygge-in-the-danish-city-of-odense</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/in-search-of-hygge-in-the-danish-city-of-odense</guid>
+            <pubDate>Tue, 13 Oct 2026 10:00:44 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/6490ba9c-87f3-4353-9798-1df03c996c31/GettyImages-2260166007_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
