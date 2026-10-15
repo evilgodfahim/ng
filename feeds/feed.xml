@@ -9,17 +9,25 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 Oct 2026 01:10:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2026 12:23:53 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 15 Oct 2026 01:10:42 GMT</pubDate>
+        <pubDate>Thu, 15 Oct 2026 12:23:53 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[A Marine Scientist Explains Why She Won't Eat Farmed Salmon]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/3c7e196e-dbf8-459e-b34a-27d336addea0/GettyImages-501646226_16x9.jpg" alt="A Marine Scientist Explains Why She Won't Eat Farmed Salmon" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/environment/article/sustainable-seafood-consumer-choices-expert-tips</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/sustainable-seafood-consumer-choices-expert-tips</guid>
-            <pubDate>Thu, 15 Oct 2026 01:10:42 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/3c7e196e-dbf8-459e-b34a-27d336addea0/GettyImages-501646226_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[The Gear That Kept Ocean Maverick Sylvia Earle Afloat]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/d43ee2a8-88d1-4450-81b9-da5a5fe7b14b/MM10639_20260722_0081_16x9.jpg" alt="The Gear That Kept Ocean Maverick Sylvia Earle Afloat" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/sylvia-earle-diving-gear</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/sylvia-earle-diving-gear</guid>
+            <pubDate>Thu, 15 Oct 2026 12:23:53 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/d43ee2a8-88d1-4450-81b9-da5a5fe7b14b/MM10639_20260722_0081_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[What I Learnt About Mongolia by Eating With its Nomadic Families]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/9404465f-5684-4a35-b87a-bea1a0942ec1/Buuz_GeorgieDuckworth_16x9.jpg" alt="What I Learnt About Mongolia by Eating With its Nomadic Families" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/what-i-learnt-about-mongolia-by-eating-with-its-nomadic-families</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/what-i-learnt-about-mongolia-by-eating-with-its-nomadic-families</guid>
+            <pubDate>Thu, 15 Oct 2026 12:23:53 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/9404465f-5684-4a35-b87a-bea1a0942ec1/Buuz_GeorgieDuckworth_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
