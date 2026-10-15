@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 14 Oct 2026 22:01:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2026 01:10:42 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 14 Oct 2026 22:01:09 GMT</pubDate>
+        <pubDate>Thu, 15 Oct 2026 01:10:42 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[What Happens When Your New Cat Species Goes Mega-Viral?]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/7dceed2e-e399-427c-b04a-5f6075902fc1/NG-3006724_16x9.jpg" alt="What Happens When Your New Cat Species Goes Mega-Viral?" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/animals/article/tilcayo-bolivia-senda-verde-viral-fame</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/tilcayo-bolivia-senda-verde-viral-fame</guid>
-            <pubDate>Wed, 14 Oct 2026 22:01:09 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/7dceed2e-e399-427c-b04a-5f6075902fc1/NG-3006724_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[A Marine Scientist Explains Why She Won't Eat Farmed Salmon]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/3c7e196e-dbf8-459e-b34a-27d336addea0/GettyImages-501646226_16x9.jpg" alt="A Marine Scientist Explains Why She Won't Eat Farmed Salmon" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/environment/article/sustainable-seafood-consumer-choices-expert-tips</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/sustainable-seafood-consumer-choices-expert-tips</guid>
+            <pubDate>Thu, 15 Oct 2026 01:10:42 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/3c7e196e-dbf8-459e-b34a-27d336addea0/GettyImages-501646226_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
