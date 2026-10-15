@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 Oct 2026 17:33:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2026 20:50:58 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 15 Oct 2026 17:33:35 GMT</pubDate>
+        <pubDate>Thu, 15 Oct 2026 20:50:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[How This Zombie Foot is Helping Scientists Fight Stingray Strikes]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/509622cb-fe2c-4478-9629-84b738ac00bb/stepping_on_stingray_16x9.jpg" alt="How This Zombie Foot is Helping Scientists Fight Stingray Strikes" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/animals/article/stingray-round-ray-el-nino-warm-beaches-injury-research</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/stingray-round-ray-el-nino-warm-beaches-injury-research</guid>
-            <pubDate>Thu, 15 Oct 2026 17:33:35 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/509622cb-fe2c-4478-9629-84b738ac00bb/stepping_on_stingray_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[The Last Stationery Shop in France Keeping a 400-Year-Old Tradition Alive]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/08ac25a7-97e2-45c0-ae35-c001c13c1191/_DSC5558printing_blocks_and_monogrammed_card_photo_byYann_Garin_16x9.jpg" alt="The Last Stationery Shop in France Keeping a 400-Year-Old Tradition Alive" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/pendulum-stamping-printing-history-paris-france</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/pendulum-stamping-printing-history-paris-france</guid>
+            <pubDate>Thu, 15 Oct 2026 20:50:58 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/08ac25a7-97e2-45c0-ae35-c001c13c1191/_DSC5558printing_blocks_and_monogrammed_card_photo_byYann_Garin_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
