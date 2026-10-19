@@ -9,31 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Oct 2026 11:53:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Oct 2026 18:12:54 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 19 Oct 2026 11:53:15 GMT</pubDate>
+        <pubDate>Mon, 19 Oct 2026 18:12:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[A Beginner’s Guide to Photographing Birds]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/9a8527de-8621-47f7-a89e-e875cd897d51/SPI-1434261_16x9.jpg" alt="A Beginner’s Guide to Photographing Birds" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/animals/article/beginner-bird-photography-tips</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/beginner-bird-photography-tips</guid>
-            <pubDate>Mon, 19 Oct 2026 11:53:15 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/9a8527de-8621-47f7-a89e-e875cd897d51/SPI-1434261_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Do Gorillas Laugh? Grieve? Could They Fight a Hippopotamus?]]></title>
-            <link>https://www.nationalgeographic.com/animals/article/gorillas-gladys-rhoda-kalema-zikusoka-reader-questions</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/gorillas-gladys-rhoda-kalema-zikusoka-reader-questions</guid>
-            <pubDate>Mon, 19 Oct 2026 11:53:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Kid Who Rode Into the Canyonlands and Never Came Back]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/983c2fc2-e12f-49d8-9fd0-226e3d3ca0ba/everett_ruess_NG_16x9.jpg" alt="The Kid Who Rode Into the Canyonlands and Never Came Back" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/history/article/everett-ruess-american-west-missing-explorer</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/everett-ruess-american-west-missing-explorer</guid>
-            <pubDate>Mon, 19 Oct 2026 11:53:15 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/983c2fc2-e12f-49d8-9fd0-226e3d3ca0ba/everett_ruess_NG_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Inside Mercer Labs, New York’s Immersive Museum of Art and Technology]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/f327ecb7-a9e9-42df-9c11-99407f2a6907/ML-NYC_Rooms_EngineRoom_2026_2000px_16x9.jpg" alt="Inside Mercer Labs, New York’s Immersive Museum of Art and Technology" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/inside-mercer-labs-new-yorks-immersive-museum-of-art-and-technology</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/inside-mercer-labs-new-yorks-immersive-museum-of-art-and-technology</guid>
+            <pubDate>Mon, 19 Oct 2026 18:12:54 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/f327ecb7-a9e9-42df-9c11-99407f2a6907/ML-NYC_Rooms_EngineRoom_2026_2000px_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
