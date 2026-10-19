@@ -9,17 +9,31 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Oct 2026 05:37:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Oct 2026 11:53:15 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 19 Oct 2026 05:37:02 GMT</pubDate>
+        <pubDate>Mon, 19 Oct 2026 11:53:15 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[New Search for Amelia Earhart’s Plane Comes Up Empty]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/ef183cae-7c8e-4448-a510-dd36e1027059/GettyImages-667386714_16x9.jpg" alt="New Search for Amelia Earhart’s Plane Comes Up Empty" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/history/article/amelia-earhart-plane-nikumaroro-taraia-object</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/amelia-earhart-plane-nikumaroro-taraia-object</guid>
-            <pubDate>Mon, 19 Oct 2026 05:37:02 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/ef183cae-7c8e-4448-a510-dd36e1027059/GettyImages-667386714_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[A Beginner’s Guide to Photographing Birds]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/9a8527de-8621-47f7-a89e-e875cd897d51/SPI-1434261_16x9.jpg" alt="A Beginner’s Guide to Photographing Birds" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/animals/article/beginner-bird-photography-tips</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/beginner-bird-photography-tips</guid>
+            <pubDate>Mon, 19 Oct 2026 11:53:15 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/9a8527de-8621-47f7-a89e-e875cd897d51/SPI-1434261_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Do Gorillas Laugh? Grieve? Could They Fight a Hippopotamus?]]></title>
+            <link>https://www.nationalgeographic.com/animals/article/gorillas-gladys-rhoda-kalema-zikusoka-reader-questions</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/gorillas-gladys-rhoda-kalema-zikusoka-reader-questions</guid>
+            <pubDate>Mon, 19 Oct 2026 11:53:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Kid Who Rode Into the Canyonlands and Never Came Back]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/983c2fc2-e12f-49d8-9fd0-226e3d3ca0ba/everett_ruess_NG_16x9.jpg" alt="The Kid Who Rode Into the Canyonlands and Never Came Back" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/everett-ruess-american-west-missing-explorer</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/everett-ruess-american-west-missing-explorer</guid>
+            <pubDate>Mon, 19 Oct 2026 11:53:15 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/983c2fc2-e12f-49d8-9fd0-226e3d3ca0ba/everett_ruess_NG_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
