@@ -9,25 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Oct 2026 17:39:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Oct 2026 12:29:02 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 23 Oct 2026 17:39:55 GMT</pubDate>
+        <pubDate>Sat, 24 Oct 2026 12:29:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Searching the Seabed for Florida’s Ice Age Societies]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/34f9e901-cf42-4f79-b814-3ee87919b76f/GettyImages-1157365028copy_16x9.jpg" alt="Searching the Seabed for Florida’s Ice Age Societies" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/environment/article/mapping-texas-florida-coasts-ancient-american-archaeology</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/mapping-texas-florida-coasts-ancient-american-archaeology</guid>
-            <pubDate>Fri, 23 Oct 2026 17:39:55 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/34f9e901-cf42-4f79-b814-3ee87919b76f/GettyImages-1157365028copy_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[What Julius Caesar Got Wrong About the Gauls]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/4af0d08b-2c67-4cef-95bd-fa5f064a2180/GettyImages-2296126251_16x9.jpg" alt="What Julius Caesar Got Wrong About the Gauls" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/newsletters/article/julius-caesar-ancient-paris-gauls-stones-bones</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/newsletters/article/julius-caesar-ancient-paris-gauls-stones-bones</guid>
-            <pubDate>Fri, 23 Oct 2026 17:39:55 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/4af0d08b-2c67-4cef-95bd-fa5f064a2180/GettyImages-2296126251_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[What to Eat in Málaga, According to a Local Chef]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/9e54f909-8bf8-416d-b1ea-99c147f2d895/tabletalk_16x9.jpg" alt="What to Eat in Málaga, According to a Local Chef" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/what-to-eat-in-malaga-according-to-a-local-chef</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/what-to-eat-in-malaga-according-to-a-local-chef</guid>
+            <pubDate>Sat, 24 Oct 2026 12:29:02 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/9e54f909-8bf8-416d-b1ea-99c147f2d895/tabletalk_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
