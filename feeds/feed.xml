@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 24 Oct 2026 16:24:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Oct 2026 10:33:58 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 24 Oct 2026 16:24:57 GMT</pubDate>
+        <pubDate>Sun, 25 Oct 2026 10:33:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[By Land and Sea—17 European Trips From London]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/26e48c86-6b94-45ce-ae15-f88834a76519/flightfreeeurope_GettyImages-2237478040_HR_16x9.jpg" alt="By Land and Sea—17 European Trips From London" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/european-trips-from-london-by-land-and-sea</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/european-trips-from-london-by-land-and-sea</guid>
-            <pubDate>Sat, 24 Oct 2026 16:24:57 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/26e48c86-6b94-45ce-ae15-f88834a76519/flightfreeeurope_GettyImages-2237478040_HR_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Is This the Most Spectacular Way to See the Serengeti?]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/4f947e0b-2ec6-4223-9f54-80672ada7277/coverstory_GettyImages-1492955109_ukHR_16x9.jpg" alt="Is This the Most Spectacular Way to See the Serengeti?" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/is-this-the-most-spectacular-way-to-see-the-serengeti</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/is-this-the-most-spectacular-way-to-see-the-serengeti</guid>
+            <pubDate>Sun, 25 Oct 2026 10:33:58 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/4f947e0b-2ec6-4223-9f54-80672ada7277/coverstory_GettyImages-1492955109_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
