@@ -9,17 +9,33 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 25 Oct 2026 10:33:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Oct 2026 15:45:07 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 25 Oct 2026 10:33:58 GMT</pubDate>
+        <pubDate>Mon, 26 Oct 2026 15:45:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Is This the Most Spectacular Way to See the Serengeti?]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/4f947e0b-2ec6-4223-9f54-80672ada7277/coverstory_GettyImages-1492955109_ukHR_16x9.jpg" alt="Is This the Most Spectacular Way to See the Serengeti?" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/is-this-the-most-spectacular-way-to-see-the-serengeti</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/is-this-the-most-spectacular-way-to-see-the-serengeti</guid>
-            <pubDate>Sun, 25 Oct 2026 10:33:58 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/4f947e0b-2ec6-4223-9f54-80672ada7277/coverstory_GettyImages-1492955109_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[A Glimpse into the World of the Hittites—in Their Own Words]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/3921acec-1fd5-41ee-87e5-812ac2f214fe/Hittite_Tablet_Illustration_16x9.jpg" alt="A Glimpse into the World of the Hittites—in Their Own Words" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/hittites-cuneiform-tablets-discovery</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/hittites-cuneiform-tablets-discovery</guid>
+            <pubDate>Mon, 26 Oct 2026 15:45:07 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/3921acec-1fd5-41ee-87e5-812ac2f214fe/Hittite_Tablet_Illustration_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Iconic Waldorf Astoria Is Back—Here’s Why You Should Dine There]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/78386c75-aea7-4d73-98d4-4ae42394b75f/waldorf2_16x9.jpg" alt="The Iconic Waldorf Astoria Is Back—Here’s Why You Should Dine There" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/waldorf-astoria-is-back-why-you-should-dine-at-lex-yard</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/waldorf-astoria-is-back-why-you-should-dine-at-lex-yard</guid>
+            <pubDate>Mon, 26 Oct 2026 15:45:07 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/78386c75-aea7-4d73-98d4-4ae42394b75f/waldorf2_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[How Volcanoes Helped Forge America’s Newest National Park]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/13768ace-fb75-4977-952a-76798ba96fd5/RRP76G-2_16x9.jpg" alt="How Volcanoes Helped Forge America’s Newest National Park" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/environment/article/chiricahua-national-park-geology-volcano-ecology</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/chiricahua-national-park-geology-volcano-ecology</guid>
+            <pubDate>Mon, 26 Oct 2026 15:45:07 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/13768ace-fb75-4977-952a-76798ba96fd5/RRP76G-2_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
