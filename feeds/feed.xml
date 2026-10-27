@@ -9,25 +9,33 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Oct 2026 11:28:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 17:17:13 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 27 Oct 2026 11:28:06 GMT</pubDate>
+        <pubDate>Tue, 27 Oct 2026 17:17:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Stopping the Next Great Honeybee Killer—Before it Reaches the U.S.]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/9fc02c89-444e-4c93-bbf7-a29c50147506/SHIN_20250207_Mindanao_006712_16x9.jpg" alt="Stopping the Next Great Honeybee Killer—Before it Reaches the U.S." style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/animals/article/honeybee-parasite-tropilaelaps-mites-pollinator</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/honeybee-parasite-tropilaelaps-mites-pollinator</guid>
-            <pubDate>Tue, 27 Oct 2026 11:28:06 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/9fc02c89-444e-4c93-bbf7-a29c50147506/SHIN_20250207_Mindanao_006712_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[This Southern Spa Town is a Stealth Wellness Superstar]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/94cf2fd8-4cf9-4592-b252-2d4ca22ba345/1_16x9.jpg" alt="This Southern Spa Town is a Stealth Wellness Superstar" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/southern-spa-town-stealth-wellness-superstar-hot-springs</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/southern-spa-town-stealth-wellness-superstar-hot-springs</guid>
+            <pubDate>Tue, 27 Oct 2026 17:17:13 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/94cf2fd8-4cf9-4592-b252-2d4ca22ba345/1_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Can Cannabis Increase Stroke Risk?]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/2d73b0d4-d4f1-4f5c-93f2-bb7fdbf908b8/BZ1207755_20240522_0639_16x9.jpg" alt="Can Cannabis Increase Stroke Risk?" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/health/article/marijuana-cannabis-use-stroke-risk-young-adults</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/health/article/marijuana-cannabis-use-stroke-risk-young-adults</guid>
-            <pubDate>Tue, 27 Oct 2026 11:28:06 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/2d73b0d4-d4f1-4f5c-93f2-bb7fdbf908b8/BZ1207755_20240522_0639_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[See the Silk Road Through the Eyes Of the World's Fastest Snowboarder]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/2f7c02df-8081-4032-ba28-8daed2f75d52/inpics_20260228-D5-AKTash-Kazakhstan-119_ukHR_16x9.jpg" alt="See the Silk Road Through the Eyes Of the World's Fastest Snowboarder" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/see-the-silk-road-through-the-eyes-of-the-worlds-fastest-snowboarder</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/see-the-silk-road-through-the-eyes-of-the-worlds-fastest-snowboarder</guid>
+            <pubDate>Tue, 27 Oct 2026 17:17:13 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/2f7c02df-8081-4032-ba28-8daed2f75d52/inpics_20260228-D5-AKTash-Kazakhstan-119_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Where Wellbeing Comes Naturally]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/a0dd0c63-0ca8-4e23-90ac-2535d966212f/hero-desktop_16x9.jpg" alt="Where Wellbeing Comes Naturally" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/paid-content-where-wellness-comes-naturally/</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/paid-content-where-wellness-comes-naturally/</guid>
+            <pubDate>Tue, 27 Oct 2026 17:17:13 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/a0dd0c63-0ca8-4e23-90ac-2535d966212f/hero-desktop_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
