@@ -9,17 +9,25 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 26 Oct 2026 20:50:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 11:28:06 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 26 Oct 2026 20:50:48 GMT</pubDate>
+        <pubDate>Tue, 27 Oct 2026 11:28:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Paul Theroux's Journey Down Africa’s Mighty Zambezi River]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/86390c14-0446-49be-8126-7f48e43b58a5/SPI-131207_16x9.jpg" alt="Paul Theroux's Journey Down Africa’s Mighty Zambezi River" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/animals/article/africa-zambezi-river-paul-theroux</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/africa-zambezi-river-paul-theroux</guid>
-            <pubDate>Mon, 26 Oct 2026 20:50:48 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/86390c14-0446-49be-8126-7f48e43b58a5/SPI-131207_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Stopping the Next Great Honeybee Killer—Before it Reaches the U.S.]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/9fc02c89-444e-4c93-bbf7-a29c50147506/SHIN_20250207_Mindanao_006712_16x9.jpg" alt="Stopping the Next Great Honeybee Killer—Before it Reaches the U.S." style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/animals/article/honeybee-parasite-tropilaelaps-mites-pollinator</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/honeybee-parasite-tropilaelaps-mites-pollinator</guid>
+            <pubDate>Tue, 27 Oct 2026 11:28:06 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/9fc02c89-444e-4c93-bbf7-a29c50147506/SHIN_20250207_Mindanao_006712_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Can Cannabis Increase Stroke Risk?]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/2d73b0d4-d4f1-4f5c-93f2-bb7fdbf908b8/BZ1207755_20240522_0639_16x9.jpg" alt="Can Cannabis Increase Stroke Risk?" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/health/article/marijuana-cannabis-use-stroke-risk-young-adults</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/health/article/marijuana-cannabis-use-stroke-risk-young-adults</guid>
+            <pubDate>Tue, 27 Oct 2026 11:28:06 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/2d73b0d4-d4f1-4f5c-93f2-bb7fdbf908b8/BZ1207755_20240522_0639_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
