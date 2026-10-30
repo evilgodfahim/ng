@@ -9,17 +9,49 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 Oct 2026 09:28:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Oct 2026 16:28:05 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 30 Oct 2026 09:28:57 GMT</pubDate>
+        <pubDate>Fri, 30 Oct 2026 16:28:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Explore the U.K.’s Most Haunted Destinations]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/8f95c59f-5d19-429e-95a3-13058da3b395/haunted1_16x9.jpeg" alt="Explore the U.K.’s Most Haunted Destinations" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/how-to-explore-uk-most-haunted-destinations</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/how-to-explore-uk-most-haunted-destinations</guid>
-            <pubDate>Fri, 30 Oct 2026 09:28:57 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/8f95c59f-5d19-429e-95a3-13058da3b395/haunted1_16x9.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Is This Where Aristotle Taught Alexander the Great?]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/4b4f7ab9-55da-4ee0-ab9a-ab56512fbeb5/Main_1_BAL_459590_16x9.JPG" alt="Is This Where Aristotle Taught Alexander the Great?" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/newsletters/article/aristotle-gymnasium-alexander-the-great-stones-and-bones</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/newsletters/article/aristotle-gymnasium-alexander-the-great-stones-and-bones</guid>
+            <pubDate>Fri, 30 Oct 2026 16:28:05 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/4b4f7ab9-55da-4ee0-ab9a-ab56512fbeb5/Main_1_BAL_459590_16x9.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Private Islands off Madagascar Creating a Future for Endangered Lemurs]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/427105ab-ac6a-407c-a6cb-0e2d97ff025d/mad11_16x9.jpg" alt="The Private Islands off Madagascar Creating a Future for Endangered Lemurs" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/conservation-of-endangered-lemurs-on-private-islands-off-madagascar</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/conservation-of-endangered-lemurs-on-private-islands-off-madagascar</guid>
+            <pubDate>Fri, 30 Oct 2026 16:28:05 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/427105ab-ac6a-407c-a6cb-0e2d97ff025d/mad11_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why Your Next Trip Itinerary Should Include a Cemetery]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/dc24a80d-5883-4a7b-923c-ca55b896dd2b/shutterstock_2424630883_16x9.jpg" alt="Why Your Next Trip Itinerary Should Include a Cemetery" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/why-your-next-trip-intinerary-should-include-a-cemetery</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/why-your-next-trip-intinerary-should-include-a-cemetery</guid>
+            <pubDate>Fri, 30 Oct 2026 16:28:05 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/dc24a80d-5883-4a7b-923c-ca55b896dd2b/shutterstock_2424630883_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Scientists May Have Found a 7th Type of Depression]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/f181ef88-bbf7-4ec5-844a-5cf108ddf3a4/Photo_Illo_V4_16x9.jpg" alt="Scientists May Have Found a 7th Type of Depression" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/health/article/new-depression-subtype-circadian-rhythm-body-clock</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/health/article/new-depression-subtype-circadian-rhythm-body-clock</guid>
+            <pubDate>Fri, 30 Oct 2026 16:28:05 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/f181ef88-bbf7-4ec5-844a-5cf108ddf3a4/Photo_Illo_V4_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[How Often Do ‘Zombie’ Stars Eat Their Own Planets?]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/5da2ddcf-c08a-47d6-8cba-3638c6a13b6c/ZombieStarHR_16x9.jpg" alt="How Often Do ‘Zombie’ Stars Eat Their Own Planets?" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/science/article/first-green-star-white-dwarf-planet-destruction</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/first-green-star-white-dwarf-planet-destruction</guid>
+            <pubDate>Fri, 30 Oct 2026 16:28:05 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/5da2ddcf-c08a-47d6-8cba-3638c6a13b6c/ZombieStarHR_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
