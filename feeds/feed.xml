@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 Oct 2026 21:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Oct 2026 14:13:31 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 30 Oct 2026 21:19:31 GMT</pubDate>
+        <pubDate>Sat, 31 Oct 2026 14:13:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Where to Hear the Eerie Call of Ireland’s Banshees]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/572cbb8b-1fec-4ce4-843c-80a23dd04165/3EJBXR1_16x9.jpg" alt="Where to Hear the Eerie Call of Ireland’s Banshees" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/the-tortured-tales-of-irelands-wailing-wraiths</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/the-tortured-tales-of-irelands-wailing-wraiths</guid>
-            <pubDate>Fri, 30 Oct 2026 21:19:31 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/572cbb8b-1fec-4ce4-843c-80a23dd04165/3EJBXR1_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Inside Hollywood's Magic Castle—The World's Most Exclusive Home of Magic]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/99ba3137-4d6a-4cdc-80d5-3677cca3df75/magic4_16x9.jpg" alt="Inside Hollywood's Magic Castle—The World's Most Exclusive Home of Magic" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/inside-hollywoods-magic-castle-exclusive</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/inside-hollywoods-magic-castle-exclusive</guid>
+            <pubDate>Sat, 31 Oct 2026 14:13:31 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/99ba3137-4d6a-4cdc-80d5-3677cca3df75/magic4_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
