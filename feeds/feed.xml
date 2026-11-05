@@ -9,17 +9,41 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Nov 2026 11:47:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Nov 2026 19:23:05 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 05 Nov 2026 11:47:17 GMT</pubDate>
+        <pubDate>Thu, 05 Nov 2026 19:23:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[TV Historian Bettany Hughes on the Silk Road and Greek Epics]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/b963634b-5420-43e8-b7ea-ad5d7e10c589/ET_My_Travels_DSC01225_HR_16x9.jpg" alt="TV Historian Bettany Hughes on the Silk Road and Greek Epics" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/tv-historian-bettany-hughes-on-the-silk-road-and-greek-epics</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/tv-historian-bettany-hughes-on-the-silk-road-and-greek-epics</guid>
-            <pubDate>Thu, 05 Nov 2026 11:47:17 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/b963634b-5420-43e8-b7ea-ad5d7e10c589/ET_My_Travels_DSC01225_HR_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[The Teeth That Changed the Story of Human Evolution]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/512d3882-4477-4ebc-9bd5-5a25268b18e7/SPI-505776_16x9.jpg" alt="The Teeth That Changed the Story of Human Evolution" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/teeth-hominid-discovery-meave-leakey</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/teeth-hominid-discovery-meave-leakey</guid>
+            <pubDate>Thu, 05 Nov 2026 19:23:05 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/512d3882-4477-4ebc-9bd5-5a25268b18e7/SPI-505776_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Case for Buying Kefir Over Yogurt]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/8ecc88f3-6b7d-49cc-a3a0-82f26d7a04af/MM10664_20260914_381_V6_16x9.jpg" alt="The Case for Buying Kefir Over Yogurt" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/health/article/kefir-gut-microbiome-health-benefits</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/health/article/kefir-gut-microbiome-health-benefits</guid>
+            <pubDate>Thu, 05 Nov 2026 19:23:05 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/8ecc88f3-6b7d-49cc-a3a0-82f26d7a04af/MM10664_20260914_381_V6_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Scientists Uncover a Trove of Ice Age Bones in Tar Pit]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/3f17a85f-e56a-406f-aa95-c6637a7652fc/Direwolffemur4_16x9.jpg" alt="Scientists Uncover a Trove of Ice Age Bones in Tar Pit" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/science/article/peru-tar-pit-bonanza</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/peru-tar-pit-bonanza</guid>
+            <pubDate>Thu, 05 Nov 2026 19:23:05 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/3f17a85f-e56a-406f-aa95-c6637a7652fc/Direwolffemur4_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[These Shooting Stars Can Outshine Venus. Here’s When to See Them.]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/b921c3e1-7742-4589-9440-66a700cec58e/2_SPI-2475320_16x9.jpg" alt="These Shooting Stars Can Outshine Venus. Here’s When to See Them." style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/science/article/taurid-meteor-shower-fireballs-when-to-watch</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/taurid-meteor-shower-fireballs-when-to-watch</guid>
+            <pubDate>Thu, 05 Nov 2026 19:23:05 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/b921c3e1-7742-4589-9440-66a700cec58e/2_SPI-2475320_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
