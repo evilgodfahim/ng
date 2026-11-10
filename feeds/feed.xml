@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Nov 2026 02:29:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Nov 2026 10:41:42 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 10 Nov 2026 02:29:47 GMT</pubDate>
+        <pubDate>Tue, 10 Nov 2026 10:41:42 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Newly Discovered Monkey Pops Up in Camera Trap Footage]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/98116e30-da5a-4104-901b-9fdd65c3cf8d/REconecta_AltaFloresta_Amatogrossensis_16x9.JPG" alt="Newly Discovered Monkey Pops Up in Camera Trap Footage" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/animals/article/new-monkey-species-discovered</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/animals/article/new-monkey-species-discovered</guid>
-            <pubDate>Tue, 10 Nov 2026 02:29:47 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/98116e30-da5a-4104-901b-9fdd65c3cf8d/REconecta_AltaFloresta_Amatogrossensis_16x9.JPG" length="0" type="image/jpeg"/>
+            <title><![CDATA[Where to Ski in Austria This Season]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/a686d30e-0485-4309-835b-7f62bbfca297/austria_16x9.png" alt="Where to Ski in Austria This Season" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/best-places-to-ski-in-austria</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/best-places-to-ski-in-austria</guid>
+            <pubDate>Tue, 10 Nov 2026 10:41:42 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/a686d30e-0485-4309-835b-7f62bbfca297/austria_16x9.png" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
