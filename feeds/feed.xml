@@ -9,25 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Nov 2026 19:57:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Nov 2026 09:07:44 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 11 Nov 2026 19:57:52 GMT</pubDate>
+        <pubDate>Thu, 12 Nov 2026 09:07:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Innovation Takes Flight]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/3bd6610e-b355-4df7-bc76-257dadd9d0bb/a4bb0064-2006-4e8b-925a-12c4fdca6e7e_16x9.jpg" alt="Innovation Takes Flight" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/science/article/paid-content-innovation-takes-flight</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/paid-content-innovation-takes-flight</guid>
-            <pubDate>Wed, 11 Nov 2026 19:57:52 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/3bd6610e-b355-4df7-bc76-257dadd9d0bb/a4bb0064-2006-4e8b-925a-12c4fdca6e7e_16x9.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[SEE GIFT OPTIONS]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/ff732d32-e2ce-4bea-bcd8-915d9cd99785/NGMALLTITLES17921static300X400_16x9.jpg" alt="SEE GIFT OPTIONS" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/subscribe/topic/give-a-gift?cmpid=int_org=ngp::int_src=ngp::int_cmp=holiday-2026::int_add=alltitles-twinkletrees-topnav</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/subscribe/topic/give-a-gift?cmpid=int_org=ngp::int_src=ngp::int_cmp=holiday-2026::int_add=alltitles-twinkletrees-topnav</guid>
-            <pubDate>Wed, 11 Nov 2026 19:57:52 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/ff732d32-e2ce-4bea-bcd8-915d9cd99785/NGMALLTITLES17921static300X400_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[5 Alpine Rail-to-Piste Routes to Try This Winter]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/dceb23d4-9049-4276-9cd5-246e04d6a5ba/whatsnewtrains_GettyImages-924877266_ukHR_16x9.jpg" alt="5 Alpine Rail-to-Piste Routes to Try This Winter" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/take-the-train-to-ski-best-alpine-rail-to-piste-routes-this-winter</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/take-the-train-to-ski-best-alpine-rail-to-piste-routes-this-winter</guid>
+            <pubDate>Thu, 12 Nov 2026 09:07:44 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/dceb23d4-9049-4276-9cd5-246e04d6a5ba/whatsnewtrains_GettyImages-924877266_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
