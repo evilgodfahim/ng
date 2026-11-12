@@ -9,17 +9,33 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Nov 2026 09:07:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Nov 2026 17:51:31 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 12 Nov 2026 09:07:44 GMT</pubDate>
+        <pubDate>Thu, 12 Nov 2026 17:51:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[5 Alpine Rail-to-Piste Routes to Try This Winter]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/dceb23d4-9049-4276-9cd5-246e04d6a5ba/whatsnewtrains_GettyImages-924877266_ukHR_16x9.jpg" alt="5 Alpine Rail-to-Piste Routes to Try This Winter" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/take-the-train-to-ski-best-alpine-rail-to-piste-routes-this-winter</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/take-the-train-to-ski-best-alpine-rail-to-piste-routes-this-winter</guid>
-            <pubDate>Thu, 12 Nov 2026 09:07:44 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/dceb23d4-9049-4276-9cd5-246e04d6a5ba/whatsnewtrains_GettyImages-924877266_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Scientists Discover a Neuron That May Play a Role in Schizophrenia]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/8f0c61f4-467a-4eba-b53a-430226f451af/C0388673-Human_brain_axial_MRI_scancopy_16x9.jpg" alt="Scientists Discover a Neuron That May Play a Role in Schizophrenia" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/science/article/brain-cell-map-basal-ganglia-neuron-schizophrenia</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/brain-cell-map-basal-ganglia-neuron-schizophrenia</guid>
+            <pubDate>Thu, 12 Nov 2026 17:51:31 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/8f0c61f4-467a-4eba-b53a-430226f451af/C0388673-Human_brain_axial_MRI_scancopy_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Scientists Detect Microplastics in Brazil’s Most Remote Wildlife]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/679def84-87d5-4177-ad25-8db58239476e/VICTORSANCHEScopy_16x9.jpg" alt="Scientists Detect Microplastics in Brazil’s Most Remote Wildlife" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/environment/article/microplastic-brazilian-pantanal-wildlife-anteaters-tapirs</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/environment/article/microplastic-brazilian-pantanal-wildlife-anteaters-tapirs</guid>
+            <pubDate>Thu, 12 Nov 2026 17:51:31 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/679def84-87d5-4177-ad25-8db58239476e/VICTORSANCHEScopy_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Look for This Colorful, Twinkling Star in the Night Sky This Fall]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/3801d526-850f-4e69-ab75-393e888388b3/SPI-2667403_16x9.jpg" alt="Look for This Colorful, Twinkling Star in the Night Sky This Fall" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/science/article/why-capella-star-twinkles-different-colors</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/why-capella-star-twinkles-different-colors</guid>
+            <pubDate>Thu, 12 Nov 2026 17:51:31 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/3801d526-850f-4e69-ab75-393e888388b3/SPI-2667403_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
