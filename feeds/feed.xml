@@ -9,17 +9,57 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Nov 2026 10:01:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Nov 2026 19:31:21 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 17 Nov 2026 10:01:13 GMT</pubDate>
+        <pubDate>Tue, 17 Nov 2026 19:31:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[6 of the Most Exclusive Experiences to Book in Luxury Travel]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/fefb115a-8707-475b-9b1b-52bdeb77882f/exclusiveaccess_TRS-FOOD-041224-23_ukHR_16x9.jpg" alt="6 of the Most Exclusive Experiences to Book in Luxury Travel" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/the-most-exclusive-experiences-to-book-in-luxury-travel</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/the-most-exclusive-experiences-to-book-in-luxury-travel</guid>
-            <pubDate>Tue, 17 Nov 2026 10:01:13 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/fefb115a-8707-475b-9b1b-52bdeb77882f/exclusiveaccess_TRS-FOOD-041224-23_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[How Truffle Seaweed Became Nordic Cuisine’s Most Coveted Ingredient]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/6a77e3cc-e562-446b-be71-d86cb48a1c4d/norway_MaxEmanuelson__DSC10631_ukHR_16x9.jpg" alt="How Truffle Seaweed Became Nordic Cuisine’s Most Coveted Ingredient" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/how-truffle-seaweed-became-nordic-cuisines-most-coveted-ingredient</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/how-truffle-seaweed-became-nordic-cuisines-most-coveted-ingredient</guid>
+            <pubDate>Tue, 17 Nov 2026 19:31:21 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/6a77e3cc-e562-446b-be71-d86cb48a1c4d/norway_MaxEmanuelson__DSC10631_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nat Geo's Most Compelling Images of the 21st Century (So Far)]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/b70a3ab5-7d3b-4f27-b342-53de47a7a9b2/21st_century_photo_grid_lores_16x9.jpg" alt="Nat Geo's Most Compelling Images of the 21st Century (So Far)" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/photography/article/compelling-images-of-the-21st-century</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/photography/article/compelling-images-of-the-21st-century</guid>
+            <pubDate>Tue, 17 Nov 2026 19:31:21 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/b70a3ab5-7d3b-4f27-b342-53de47a7a9b2/21st_century_photo_grid_lores_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[How a Self-Taught Photographer Took This Stunning Wildlife Shot]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/6121bd48-c87b-4434-8875-2dbd4b089ac3/STOCK_MD1226_OW_Yourshot2026_Jawfish_16x9.jpg" alt="How a Self-Taught Photographer Took This Stunning Wildlife Shot" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/photography/article/your-shot-winner-2026</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/photography/article/your-shot-winner-2026</guid>
+            <pubDate>Tue, 17 Nov 2026 19:31:21 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/6121bd48-c87b-4434-8875-2dbd4b089ac3/STOCK_MD1226_OW_Yourshot2026_Jawfish_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[2026: Pictures of the Year]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/e3b6f2f0-13e5-44bf-b6b4-ea0efc2fee51/PFA-115944S-25_250922_2025-Kagoshima-4112_16x9.jpg" alt="2026: Pictures of the Year" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/photography/graphics/pictures-of-the-year-2026</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/photography/graphics/pictures-of-the-year-2026</guid>
+            <pubDate>Tue, 17 Nov 2026 19:31:21 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/e3b6f2f0-13e5-44bf-b6b4-ea0efc2fee51/PFA-115944S-25_250922_2025-Kagoshima-4112_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Stories Behind the Best Photographs of 2026]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/5abd7315-ea77-4e0e-99ef-f7aa6ef5fec9/BTS-thumbnail_16x9.jpg" alt="The Stories Behind the Best Photographs of 2026" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/photography/graphics/behind-the-scenes-pictures-of-the-year-2026</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/photography/graphics/behind-the-scenes-pictures-of-the-year-2026</guid>
+            <pubDate>Tue, 17 Nov 2026 19:31:21 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/5abd7315-ea77-4e0e-99ef-f7aa6ef5fec9/BTS-thumbnail_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why Photography Matters Now More Than Ever]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/2753f9e5-9321-4552-86c2-ce2b92172681/SPI-11960_16x9.jpg" alt="Why Photography Matters Now More Than Ever" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/photography/graphics/power-of-photography</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/photography/graphics/power-of-photography</guid>
+            <pubDate>Tue, 17 Nov 2026 19:31:21 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/2753f9e5-9321-4552-86c2-ce2b92172681/SPI-11960_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
