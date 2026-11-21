@@ -9,17 +9,25 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Nov 2026 22:55:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Nov 2026 18:58:50 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 20 Nov 2026 22:55:48 GMT</pubDate>
+        <pubDate>Sat, 21 Nov 2026 18:58:50 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[A New Discovery Could Finally Make It Possible to Diagnose CTE]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/b66f3614-ad2d-4924-96dd-d2a1fe8b50cb/CTE_Brain_Illo_V6_16x9.jpg" alt="A New Discovery Could Finally Make It Possible to Diagnose CTE" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/health/article/cte-blood-test-diagnosis-brain-disease</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/health/article/cte-blood-test-diagnosis-brain-disease</guid>
-            <pubDate>Fri, 20 Nov 2026 22:55:48 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/b66f3614-ad2d-4924-96dd-d2a1fe8b50cb/CTE_Brain_Illo_V6_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[It's Summertime in Sydney—Here's How Locals Are Enjoying It]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/0791329b-c308-4213-aec5-50ef94bac9e8/TE_whenin_Heaps_Normal_Launch_2-credit-YeahRad.jpg_ukHR_16x9.jpg" alt="It's Summertime in Sydney—Here's How Locals Are Enjoying It" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/what-to-do-in-sydney-during-summer-months</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/what-to-do-in-sydney-during-summer-months</guid>
+            <pubDate>Sat, 21 Nov 2026 18:58:50 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/0791329b-c308-4213-aec5-50ef94bac9e8/TE_whenin_Heaps_Normal_Launch_2-credit-YeahRad.jpg_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ski the French Pyrenees for a Wild Backcountry Adventure]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/04e69f50-3c65-4586-844e-254712c8d7b0/frenchpyrenees_NatGeo-HighRes_ukHR_16x9.jpg" alt="Ski the French Pyrenees for a Wild Backcountry Adventure" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/ski-the-french-pyrenees-for-a-wild-backcountry-adventure</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/ski-the-french-pyrenees-for-a-wild-backcountry-adventure</guid>
+            <pubDate>Sat, 21 Nov 2026 18:58:50 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/04e69f50-3c65-4586-844e-254712c8d7b0/frenchpyrenees_NatGeo-HighRes_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
