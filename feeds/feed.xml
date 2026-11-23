@@ -9,17 +9,33 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Nov 2026 10:10:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2026 22:24:44 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 23 Nov 2026 10:10:34 GMT</pubDate>
+        <pubDate>Mon, 23 Nov 2026 22:24:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Explosive Volcanic Eruption Just Discovered in Oceanic Trench]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/8cf5dad7-19db-4d7b-834e-c816edc20f3b/sulis_20241201034642_16x9.jpg" alt="Explosive Volcanic Eruption Just Discovered in Oceanic Trench" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/science/article/challenger-deep-explosive-volcanic-eruption-discovery</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/challenger-deep-explosive-volcanic-eruption-discovery</guid>
-            <pubDate>Mon, 23 Nov 2026 10:10:34 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/8cf5dad7-19db-4d7b-834e-c816edc20f3b/sulis_20241201034642_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[The Twisted History of Barbed Wire]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/9d710294-650b-4a94-b224-88b9707b7cbd/GettyImages-92327442_16x9.png" alt="The Twisted History of Barbed Wire" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/history/article/the-twisted-history-of-barbed-wire</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/history/article/the-twisted-history-of-barbed-wire</guid>
+            <pubDate>Mon, 23 Nov 2026 22:24:44 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/9d710294-650b-4a94-b224-88b9707b7cbd/GettyImages-92327442_16x9.png" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[On This Indonesian Island, the Dead Are Never Truly Gone]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/4514e2a9-f351-420f-b9d9-cd9053d9f48a/sulawesi_AN200749_ukHR_16x9.jpg" alt="On This Indonesian Island, the Dead Are Never Truly Gone" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/ancient-funerary-customs-in-toraja-sulawesi-indonesia</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/ancient-funerary-customs-in-toraja-sulawesi-indonesia</guid>
+            <pubDate>Mon, 23 Nov 2026 22:24:44 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/4514e2a9-f351-420f-b9d9-cd9053d9f48a/sulawesi_AN200749_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[This Little-Known Form of Dementia Can Mimic Alzheimer's Disease]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/3e83a950-583e-49a4-a6a4-65bba98197e6/GettyImages-2237386892copy_16x9.jpg" alt="This Little-Known Form of Dementia Can Mimic Alzheimer's Disease" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/health/article/late-dementia-alzheimers-symptoms-differences</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/health/article/late-dementia-alzheimers-symptoms-differences</guid>
+            <pubDate>Mon, 23 Nov 2026 22:24:44 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/3e83a950-583e-49a4-a6a4-65bba98197e6/GettyImages-2237386892copy_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
