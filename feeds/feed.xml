@@ -9,17 +9,17 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Nov 2026 20:16:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2026 10:10:34 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 22 Nov 2026 20:16:47 GMT</pubDate>
+        <pubDate>Mon, 23 Nov 2026 10:10:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[9 of the Best Hotels in Singapore]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/7438d557-f444-4662-a6ed-b62248ad3038/TG_wheretostay_116_SWIMMING_POOL_CABANAS_ukHR_16x9.jpg" alt="9 of the Best Hotels in Singapore" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/best-hotels-in-singapore-where-to-stay</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/best-hotels-in-singapore-where-to-stay</guid>
-            <pubDate>Sun, 22 Nov 2026 20:16:47 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/7438d557-f444-4662-a6ed-b62248ad3038/TG_wheretostay_116_SWIMMING_POOL_CABANAS_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Explosive Volcanic Eruption Just Discovered in Oceanic Trench]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/8cf5dad7-19db-4d7b-834e-c816edc20f3b/sulis_20241201034642_16x9.jpg" alt="Explosive Volcanic Eruption Just Discovered in Oceanic Trench" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/science/article/challenger-deep-explosive-volcanic-eruption-discovery</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/science/article/challenger-deep-explosive-volcanic-eruption-discovery</guid>
+            <pubDate>Mon, 23 Nov 2026 10:10:34 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/8cf5dad7-19db-4d7b-834e-c816edc20f3b/sulis_20241201034642_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
