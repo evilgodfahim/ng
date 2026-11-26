@@ -9,17 +9,25 @@
             <link>https://www.nationalgeographic.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Nov 2026 03:54:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Nov 2026 13:29:02 GMT</lastBuildDate>
         <atom:link href="https://www.nationalgeographic.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 26 Nov 2026 03:54:12 GMT</pubDate>
+        <pubDate>Thu, 26 Nov 2026 13:29:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Why You Should Visit Gauja National Park]]></title>
-            <description><![CDATA[<img src="https://i.natgeofe.com/n/97df906a-6a7a-4d08-8499-290f83cd3e0b/Gaujavalley_16x9.jpg" alt="Why You Should Visit Gauja National Park" style="max-width:100%;"/>]]></description>
-            <link>https://www.nationalgeographic.com/travel/article/paid-content-gauja-national-park-guide</link>
-            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/paid-content-gauja-national-park-guide</guid>
-            <pubDate>Thu, 26 Nov 2026 03:54:12 GMT</pubDate>
-            <enclosure url="https://i.natgeofe.com/n/97df906a-6a7a-4d08-8499-290f83cd3e0b/Gaujavalley_16x9.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Ski Between Repurposed Customs Posts Along the Swiss-French Border]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/ec0b2448-e92b-4b6f-a5e7-d8ab2ab7e5ef/customhouses_anciennedouanemorgins-hiver_1_AgenceimmobiliereMaytain_ukHR_16x9.jpg" alt="Ski Between Repurposed Customs Posts Along the Swiss-French Border" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/ski-between-repurposed-customs-posts-along-the-swiss-french-border</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/ski-between-repurposed-customs-posts-along-the-swiss-french-border</guid>
+            <pubDate>Thu, 26 Nov 2026 13:29:02 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/ec0b2448-e92b-4b6f-a5e7-d8ab2ab7e5ef/customhouses_anciennedouanemorgins-hiver_1_AgenceimmobiliereMaytain_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[How to Ski 4 U.S. States in 10 Days on a Rockies Road Trip]]></title>
+            <description><![CDATA[<img src="https://i.natgeofe.com/n/6261dcbb-96df-4416-8d74-41ee80bef2bf/roadtrip_B40DXT_ukHR_16x9.jpg" alt="How to Ski 4 U.S. States in 10 Days on a Rockies Road Trip" style="max-width:100%;"/>]]></description>
+            <link>https://www.nationalgeographic.com/travel/article/ski-4-states-in-10-days-on-a-rockies-road-trip-sundance-jackson-hole-big-sky</link>
+            <guid isPermaLink="true">https://www.nationalgeographic.com/travel/article/ski-4-states-in-10-days-on-a-rockies-road-trip-sundance-jackson-hole-big-sky</guid>
+            <pubDate>Thu, 26 Nov 2026 13:29:02 GMT</pubDate>
+            <enclosure url="https://i.natgeofe.com/n/6261dcbb-96df-4416-8d74-41ee80bef2bf/roadtrip_B40DXT_ukHR_16x9.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
